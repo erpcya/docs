@@ -7,7 +7,7 @@ sticky: 9
 tag:
   - Actualizaciones
   - Versiones
-  - rs-49.x
+  - rs-48.x
 article: false
 ---
 

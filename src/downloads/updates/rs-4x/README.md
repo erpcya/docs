@@ -10,7 +10,7 @@ tag:
 article: false
 ---
 
-Todas nuestras imágenes se encuentran etiquetadas con un tag específico para poder mantener muchas versiones sin afectar la operatividad de cada cliente, constantemente hacemos cambios en las aplicaciones con la finalidad de mejorar con el tiempo. Nuestra frecuencia de actualizaciones es semanal. 
+Todas nuestras imágenes se encuentran etiquetadas con un tag específico para poder mantener muchas versiones sin afectar la operatividad de cada cliente, constantemente hacemos cambios en las aplicaciones con la finalidad de mejorar con el tiempo. Nuestra frecuencia de actualizaciones es semanal.
 
 ## Versiones Oficiales
 
