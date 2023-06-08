@@ -21,6 +21,13 @@ Todas las versiones oficiales de [ERPyA](https://erpya.com/) se encuentran a con
 
 A continuación se encuentra una lista de cada **macro versión**, tómate tu tiempo para ver cada una de ellas si lo deseas.
 
-- [rs-5.x](rs-5.x/)
-- [rs-4.x](rs-4.x/)
-- [rs-3.x](rs-3.x/)
+- [rs-39.x](rs-39.x/)
+- [rs-38.x](rs-38.x/)
+- [rs-37.x](rs-37.x/)
+- [rs-36.x](rs-36.x/)
+- [rs-35.x](rs-35.x/)
+- [rs-34.x](rs-34.x/)
+- [rs-33.x](rs-33.x/)
+- [rs-32.x](rs-32.x/)
+- [rs-31.x](rs-31.x/)
+- [rs-30.x](rs-30.x/)
