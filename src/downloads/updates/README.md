@@ -24,3 +24,5 @@ A continuación se encuentra una lista de cada **macro versión**, tómate tu ti
 - [rs-5.x](rs-5.x/)
 - [rs-4.x](rs-4.x/)
 - [rs-3.x](rs-3.x/)
+- [rs-2.x](rs-2.x/)
+- [rs-1.x](rs-1.x/)
