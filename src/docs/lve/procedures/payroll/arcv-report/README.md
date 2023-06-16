@@ -10,7 +10,6 @@ tag:
   - Gestión de Nóminas
 article: false
 ---
-
 **Generar Reporte de ARCV en ADempiere**
 ========================================
 
