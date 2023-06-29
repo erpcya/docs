@@ -1,3 +1,14 @@
+---
+title: Contrato de Soporte y Mantenimiento de Software
+category: Condiciones Generales
+star: 9
+sticky: 9
+tag:
+  - Servicios
+  - Producto
+
+article: false
+---
 ## Contrato de Soporte y Mantenimiento de Software
 
 Entre E.R.P Consultores y Asociados, C.A., RIF J-40078831-5, con domicilio en Av. Municipalidad con Troncal 5 CC Buenaventura, Centro Empresarial Oficina M6, Araure, Estado Portuguesa. Venezuela. Y

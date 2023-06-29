@@ -10,7 +10,7 @@ tag:
 article: false
 ---
 
-![Logo](/assets/img/docs/product/assets/erp_h.png)
+![Logo](/assets/img/about/erp_h.png)
 
 El presente documento contiene la definición detallada de todos los entregables desarrollados por ERP Consultores y Asociados, C.A al momento de implementar una de sus soluciones en clientes así como los productos y servicios que se ofrecen adicional a lo convenido con el cliente. Usted se encuentra en completa libertad de leer este documento para conocer de manera detallada cada uno de los procesos, el alcance y lo que ERP Consultores y Asociados, C.A entregará al cliente.
 
@@ -18,7 +18,7 @@ El presente documento contiene la definición detallada de todos los entregables
 
 Son adecuaciones específicas para un ramo o tipo de negocio, las mismas proveen las herramientas necesarias para poder operar de manera confiable y facil en el ambiente solicitado.
 
-- [Retail](docs/verticals/)
+- [Retail](docs/verticals/retail.md)
 - [Servicio](docs/verticals/service.md)
 
 ## Productos
@@ -86,8 +86,8 @@ Cada paquete de servicio es un pequeño proceso medible y finito dentro de las a
 
 ## Condiciones Generales
 
-- [Condiciones Generales](docs/conditions.md)
-- [Contrato de Soporte](docs/agreement-support.md)
+- [Condiciones Generales](conditions.md)
+- [Contrato de Soporte](agreement-support.md)
 
 ## Requerimientos para instalar un entorno productivo para el uso de Adempiere bajo Kubernetes
 

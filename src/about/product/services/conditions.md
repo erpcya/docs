@@ -1,3 +1,14 @@
+---
+title: Condiciones Generales
+category: Producto
+star: 9
+sticky: 9
+tag:
+  - Servicios
+  - Producto
+
+article: false
+---
 ## Condiciones Generales
 
 - La presente propuesta está basada en nuestro mejor estimado en tiempo y materiales, considerando la experiencia en proyectos similares.
