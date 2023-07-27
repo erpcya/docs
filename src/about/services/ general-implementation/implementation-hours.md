@@ -13,7 +13,7 @@ article: false
 ## Horas de Implementación 
 
 | <b>Proceso de Negocio</b>       | <b>Proceso de Negocio</b>       | <b>Implementación</b> | <b>Acompañamiento</b> | <b>Total</b> |
-|--------------------------|--------------------------|----------------|----------------|-------:|
+|--------------------------|--------------------------|----------------:|----------------:|-------:|
 |         | <li>Compras</li>                 | 9              | 4              |       |
 |                          | <li>Cuentas por Pagar</li>      | 9              | 4              |       |
 |                          | <li>Tributos</li>               | 9              | 4              |       |
