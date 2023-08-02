@@ -20,7 +20,7 @@ El reporte de vacaciones lo utilizamos cuando queremos visualizar unicamente los
 Entre las asignaciones que se pueden visualizar en el reporte de vacaciones se encuentran:
 
 |           **ASIGNACIONES**                    |             **REFERENCIA**                    |
-|===============================================|===============================================|
+|-----------------------------------------------|-----------------------------------------------|
 | Asignación Disfrute de Vacaciones             | Resulta de la multiplicación del total de días que le corresponden al empleado por concepto de disfrute de las vacaciones por el salario promedio diario de sus vacaciones |
 | Asignación Bono Vacacional                    | Resulta de la multiplicación del total de días que le corresponden al empleado por concepto de bono vacacional por el salario promedio diario de sus vacaciones |
 | Asignación Días de Descanso                   | Resulta de la multiplicación de los Días en Descanso durante el periodo vacacional por el salario promedio diario de vacaciones |
@@ -31,7 +31,7 @@ Entre las asignaciones que se pueden visualizar en el reporte de vacaciones se e
 - Entre las deducciones que se pueden visualizar en el reporte de vacaciones se encuentran:
 
 |           **DEDUCCIONES**                     |             **REFERENCIA**                    |
-|===============================================|===============================================|
+|-----------------------------------------------|-----------------------------------------------|
 | Deducción S.S.O.                              | Representa la cantidad a retener al empleado para el pago del S.S.O. Obligatorio |
 | Deducción R.P.E.                              | Representa la cantidad a retener al empleado para el pago del R.P.E. |
 | Deducción F.A.O.V                             | Representa la cantidad a retener al empleado para el pago del BANAVIH |
@@ -46,7 +46,7 @@ Entre las asignaciones que se pueden visualizar en el reporte de vacaciones se e
 - Entre los datos personales que usted puede visualizar en el encabezado de su recibo de pago de vacaciones se encuentran los siguientes:
 
 |       **DATOS PERSONALES**                    |             **REFERENCIA**                    |
-|===============================================|===============================================|
+|-----------------------------------------------|-----------------------------------------------|
 |  Nombre de la Compañía                        | Corresponde al nombre de la compañía          |
 |  Fecha Contable                               | Es la Fecha que registró en su proceso de nómina |
 |  Nombre del Proceso de Nómina                 | Será el nombre que registró en su proceso de nómina |
@@ -62,7 +62,7 @@ Entre las asignaciones que se pueden visualizar en el reporte de vacaciones se e
 - Adicionalmente dentro de los Conceptos encontrará datos como:
 
 |       **DATOS ADICIONALES**                   |             **REFERENCIA**                    |
-|===============================================|===============================================|
+|-----------------------------------------------|-----------------------------------------------|
 |  Fecha de Inicio de Vacaciones                | Corresponde a la fecha registrada por el cliente donde indica la fecha de salida de las vacaciones del empleado |
 |  Fecha de Culminación de Vacaciones           | Corresponde a la fecha de culminación del periodo de las vacaciones del empleado |
 |  Fecha de Reintegro de Vacaciones             | Corresponde a la fecha de reintegro del empleado |
@@ -81,7 +81,7 @@ Imagen 1. Recibo de Pago
     Los campos podrá visualizar en este reporte son:
 
 |          **PARÁMETROS**                       |             **REFERENCIA**                    |
-|===============================================|===============================================|
+|-----------------------------------------------|-----------------------------------------------|
 |  Contrato                                     | Corresponde al contrato configurado para la nómina en ejecución |
 |  Nómina                                       | Identifica el nombre de la nómina que ha sido procesada, para este caso será nómina de vacaciones |
 |  Trabajador                                   | Identifica el nombre de cada uno de los empleados |
@@ -101,13 +101,14 @@ Imagen 2. Detalle de Pago. Misma nómina de vacaciones con diferentes empleados.
     Los campos que podrá visualizar en este reporte son:
 
 |          **PARÁMETROS**                       |             **REFERENCIA**                    |
-|===============================================|===============================================|
+|-----------------------------------------------|-----------------------------------------------|
 |  Contrato                                     | Corresponde al contrato configurado para la nómina en ejecución |
 |  Nómina                                       | Identifica el nombre de la nómina que ha sido procesada, para este caso nómina de vacaciones |
 |  Trabajador                                   | Identifica el nombre de cada uno de los empleados |
 |  Concepto de Nómina                           | Identifica el nombre de concepto de nómina, en este caso aparecerá el nombre de las asignaciones y deducciones mencionadas anteriormente |
 |  Mes                                          | Corresponde al monto otorgado por el empleado por el concepto de asignación o durante ese mes |
 |  Total                                        | Corresponde al monto total obtenido por concepto |
+
 
 - En el siguiente ejemplo presentado se evidencia una nómina de vacaciones procesada a 2 empleados y en ella se evidencian las asignaciones y las deducciones del mismo, así como se encuentran todos los datos qué detallamos anteriormente para el reporte de nómina de vacaciones utilizando la plantilla de resumen de pagos
 

@@ -35,7 +35,7 @@ Imagen 1. Parámetros para obtener archivo.
 
 - Posteriormente puede ubicar en su carpeta de descarga, el archivo generado con el nombre que estará estructurado de la siguiente manera: la letra “**N**”, el número de cuenta nómina (**20 dígitos**), el mes de la nómina (**en formato MM**), el año de la nómina (**en formato AAAA**).
 
-Se presenta como ejemplo, un archivo que puede descargar en el enlace [N01050000000000000001012021.txt](N01050000000000000001012021.txt), para corroborar que coincida la estructura con el documento generado de ADempiere.
+Se presenta como ejemplo, un archivo que puede descargar en el enlace [N01050000000000000001012021.txt](/assets/img/docs/lve/procedures/payroll/payroll-report/resources/N01050000000000000001012021.txt), para corroborar que coincida la estructura con el documento generado de ADempiere.
 
 - Al descargar el mismo, se puede visualizar de la siguiente manera.
 

@@ -19,5 +19,5 @@ Esta documentación está destinada a definir cada uno de los procedimientos de 
 - [Gestión de Nóminas](payroll)
 - [Gestión de Tesorería](treasury-management)
 - [Gestión de Importación](import)
-- [Gestión de Consignación](consignment-management)
+- [Gestión de Consignación](.//consignment-management/consignment-sales/README.md)
 - [Gestión de Retenciones](withholding-management)

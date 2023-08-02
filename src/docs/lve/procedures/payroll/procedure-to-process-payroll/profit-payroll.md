@@ -15,7 +15,7 @@ article: false
 **Nómina Utilidades**
 =====================
 
-Para procesar una “**Nómina de Utilidades**” debemos realizar el proceso de nómina estándar mencionado en el documento ''Procedimiento para procesar nómina'' elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de vacaciones, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina de Utilidades**” debemos realizar el proceso de nómina estándar mencionado en el documento [Procedimiento Para Procesar Nómina](README.md) elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de vacaciones, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del Documento:
 
@@ -27,17 +27,17 @@ Seleccione “**Nómina Utilidades**” en el campo “**Nómina**”
 
 La nómina de utilidades define el comportamiento de la nómina, para este caso se cuenta con las siguientes características:
 
-Regla de Pago: Débito Directo
-Contrato de Nómina: Contrato Mensual
-Cargo: Sueldos y Salarios por Pagar
+- Regla de Pago: Débito Directo
+- Contrato de Nómina: Contrato Mensual
+- Cargo: Sueldos y Salarios por Pagar
 
-Seleccione el período anual correspondiente a la nómina que se está ejecutando en el campo "**Período Nómina**"
+- Seleccione el período anual correspondiente a la nómina que se está ejecutando en el campo "**Período Nómina**"
 
-El período de nómina define el período laborado que le está siendo cancelado al empleado, disponiendo de los períodos creados en la definición de nómina anual.
+- El período de nómina define el período laborado que le está siendo cancelado al empleado, disponiendo de los períodos creados en la definición de nómina anual.
 
-Seleccione la fecha “Hasta” o el último día del período que seleccionó anteriormente en el campo "**Fecha Contable**"
+- Seleccione la fecha “Hasta” o el último día del período que seleccionó anteriormente en el campo "**Fecha Contable**"
 
-A través de la fecha contable se determina contablemente la fecha de pago de la nómina semanal en ejecución, por tal motivo se recomienda colocar la fecha “**Hasta**” o el último día del período que seleccionó anteriormente.
+- A través de la fecha contable se determina contablemente la fecha de pago de la nómina semanal en ejecución, por tal motivo se recomienda colocar la fecha “**Hasta**” o el último día del período que seleccionó anteriormente.
 
 ![Nómina Utilidades](/assets/img/docs/lve/procedures/payroll/procedures-to-process-payroll/resources/utilidades.png)
 
@@ -45,7 +45,7 @@ Imagen 1. Nómina de Utilidades
 
 Incidencias:
 
- Para esta nómina no dispone no se dispone de incidencias
+- Para esta nómina no dispone no se dispone de incidencias
 
 Resultados:
 
@@ -117,4 +117,8 @@ Imagen 6. Retenciones de Nómina de Utilidades
 
 Imagen 7. Aportes Nómina de Utilidades
 
+::: info Nota
+
 Cabe destacar que los reportes de Aportes y Retenciones se deben pasar al Departamento de Contabilidad
+
+:::

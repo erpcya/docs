@@ -111,12 +111,13 @@ Imagen 14. Moneda de Planilla
 
 Imagen 15. Menú de ADempiere
 
-~~~
-**¡Importante!**
+::: info **¡Importante!**
+
 Tome en cuenta la secuencia para generar sus planillas, la ''Forma 99086'' es la planilla que contiene el impuesto, en consecuencia deberá ser la última planilla en cargar en este proceso, para que la base sea acumulada en su totalidad.
 
 Repita los pasos anteriores para la generación del IVA, sabiendo que su base será el resultado de los costos CIF de la mercancía.
-~~~
+
+:::
 
 ![Menu Import](/assets/img/docs/lve/procedures/import/resources/menuimport.png)
 

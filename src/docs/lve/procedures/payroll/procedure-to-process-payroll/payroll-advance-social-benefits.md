@@ -15,22 +15,22 @@ article: false
 **Nómina Anticipo de Prestaciones Sociales**
 ============================================
 
-Para procesar una “**Nómina de Anticipo Prestaciones Sociales**” debemos realizar el proceso de nómina estándar mencionado en el ''Procedimiento para procesar nómina'' elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de anticipo prestaciones sociales, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina de Anticipo Prestaciones Sociales**” debemos realizar el proceso de nómina estándar mencionado en el [Procedimiento Para Procesar Nómina](README.md) elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de anticipo prestaciones sociales, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del Documento:
 
-Seleccione “**Nómina Prestaciones Sociales**” en el campo “**Tipo de Documento**”
+- Seleccione “**Nómina Prestaciones Sociales**” en el campo “**Tipo de Documento**”
 
 El tipo de documento le permitirá definir la acción del documento que esté registrando en ADempiere.
 
-Selecciones “**Nómina de Anticipo Prestaciones Sociales**” en el campo “**Nómina**”
+- Selecciones “**Nómina de Anticipo Prestaciones Sociales**” en el campo “**Nómina**”
 
 La nómina de anticipo prestaciones sociales define el comportamiento de la nómina, para este caso por ser una nómina especial cuenta con las siguientes características:
 
-Regla de Pago: Débito Directo
-Cargo: Sueldos y Salarios por Pagar
+- Regla de Pago: Débito Directo
+- Cargo: Sueldos y Salarios por Pagar
 
-Seleccione la fecha en la que esté ejecutando la nómina en el campo **Fecha Contable**
+- Seleccione la fecha en la que esté ejecutando la nómina en el campo **Fecha Contable**
 
 [Nomina Anticipo de Prestaciones Sociales](/assets/img/docs/lve/procedures/payroll/procedures-to-process-payroll/resources/prestacionessociales.png)
 

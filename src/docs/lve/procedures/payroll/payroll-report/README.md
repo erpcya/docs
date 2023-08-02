@@ -24,13 +24,15 @@ Los reportes están configurados para que puedan ser visualizados según el rol 
 
 Entre los Reportes de Nómina que se pueden encontrar dentro de ADempiere se encuentran:
 
-[Nómina Regular](regular-payroll)
-[Bono de Alimentación](food-bond)
-[Pagos Especiales](specialpayments)
-[Vacaciones](holidays)
-[Anticipo de Vacaciones](advance-holiday)
-[Utilidades](utilities)
-[Devengado Salario Integral](accrued-comprehensive-salary)
-[Devengado Salario Normal](accrued-normal-salary)
-[Salario Acumulado para Utilidades](accumulated-salary-for-utilities)
-[Generar TXT de Banavih](generate-banavih-txt)
+- [Nómina Regular](regular-payroll)
+- [Bono de Alimentación](food-bond)
+- [Pagos Especiales](specialpayments)
+- [Vacaciones](holidays)
+- [Anticipo de Vacaciones](advance-holiday)
+- [Utilidades](utilities)
+- [Devengado Salario Integral](accrued-comprehensive-salary)
+- [Devengado Salario Normal](accrued-normal-salary)
+- [Salario Acumulado para Utilidades](accumulated-salary-for-utilities)
+- [Generar TXT de Banavih](generate-banavih-txt)
+- [Porción Mensual Prestaciones Sociales](monthly-portion-social-benefits)
+================

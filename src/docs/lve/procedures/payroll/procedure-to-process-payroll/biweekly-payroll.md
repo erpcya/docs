@@ -15,7 +15,7 @@ article: false
 **Nómina Quincenal**
 ====================
 
-    Para procesar una “**Nómina Quincenal**” debemos realizar el proceso de nómina estándar mencionado en el documento  :ref:`documento/procedimiento-para-procesar-nómina` elaborado por `ERPyA`_. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo quincenal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina Quincenal**” debemos realizar el proceso de nómina estándar mencionado en el documento [Procedimiento Para Procesar Nómina](README.md) elaborado por **ERPyA**. En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo quincenal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 - Estatus del documento:
 
@@ -43,8 +43,8 @@ El período de nómina define el período laborado que le está siendo cancelado
 
 Imagen 1. Nómina Quincenal
 
-      Incidencias:
-      Para esta nómina no son obligatorias las incidencias, pero en ADempiere se cuentan con las siguientes incidencias disponibles para la Nómina Quincenal:
+Incidencias:
+Para esta nómina no son obligatorias las incidencias, pero en ADempiere se cuentan con las siguientes incidencias disponibles para la Nómina Quincenal:
 
 |               **INCIDENCIA**                  |       **CÓDIGO**      |    **TIPO**    |
 |-----------------------------------------------|-----------------------|----------------|

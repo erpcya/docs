@@ -17,8 +17,8 @@ Un reporte es un informe detallado o preciso sobre algún tema en específico, s
 
 El presente material elaborado por [ERPyA](http://erpya.com), pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar reportes en ADempiere, en su versión 3.9.2 para la localización Venezuela.
 
-- [Generar Reporte de Ventas Brutas desde el Proceso Resumen de Facturas de ADempiere](gross-sales-report/README)
-- [Generar Reporte de ARC en ADempiere](arc-report/README)
+- [Generar Reporte de Ventas Brutas desde el Proceso Resumen de Facturas de ADempiere](../report/gross-sales-report/README.md)
+- [Generar Reporte de ARC en ADempiere](../report/arc-report/README.md)
 - [Facturación Diaria Resumida](summary-daily-billing)
 - [Venta de Productos por Proveedor](sale-of-products-by-supplier)
 - [Detalles de Facturas y Margen](invoice-details-and-margin)

@@ -17,7 +17,7 @@ En la providencia Nº Snat/2022/000013 del Servicio Nacional Integrado de Admini
 
 En este sentido, para el caso de la cuenta por cobrar el tributo es percibido en la factura, tomando como monto base el total de la cobranza en divisas o criptoactivos diferente al petro.
 
-De esta manera se estará generando un débito fiscal de IGTF, que debe ser  declarado quincenalmente acorde al [Instructivo emitido por el SENIAT](IGTF_QUINCENAL.pdf)
+De esta manera se estará generando un débito fiscal de IGTF, que debe ser  declarado quincenalmente acorde al [Instructivo emitido por el SENIAT](/assets/img/docs/lve/procedures/consigment-management/consignment-sales/withholding-igtf/IGTF_QUINCENAL.pdf)
   
 **Ejecución de la Estimación de Retenciones**
 ---------------------------------------------

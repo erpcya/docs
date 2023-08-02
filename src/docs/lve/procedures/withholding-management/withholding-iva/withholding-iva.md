@@ -10,8 +10,8 @@ tag:
 article: false
 ---
 
-**Configuración Esencial de la Retención de IVA**
-=================================================
+## Configuración Esencial de la Retención de IVA
+
 
 La configuración esencial de las retenciones en ADempiere, permite que sea ejecutada la estimación de la retención a un socio del negocio proveedor al completar el documento de cuentas por pagar en ADempiere, la misma consta de dos procesos explicados a continuación.
 
@@ -51,8 +51,8 @@ Imagen 5. Icono Guardar
 
 Este proceso debe ser realizado cada vez que se vaya a aplicar un impuesto de IVA diferente en cada documento por pagar.
 
-**Configuración del Socio de Negocio**
-======================================
+## Configuración del Socio de Negocio
+
 
 ADempiere permite seleccionar por socio del negocio el porcentaje de IVA a aplicar en los documentos de compra/venta del mismo, a continuación se explica el procedimiento para seleccionar el IVA en un socio del negocio determinado.
 
@@ -102,8 +102,8 @@ Imagen 12. Campo Retención de IVA Aplicada
 
 Solo debe tildar la retención que no se aplicará al socio del negocio proveedor que esta configurando y guarde los cambios realizados en el socio del negocio con ayuda del icono "**Guardar Cambios**" de la barra de herramientas de ADempiere.
 
-**Ejecución de la Estimación de Retenciones**
-=============================================
+## Ejecución de la Estimación de Retenciones
+
 
 Ubique la factura ya realizada al socio del negocio, la misma debe estar en estado "**Completo**", para este ejemplo se utiliza la factura número "**1000154**" del socio del negocio proveedor "**Standard Standard**".
 
@@ -143,8 +143,7 @@ Imagen 18. Opción Log de Retención
 
 ADempiere le genera al usuario por medio del icono "**Visualiza Detalle**", las alertas donde indica cuales fueron las retenciones aplicadas (**Retención Generada**) y cuales retenciones no fueron aplicadas (**Log**) según la configuración que tiene un socio del negocio determinado.
 
-**Generar Retención de IVA Fiscal**
-===================================
+## Generar Retención de IVA Fiscal
 
 Ubique la carpeta "**Manejo de Retenciones**" en el menú de ADempiere, luego seleccione la ventana de busqueda inteligente "**Generar Retenciones**".
 
@@ -200,7 +199,7 @@ Seleccione en el campo "**Tipo de Retención**", el tipo de retención por el cu
 
 Imagen 27. Campo Tipo de Retención
 
-El campo cuenta con tres opciones que son "**IM_Retencion de Impuesto Municipal**, "**ISLR_Retención de I.S.L.R.**" y "**I.V.A_Retención de I.V.A.**". Recuerde que la selección de este campo va a depender de la retención que se va a aplicar a la factura de cuentas por pagar.
+- El campo cuenta con tres opciones que son "**IM_Retencion de Impuesto Municipal**, "**ISLR_Retención de I.S.L.R.**" y "**I.V.A_Retención de I.V.A.**". Recuerde que la selección de este campo va a depender de la retención que se va a aplicar a la factura de cuentas por pagar.
 
 Seleccione en el campo "**Moneda**", la moneda del documento y desde la cual se requiere convertir el monto de la retención.
 

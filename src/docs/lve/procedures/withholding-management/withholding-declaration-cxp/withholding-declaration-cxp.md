@@ -64,8 +64,6 @@ Imagen 7. Número de Declaración Generada
 
 El proceso genera un documento por pagar de tipo "**Declaración Municipal de Cuentas por Pagar**", "**Declaración de ISLR de Cuentas por Pagar**" o "**Declaración de IVA de Cuentas por Pagar**", según la opción seleccionada en el campo "**Tipo de Retención**". El mismo es generado en estado "**Completo**" y con la sumatoria del monto total de todas las retenciones seleccionadas.
 
-.. _paso/consultar-declaración-retenciones:
-
 **Consultar Declaración de Retenciones**
 ========================================
 
@@ -150,23 +148,24 @@ Podrá visualizar el archivo exportado en la parte inferior izquierda de la vent
 
 Imagen 18. Archivo o Documento Exportado
 
-.. note::
+::: info Nota
+La declaración de lNNota''otaas retenciones municipales dNotae cuentas por pagar, varia según el municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. En ADempiere, dicha declaración es generada realizando los procesos **''generar declaración retenciones''** y **''consultar declaración retenciones''**.
 
-La declaración de las retenciones municipales de cuentas por pagar, varia según el municipio donde se encuentre el socio del negocio al cual se le brinda el servicio ya que en cada municipio varía la retención del mismo. En ADempiere, dicha declaración es generada realizando los procesos ''generar declaración retenciones'' y consultar declaración retenciones''.
+:::
 
 **Archivo TXT de IVA Exportado**
 --------------------------------
 
 Al abrir el archivo podrá visualizarlo de la siguiente manera
 
-::
-
+~~~
 J000000006 202101 2020-06-15 C 01 J000000779 10739 00-012468 12713872.59 10960234.99 1753637.60 0 20210110058697 0.00 16.00 0
 J000000006 202101 2020-08-27 C 01 J000000779 11048 00-012798 10086543.36 8695296.00 1391247.36 0 20210110058701 0.00 16.00 0
 J000000006 202101 2020-10-13 C 01 J000000779 11236 00-012997 171375555.12 147737547.49 23638007.63 0 20210110058700 0.00 16.00 0
 J000000006 202101 2020-12-22 C 01 J000000605 00007014 00-008546 22554057.84 19443153.31 2333178.40 0 20210110058704 0.00 16.00 0
+~~~
 
-Dicho archivo contiene la siguiente descripción, explicada de manera detallada en el documento [Formato TXT IVA](Formato_TXT_IVA.pdf)
+Dicho archivo contiene la siguiente descripción, explicada de manera detallada en el documento [Formato TXT IVA](/assets/img/docs/lve/procedures/consigment-management/consignment-sales/withholding-declaration-cxp/Formato_TXT_IVA.pdf)
 
 - **RIF del Agente de Retención**, en el archivo el rif del agente de retención es "**J000000006**"
 - **Periodo Impositivo**, en el archivo el periodo de facturación es "**202101**"
@@ -251,7 +250,8 @@ Al abrir el archivo podrá visualizarlo de la siguiente manera
 </DetalleRetencion>
 </RelacionRetencionesISLR>
 ~~~
-Dicho archivo contiene la siguiente descripción, explicada de manera detallada en el documento [Formato XML ISLR](Formato_XML_ISLR.pdf)
+
+Dicho archivo contiene la siguiente descripción, explicada de manera detallada en el documento [Formato XML ISLR](/assets/img/docs/lve/procedures/consigment-management/consignment-sales/withholding-declaration-cxp/Formato_XML_ISLR.pdf)
 
 - **RifAgente:** Número de registro de información fiscal (RIF) del agente de retención. El primer carácter corresponde a una letra (V,E,J,P,G) y los 9 restantes a números. En el ejemplo anterior el rif del agente es "**J000000006**"
 - **Periodo:** Corresponde al año y mes de la declaración (AAAAMM). En el ejemplo anterior el periodo es "**202101**"

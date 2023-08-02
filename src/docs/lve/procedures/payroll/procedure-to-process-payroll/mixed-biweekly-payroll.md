@@ -15,7 +15,7 @@ article: false
 **Nómina Quincenal Mixta**
 ==========================
 
-Para procesar una “**Nómina Quincenal Mixta**” debemos realizar el proceso de nómina estándar mencionado en el documento ''procedimiento para procesar nómina'' elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo quincenal mixta, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina Quincenal Mixta**” debemos realizar el proceso de nómina estándar mencionado en el documento [Procedimiento Para Procesar Nómina](README.md) elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo quincenal mixta, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del documento:
 
@@ -47,10 +47,10 @@ Incidencias:
 
 - Para esta nómina no son obligatorias las incidencias, pero en ADempiere se cuentan con las siguientes incidencias disponibles para la Nómina Quincenal Mixta:
 
-|                **INCIDENCIA**                          |      **CÓDIGO**      |    **TIPO**    |
-|-------------------------------------------------------|-----------------------|----------------|
-| Descanso Trabajado                                    |      ("IN_DT")        |    Cantidad    |
-| Feriado Trabajado                                     |      ("IN_FT")        |    Cantidad    |
+|                **INCIDENCIA**                          |      **CÓDIGO**     |    **TIPO**    |
+|-------------------------------------------------------|----------------------|----------------|
+| Descanso Trabajado                                    |      ("IN_DT")       |    Cantidad    |
+| Feriado Trabajado                                     |      ("IN_FT")       |    Cantidad    |
 | Horas Extras Diurnas                                  |     ("IN_HED")       |    Cantidad    |
 | Horas Nocturnas Trabajadas                            |     ("IN_HNT")       |    Cantidad    |
 | Fecha de Inicio de Reposo Prenatal y Postnatal        |    ("IN_FIRPP")      |     Fecha      |
@@ -67,9 +67,9 @@ Resultados:
 
 - "**Reportes**"
 
-    Para visualizar los reportes de nóminas  puede seguir los pasos que se encuentran en el documento ''Reporte de nómina'' con los datos adicionales que se indican a continuación para cada reporte
+Para visualizar los reportes de nóminas  puede seguir los pasos que se encuentran en el documento ''Reporte de nómina'' con los datos adicionales que se indican a continuación para cada reporte:
 
-  - "**Recibo de Pago**"
+- "**Recibo de Pago**"
 
 - **Nómina**: Nómina Quincenal Mixta
 

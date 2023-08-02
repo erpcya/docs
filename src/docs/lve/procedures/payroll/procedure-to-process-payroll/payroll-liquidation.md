@@ -15,22 +15,22 @@ article: false
 **Nómina Liquidación**
 ========================
 
- Para procesar una “**Nómina de Liquidación**” debemos realizar el proceso de nómina estándar mencionado en el documento ''Procedimiento para procesar nómina'' elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de liquidación, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+ Para procesar una “**Nómina de Liquidación**” debemos realizar el proceso de nómina estándar mencionado en el documento [Procedimiento Para Procesar Nómina](README.md) elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de liquidación, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del Documento:
 
-Seleccione “**Nómina Liquidación**” en el campo “**Tipo de Documento**”
+- Seleccione “**Nómina Liquidación**” en el campo “**Tipo de Documento**”
 
 El tipo de documento le permitirá definir la acción del documento que esté registrando en ADempiere.
 
-Selecciones “**Nómina Liquidación**” en el campo “**Nómina**”
+- Seleccione “**Nómina Liquidación**” en el campo “**Nómina**”
 
 La nómina de liquidación define el comportamiento de la nómina, para este caso por ser una nómina especial cuenta con las siguientes características:
 
-Regla de Pago: Débito Directo
-Cargo: Sueldos y Salarios por Pagar
+- Regla de Pago: Débito Directo
+- Cargo: Sueldos y Salarios por Pagar
 
-Seleccione la fecha en la que esté ejecutando la nómina en el campo **Fecha Contable**
+- Seleccione la fecha en la que esté ejecutando la nómina en el campo **Fecha Contable**
 
 Está nómina  por ser una nómina especial no debe registrarse con período
 
@@ -120,4 +120,8 @@ Imagen 6. Resumen de Pago Nómina de Liquidación
 
 Imagen 7. Resumen de Pago Nómina de Liquidación
 
+::: info Nota
+
 Cabe destacar que los reportes de Aportes, Retenciones, se deben pasar al Departamento de Contabilidad
+
+:::

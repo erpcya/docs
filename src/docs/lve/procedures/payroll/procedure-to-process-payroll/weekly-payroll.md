@@ -15,7 +15,7 @@ article: false
  **Nómina Semanal**
 ===================
 
-Para procesar una “**Nómina Semanal**” debemos realizar el proceso de nómina estándar mencionado en el documento ''Procedimiento para procesar nómina'' elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo semanal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
+Para procesar una “**Nómina Semanal**” debemos realizar el proceso de nómina estándar mencionado en el documento [Procedimiento Para Procesar Nómina](README.md) elaborado por [ERPyA](http://erpya.com). En esta ventana se registran los datos principales que ADempiere requiere para crear una nómina de tipo semanal, cada uno de los campos detallados a continuación son relevantes para obtener un registro exitoso:
 
 Estatus del documento:
 
@@ -48,7 +48,7 @@ Incidencias:
 Para esta nómina no son obligatorias las incidencias, pero en ADempiere se cuentan con las siguientes incidencias disponibles para la nómina semanal:
 
 |           **INCIDENCIA**                              |     **CÓDIGO**       |    **TIPO**    |
-|=======================================================+======================+================|
+|-------------------------------------------------------|----------------------|----------------|
 | Sábado Trabajado                                      |     ("IN_ST")        |    Cantidad    |
 | Domingo Trabajado                                     |     ("IN_DOT")       |    Cantidad    |
 | Feriado Trabajado                                     |     ("IN_FT")        |    Cantidad    |
