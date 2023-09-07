@@ -137,7 +137,7 @@ export const enNavbarConfig = navbar([
           "updates/rs-3.x",
           "updates/rs-2.x",
           "updates/rs-1.x",
-          "updates/rs-3.9.4"
+          "updates/adempiere-3.9.4"
         ],
       },
     ],
