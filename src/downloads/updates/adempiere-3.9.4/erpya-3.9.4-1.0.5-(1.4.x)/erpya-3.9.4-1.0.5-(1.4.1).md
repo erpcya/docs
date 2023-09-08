@@ -15,10 +15,124 @@ article: false
 **Fecha de Liberación:** 2023-09-07
 
 ## Novedades
+- Corrección en soporte a generar tasa de Expediente de Importación
+- Corrección en reportes sobre funcionalidad de columnas convertidas.
+- Corrección en la opción consolidado de un documento en SB Generar Facturas desde la línea de la orden desde ADempiere.
+- Corrección de error al agregar producto en requisición por ADempiere.
+- Corrección al momento de visualización de los reportes en Inventario Físicos, Inventarios Uso Internos (Informes) desde ADempiere.
+- Corrección en formularios de generar Orden de Salida desde ADempiere.
+- Corrección al cambiar precios en el terminal PDV. 
+- Corrección al ingresar descuentos en el terminal PDV. 
+- Corrección al guardar el tipo de contribuyente en socio de negocio en el terminal PDV. 
+- Corrección en referencia de pago con organización errada desde el PDV. 
+- Corrección en la generación de retención de IGTF con organización errada desde el PDV.
+- Corrección en la opción reembolso de una factura en terminal PDV. 
+- Corrección al momento de crear recepción desde organización en ADempiere. 
+- Corrección al seleccionar banco en método de pago móvil en terminal PDV.
+- Corrección en método de cobro pago móvil en terminal de PDV. 
+- Mejora en búsqueda de órdenes pendientes por entregar en terminal PDV.
+- Corrección en validación de disponibilidad de productos en terminal PDV. 
+- Corrección en selección de campaña al crear orden de venta en terminal PDV. 
+- Corrección en cambio de lista de precios en terminal PDV. Corrección al momento de generar IGTF desde terminal PDV (check de manual).
+- Corrección de vista previa en terminal PDV de las Órdenes de Ventas.
+- Corrección de organización erradas de devoluciones y notas de créditos realizadas por el terminal PDV. 
+- Mejora en la generación de reportes de nómina en ADempiere. 
+- Mejora en formularios de novedades de nómina en ADempiere. Corrección en duplicidad en Pre-cálculo de IVA.
+- Mejoras en búsquedas de Órdenes (Por Facturar, Por Entregar, Ventas de Pasillo, Propuestas, A Crédito).
+- Corrección en referencia de pagos realizados por terminal PDV con diferente organización.
+- Mejoras en información de productos al realizar entregas por el terminal PDV.		
+- Corrección en recálculo de m2 a Caja en entregas de productos en terminal PDV.
+- Corrección en mezcla de sesiones en el terminal PDV.
+- Corrección en factura con Tipo de Documento Retención de IVA.
+- Mejoras al cerrar una caja y generando el egreso con la organización incorrecta a la creada.
+- Corrección al momento de la creación de un comprobante de retención no establece número registrado en terminal PDV.
+- Corrección en devolución de un pedido en estado borrador mediante el terminal PDV.
+- Corrección al momento de guardar Email de Socio de Negocio en el Terminal PDV.
+- Corrección en Doble facturación (Factura/Retención IVA)
+- Mejoras en almacenes en el perfil de sesión del terminal PDV.
+- Mejoras en cantidad de Disponibilidad en Búsqueda de Producto en terminal PDV.
+- Corrección en tolerancia de Ajuste de Factura con Autorización.
+- Corrección la Entrega de Productos validando las entregas anteriores de la orden de venta.
+- Mejora incluyendo Ventana de diálogo informativo en las pantallas de cada proceso.
+- Mejora en la búsqueda en Consulta de Precio.
+- Corrección en retención de IVA estableciendo el documento asignado.
+- Corrección en el formulario para agregado de producto.
+- Mejoras en la definición de la impresión fiscal mediante el terminal PDV.
+- Mejoras en devoluciones parciales.		
+- Corrección en la completación de Facturas sin Cobro.
+- Mejora en la Anulación Transacción de Venta.
+- Corrección de Facturación de  tipo de documento Propuestas.
+- Corrección en estado de cuenta por Elemento Contable
 
 ## Contexto
 
 ## Enlaces Relacionados
+- https://github.com/erpcya/Control-PROSEIN/issues/525
+- https://github.com/erpcya/Control-PROSEIN/issues/530
+- https://github.com/erpcya/Control-ERPYA/issues/981
+- https://github.com/erpcya/Control-PROSEIN/issues/524
+- https://github.com/erpcya/Control-PROSEIN/issues/526
+- https://github.com/erpcya/Control-PROSEIN/issues/527
+- https://github.com/erpcya/Control-PROSEIN/issues/528
+- https://github.com/erpcya/Control-PROSEIN/issues/529
+- https://github.com/erpcya/Control-PROSEIN/issues/529
+- https://github.com/erpcya/Control-PROSEIN/issues/531
+- https://github.com/erpcya/Control-PROSEIN/issues/532
+- https://github.com/erpcya/Control-PROSEIN/issues/533
+- https://github.com/erpcya/Control-PROSEIN/issues/534
+- https://github.com/erpcya/Control-PROSEIN/issues/535
+- https://github.com/erpcya/Control-PROSEIN/issues/536
+- https://github.com/erpcya/Control-PROSEIN/issues/537
+- https://github.com/erpcya/Control-PROSEIN/issues/538
+- https://github.com/erpcya/Control-PROSEIN/issues/539
+- https://github.com/erpcya/Control-PROSEIN/issues/540
+- https://github.com/erpcya/Control-ERPYA/issues/982
+- https://github.com/erpcya/Control-ERPYA/issues/983
+- https://github.com/erpcya/Control-PROSEIN/issues/541
+- https://github.com/erpcya/Control-ERPYA/issues/984
+- https://github.com/erpcya/Control-ERPYA/issues/985
+- https://github.com/erpcya/Control-ERPYA/issues/986
+- https://github.com/erpcya/Control-PROSEIN/issues/542
+- https://github.com/erpcya/Control-PROSEIN/issues/543
+- https://github.com/erpcya/Control-ERPYA/issues/987
+- https://github.com/erpcya/Control-PROSEIN/issues/544
+- https://github.com/erpcya/Control-PROSEIN/issues/545
+- https://github.com/erpcya/Control-ERPYA/issues/988
+- https://github.com/erpcya/Control-PROSEIN/issues/546
+- https://github.com/erpcya/Control-PROSEIN/issues/547
+- https://github.com/erpcya/Control-PROSEIN/issues/548
+- https://github.com/erpcya/Control-PROSEIN/issues/549
+- https://github.com/solop-develop/frontend-core/issues/1361
+- https://github.com/erpcya/Control-PROSEIN/issues/551
+- https://github.com/erpcya/Control-PROSEIN/issues/552
+- https://github.com/erpcya/Control-PROSEIN/issues/553
+- https://github.com/erpcya/Control-PROSEIN/issues/554
+- https://github.com/erpcya/Control-PROSEIN/issues/555
+- https://github.com/erpcya/Control-PROSEIN/issues/556
+- https://github.com/erpcya/Control-PROSEIN/issues/557
+- https://github.com/erpcya/Control-PROSEIN/issues/564
+- https://github.com/erpcya/Control-PROSEIN/issues/530
+- https://github.com/erpcya/Control-PROSEIN/issues/565
+- https://github.com/erpcya/Control-PROSEIN/issues/566
+- https://github.com/erpcya/Control-PROSEIN/issues/559
+- https://github.com/erpcya/Control-PROSEIN/issues/567
+- https://github.com/erpcya/Control-PROSEIN/issues/568
+- https://github.com/erpcya/Control-PROSEIN/issues/569
+- https://github.com/erpcya/Control-ERPYA/issues/992
+- https://github.com/erpcya/Control-PROSEIN/issues/563
+- https://github.com/erpcya/Control-PROSEIN/issues/562
+- https://github.com/erpcya/Control-PROSEIN/issues/561
+- https://github.com/erpcya/Control-PROSEIN/issues/570
+- https://github.com/erpcya/Control-ERPYA/issues/993
+- https://github.com/erpcya/Control-PROSEIN/issues/573
+- https://github.com/erpcya/Control-PROSEIN/issues/550
+- https://github.com/erpcya/Control-PROSEIN/issues/574
+- https://github.com/erpcya/Control-PROSEIN/issues/575
+- https://github.com/erpcya/Control-PROSEIN/issues/576
+- https://github.com/erpcya/Control-PROSEIN/issues/577
+- https://github.com/erpcya/Control-ERPYA/issues/994
+- https://github.com/erpcya/Control-ERPYA/issues/995
+- https://github.com/erpcya/Control-PROSEIN/issues/578
 
 ## Servicios Relacionados
 
