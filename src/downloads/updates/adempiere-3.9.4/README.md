@@ -1,5 +1,5 @@
 ---
-title: rs-3.9.4
+title: ADempiere-3.9.4
 icon: app
 category: Actualizaciones
 star: 9
