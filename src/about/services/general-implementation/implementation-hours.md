@@ -1,6 +1,7 @@
 ---
 title: Horas de Implementación 
 category: Implementación General
+icon: time 
 star: 9
 sticky: 9
 tag:
