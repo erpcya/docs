@@ -2,7 +2,8 @@
 home: true
 layout: Blog
 icon: home
-title: .
+title: Inicio
+heroText: false
 bgImage: /background.jpg
 heroFullScreen: false
 projects:
@@ -10,7 +11,7 @@ projects:
     desc: La versión 3.9.4 ya está disponible
     link: https://github.com/adempiere/adempiere/releases/tag/3.9.4
     icon: /assets/icon/logo.png
-  - name: Nueva Interfáz para ADempiere
+  - name: Nueva Interfaz para ADempiere
     desc: Completamente desarrollada con Vue JS
     link: https://github.com/adempiere/adempiere-vue
     icon: /assets/img/vue-logo.png
