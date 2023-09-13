@@ -1,6 +1,7 @@
 ---
 title: Servicio
 category: Producto
+icon: launch
 star: 9
 sticky: 9
 tag:
@@ -84,7 +85,7 @@ Cada paquete de servicio es un pequeño proceso medible y finito dentro de las a
 
 ## Implementación General
 
-- [Horas de Implementación](../services/%20general-implementation/implementation-hours.md)
+- [Horas de Implementación](../services/general-implementation/implementation-hours.md)
 
 ## Condiciones Generales
 
