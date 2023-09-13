@@ -27,7 +27,7 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Producto",
-    icon: "engine",
+    icon: "product",
     prefix: "/product/",
     children: [
       { text: "Producto", icon: "engine", link: "", activeMatch: "^/product/$" },      
@@ -115,12 +115,12 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Descargas",
-    icon: "software",
+    icon: "install",
     prefix: "/downloads/",
     children: [
       {
         text: "Descargas",
-        icon: "software",
+        icon: "install",
         link: "",
         activeMatch: "^/downloads/$",
       },
