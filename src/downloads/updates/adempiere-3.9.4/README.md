@@ -1,6 +1,6 @@
 ---
 title: ADempiere-3.9.4
-icon: app
+icon: update
 category: Actualizaciones
 star: 9
 sticky: 9

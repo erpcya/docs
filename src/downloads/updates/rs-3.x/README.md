@@ -1,6 +1,6 @@
 ---
 title: rs-3.x
-icon: app
+icon: update
 category: Actualizaciones
 star: 9
 sticky: 9
