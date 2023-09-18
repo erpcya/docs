@@ -5,12 +5,35 @@ star: 9
 sticky: 9
 article: false
 ---
+## ¿Qué es un Punto de Venta?
 
-El sistema Punto de Venta en ADempiere está diseñado para su uso en espacio de venta agil donde es necesario tener control de ventas e inventarios de un negocio de manera facil y eficiente.
+Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 
-Este punto de venta es una herramienta que logra aumentar la productividad de los negocios, permitiendo facturar de una forma muy rápida, y llevando el control de los ingresos en un día operativo, por terminal, cajero, o simplemente por tienda.
+## ¿Qué Beneficio Traerá a Tu Empresa?
 
-En ADempiere es posible generar una factura de cuentas por cobrar de forma directa mediante el punto de venta. El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.2 para la localización Venezuela.
+- Operación agil y eficiente
+- Rapidez y seguridad
+- Gestión multimonedas
+- Gestión Tributaria
+- Reportes Variados de Cierres
+- Ofrecer más opciones de pago
+- Obtener datos precisos de tus ventas
+- Mejorar la experiencia del cliente
+
+## ¿Qué ofrece ADempiere?
+
+ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cualquier lugar.
+- Controla las ventas de tus empleados.
+- Además de informes en tiempo real, consulta informes diarios, semanales o mensuales.
+- Consulta tus pedidos recibidos y por recibir.
+- ¿Quieres ver cómo va tu negocio? ¡Hazlo desde cualquier lugar!
+- Generar una factura de forma directa en cualquier moneda.
+- Cobrar en diferentes metodos de pagos.
+- Generación de IGTF.
+- Carga de Comprobante de IVA.
+- Devoluciones Totales y Parciales.
+- Arqueo de Cajas.
+- El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.2 para la localización Venezuela.
 
 - Registro de Pedido
 
