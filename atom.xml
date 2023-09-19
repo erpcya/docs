@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-19T21:45:41.737Z</updated>
+  <updated>2023-09-19T21:47:51.592Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -189,9 +189,8 @@
     <title type="html">¿Qué es un Punto de Venta?</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-19T21:37:45.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="title-punto-de-ventacategory-documentationstar-9sticky-9article-false" tabindex="-1"> <img src="https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a" alt="image">---
-title: Punto de Venta
+    <updated>2023-09-19T21:38:11.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="title-punto-de-ventacategory-documentationstar-9sticky-9article-false" tabindex="-1"> title: Punto de Venta
 category: Documentation
 star: 9
 sticky: 9

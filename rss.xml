@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 19 Sep 2023 21:45:41 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2023 21:45:41 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Sep 2023 21:47:51 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Sep 2023 21:47:51 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -184,8 +184,7 @@
       <guid>https://docs-md.erpya.com/docs/sales-management/point.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">¿Qué es un Punto de Venta?</source>
       <pubDate>Wed, 08 Mar 2023 22:34:47 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="title-punto-de-ventacategory-documentationstar-9sticky-9article-false" tabindex="-1"> <img src="https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a" alt="image">---
-title: Punto de Venta
+      <content:encoded><![CDATA[<h2 id="title-punto-de-ventacategory-documentationstar-9sticky-9article-false" tabindex="-1"> title: Punto de Venta
 category: Documentation
 star: 9
 sticky: 9
@@ -434,7 +433,7 @@ article: false</h2>
 <p><img src="/assets/img/docs/sales-management/sam-sales-image310.png" alt="Campo"></p>
 <p>Imagen 6. Ventana Crear Socio de Negocio</p>
 ]]></content:encoded>
-      <enclosure url="https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a" type="image/"/>
+      <enclosure url="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" type="image/"/>
     </item>
     <item>
       <title>Nosotros</title>
