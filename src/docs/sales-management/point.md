@@ -71,6 +71,22 @@ La gestión del cajero es administrar todas las transacciones con los clientes d
 
 
 ## Selección de Terminal Asignado
+El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:
+
+1. Ingrese de manera habitual a la aplicación.
+   ![image](https://github.com/erpcya/docs/assets/9578152/a3df6e68-4ced-4bcb-965a-fc3803300760)
+
+2. Una vez dentro seleccione la opción **Punto de Venta**, ubicado en gestión de ventas.
+   ![image](https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e)
+
+3. Estando en el Punto de venta vaya a la opción punto de venta.
+   ![image](https://github.com/erpcya/docs/assets/9578152/98567519-dbd0-4885-8125-7e4e11e4fc04)
+
+4.  Seleccione el terminal con el que desea trabajar.
+   ![image](https://github.com/erpcya/docs/assets/9578152/0230d727-38ed-4878-b922-e5d33ac15bf7)
+
+5.  
+6.  
 ## Apertura de Caja
 ### Apertura Desde un Fondo de Caja
 ### Crear Fondo de Caja
