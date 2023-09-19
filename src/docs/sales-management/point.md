@@ -65,7 +65,9 @@ Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, 
 ## Consulta de Producto
 
 # Gestión de Cajero
-La gestión del cajero que gestione todas las transacciones con los clientes de manera precisa y eficiente. Entre las responsabilidades de un cajero se incluyen recibir pagos y emitir recibos, envolver los productos para regalo y realizar un seguimiento de todas las transacciones de efectivo y crédito. Para desempeñar este cargo satisfactoriamente, debes tener experiencia previa en un puesto de atención al cliente y un buen conocimiento de cómo funcionan las cajas registradoras. También debes tener disponibilidad para hacer turnos de noche y fines de semana de vez en cuando.
+La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.
+
+![CajeroPOS ](https://github.com/erpcya/docs/assets/9578152/15088f61-4d32-477f-b236-f2e2aa9dc1c3)
 
 
 ## Selección de Terminal Asignado
