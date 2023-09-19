@@ -56,7 +56,7 @@ La gestión del asesor se basa en brindar asesoramiento y asistencia a los clien
 
 Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, tomar un pedido y finalmente liberarlo para ser facturado en una caja asignada.
 
-![asesorpos](https://github.com/erpcya/docs/assets/9578152/4df6dc2d-77d5-4ee9-9f4d-2097789641a3)
+![asesorvpos](https://github.com/erpcya/docs/assets/9578152/21daab7f-b799-4af9-81e8-5c64baa3f345)
 
 ## Selección de Terminal Asignado
 
