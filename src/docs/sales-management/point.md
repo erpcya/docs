@@ -1,4 +1,3 @@
-![image](https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a)---
 title: Punto de Venta
 category: Documentation
 star: 9
