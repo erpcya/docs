@@ -131,6 +131,7 @@ ADempiere actualiza de modo automático el campo **Número Identificación**, es
   3. Registre la región de la dirección en el campo **Región**
   4. Registre la ciudad de la dirección en el campo **Ciudad**
   5. Registre el detalle de la dirección en el campo **Dirección 1**
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/a213662d-5198-480a-bcd1-a4aa9acf1332)
 
 11. Seleccione la opción ok, y ya su cliente estará registrado y listo para ser usado.
@@ -139,7 +140,22 @@ ADempiere actualiza de modo automático el campo **Número Identificación**, es
 
 ### Actualizar Cliente
 
+1. Busqué el cliente en el campo socio del negocio, escribiendo su cédula o su nombre.
+
+    ![image](https://github.com/erpcya/docs/assets/9578152/69d2c7da-d4db-47e2-bb2f-ba122e4141cd)
+
+2. Seleccione la opción Actualiza Socio del Negocio.
+
+    ![image](https://github.com/erpcya/docs/assets/9578152/1e899ae9-2bd9-4bdb-a7a8-50a70e1741ee)
+
+3. Edite el dato que desea modificar.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/d4f22f66-fccb-4c4c-adff-e110b92d4008)
+ 
+4. Guarde en la opción ok.
+   
 ## Registro de Nuevo Pedido
+
 ## Consulta de Producto
 
 # Gestión de Cajero
