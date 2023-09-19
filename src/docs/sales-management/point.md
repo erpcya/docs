@@ -8,8 +8,7 @@ article: false
 ## ¿Qué es un Punto de Venta?
 
 Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
-![POS](https://github.com/erpcya/docs/assets/9578152/c5c94120-b061-4458-a2ab-4aaecf536404)
-
+![POS (1)](https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411)
 
 ## ¿Qué Beneficio Traerá a Tu Empresa?
 
@@ -25,6 +24,7 @@ Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el in
 ## ¿Qué ofrece ADempiere?
 
 ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cualquier lugar.
+
 - Controla las ventas de tus empleados.
 - Además de informes en tiempo real, consulta informes diarios, semanales o mensuales.
 - Consulta tus pedidos recibidos y por recibir.
@@ -35,11 +35,28 @@ ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cu
 - Carga de Comprobante de IVA.
 - Devoluciones Totales y Parciales.
 - Arqueo de Cajas.
-- El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.2 para la localización Venezuela.
 
-- Registro de Pedido
+El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.4 para la localización Venezuela.
 
-## Registro de Pedido
+
+### Gestión de Asesor
+#### Selección de Terminal Asignado
+#### Crear Cliente
+#### Registro de Nuevo Pedido
+#### Consulta de Producto
+
+### Gestión de Cajero
+#### Selección de Terminal Asignado
+#### Apertura de Caja
+##### Apertura Desde un Fondo de Caja
+##### Crear Fondo de Caja
+#### Selección de Pedido 
+#### Cobranza
+#### Carga de Comprobante de IGTF
+#### Cambios de Atributos
+#### 
+
+
 
 Ubique y seleccione en el menú de ADempiere, la carpeta **Gestión de Ventas**, luego seleccione la carpeta **Orden de Ventas**, por último seleccione la ventana **Punto de Venta**.
 
