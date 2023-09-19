@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-19T21:11:58.924Z</updated>
+  <updated>2023-09-19T21:45:41.737Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -189,7 +189,7 @@
     <title type="html">¿Qué es un Punto de Venta?</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-19T21:02:34.000Z</updated>
+    <updated>2023-09-19T21:37:45.000Z</updated>
     <content type="html"><![CDATA[<h2 id="title-punto-de-ventacategory-documentationstar-9sticky-9article-false" tabindex="-1"> <img src="https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a" alt="image">---
 title: Punto de Venta
 category: Documentation
@@ -270,7 +270,80 @@ article: false</h2>
 <p>Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.</p>
 </li>
 </ol>
-<h2 id="crear-cliente" tabindex="-1"> Crear Cliente</h2>
+<h2 id="gestionar-clientes" tabindex="-1"> Gestionar Clientes</h2>
+<p>El Asesor puede gestionar la información de sus clientes, en este sentido, podrá crear o actualizar la información de sus clientes.</p>
+<h3 id="crear-nuevo-cliente" tabindex="-1"> Crear Nuevo Cliente</h3>
+<p>Si usted desea crear un nuevo cliente en el Punto de Venta deberá realizar la siguiente operación:</p>
+<ol>
+<li>
+<p>Vaya la opción <strong>Socio de Negocio</strong> del Punto de Venta
+<img src="https://github.com/erpcya/docs/assets/9578152/2cc6a2bf-3abb-4ef8-af84-262f8f96c88d" alt="image"></p>
+</li>
+<li>
+<p>Seleccione la opción Nuevo <strong>Socio de Negocio</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/b5119a45-ec7c-45b1-bc7c-50c683088774" alt="image"></p>
+</li>
+<li>
+<p>Se desplegará el siguiente formulario
+<img src="https://github.com/erpcya/docs/assets/9578152/0dfb0a2d-1996-4207-8bbb-2ab2565cfc0d" alt="image"></p>
+</li>
+<li>
+<p>A continuación indique el código del cliente (Cédula/RIF) en el campo <strong>Código</strong>.
+<img src="https://github.com/erpcya/docs/assets/9578152/5df9e4bd-6dcd-4007-8f3a-a8b84cd2c703" alt="image"></p>
+</li>
+</ol>
+<div><p>Nota</p>
+<p>ADempiere actualiza de modo automático el campo <strong>Número Identificación</strong>, este campo es utilizado para reportes fiscales (Ejemplo:IGTF).</p>
+</div>
+<ol start="5">
+<li>
+<p>A continuación indique el nombre o razón social del cliente en el campo <strong>Nombre</strong>.
+<img src="https://github.com/erpcya/docs/assets/9578152/9b6e832a-f525-46d3-9751-e0552b484838" alt="image"></p>
+</li>
+<li>
+<p>Si es persona jurídica seleccione si es contribuyente en el campo <strong>Contribuyente</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/499f3eb4-a1dd-4806-8fa9-8332da92b63e" alt="image"></p>
+</li>
+<li>
+<p>Si es persona jurídica seleccione el tipo de contribuyente
+<img src="https://github.com/erpcya/docs/assets/9578152/cf095e9a-cfba-483f-b0a6-1f1156e571e7" alt="image"></p>
+</li>
+<li>
+<p>Registre su correo electrónico en el campo <strong>E-mail</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/382a0b73-85dd-412f-bd43-64ed54e14bef" alt="image"></p>
+</li>
+<li>
+<p>Registre su teléfono en el campo <strong>Teléfono</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/5dd10b95-86d3-4e63-9cc0-0993c143f96c" alt="image"></p>
+</li>
+</ol>
+<p>10.Registre el detalle de la dirección:</p>
+<ol>
+<li>
+<p>Registre la referencia de la dirección en el campo <strong>Referencia</strong></p>
+</li>
+<li>
+<p>Registre la país de la dirección en el campo <strong>País</strong></p>
+</li>
+<li>
+<p>Registre la región de la dirección en el campo <strong>Región</strong></p>
+</li>
+<li>
+<p>Registre la ciudad de la dirección en el campo <strong>Ciudad</strong></p>
+</li>
+<li>
+<p>Registre el detalle de la dirección en el campo <strong>Dirección 1</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/a213662d-5198-480a-bcd1-a4aa9acf1332" alt="image"></p>
+</li>
+<li>
+<p>Seleccione la opción ok, y ya su cliente estará registrado y listo para ser usado.</p>
+</li>
+<li></li>
+</ol>
+<p>|Nombre Cliente|</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image312.png" alt="Campo"></p>
+<p>Imagen 7. Nombre Socio de Negocio</p>
+<h3 id="actualizar-cliente" tabindex="-1"> Actualizar Cliente</h3>
 <h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
 <h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>
 <h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
@@ -366,15 +439,6 @@ article: false</h2>
 <p>A continuación Seleccione la opción <strong>Crear Nuevo Socio de Negocio</strong>, y se desplegará la siguiente ventana.</p>
 <p><img src="/assets/img/docs/sales-management/sam-sales-image310.png" alt="Campo"></p>
 <p>Imagen 6. Ventana Crear Socio de Negocio</p>
-<p>A continuación indique el código del cliente (Cédula/RIF) en el campo <strong>Código</strong>.</p>
-<p><img src="/assets/img/docs/sales-management/sam-sales-image311.png" alt="Campo"></p>
-<p>Imagen 7. Código Socio de Negocio</p>
-<p>Warning</p>
-<p>ADempiere actualiza de modo automático el campo <strong>Número Identificación</strong>, este campo es utilizado para reportes fiscales (Ejemplo:IGTF).</p>
-<p>A continuación indique el nombre o razón social del cliente en el campo <strong>Nombre</strong>.</p>
-<p>|Nombre Cliente|</p>
-<p><img src="/assets/img/docs/sales-management/sam-sales-image312.png" alt="Campo"></p>
-<p>Imagen 7. Nombre Socio de Negocio</p>
 ]]></content>
     <published>2023-03-08T22:34:47.000Z</published>
   </entry>
