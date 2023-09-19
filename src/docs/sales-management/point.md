@@ -38,6 +38,18 @@ ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cu
 
 El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.4 para la localización Venezuela.
 
+## ¿Qué Consideraciones Debe Tomar en Cuenta?
+
+- El asesor debe estar configurado en el terminal.
+  - Debe tener acceso a la organización.
+  - Debe tener acceso al terminal.
+- El Cajero debe estar configurado en el terminal.
+  - Debe tener acceso a la organización.
+  - Debe tener acceso al terminal.
+- Cree la tasa del día de apertura.
+- El arqueo de caja del día anterior debe haberlo completado.
+- El Cajero debe aperturar la caja con el dinero asignado como fondo de caja.
+
 
 ### Gestión de Asesor
 #### Selección de Terminal Asignado
@@ -51,9 +63,10 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 ##### Apertura Desde un Fondo de Caja
 ##### Crear Fondo de Caja
 #### Selección de Pedido 
-#### Cobranza
-#### Carga de Comprobante de IGTF
 #### Cambios de Atributos
+#### Cobranza
+##### 
+#### Carga de Comprobante de IGTF
 #### 
 
 
