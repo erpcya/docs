@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 19 Sep 2023 21:56:54 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2023 21:56:54 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Sep 2023 22:07:14 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Sep 2023 22:07:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -308,27 +308,34 @@ article: false</h2>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/5dd10b95-86d3-4e63-9cc0-0993c143f96c" alt="image"></p>
 <p>10.Registre el detalle de la dirección:</p>
 <ol>
-<li>
-<p>Registre la referencia de la dirección en el campo <strong>Referencia</strong></p>
-</li>
-<li>
-<p>Registre la país de la dirección en el campo <strong>País</strong></p>
-</li>
-<li>
-<p>Registre la región de la dirección en el campo <strong>Región</strong></p>
-</li>
-<li>
-<p>Registre la ciudad de la dirección en el campo <strong>Ciudad</strong></p>
-</li>
-<li>
-<p>Registre el detalle de la dirección en el campo <strong>Dirección 1</strong>
-<img src="https://github.com/erpcya/docs/assets/9578152/a213662d-5198-480a-bcd1-a4aa9acf1332" alt="image"></p>
-</li>
-<li>
-<p>Seleccione la opción ok, y ya su cliente estará registrado y listo para ser usado.</p>
-</li>
+<li>Registre la referencia de la dirección en el campo <strong>Referencia</strong></li>
+<li>Registre la país de la dirección en el campo <strong>País</strong></li>
+<li>Registre la región de la dirección en el campo <strong>Región</strong></li>
+<li>Registre la ciudad de la dirección en el campo <strong>Ciudad</strong></li>
+<li>Registre el detalle de la dirección en el campo <strong>Dirección 1</strong></li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/a213662d-5198-480a-bcd1-a4aa9acf1332" alt="image"></p>
+<ol start="11">
+<li>Seleccione la opción ok, y ya su cliente estará registrado y listo para ser usado.</li>
 </ol>
 <h3 id="actualizar-cliente" tabindex="-1"> Actualizar Cliente</h3>
+<ol>
+<li>
+<p>Busqué el cliente en el campo socio del negocio, escribiendo su cédula o su nombre.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/69d2c7da-d4db-47e2-bb2f-ba122e4141cd" alt="image"></p>
+</li>
+<li>
+<p>Seleccione la opción Actualiza Socio del Negocio.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/1e899ae9-2bd9-4bdb-a7a8-50a70e1741ee" alt="image"></p>
+</li>
+<li>
+<p>Edite el dato que desea modificar.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/d4f22f66-fccb-4c4c-adff-e110b92d4008" alt="image"></p>
+<ol start="4">
+<li>Guarde en la opción ok.</li>
+</ol>
 <h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
 <h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>
 <h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
