@@ -1,4 +1,4 @@
----
+![image](https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a)---
 title: Punto de Venta
 category: Documentation
 star: 9
@@ -59,8 +59,23 @@ Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, 
 ![asesorvpos](https://github.com/erpcya/docs/assets/9578152/21daab7f-b799-4af9-81e8-5c64baa3f345)
 
 ## Selección de Terminal Asignado
+El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:
 
+1. Ingrese de manera habitual a la aplicación.
+   ![image](https://github.com/erpcya/docs/assets/9578152/a3df6e68-4ced-4bcb-965a-fc3803300760)
+
+2. Una vez dentro seleccione la opción **Punto de Venta**, ubicado en gestión de ventas.
+   ![image](https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e)
+
+3. Estando en el Punto de venta vaya a la opción punto de venta.
+  ![image](https://github.com/erpcya/docs/assets/9578152/018eb774-5f2c-4b2c-b1a2-b78e5446072a)
+
+4. Seleccione el terminal con el que desea trabajar. 
+  ![image](https://github.com/erpcya/docs/assets/9578152/556d9488-09e8-4d02-a56c-5e64e0671518)
+
+5.  Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.
 ## Crear Cliente
+
 ## Registro de Nuevo Pedido
 ## Consulta de Producto
 
@@ -80,13 +95,13 @@ El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccio
    ![image](https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e)
 
 3. Estando en el Punto de venta vaya a la opción punto de venta.
-   ![image](https://github.com/erpcya/docs/assets/9578152/98567519-dbd0-4885-8125-7e4e11e4fc04)
+  ![image](https://github.com/erpcya/docs/assets/9578152/7a615600-37f7-4cd7-92c0-969f89db1e91)
 
-4.  Seleccione el terminal con el que desea trabajar.
-   ![image](https://github.com/erpcya/docs/assets/9578152/0230d727-38ed-4878-b922-e5d33ac15bf7)
+4. Seleccione el terminal con el que desea trabajar.
+  ![image](https://github.com/erpcya/docs/assets/9578152/85c0507c-554d-4a11-9c6e-224eaacee627)
 
-5.  
-6.  
+5. Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.
+
 ## Apertura de Caja
 ### Apertura Desde un Fondo de Caja
 ### Crear Fondo de Caja
