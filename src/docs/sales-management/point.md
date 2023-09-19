@@ -46,7 +46,7 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 - El Cajero debe estar configurado en el terminal.
   - Debe tener acceso a la organización.
   - Debe tener acceso al terminal.
-- Cree la tasa del día de apertura.
+- La tasa del día debe ser creada con antelación.
 - El arqueo de caja del día anterior debe haberlo completado.
 - El Cajero debe aperturar la caja con el dinero asignado como fondo de caja.
 
@@ -65,9 +65,27 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 #### Selección de Pedido 
 #### Cambios de Atributos
 #### Cobranza
-##### 
-#### Carga de Comprobante de IGTF
-#### 
+##### Efectivo
+##### Transferencia
+##### Tarjeta de Crédito
+##### Tarjeta de Débito
+##### Pago Móvil
+##### Tarjeta de Crédito
+##### Zelle
+##### Crédito
+#### Generación de IGTF
+#### Carga de Comprobante de IVA
+#### Consultas de Ventas
+##### Por Facturar
+##### Ventas de Pasillo
+##### A Crédito
+##### Por Entregar
+##### Solo Completas
+##### Propuestas
+##### Anuladas
+##### Cerradas
+##### Devoluciones
+
 
 
 
