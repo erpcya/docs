@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 19 Sep 2023 22:07:14 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Sep 2023 22:07:14 GMT</lastBuildDate>
+    <pubDate>Tue, 19 Sep 2023 22:28:47 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Sep 2023 22:28:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -337,6 +337,33 @@ article: false</h2>
 <li>Guarde en la opción ok.</li>
 </ol>
 <h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
+<p>El pedido del punto de venta es un documento que se genera como compromiso de venta, seleccionando los items y luego es liberado para su posterior facturación, en esta herramienta un pedido puede ser de los siguientes tipos:</p>
+<ol>
+<li>Pedido Fiscal: Genera una factura fiscal.</li>
+<li>Pedido Nota de Entrega: Genera una nota de entrega.</li>
+<li>Pedido no Facturado: No imprime factura al cobrarlo.</li>
+<li>Pedido no entregado: No genera entrega al cobrarlo.</li>
+<li>Pedido Facturado y Entregado: Genera la factura y la salida de inventario autómaticamente.</li>
+<li>Cotizaciones o Presupuestos: Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.</li>
+</ol>
+<p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, saboiendo que el procedimiento es exactamente igual, solo el resultado varía. Para esto porceda de la siguiente forma:</p>
+<ol>
+<li>
+<p>Seleccione la opción nueva orden.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/13f510d7-0ed6-448b-ba78-11624f5b3bbe" alt="image"></p>
+</li>
+<li>
+<p>Seleccione el cliente.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d" alt="image"></p>
+</li>
+<li>
+<p>Seleccione los Items en productos</p>
+</li>
+<li>
+<p>Modifique las cantidades</p>
+</li>
+<li></li>
+</ol>
 <h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>
 <h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
 <p>La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.</p>
