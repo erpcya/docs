@@ -52,6 +52,12 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 
 
 # Gestión de Asesor
+La gestión del asesor se basa en brindar asesoramiento y asistencia a los clientes para maximizar la probabilidad de una venta. En el punto de venta será responsable de diferentes tareas relacionadas con la fuerza de ventas y con esto crea un entorno atractivo para los clientes.
+
+Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, tomar un pedido y finalmente liberarlo para ser facturado en una caja asignada.
+
+![asesorpos](https://github.com/erpcya/docs/assets/9578152/4df6dc2d-77d5-4ee9-9f4d-2097789641a3)
+
 ## Selección de Terminal Asignado
 
 ## Crear Cliente
