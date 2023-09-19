@@ -8,6 +8,8 @@ article: false
 ## ¿Qué es un Punto de Venta?
 
 Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
+![POS](https://github.com/erpcya/docs/assets/9578152/c5c94120-b061-4458-a2ab-4aaecf536404)
+
 
 ## ¿Qué Beneficio Traerá a Tu Empresa?
 
