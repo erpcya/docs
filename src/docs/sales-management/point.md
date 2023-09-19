@@ -46,13 +46,14 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 - El Cajero debe estar configurado en el terminal.
   - Debe tener acceso a la organización.
   - Debe tener acceso al terminal.
-- La tasa del día debe ser creada con antelación.
+- La tasa de cambio del día debe ser creada con antelación.
 - El arqueo de caja del día anterior debe haberlo completado.
 - El Cajero debe aperturar la caja con el dinero asignado como fondo de caja.
 
 
 # Gestión de Asesor
 ## Selección de Terminal Asignado
+
 ## Crear Cliente
 ## Registro de Nuevo Pedido
 ## Consulta de Producto
