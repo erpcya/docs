@@ -61,33 +61,42 @@ Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, 
 El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:
 
 1. Ingrese de manera habitual a la aplicación.
+
    ![image](https://github.com/erpcya/docs/assets/9578152/a3df6e68-4ced-4bcb-965a-fc3803300760)
 
 2. Una vez dentro seleccione la opción **Punto de Venta**, ubicado en gestión de ventas.
+ 
    ![image](https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e)
 
 3. Estando en el Punto de venta vaya a la opción punto de venta.
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/018eb774-5f2c-4b2c-b1a2-b78e5446072a)
 
 4. Seleccione el terminal con el que desea trabajar. 
+
   ![image](https://github.com/erpcya/docs/assets/9578152/556d9488-09e8-4d02-a56c-5e64e0671518)
 
 5.  Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.
+
 ## Gestionar Clientes
 El Asesor puede gestionar la información de sus clientes, en este sentido, podrá crear o actualizar la información de sus clientes.
 
 ### Crear Nuevo Cliente
 Si usted desea crear un nuevo cliente en el Punto de Venta deberá realizar la siguiente operación:
 1. Vaya la opción **Socio de Negocio** del Punto de Venta
+
   ![image](https://github.com/erpcya/docs/assets/9578152/2cc6a2bf-3abb-4ef8-af84-262f8f96c88d)
 
 2. Seleccione la opción Nuevo **Socio de Negocio**
+
   ![image](https://github.com/erpcya/docs/assets/9578152/b5119a45-ec7c-45b1-bc7c-50c683088774)
 
 3. Se desplegará el siguiente formulario
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/0dfb0a2d-1996-4207-8bbb-2ab2565cfc0d)
 
 4. A continuación indique el código del cliente (Cédula/RIF) en el campo **Código**.
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/5df9e4bd-6dcd-4007-8f3a-a8b84cd2c703)
 
 ::: info Nota
@@ -97,18 +106,23 @@ ADempiere actualiza de modo automático el campo **Número Identificación**, es
 :::
 
 5. A continuación indique el nombre o razón social del cliente en el campo **Nombre**.
+
   ![image](https://github.com/erpcya/docs/assets/9578152/9b6e832a-f525-46d3-9751-e0552b484838)
 
 6. Si es persona jurídica seleccione si es contribuyente en el campo **Contribuyente**
+
   ![image](https://github.com/erpcya/docs/assets/9578152/499f3eb4-a1dd-4806-8fa9-8332da92b63e)
 
 7. Si es persona jurídica seleccione el tipo de contribuyente
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/cf095e9a-cfba-483f-b0a6-1f1156e571e7)
 
 8. Registre su correo electrónico en el campo **E-mail**
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/382a0b73-85dd-412f-bd43-64ed54e14bef)
 
 9. Registre su teléfono en el campo **Teléfono**
+ 
   ![image](https://github.com/erpcya/docs/assets/9578152/5dd10b95-86d3-4e63-9cc0-0993c143f96c)
 
 10.Registre el detalle de la dirección:
@@ -120,15 +134,6 @@ ADempiere actualiza de modo automático el campo **Número Identificación**, es
   ![image](https://github.com/erpcya/docs/assets/9578152/a213662d-5198-480a-bcd1-a4aa9acf1332)
 
 11. Seleccione la opción ok, y ya su cliente estará registrado y listo para ser usado.
-12. 
-
-
-|Nombre Cliente|
-
-![Campo](/assets/img/docs/sales-management/sam-sales-image312.png)
-
-Imagen 7. Nombre Socio de Negocio
-
 
 
 
