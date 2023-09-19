@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-19T20:55:24.975Z</updated>
+  <updated>2023-09-19T21:11:58.924Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -184,6 +184,199 @@
     </contributor>
     <published>2023-05-03T19:30:21.000Z</published>
     <rights>Copyright by Yamel Senih</rights>
+  </entry>
+  <entry>
+    <title type="html">¿Qué es un Punto de Venta?</title>
+    <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
+    <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
+    <updated>2023-09-19T21:02:34.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="title-punto-de-ventacategory-documentationstar-9sticky-9article-false" tabindex="-1"> <img src="https://github.com/erpcya/docs/assets/9578152/710d1693-5d8a-47dd-a4d1-319d61b9195a" alt="image">---
+title: Punto de Venta
+category: Documentation
+star: 9
+sticky: 9
+article: false</h2>
+<h1 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h1>
+<p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
+<img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
+<h1 id="¿que-beneficio-traera-a-tu-empresa" tabindex="-1"> ¿Qué Beneficio Traerá a Tu Empresa?</h1>
+<ul>
+<li>Operación agil y eficiente</li>
+<li>Rapidez y seguridad</li>
+<li>Gestión multimonedas</li>
+<li>Gestión Tributaria</li>
+<li>Reportes Variados de Cierres</li>
+<li>Ofrecer más opciones de pago</li>
+<li>Obtener datos precisos de tus ventas</li>
+<li>Mejorar la experiencia del cliente</li>
+</ul>
+<h1 id="¿que-ofrece-adempiere" tabindex="-1"> ¿Qué ofrece ADempiere?</h1>
+<p>ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cualquier lugar.</p>
+<ul>
+<li>Controla las ventas de tus empleados.</li>
+<li>Además de informes en tiempo real, consulta informes diarios, semanales o mensuales.</li>
+<li>Consulta tus pedidos recibidos y por recibir.</li>
+<li>¿Quieres ver cómo va tu negocio? ¡Hazlo desde cualquier lugar!</li>
+<li>Generar una factura de forma directa en cualquier moneda.</li>
+<li>Cobrar en diferentes metodos de pagos.</li>
+<li>Generación de IGTF.</li>
+<li>Carga de Comprobante de IVA.</li>
+<li>Devoluciones Totales y Parciales.</li>
+<li>Arqueo de Cajas.</li>
+</ul>
+<p>El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.4 para la localización Venezuela.</p>
+<h1 id="¿que-consideraciones-debe-tomar-en-cuenta" tabindex="-1"> ¿Qué Consideraciones Debe Tomar en Cuenta?</h1>
+<ul>
+<li>El asesor debe estar configurado en el terminal.
+<ul>
+<li>Debe tener acceso a la organización.</li>
+<li>Debe tener acceso al terminal.</li>
+</ul>
+</li>
+<li>El Cajero debe estar configurado en el terminal.
+<ul>
+<li>Debe tener acceso a la organización.</li>
+<li>Debe tener acceso al terminal.</li>
+</ul>
+</li>
+<li>La tasa de cambio del día debe ser creada con antelación.</li>
+<li>El arqueo de caja del día anterior debe haberlo completado.</li>
+<li>El Cajero debe aperturar la caja con el dinero asignado como fondo de caja.</li>
+</ul>
+<h1 id="gestion-de-asesor" tabindex="-1"> Gestión de Asesor</h1>
+<p>La gestión del asesor se basa en brindar asesoramiento y asistencia a los clientes para maximizar la probabilidad de una venta. En el punto de venta será responsable de diferentes tareas relacionadas con la fuerza de ventas y con esto crea un entorno atractivo para los clientes.</p>
+<p>Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, tomar un pedido y finalmente liberarlo para ser facturado en una caja asignada.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/21daab7f-b799-4af9-81e8-5c64baa3f345" alt="asesorvpos"></p>
+<h2 id="seleccion-de-terminal-asignado" tabindex="-1"> Selección de Terminal Asignado</h2>
+<p>El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:</p>
+<ol>
+<li>
+<p>Ingrese de manera habitual a la aplicación.
+<img src="https://github.com/erpcya/docs/assets/9578152/a3df6e68-4ced-4bcb-965a-fc3803300760" alt="image"></p>
+</li>
+<li>
+<p>Una vez dentro seleccione la opción <strong>Punto de Venta</strong>, ubicado en gestión de ventas.
+<img src="https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e" alt="image"></p>
+</li>
+<li>
+<p>Estando en el Punto de venta vaya a la opción punto de venta.
+<img src="https://github.com/erpcya/docs/assets/9578152/018eb774-5f2c-4b2c-b1a2-b78e5446072a" alt="image"></p>
+</li>
+<li>
+<p>Seleccione el terminal con el que desea trabajar.
+<img src="https://github.com/erpcya/docs/assets/9578152/556d9488-09e8-4d02-a56c-5e64e0671518" alt="image"></p>
+</li>
+<li>
+<p>Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.</p>
+</li>
+</ol>
+<h2 id="crear-cliente" tabindex="-1"> Crear Cliente</h2>
+<h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
+<h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>
+<h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
+<p>La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/15088f61-4d32-477f-b236-f2e2aa9dc1c3" alt="CajeroPOS "></p>
+<h2 id="seleccion-de-terminal-asignado-1" tabindex="-1"> Selección de Terminal Asignado</h2>
+<p>El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:</p>
+<ol>
+<li>
+<p>Ingrese de manera habitual a la aplicación.
+<img src="https://github.com/erpcya/docs/assets/9578152/a3df6e68-4ced-4bcb-965a-fc3803300760" alt="image"></p>
+</li>
+<li>
+<p>Una vez dentro seleccione la opción <strong>Punto de Venta</strong>, ubicado en gestión de ventas.
+<img src="https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e" alt="image"></p>
+</li>
+<li>
+<p>Estando en el Punto de venta vaya a la opción punto de venta.
+<img src="https://github.com/erpcya/docs/assets/9578152/7a615600-37f7-4cd7-92c0-969f89db1e91" alt="image"></p>
+</li>
+<li>
+<p>Seleccione el terminal con el que desea trabajar.
+<img src="https://github.com/erpcya/docs/assets/9578152/85c0507c-554d-4a11-9c6e-224eaacee627" alt="image"></p>
+</li>
+<li>
+<p>Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.</p>
+</li>
+</ol>
+<h2 id="apertura-de-caja" tabindex="-1"> Apertura de Caja</h2>
+<h3 id="apertura-desde-un-fondo-de-caja" tabindex="-1"> Apertura Desde un Fondo de Caja</h3>
+<h3 id="crear-fondo-de-caja" tabindex="-1"> Crear Fondo de Caja</h3>
+<h2 id="seleccion-de-pedido" tabindex="-1"> Selección de Pedido</h2>
+<h2 id="cambios-de-atributos" tabindex="-1"> Cambios de Atributos</h2>
+<h2 id="cobranza" tabindex="-1"> Cobranza</h2>
+<h3 id="efectivo" tabindex="-1"> Efectivo</h3>
+<h3 id="transferencia" tabindex="-1"> Transferencia</h3>
+<h3 id="tarjeta-de-credito" tabindex="-1"> Tarjeta de Crédito</h3>
+<h3 id="tarjeta-de-debito" tabindex="-1"> Tarjeta de Débito</h3>
+<h3 id="pago-movil" tabindex="-1"> Pago Móvil</h3>
+<h3 id="tarjeta-de-credito-1" tabindex="-1"> Tarjeta de Crédito</h3>
+<h3 id="zelle" tabindex="-1"> Zelle</h3>
+<h3 id="credito" tabindex="-1"> Crédito</h3>
+<h2 id="generacion-de-igtf" tabindex="-1"> Generación de IGTF</h2>
+<h2 id="carga-de-comprobante-de-iva" tabindex="-1"> Carga de Comprobante de IVA</h2>
+<h2 id="consultas-de-ventas" tabindex="-1"> Consultas de Ventas</h2>
+<h3 id="por-facturar" tabindex="-1"> Por Facturar</h3>
+<h3 id="ventas-de-pasillo" tabindex="-1"> Ventas de Pasillo</h3>
+<h3 id="a-credito" tabindex="-1"> A Crédito</h3>
+<h3 id="por-entregar" tabindex="-1"> Por Entregar</h3>
+<h3 id="solo-completas" tabindex="-1"> Solo Completas</h3>
+<h3 id="propuestas" tabindex="-1"> Propuestas</h3>
+<h3 id="anuladas" tabindex="-1"> Anuladas</h3>
+<h3 id="cerradas" tabindex="-1"> Cerradas</h3>
+<h3 id="devoluciones" tabindex="-1"> Devoluciones</h3>
+<h2 id="devoluciones-1" tabindex="-1"> Devoluciones</h2>
+<h3 id="devolucion-total" tabindex="-1"> Devolución Total</h3>
+<h3 id="devolucion-parcial" tabindex="-1"> Devolución Parcial</h3>
+<h2 id="entrega-de-producto" tabindex="-1"> Entrega de Producto</h2>
+<h3 id="entrega-total" tabindex="-1"> Entrega Total</h3>
+<h3 id="entrega-parcial" tabindex="-1"> Entrega Parcial</h3>
+<h2 id="cierre-de-caja" tabindex="-1"> Cierre de Caja</h2>
+<h3 id="cierre-resumen" tabindex="-1"> Cierre Resumen</h3>
+<h3 id="cierre-detalle" tabindex="-1"> Cierre Detalle</h3>
+<h1 id="gestion-de-supervisor-de-turno" tabindex="-1"> Gestión de Supervisor de Turno</h1>
+<h2 id="descuentos" tabindex="-1"> Descuentos</h2>
+<h3 id="descuentos-en-lineas" tabindex="-1"> Descuentos en Lineas</h3>
+<h3 id="descuentos-en-monto-general" tabindex="-1"> Descuentos en Monto General</h3>
+<h2 id="asignar-vendedor" tabindex="-1"> Asignar Vendedor</h2>
+<h2 id="desasignar-vendedor" tabindex="-1"> Desasignar Vendedor</h2>
+<h2 id="retiro-de-caja" tabindex="-1"> Retiro de Caja</h2>
+<h2 id="ingreso-de-caja" tabindex="-1"> Ingreso de Caja</h2>
+<h2 id="ajustes-de-facturas" tabindex="-1"> Ajustes de Facturas</h2>
+<h1 id="reportes-de-gestion-de-ventas" tabindex="-1"> Reportes de Gestión de Ventas</h1>
+<p>Ubique y seleccione en el menú de ADempiere, la carpeta <strong>Gestión de Ventas</strong>, luego seleccione la carpeta <strong>Orden de Ventas</strong>, por último seleccione la ventana <strong>Punto de Venta</strong>.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image304.png" alt="Campo"></p>
+<p>Imagen 1. Menú de ADempiere</p>
+<p>Podrá visualizar la ventana <strong>Punto de Venta</strong> en ADempiere.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image305.png" alt="Campo"></p>
+<p>Imagen 2. Ventana Punto de Venta</p>
+<p>Seleccione el icono <strong>Nueva Orden</strong>, ubicado en la barra de herramientas superior derecha.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image306.png" alt="Campo"></p>
+<p>Imagen 3. Icono Registro Nueva Orden</p>
+<p>Si desea relacionar su venta a un cliente fiscalmente, puede seleccionar un cliente existente o crear un nuevo cliente:</p>
+<p>Para seleccionar cliente existente, proceda a tipear el nombre, RIF o cédula del cliente como lo muetras la Imagen.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image307.png" alt="Campo"></p>
+<p>Imagen 4. Búsqueda de Cliente</p>
+<p>Para seleccionar cliente existente, proceda a tipear el nombre, RIF o cédula del cliente como lo muetras la Imagen.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image308.png" alt="Campo"></p>
+<p>Imagen 4. Nuevo Cliente</p>
+<p>Seleccione la opción <strong>Crear Nuevo Socio de Negocio</strong>.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image309.png" alt="Campo"></p>
+<p>Imagen 5. Opción Nuevo Cliente</p>
+<p>A continuación Seleccione la opción <strong>Crear Nuevo Socio de Negocio</strong>, y se desplegará la siguiente ventana.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image310.png" alt="Campo"></p>
+<p>Imagen 6. Ventana Crear Socio de Negocio</p>
+<p>A continuación indique el código del cliente (Cédula/RIF) en el campo <strong>Código</strong>.</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image311.png" alt="Campo"></p>
+<p>Imagen 7. Código Socio de Negocio</p>
+<p>Warning</p>
+<p>ADempiere actualiza de modo automático el campo <strong>Número Identificación</strong>, este campo es utilizado para reportes fiscales (Ejemplo:IGTF).</p>
+<p>A continuación indique el nombre o razón social del cliente en el campo <strong>Nombre</strong>.</p>
+<p>|Nombre Cliente|</p>
+<p><img src="/assets/img/docs/sales-management/sam-sales-image312.png" alt="Campo"></p>
+<p>Imagen 7. Nombre Socio de Negocio</p>
+]]></content>
+    <published>2023-03-08T22:34:47.000Z</published>
   </entry>
   <entry>
     <title type="html">Nosotros</title>
