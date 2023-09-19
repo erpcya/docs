@@ -155,6 +155,30 @@ ADempiere actualiza de modo automático el campo **Número Identificación**, es
 4. Guarde en la opción ok.
    
 ## Registro de Nuevo Pedido
+El pedido del punto de venta es un documento que se genera como compromiso de venta, seleccionando los items y luego es liberado para su posterior facturación, en esta herramienta un pedido puede ser de los siguientes tipos:
+
+1. Pedido Fiscal: Genera una factura fiscal.
+2. Pedido Nota de Entrega: Genera una nota de entrega.
+3. Pedido no Facturado: No imprime factura al cobrarlo.
+4. Pedido no entregado: No genera entrega al cobrarlo.
+5. Pedido Facturado y Entregado: Genera la factura y la salida de inventario autómaticamente.
+6. Cotizaciones o Presupuestos: Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.
+
+Ahora bien para este ejemplo vamos a tomar un pedido fiscal, saboiendo que el procedimiento es exactamente igual, solo el resultado varía. Para esto porceda de la siguiente forma:
+
+1. Seleccione la opción nueva orden.
+   
+   ![image](https://github.com/erpcya/docs/assets/9578152/13f510d7-0ed6-448b-ba78-11624f5b3bbe)
+
+3. Seleccione el cliente.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d)
+
+5. Seleccione los Items en productos
+
+   
+7. Modifique las cantidades
+8. 
 
 ## Consulta de Producto
 
