@@ -5,12 +5,12 @@ star: 9
 sticky: 9
 article: false
 ---
-## ¿Qué es un Punto de Venta?
+# ¿Qué es un Punto de Venta?
 
 Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 ![POS (1)](https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411)
 
-## ¿Qué Beneficio Traerá a Tu Empresa?
+# ¿Qué Beneficio Traerá a Tu Empresa?
 
 - Operación agil y eficiente
 - Rapidez y seguridad
@@ -21,7 +21,7 @@ Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el in
 - Obtener datos precisos de tus ventas
 - Mejorar la experiencia del cliente
 
-## ¿Qué ofrece ADempiere?
+# ¿Qué ofrece ADempiere?
 
 ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cualquier lugar.
 
@@ -38,7 +38,7 @@ ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cu
 
 El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.4 para la localización Venezuela.
 
-## ¿Qué Consideraciones Debe Tomar en Cuenta?
+# ¿Qué Consideraciones Debe Tomar en Cuenta?
 
 - El asesor debe estar configurado en el terminal.
   - Debe tener acceso a la organización.
@@ -51,40 +51,64 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 - El Cajero debe aperturar la caja con el dinero asignado como fondo de caja.
 
 
-### Gestión de Asesor
-#### Selección de Terminal Asignado
-#### Crear Cliente
-#### Registro de Nuevo Pedido
-#### Consulta de Producto
+# Gestión de Asesor
+## Selección de Terminal Asignado
+## Crear Cliente
+## Registro de Nuevo Pedido
+## Consulta de Producto
 
-### Gestión de Cajero
-#### Selección de Terminal Asignado
-#### Apertura de Caja
-##### Apertura Desde un Fondo de Caja
-##### Crear Fondo de Caja
-#### Selección de Pedido 
-#### Cambios de Atributos
-#### Cobranza
-##### Efectivo
-##### Transferencia
-##### Tarjeta de Crédito
-##### Tarjeta de Débito
-##### Pago Móvil
-##### Tarjeta de Crédito
-##### Zelle
-##### Crédito
-#### Generación de IGTF
-#### Carga de Comprobante de IVA
-#### Consultas de Ventas
-##### Por Facturar
-##### Ventas de Pasillo
-##### A Crédito
-##### Por Entregar
-##### Solo Completas
-##### Propuestas
-##### Anuladas
-##### Cerradas
-##### Devoluciones
+# Gestión de Cajero
+## Selección de Terminal Asignado
+## Apertura de Caja
+### Apertura Desde un Fondo de Caja
+### Crear Fondo de Caja
+## Selección de Pedido 
+## Cambios de Atributos
+## Cobranza
+### Efectivo
+### Transferencia
+### Tarjeta de Crédito
+### Tarjeta de Débito
+### Pago Móvil
+### Tarjeta de Crédito
+### Zelle
+### Crédito
+## Generación de IGTF
+## Carga de Comprobante de IVA
+## Consultas de Ventas
+### Por Facturar
+### Ventas de Pasillo
+### A Crédito
+### Por Entregar
+### Solo Completas
+### Propuestas
+### Anuladas
+### Cerradas
+### Devoluciones
+## Devoluciones
+### Devolución Total
+### Devolución Parcial
+## Entrega de Producto
+### Entrega Total
+### Entrega Parcial
+## Cierre de Caja
+### Cierre Resumen
+### Cierre Detalle
+
+# Gestión de Supervisor de Turno
+## Descuentos
+### Descuentos en Lineas
+### Descuentos en Monto General
+## Asignar Vendedor
+## Desasignar Vendedor
+## Retiro de Caja
+## Ingreso de Caja
+## Ajustes de Facturas
+
+# Reportes de Gestión de Ventas
+
+
+
 
 
 
