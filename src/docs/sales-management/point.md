@@ -235,17 +235,17 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
      
       3. **Eliminar Item:** Permite eliminar de manera directa un item.
          ![image](https://github.com/erpcya/docs/assets/9578152/35d4681e-8fb1-4fb1-b562-0826ef41672a)
-
         
-  11. 
-12. 
-13. 
+5. Seleccione la opción **Liberar Pedido**, esto debe hacerlo cuando ya su pedido esté completo y listo para facturar o entregar.
+   ![image](https://github.com/erpcya/docs/assets/9578152/86b19212-a3e8-4847-a416-4e5d2de00043)
 
-  1.
+8. Para imprimir el pedido debe proceder de la siguiente manera:
+   1. Seleccione la opción **Orden de Venta** en **Opciones Rápidas del Punto de Ventas**
+      ![image](https://github.com/erpcya/docs/assets/9578152/ef68956c-b283-46d6-8e83-ceae79611f19)
 
-   
-7. Modifique las cantidades
-8. 
+   2. Vaya a la opción **Ver Vista Previa**
+      ![image](https://github.com/erpcya/docs/assets/9578152/90024641-20aa-4e0a-9f63-571ad146ce49)
+
 
 ## Consulta de Producto
 
