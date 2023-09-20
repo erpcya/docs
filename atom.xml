@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T21:17:38.042Z</updated>
+  <updated>2023-09-20T21:26:35.412Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T21:08:21.000Z</updated>
+    <updated>2023-09-20T21:16:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -443,14 +443,23 @@
 </li>
 </ol>
 </li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>
+<p>Seleccione la opción <strong>Liberar Pedido</strong>, esto debe hacerlo cuando ya su pedido esté completo y listo para facturar o entregar.
+<img src="https://github.com/erpcya/docs/assets/9578152/86b19212-a3e8-4847-a416-4e5d2de00043" alt="image"></p>
+</li>
+<li>
+<p>Para imprimir el pedido debe proceder de la siguiente manera:</p>
+<ol>
+<li>
+<p>Seleccione la opción <strong>Orden de Venta</strong> en <strong>Opciones Rápidas del Punto de Ventas</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/ef68956c-b283-46d6-8e83-ceae79611f19" alt="image"></p>
+</li>
+<li>
+<p>Vaya a la opción <strong>Ver Vista Previa</strong>
+<img src="https://github.com/erpcya/docs/assets/9578152/90024641-20aa-4e0a-9f63-571ad146ce49" alt="image"></p>
+</li>
 </ol>
-<ol start="7">
-<li>Modifique las cantidades</li>
-<li></li>
+</li>
 </ol>
 <h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>
 <h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
