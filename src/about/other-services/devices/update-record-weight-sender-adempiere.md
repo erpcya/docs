@@ -24,7 +24,7 @@ Para efectos demostrativos se instala la versión de Record-Weight-Sender-DotNet
 
 1. Ejecutar el instalador
 
-![0](/assets/img/about/other-services/devices/weight-sender-start-installer.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-start-installer.png)
 
 Permisos de Instalación
 
@@ -32,11 +32,11 @@ Permisos de Instalación
 
 Ventana de Bienvenida
 
-![0](/assets/img/about/other-services/devices/weight-sender-welcome.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-welcome.png)
 
 2. Licencia de la aplicación
 
-![0](/assets/img/about/other-services/devices/weight-sender-license.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-license.png)
 
 3. Ruta de Instalación
 
@@ -46,25 +46,25 @@ La aplicación se instala por defecto en la siguiente ubicación:
 C:\Users\(Usuario de Windows)\AppData\Local\Record-Weight-Sender-DotNet
 ~~~
 
-![0](/assets/img/about/other-services/devices/weight-sender-install-path.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-install-path.png)
 
 4. Progreso Instalación
 
-![0](/assets/img/about/other-services/devices/weight-sender-progress-install.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-progress-install.png)
 
 5. Finalizar Instalación
 
-![0](/assets/img/about/other-services/devices/weight-sender-install-finish.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-install-finish.png)
 
 6. Icono creado en el Escritorio de Windows.
 
-![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.png)
 
 Al Finalizar la instalación se actualizara automaticamente el servio de Windows.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.png)
 
 Modificando la **Ruta de Acceso al Ejecutable** con la siguiente ruta:
 

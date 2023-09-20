@@ -28,7 +28,7 @@ Ejecutar el instalador como Administrador.
 
 1. Ejecutar Instalador
 
-![0](/assets/img/about/other-services/devices/weight-sender-start-installer.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-start-installer.png)
 
 Permisos de Instalación
 
@@ -36,11 +36,11 @@ Permisos de Instalación
 
 Ventana de Bienvenida
 
-![0](/assets/img/about/other-services/devices/weight-sender-welcome.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-welcome.png)
 
 2. Licencia de la aplicación
 
-![0](/assets/img/about/other-services/devices/weight-sender-license.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-license.png)
 
 3. Ruta de Instalación
 
@@ -50,25 +50,25 @@ La aplicación se instala por defecto en la siguiente ubicación:
 C:\Users\(Usuario de Windows)\AppData\Local\Record-Weight-Sender-DotNet
 ~~~
 
-![0](/assets/img/about/other-services/devices/weight-sender-install-path.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-install-path.png)
 
 4. Progreso Instalación
 
-![0](/assets/img/about/other-services/devices/weight-sender-progress-install.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-progress-install.png)
 
 5. Finalizar Instalación
 
-![0](/assets/img/about/other-services/devices/weight-sender-install-finish.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-install-finish.png)
 
 6. Icono creado en el Escritorio de Windows.
 
-![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.png)
 
 7. Además se creara un Servicio de Windows con el Nombre de **Record Weight EPRCYA**
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.png)
 
 ## Configurar la aplicación para Lectura de peso
 
@@ -82,7 +82,7 @@ Se deben seguir los siguientes pasos:
 
 1. Verificar que este creada la siguiente Ruta: `C:Users(Usuario de Windows)AppDataLocalRecord-Weight-Sender-DotNet` y a su vez en dicha ubicación existan los siguientes directorios:
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-structure.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-structure.png)
 
 Debe existir la carpeta `resources` y una carpeta que en su nombre incluya las siguientes siglas **rs- (Ej. rs-1.8-win-x64)**
 
@@ -90,7 +90,7 @@ Debe existir la carpeta `resources` y una carpeta que en su nombre incluya las s
 
 3. Si luego de lo anterior el problema persiste, es necesario verificar en el **Visor de Eventos en Windows** cual es la falla.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-start-error.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service-start-error.png)
 
 Para el caso del ejemplo la aplicacion se instalo sin permisologia de **Administrador**, y por esa razon durante la instalacion no se creo el archivo de configuracion **config_service.yaml** que usa el servicio para iniciar. En este caso la solucion es copiar el archivo a:
 

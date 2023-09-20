@@ -14,9 +14,9 @@ article: false
 
 Verificar que existe un Servicio de Windows con el Nombre de **Record Weight EPRCYA**.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.png)
 
 Para verificar que el servicio funcione, abrir las Propiedades del servicio y presionar el boton iniciar el estado del servicio debe mantenerse **En Ejecución**, ademas la **Ruta de Acceso al Ejecutable** debe coincidir con la version instalada.
 
@@ -32,15 +32,15 @@ Para este caso se demostrará como hacerlo usando la aplicacion `XCTU`:
 
 1. Abrimos la aplicacion **XCTU**.
 
-![0](/assets/img/about/other-services/devices/weight-sender-xctu.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-xctu.png)
 
 2. Selecionar el Puerto Serial, y ajustar la Velocidad de transmisión (Baud)
 
-![0](/assets/img/about/other-services/devices/weight-sender-xctu_window.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-xctu_window.png)
 
 3. Ir a la Pestaña terminal y presionar boton **Open COM Port** si esta funcionando correctamente, podrás ver el peso que se obtiene desde la romana en pantalla.
 
-![0](/assets/img/about/other-services/devices/weight-sender-xctu_window_terminal.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-xctu_window_terminal.png)
 
 Es importante cerrar el puerto usando el boton **Close COM port**.
 

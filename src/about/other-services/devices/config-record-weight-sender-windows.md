@@ -20,23 +20,23 @@ Se debe conocer en puerto COM se encuentra conectado la balanza, ademas de la es
 C:\Users\(Usuario de Windows)\AppData\Local\Record-Weight-Sender-DotNet
 ```
 
-![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-go-to-folder.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-go-to-folder.png)
 
 Si accedes usando el Acceso directo debes regresar una carpeta atrás, la ruta previamente mencionada debe existir la siguiente distribuición de directorios.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-structure.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-structure.png)
 
 Configurar parámetros de la aplicación en archivo scale.yaml
 
 Para realizar este paso se debe acceder la carpeta resources.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-config-files.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-config-files.png)
 
 Abrimos el siguiente archivo **printer.yaml** el cual tiene la siguiente estructura.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-scale-yaml.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-scale-yaml.png)
 
 Al modificar el archivo se deben respetar las identaciónes y espacios en blanco, ya que de no ser asi la aplicación no iniciara.
 
@@ -114,11 +114,11 @@ Sección scale:
 
 1. Iniciar la aplicación para verificar la correcta configuración
 
-![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.png)
 
 Si la apliciación esta correctamente configurada al iniciarla debe mostrar la siguiente consola de terminal.
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-start-app.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-start-app.png)
 
 
 Si por el contrario sucede uno de las siguiente casos:
@@ -129,9 +129,9 @@ Esto sucede debido a que hay un error en los datos de conexión verificar los pa
 
 4. Verificar que existe un Servicio de Windows con el Nombre de Record Weight EPRCYA
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.PNG)
+![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.png)
 
    - Parara verificar que el servicio funcione, abrir las Propiedades del servicio y presionar el boton iniciar el estado del servicio debe mantenerse **En Ejecución**
 
