@@ -170,13 +170,11 @@ El pedido del punto de venta es un documento que se genera como compromiso de ve
 1. **Pedido no entregado:** No genera entrega inmediatamente luego de cobrarlo, ideal para tiendas donde manejan un área de logistica y despacho de mercancía.
 2. **Pedido Entregado:** Genera la salida de inventario autómaticamente luego de cobrar el pedido, ideal para tiendas tipo supermercados e hipermercados.
 
-### Presupuestos
+#### Presupuestos
 1. **Cotizaciones o Presupuestos:** Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.
 
 
 Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el procedimiento es exactamente igual para todos los casos, los tipos de documentos y su comportamiento dependerán del paquete que sea instalado en su empresa, por lo que por cada documento varía el resultado. Ahora bien, para el ejemplo en cuestión porceda de la siguiente forma:
-
-
 
 1. Seleccione la opción nueva orden.
    
@@ -187,6 +185,7 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
    ![image](https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d)
 
 3. Seleccione los Items en productos.
+   
 ![image](https://github.com/erpcya/docs/assets/9578152/f8caa3be-88d4-4198-9039-1e93a5355deb)
 
 4. Al seleccionar el producto, el item se agrega al panel de items
@@ -205,6 +204,7 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
   8. **Convertido:** Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.
   9. **Opciones:** Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:
       1. **Información:** Muestra el detalle del producto, información relevante que es util para inducir una venta:
+         
          ![image](https://github.com/erpcya/docs/assets/9578152/5ebc69af-e421-48c3-90b2-c00cabed2db9)
 
          1.  Imágenes del Producto.
@@ -219,7 +219,9 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
          10. Cantidad a Vender en el Item.
          11. Unidad de Medida de Venta.
          12. Cantidad en unidad de medida base.
+             
       2. **Edición:** Permite editar las cantidades y algunos atributos del Item.
+         
          ![image](https://github.com/erpcya/docs/assets/9578152/3e78f912-2b15-4dae-a911-2cdfbece1dee)
 
          1. Equivalencia de unidad de medida base a unidad de medida mínima de venta: Muestra a modo de refencia la equivalencia en cantidades.
@@ -234,20 +236,31 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
          10. Cantidad Disponible: No es editable, muestra la cantidad disponible en el almacén seleccionado en la unidad de medida base del producto.
      
       3. **Eliminar Item:** Permite eliminar de manera directa un item.
+         
          ![image](https://github.com/erpcya/docs/assets/9578152/35d4681e-8fb1-4fb1-b562-0826ef41672a)
         
 5. Seleccione la opción **Liberar Pedido**, esto debe hacerlo cuando ya su pedido esté completo y listo para facturar o entregar.
+   
    ![image](https://github.com/erpcya/docs/assets/9578152/86b19212-a3e8-4847-a416-4e5d2de00043)
 
-8. Para imprimir el pedido debe proceder de la siguiente manera:
+6. Para imprimir el pedido debe proceder de la siguiente manera:
+   
    1. Seleccione la opción **Orden de Venta** en **Opciones Rápidas del Punto de Ventas**
+      
       ![image](https://github.com/erpcya/docs/assets/9578152/ef68956c-b283-46d6-8e83-ceae79611f19)
 
    2. Vaya a la opción **Ver Vista Previa**
+      
       ![image](https://github.com/erpcya/docs/assets/9578152/90024641-20aa-4e0a-9f63-571ad146ce49)
 
 
-## Consulta de Producto
+### Consulta de Producto
+La consulta de precios permite al asesor de ventas leer los códigos de sus productos desde un lector de barras o tipearlos, la aplicación le mostrara en pantalla la siguiente información:
+
+1. **Código:**
+2. **Nombre:**
+3. **Existencia:** 
+
 
 # Gestión de Cajero
 La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.
