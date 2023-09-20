@@ -219,7 +219,24 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
          10. Cantidad a Vender en el Item.
          11. Unidad de Medida de Venta.
          12. Cantidad en unidad de medida base.
+      2. **Edición:** Permite editar las cantidades y algunos atributos del Item.
+         ![image](https://github.com/erpcya/docs/assets/9578152/3e78f912-2b15-4dae-a911-2cdfbece1dee)
 
+         1. Equivalencia de unidad de medida base a unidad de medida mínima de venta: Muestra a modo de refencia la equivalencia en cantidades.
+         2. Precio: Muestra el precio del producto en la moneda con la que se gestiona el terminal, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+         3. Unidad de Medida de Venta: Muestra la unidad de medida con la que compra el producto, si el producto tiene unidad mínima de venta tomará esta unidad de medida, permite cambiar a otra unidad siempre que tenga conversión el producto.
+         4. Cantidad a Vender en el Item: Muestra la cantidad, inicialmente al cargar el producto es uno, puede ser modificada por el usuario, o eliminar el item.
+         5. Precio Base: No es editable, muestra el precio en la unidad de medida base del producto.
+         6. Unidad de Medida Base: No es editable, muestra la unidad de medida base del producto.
+         7. Cantidad Base: No es editable, muestra la cantidad en la unidad de medida base del producto.
+         8. % Descuento: Permite agregar un porcentaje de descuento al precio,puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+         9. Almacén: Permite modificar el almacén de la que venderá la mercancía, puede ser modificable,siempre y cuando su terminal tenga configurado más de un almacén.
+         10. Cantidad Disponible: No es editable, muestra la cantidad disponible en el almacén seleccionado en la unidad de medida base del producto.
+     
+      3. **Eliminar Item:** Permite eliminar de manera directa un item.
+         ![image](https://github.com/erpcya/docs/assets/9578152/35d4681e-8fb1-4fb1-b562-0826ef41672a)
+
+        
   11. 
 12. 
 13. 
