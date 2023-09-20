@@ -200,7 +200,7 @@ Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras*
 
 Imagen 19. Menú de ADempiere
 
-Realice el procedimiento regular para realizar un documento por pagar desde una Orden de Compra, explicado en el material [Documento por pagar](/src/about/services/products/requisition-to-invoice.md)
+Realice el procedimiento regular para realizar un documento por pagar desde una Orden de Compra, explicado en el material [Documento por pagar](/about/services/products/requisition-to-invoice.md)
 
 ![Factura de Importación](/assets/img/docs/lve/procedures/import/resources/facturaimpor.png)
 
