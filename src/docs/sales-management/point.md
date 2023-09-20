@@ -257,9 +257,15 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
 ### Consulta de Producto
 La consulta de precios permite al asesor de ventas leer los códigos de sus productos desde un lector de barras o tipearlos, la aplicación le mostrara en pantalla la siguiente información:
 
-1. **Código:**
-2. **Nombre:**
-3. **Existencia:** 
+![image](https://github.com/erpcya/docs/assets/9578152/04d836b6-a5b6-4568-8699-951f46121891)
+
+1. Código
+2. Nombre
+3. Existencia
+4. Disponibilidad
+5. Precio
+6. Precio Convertido
+7. Total General 
 
 
 # Gestión de Cajero
