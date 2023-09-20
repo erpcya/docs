@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T21:42:42.560Z</updated>
+  <updated>2023-09-20T21:56:09.297Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T21:30:50.000Z</updated>
+    <updated>2023-09-20T21:45:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -463,10 +463,15 @@
 </ol>
 <h3 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h3>
 <p>La consulta de precios permite al asesor de ventas leer los códigos de sus productos desde un lector de barras o tipearlos, la aplicación le mostrara en pantalla la siguiente información:</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/04d836b6-a5b6-4568-8699-951f46121891" alt="image"></p>
 <ol>
-<li><strong>Código:</strong></li>
-<li><strong>Nombre:</strong></li>
-<li><strong>Existencia:</strong></li>
+<li>Código</li>
+<li>Nombre</li>
+<li>Existencia</li>
+<li>Disponibilidad</li>
+<li>Precio</li>
+<li>Precio Convertido</li>
+<li>Total General</li>
 </ol>
 <h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
 <p>La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.</p>
