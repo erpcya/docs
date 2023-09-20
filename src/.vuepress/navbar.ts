@@ -22,6 +22,14 @@ export const enNavbarConfig = navbar([
           "advanced-functional-support-scheme/"
         ],
       },
+      {
+        text: "Otros Servicios",
+        children: [
+          "other-services/e-commerce",
+          "other-services/bot",
+          "other-services/devices",
+        ],
+      },
       
     ],
   },
