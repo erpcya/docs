@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T16:52:34.461Z</updated>
+  <updated>2023-09-20T18:41:26.689Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,11 +190,11 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T16:44:23.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h1>
+    <updated>2023-09-20T18:33:43.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
-<h1 id="¿que-beneficio-traera-a-tu-empresa" tabindex="-1"> ¿Qué Beneficio Traerá a Tu Empresa?</h1>
+<h2 id="¿que-beneficio-traera-a-tu-empresa" tabindex="-1"> ¿Qué Beneficio Traerá a Tu Empresa?</h2>
 <ul>
 <li>Operación agil y eficiente</li>
 <li>Rapidez y seguridad</li>
@@ -205,7 +205,7 @@
 <li>Obtener datos precisos de tus ventas</li>
 <li>Mejorar la experiencia del cliente</li>
 </ul>
-<h1 id="¿que-ofrece-adempiere" tabindex="-1"> ¿Qué ofrece ADempiere?</h1>
+<h2 id="¿que-ofrece-adempiere" tabindex="-1"> ¿Qué ofrece ADempiere?</h2>
 <p>ADempiere ofrece una herramienta con la que tendrás acceso a tu tienda desde cualquier lugar.</p>
 <ul>
 <li>Controla las ventas de tus empleados.</li>
@@ -220,7 +220,7 @@
 <li>Arqueo de Cajas.</li>
 </ul>
 <p>El presente material elaborado por ERPyA, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para generar una venta en ADempiere mediante su punto de venta, en su versión 3.9.4 para la localización Venezuela.</p>
-<h1 id="¿que-consideraciones-debe-tomar-en-cuenta" tabindex="-1"> ¿Qué Consideraciones Debe Tomar en Cuenta?</h1>
+<h2 id="¿que-consideraciones-debe-tomar-en-cuenta" tabindex="-1"> ¿Qué Consideraciones Debe Tomar en Cuenta?</h2>
 <ul>
 <li>El asesor debe estar configurado en el terminal.
 <ul>
@@ -238,11 +238,11 @@
 <li>El arqueo de caja del día anterior debe haberlo completado.</li>
 <li>El Cajero debe aperturar la caja con el dinero asignado como fondo de caja.</li>
 </ul>
-<h1 id="gestion-de-asesor" tabindex="-1"> Gestión de Asesor</h1>
+<h2 id="gestion-de-asesor" tabindex="-1"> Gestión de Asesor</h2>
 <p>La gestión del asesor se basa en brindar asesoramiento y asistencia a los clientes para maximizar la probabilidad de una venta. En el punto de venta será responsable de diferentes tareas relacionadas con la fuerza de ventas y con esto crea un entorno atractivo para los clientes.</p>
 <p>Un asesor de ventas debe poder registrar un cliente, actualizar datos, cotizar, tomar un pedido y finalmente liberarlo para ser facturado en una caja asignada.</p>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/21daab7f-b799-4af9-81e8-5c64baa3f345" alt="asesorvpos"></p>
-<h2 id="seleccion-de-terminal-asignado" tabindex="-1"> Selección de Terminal Asignado</h2>
+<h3 id="seleccion-de-terminal-asignado" tabindex="-1"> Selección de Terminal Asignado</h3>
 <p>El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:</p>
 <ol>
 <li>
@@ -265,9 +265,9 @@
 <ol start="5">
 <li>Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.</li>
 </ol>
-<h2 id="gestionar-clientes" tabindex="-1"> Gestionar Clientes</h2>
+<h3 id="gestionar-clientes" tabindex="-1"> Gestionar Clientes</h3>
 <p>El Asesor puede gestionar la información de sus clientes, en este sentido, podrá crear o actualizar la información de sus clientes.</p>
-<h3 id="crear-nuevo-cliente" tabindex="-1"> Crear Nuevo Cliente</h3>
+<h4 id="crear-nuevo-cliente" tabindex="-1"> Crear Nuevo Cliente</h4>
 <p>Si usted desea crear un nuevo cliente en el Punto de Venta deberá realizar la siguiente operación:</p>
 <ol>
 <li>Vaya la opción <strong>Socio de Negocio</strong> del Punto de Venta</li>
@@ -320,7 +320,7 @@
 <ol start="11">
 <li>Seleccione la opción ok, y ya su cliente estará registrado y listo para ser usado.</li>
 </ol>
-<h3 id="actualizar-cliente" tabindex="-1"> Actualizar Cliente</h3>
+<h4 id="actualizar-cliente" tabindex="-1"> Actualizar Cliente</h4>
 <ol>
 <li>
 <p>Busqué el cliente en el campo socio del negocio, escribiendo su cédula o su nombre.</p>
@@ -338,18 +338,24 @@
 <ol start="4">
 <li>Guarde en la opción ok.</li>
 </ol>
-<h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
+<h3 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h3>
 <p>El pedido del punto de venta es un documento que se genera como compromiso de venta, seleccionando los items y luego es liberado para su posterior facturación, en esta herramienta un pedido puede ser de los siguientes tipos:</p>
-<h3 id="" tabindex="-1"> </h3>
+<h4 id="documento-por-cobrar" tabindex="-1"> Documento por Cobrar</h4>
 <ol>
 <li><strong>Pedido Fiscal:</strong> Genera una factura fiscal al cobrarlo, esta es impresa en impresora fiscal o forma libre, la misma tiene implicaciones fiscales.</li>
 <li><strong>Pedido Nota de Entrega:</strong> Genera una nota de entrega al cobrarlo, esto quiere decir que el documento no es fiscal, hasta que el usuario decida facturarlo.</li>
 <li><strong>Pedido no Facturado:</strong> No genera factura o nota de entrega al cobrarlo, lo que quiere decir que es un pedido cobrado como anticipo.</li>
-<li><strong>Pedido no entregado:</strong> No genera entrega al cobrarlo.</li>
-<li><strong>Pedido Facturado y Entregado:</strong> Genera la factura y la salida de inventario autómaticamente.</li>
-<li><strong>Cotizaciones o Presupuestos:</strong> Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.</li>
 </ol>
-<p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, saboiendo que el procedimiento es exactamente igual, solo el resultado varía. Para esto porceda de la siguiente forma:</p>
+<h4 id="entregas-de-mercancia" tabindex="-1"> Entregas de Mercancia</h4>
+<ol>
+<li><strong>Pedido no entregado:</strong> No genera entrega inmediatamente luego de cobrarlo, ideal para tiendas donde manejan un área de logistica y despacho de mercancía.</li>
+<li><strong>Pedido Entregado:</strong> Genera la salida de inventario autómaticamente luego de cobrar el pedido, ideal para tiendas tipo supermercados e hipermercados.</li>
+</ol>
+<h3 id="presupuestos" tabindex="-1"> Presupuestos</h3>
+<ol start="4">
+<li><strong>Cotizaciones o Presupuestos:</strong> Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.</li>
+</ol>
+<p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el procedimiento es exactamente igual para todos los casos, los tipos de documentos y su comportamiento dependerán del paquete que sea instalado en su empresa, por lo que por cada documento varía el resultado. Ahora bien, para el ejemplo en cuestión porceda de la siguiente forma:</p>
 <ol>
 <li>
 <p>Seleccione la opción nueva orden.</p>
