@@ -158,13 +158,13 @@ ADempiere actualiza de modo automático el campo **Número Identificación**, es
    
 ## Registro de Nuevo Pedido
 El pedido del punto de venta es un documento que se genera como compromiso de venta, seleccionando los items y luego es liberado para su posterior facturación, en esta herramienta un pedido puede ser de los siguientes tipos:
-
-1. Pedido Fiscal: Genera una factura fiscal.
-2. Pedido Nota de Entrega: Genera una nota de entrega.
-3. Pedido no Facturado: No imprime factura al cobrarlo.
-4. Pedido no entregado: No genera entrega al cobrarlo.
-5. Pedido Facturado y Entregado: Genera la factura y la salida de inventario autómaticamente.
-6. Cotizaciones o Presupuestos: Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.
+### 
+1. **Pedido Fiscal:** Genera una factura fiscal al cobrarlo, esta es impresa en impresora fiscal o forma libre, la misma tiene implicaciones fiscales.
+2. **Pedido Nota de Entrega:** Genera una nota de entrega al cobrarlo, esto quiere decir que el documento no es fiscal, hasta que el usuario decida facturarlo.
+3. **Pedido no Facturado:** No genera factura o nota de entrega al cobrarlo, lo que quiere decir que es un pedido cobrado como anticipo.
+4. **Pedido no entregado:** No genera entrega al cobrarlo.
+5. **Pedido Facturado y Entregado:** Genera la factura y la salida de inventario autómaticamente.
+6. **Cotizaciones o Presupuestos:** Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.
 
 Ahora bien para este ejemplo vamos a tomar un pedido fiscal, saboiendo que el procedimiento es exactamente igual, solo el resultado varía. Para esto porceda de la siguiente forma:
 
