@@ -265,8 +265,21 @@ La consulta de precios permite al asesor de ventas leer los códigos de sus prod
 4. Disponibilidad
 5. Precio
 6. Precio Convertido
-7. Total General 
+7. Total General
 
+Para consultar los productos, proceda de la siguiente forma:
+1. Seleccione la opción **Opciones Generales** en **Opciones Rápidas del Punto de Ventas**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/88ffbea5-d8c0-4b4c-bc29-8c125cbcf441)
+
+2. Seleccione la opción **Consulta de Producto**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/9229f38a-fa1d-41c2-8eb8-e7d7c1cb6d68)
+ 
+3. Ingrese el código o nombre del producto para ver la información.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/ff679895-148a-4c03-82c6-846eba9432bf)
+ 
 
 # Gestión de Cajero
 La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.
