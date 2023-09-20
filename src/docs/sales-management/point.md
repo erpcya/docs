@@ -204,7 +204,22 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
   7. **Total:** Muestra el total a pagar por el item, es decir, **(precio unitario*cantidad)+impuesto**, no es editable.
   8. **Convertido:** Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.
   9. **Opciones:** Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:
-      
+      1. **Información:** Muestra el detalle del producto, información relevante que es util para inducir una venta:
+         ![image](https://github.com/erpcya/docs/assets/9578152/5ebc69af-e421-48c3-90b2-c00cabed2db9)
+
+         1.  Imágenes del Producto.
+         2.  Código.
+         3.  Nombre.
+         4.  Descripción.
+         5.  Unidad de Medida de Venta.
+         6.  Precio Base.
+         7.  Precio.
+         8.  Tasa de Impuesto.
+         9.  Equivalencia de unidad de medida base a unidad de medida mínima de venta.
+         10. Cantidad a Vender en el Item.
+         11. Unidad de Medida de Venta.
+         12. Cantidad en unidad de medida base.
+
   11. 
 12. 
 13. 
