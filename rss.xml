@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 20 Sep 2023 21:56:09 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2023 21:56:09 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2023 22:04:08 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2023 22:04:08 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -468,6 +468,21 @@
 <li>Precio Convertido</li>
 <li>Total General</li>
 </ol>
+<p>Para consultar los productos, proceda de la siguiente forma:</p>
+<ol>
+<li>
+<p>Seleccione la opción <strong>Opciones Generales</strong> en <strong>Opciones Rápidas del Punto de Ventas</strong>.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/88ffbea5-d8c0-4b4c-bc29-8c125cbcf441" alt="image"></p>
+</li>
+<li>
+<p>Seleccione la opción <strong>Consulta de Producto</strong>.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/9229f38a-fa1d-41c2-8eb8-e7d7c1cb6d68" alt="image"></p>
+<ol start="3">
+<li>Ingrese el código o nombre del producto para ver la información.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/ff679895-148a-4c03-82c6-846eba9432bf" alt="image"></p>
 <h1 id="gestion-de-cajero" tabindex="-1"> Gestión de Cajero</h1>
 <p>La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.</p>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/15088f61-4d32-477f-b236-f2e2aa9dc1c3" alt="CajeroPOS "></p>
