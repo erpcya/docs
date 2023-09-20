@@ -477,7 +477,23 @@ Una vez generado el pedido como se explica en el cápitulo anterior, se procede 
 ## Cambios de Atributos
 Esta opción permite a un cajero con autorización realiza cambios en los atributos del pedido, a continuación se detalla la implicación de cada atributo:
 
-1. 
+1. **Tipo de Documento:** El usuario puede cambiar el tipo de documento, seleccionando si desea que sea fiscal o no, este cambio tendrá implicaciones tributarias,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/84aba9b3-81d0-4b73-9221-386615739cd0)
+
+2.  **Almacén:**  El usuario puede cambiar el almacén del cuál desean egresar la mercancia,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/4ec103c5-c4af-4006-a244-1326410b01e6)
+
+3.  **Lista de Precios:**  El usuario puede cambiar la lista de precio del pedido, esto cambia y recalcula los precios del pedido,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/12597245-9279-4116-bdf0-f9b8fdf35a10)
+
+4.  **Campaña:**  El usuario puede cambiar la campaña del pedido, esto permite direccionar la venta a los canales correspondientes,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb)
+
+   
 ## Cobranza
 ### Efectivo
 ### Transferencia
