@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 20 Sep 2023 19:35:21 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2023 19:35:21 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2023 19:49:20 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2023 19:49:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -347,7 +347,7 @@
 <li><strong>Pedido Entregado:</strong> Genera la salida de inventario autómaticamente luego de cobrar el pedido, ideal para tiendas tipo supermercados e hipermercados.</li>
 </ol>
 <h3 id="presupuestos" tabindex="-1"> Presupuestos</h3>
-<ol start="4">
+<ol>
 <li><strong>Cotizaciones o Presupuestos:</strong> Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.</li>
 </ol>
 <p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el procedimiento es exactamente igual para todos los casos, los tipos de documentos y su comportamiento dependerán del paquete que sea instalado en su empresa, por lo que por cada documento varía el resultado. Ahora bien, para el ejemplo en cuestión porceda de la siguiente forma:</p>
@@ -361,11 +361,22 @@
 <p><img src="https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d" alt="image"></p>
 </li>
 <li>
-<p>Seleccione los Items en productos</p>
+<p>Seleccione los Items en productos.
+<img src="https://github.com/erpcya/docs/assets/9578152/f8caa3be-88d4-4198-9039-1e93a5355deb" alt="image"></p>
 </li>
 <li>
-<p>Modifique las cantidades</p>
+<p>Al seleccionar el producto, el item se agrega al panel de items</p>
 </li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/bee7d5f9-cb89-46b8-8919-bd8f9eda993f" alt="image"></p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<ol start="7">
+<li>Modifique las cantidades</li>
 <li></li>
 </ol>
 <h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>

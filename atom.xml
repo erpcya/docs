@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T19:35:21.627Z</updated>
+  <updated>2023-09-20T19:49:20.468Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T18:33:43.000Z</updated>
+    <updated>2023-09-20T19:41:17.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -352,7 +352,7 @@
 <li><strong>Pedido Entregado:</strong> Genera la salida de inventario autómaticamente luego de cobrar el pedido, ideal para tiendas tipo supermercados e hipermercados.</li>
 </ol>
 <h3 id="presupuestos" tabindex="-1"> Presupuestos</h3>
-<ol start="4">
+<ol>
 <li><strong>Cotizaciones o Presupuestos:</strong> Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.</li>
 </ol>
 <p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el procedimiento es exactamente igual para todos los casos, los tipos de documentos y su comportamiento dependerán del paquete que sea instalado en su empresa, por lo que por cada documento varía el resultado. Ahora bien, para el ejemplo en cuestión porceda de la siguiente forma:</p>
@@ -366,11 +366,22 @@
 <p><img src="https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d" alt="image"></p>
 </li>
 <li>
-<p>Seleccione los Items en productos</p>
+<p>Seleccione los Items en productos.
+<img src="https://github.com/erpcya/docs/assets/9578152/f8caa3be-88d4-4198-9039-1e93a5355deb" alt="image"></p>
 </li>
 <li>
-<p>Modifique las cantidades</p>
+<p>Al seleccionar el producto, el item se agrega al panel de items</p>
 </li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/bee7d5f9-cb89-46b8-8919-bd8f9eda993f" alt="image"></p>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+<ol start="7">
+<li>Modifique las cantidades</li>
 <li></li>
 </ol>
 <h2 id="consulta-de-producto" tabindex="-1"> Consulta de Producto</h2>
