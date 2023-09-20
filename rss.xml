@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 20 Sep 2023 16:22:58 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2023 16:22:58 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2023 16:46:17 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2023 16:46:17 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -335,13 +335,14 @@
 </ol>
 <h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
 <p>El pedido del punto de venta es un documento que se genera como compromiso de venta, seleccionando los items y luego es liberado para su posterior facturación, en esta herramienta un pedido puede ser de los siguientes tipos:</p>
+<h3 id="" tabindex="-1"> </h3>
 <ol>
-<li>Pedido Fiscal: Genera una factura fiscal.</li>
-<li>Pedido Nota de Entrega: Genera una nota de entrega.</li>
-<li>Pedido no Facturado: No imprime factura al cobrarlo.</li>
-<li>Pedido no entregado: No genera entrega al cobrarlo.</li>
-<li>Pedido Facturado y Entregado: Genera la factura y la salida de inventario autómaticamente.</li>
-<li>Cotizaciones o Presupuestos: Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.</li>
+<li><strong>Pedido Fiscal:</strong> Genera una factura fiscal al cobrarlo, esta es impresa en impresora fiscal o forma libre, la misma tiene implicaciones fiscales.</li>
+<li><strong>Pedido Nota de Entrega:</strong> Genera una nota de entrega al cobrarlo, esto quiere decir que el documento no es fiscal, hasta que el usuario decida facturarlo.</li>
+<li><strong>Pedido no Facturado:</strong> No genera factura o nota de entrega al cobrarlo, lo que quiere decir que es un pedido cobrado como anticipo.</li>
+<li><strong>Pedido no entregado:</strong> No genera entrega al cobrarlo.</li>
+<li><strong>Pedido Facturado y Entregado:</strong> Genera la factura y la salida de inventario autómaticamente.</li>
+<li><strong>Cotizaciones o Presupuestos:</strong> Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.</li>
 </ol>
 <p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, saboiendo que el procedimiento es exactamente igual, solo el resultado varía. Para esto porceda de la siguiente forma:</p>
 <ol>

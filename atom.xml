@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T16:22:58.452Z</updated>
+  <updated>2023-09-20T16:46:17.518Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T16:12:43.000Z</updated>
+    <updated>2023-09-20T16:38:08.000Z</updated>
     <content type="html"><![CDATA[<h1 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h1>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -340,13 +340,14 @@
 </ol>
 <h2 id="registro-de-nuevo-pedido" tabindex="-1"> Registro de Nuevo Pedido</h2>
 <p>El pedido del punto de venta es un documento que se genera como compromiso de venta, seleccionando los items y luego es liberado para su posterior facturación, en esta herramienta un pedido puede ser de los siguientes tipos:</p>
+<h3 id="" tabindex="-1"> </h3>
 <ol>
-<li>Pedido Fiscal: Genera una factura fiscal.</li>
-<li>Pedido Nota de Entrega: Genera una nota de entrega.</li>
-<li>Pedido no Facturado: No imprime factura al cobrarlo.</li>
-<li>Pedido no entregado: No genera entrega al cobrarlo.</li>
-<li>Pedido Facturado y Entregado: Genera la factura y la salida de inventario autómaticamente.</li>
-<li>Cotizaciones o Presupuestos: Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.</li>
+<li><strong>Pedido Fiscal:</strong> Genera una factura fiscal al cobrarlo, esta es impresa en impresora fiscal o forma libre, la misma tiene implicaciones fiscales.</li>
+<li><strong>Pedido Nota de Entrega:</strong> Genera una nota de entrega al cobrarlo, esto quiere decir que el documento no es fiscal, hasta que el usuario decida facturarlo.</li>
+<li><strong>Pedido no Facturado:</strong> No genera factura o nota de entrega al cobrarlo, lo que quiere decir que es un pedido cobrado como anticipo.</li>
+<li><strong>Pedido no entregado:</strong> No genera entrega al cobrarlo.</li>
+<li><strong>Pedido Facturado y Entregado:</strong> Genera la factura y la salida de inventario autómaticamente.</li>
+<li><strong>Cotizaciones o Presupuestos:</strong> Son Documentos que generan un formato para el cliente con un presuesto, este no reserva mercancia.</li>
 </ol>
 <p>Ahora bien para este ejemplo vamos a tomar un pedido fiscal, saboiendo que el procedimiento es exactamente igual, solo el resultado varía. Para esto porceda de la siguiente forma:</p>
 <ol>
