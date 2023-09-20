@@ -194,15 +194,35 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
 ![image](https://github.com/erpcya/docs/assets/9578152/bee7d5f9-cb89-46b8-8919-bd8f9eda993f)
 
   A continuación se detalla los campos que se presenta en el panel de items:
+  
   1. **Producto:** Muestra la descripción del producto o servicio a facturar, no es editable.
   2. **Precio:** Muestra el precio del producto en la moneda con la que se gestiona el terminal, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
   3. **Cantidad:** Muestra la cantidad, inicialmente al cargar el producto es uno, puede ser modificada por el usuario, o eliminar el item.
   4. **Unidad de Medida(UM):** Muestra la unidad de medida con la que compra el producto, si el producto tiene unidad mínima de venta tomará esta unidad de medida, caso contrario tomará la del producto, no es editable.
   5. **% Impuesto:** Muestra la tasa de impuesto que aplica al producto, sabiendo que esto dependerá de la legislación del país donde tiene la instalación, además de esto, si el documento que gestiona es del tipo **Pedido Nota de Entrega:**, será exento de forma autómatica, no es editable.
   6. **Impuesto:** Muestra el monto del impuesto que aplica al producto dependiendo de la tasa de impuesto, sabiendo que esto dependerá de la legislación del país donde tiene la instalación, además de esto, si el documento que gestiona es del tipo **Pedido Nota de Entrega:**, será exento de forma autómatica, no es editable.
-  7. 
-8. 
-9. 
+  7. **Total:** Muestra el total a pagar por el item, es decir, **(precio unitario*cantidad)+impuesto**, no es editable.
+  8. **Convertido:** Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.
+  9. **Opciones:** Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:
+      1. **Información:** Muestra el detalle del producto, información relevante que es util para inducir una venta:
+         ![image](https://github.com/erpcya/docs/assets/9578152/5ebc69af-e421-48c3-90b2-c00cabed2db9)
+
+         1.  Imágenes del Producto.
+         2.  Código.
+         3.  Nombre.
+         4.  Descripción.
+         5.  Unidad de Medida de Venta.
+         6.  Precio Base.
+         7.  Precio.
+         8.  Tasa de Impuesto.
+         9.  Equivalencia de unidad de medida base a unidad de medida mínima de venta.
+         10. Cantidad a Vender en el Item.
+         11. Unidad de Medida de Venta.
+         12. Cantidad en unidad de medida base.
+
+  11. 
+12. 
+13. 
 
   1.
 
