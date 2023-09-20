@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T23:09:23.960Z</updated>
+  <updated>2023-09-20T23:20:01.782Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T23:01:09.000Z</updated>
+    <updated>2023-09-20T23:10:08.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -713,8 +713,23 @@
 <h2 id="cambios-de-atributos" tabindex="-1"> Cambios de Atributos</h2>
 <p>Esta opción permite a un cajero con autorización realiza cambios en los atributos del pedido, a continuación se detalla la implicación de cada atributo:</p>
 <ol>
-<li></li>
+<li>
+<p><strong>Tipo de Documento:</strong> El usuario puede cambiar el tipo de documento, seleccionando si desea que sea fiscal o no, este cambio tendrá implicaciones tributarias,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/84aba9b3-81d0-4b73-9221-386615739cd0" alt="image"></p>
+</li>
+<li>
+<p><strong>Almacén:</strong>  El usuario puede cambiar el almacén del cuál desean egresar la mercancia,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</p>
+</li>
 </ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/4ec103c5-c4af-4006-a244-1326410b01e6" alt="image"></p>
+<ol start="3">
+<li><strong>Lista de Precios:</strong>  El usuario puede cambiar la lista de precio del pedido, esto cambia y recalcula los precios del pedido,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/12597245-9279-4116-bdf0-f9b8fdf35a10" alt="image"></p>
+<ol start="4">
+<li><strong>Campaña:</strong>  El usuario puede cambiar la campaña del pedido, esto permite direccionar la venta a los canales correspondientes,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb" alt="image"></p>
 <h2 id="cobranza" tabindex="-1"> Cobranza</h2>
 <h3 id="efectivo" tabindex="-1"> Efectivo</h3>
 <h3 id="transferencia" tabindex="-1"> Transferencia</h3>
