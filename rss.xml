@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 20 Sep 2023 20:34:50 GMT</pubDate>
-    <lastBuildDate>Wed, 20 Sep 2023 20:34:50 GMT</lastBuildDate>
+    <pubDate>Wed, 20 Sep 2023 20:50:28 GMT</pubDate>
+    <lastBuildDate>Wed, 20 Sep 2023 20:50:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -388,6 +388,15 @@
 </li>
 <li>
 <p><strong>Impuesto:</strong> Muestra el monto del impuesto que aplica al producto dependiendo de la tasa de impuesto, sabiendo que esto dependerá de la legislación del país donde tiene la instalación, además de esto, si el documento que gestiona es del tipo <strong>Pedido Nota de Entrega:</strong>, será exento de forma autómatica, no es editable.</p>
+</li>
+<li>
+<p><strong>Total:</strong> Muestra el total a pagar por el item, es decir, <strong>(precio unitario*cantidad)+impuesto</strong>, no es editable.</p>
+</li>
+<li>
+<p><strong>Convertido:</strong> Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.</p>
+</li>
+<li>
+<p><strong>Opciones:</strong> Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:</p>
 </li>
 <li></li>
 <li></li>

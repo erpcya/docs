@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T20:34:50.736Z</updated>
+  <updated>2023-09-20T20:50:28.268Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T20:24:59.000Z</updated>
+    <updated>2023-09-20T20:42:35.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -393,6 +393,15 @@
 </li>
 <li>
 <p><strong>Impuesto:</strong> Muestra el monto del impuesto que aplica al producto dependiendo de la tasa de impuesto, sabiendo que esto dependerá de la legislación del país donde tiene la instalación, además de esto, si el documento que gestiona es del tipo <strong>Pedido Nota de Entrega:</strong>, será exento de forma autómatica, no es editable.</p>
+</li>
+<li>
+<p><strong>Total:</strong> Muestra el total a pagar por el item, es decir, <strong>(precio unitario*cantidad)+impuesto</strong>, no es editable.</p>
+</li>
+<li>
+<p><strong>Convertido:</strong> Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.</p>
+</li>
+<li>
+<p><strong>Opciones:</strong> Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:</p>
 </li>
 <li></li>
 <li></li>
