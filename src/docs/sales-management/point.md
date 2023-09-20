@@ -171,20 +171,33 @@ El pedido del punto de venta es un documento que se genera como compromiso de ve
 2. **Pedido Entregado:** Genera la salida de inventario autómaticamente luego de cobrar el pedido, ideal para tiendas tipo supermercados e hipermercados.
 
 ### Presupuestos
-4. **Cotizaciones o Presupuestos:** Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.
+1. **Cotizaciones o Presupuestos:** Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.
 
 
 Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el procedimiento es exactamente igual para todos los casos, los tipos de documentos y su comportamiento dependerán del paquete que sea instalado en su empresa, por lo que por cada documento varía el resultado. Ahora bien, para el ejemplo en cuestión porceda de la siguiente forma:
+
+
 
 1. Seleccione la opción nueva orden.
    
    ![image](https://github.com/erpcya/docs/assets/9578152/13f510d7-0ed6-448b-ba78-11624f5b3bbe)
 
-3. Seleccione el cliente.
+2. Seleccione el cliente.
 
    ![image](https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d)
 
-5. Seleccione los Items en productos
+3. Seleccione los Items en productos.
+![image](https://github.com/erpcya/docs/assets/9578152/f8caa3be-88d4-4198-9039-1e93a5355deb)
+
+4. Al seleccionar el producto, el item se agrega al panel de items
+
+![image](https://github.com/erpcya/docs/assets/9578152/bee7d5f9-cb89-46b8-8919-bd8f9eda993f)
+  
+  1. 
+5. 
+6. 
+
+  1.
 
    
 7. Modifique las cantidades
