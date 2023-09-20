@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T20:58:27.416Z</updated>
+  <updated>2023-09-20T21:17:38.042Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T20:50:21.000Z</updated>
+    <updated>2023-09-20T21:08:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -420,6 +420,26 @@
 <li>Unidad de Medida de Venta.</li>
 <li>Cantidad en unidad de medida base.</li>
 </ol>
+</li>
+<li>
+<p><strong>Edición:</strong> Permite editar las cantidades y algunos atributos del Item.
+<img src="https://github.com/erpcya/docs/assets/9578152/3e78f912-2b15-4dae-a911-2cdfbece1dee" alt="image"></p>
+<ol>
+<li>Equivalencia de unidad de medida base a unidad de medida mínima de venta: Muestra a modo de refencia la equivalencia en cantidades.</li>
+<li>Precio: Muestra el precio del producto en la moneda con la que se gestiona el terminal, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</li>
+<li>Unidad de Medida de Venta: Muestra la unidad de medida con la que compra el producto, si el producto tiene unidad mínima de venta tomará esta unidad de medida, permite cambiar a otra unidad siempre que tenga conversión el producto.</li>
+<li>Cantidad a Vender en el Item: Muestra la cantidad, inicialmente al cargar el producto es uno, puede ser modificada por el usuario, o eliminar el item.</li>
+<li>Precio Base: No es editable, muestra el precio en la unidad de medida base del producto.</li>
+<li>Unidad de Medida Base: No es editable, muestra la unidad de medida base del producto.</li>
+<li>Cantidad Base: No es editable, muestra la cantidad en la unidad de medida base del producto.</li>
+<li>% Descuento: Permite agregar un porcentaje de descuento al precio,puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</li>
+<li>Almacén: Permite modificar el almacén de la que venderá la mercancía, puede ser modificable,siempre y cuando su terminal tenga configurado más de un almacén.</li>
+<li>Cantidad Disponible: No es editable, muestra la cantidad disponible en el almacén seleccionado en la unidad de medida base del producto.</li>
+</ol>
+</li>
+<li>
+<p><strong>Eliminar Item:</strong> Permite eliminar de manera directa un item.
+<img src="https://github.com/erpcya/docs/assets/9578152/35d4681e-8fb1-4fb1-b562-0826ef41672a" alt="image"></p>
 </li>
 </ol>
 </li>
