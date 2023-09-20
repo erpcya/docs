@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-20T20:50:28.268Z</updated>
+  <updated>2023-09-20T20:58:27.416Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-20T20:42:35.000Z</updated>
+    <updated>2023-09-20T20:50:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -402,6 +402,26 @@
 </li>
 <li>
 <p><strong>Opciones:</strong> Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:</p>
+<ol>
+<li>
+<p><strong>Información:</strong> Muestra el detalle del producto, información relevante que es util para inducir una venta:
+<img src="https://github.com/erpcya/docs/assets/9578152/5ebc69af-e421-48c3-90b2-c00cabed2db9" alt="image"></p>
+<ol>
+<li>Imágenes del Producto.</li>
+<li>Código.</li>
+<li>Nombre.</li>
+<li>Descripción.</li>
+<li>Unidad de Medida de Venta.</li>
+<li>Precio Base.</li>
+<li>Precio.</li>
+<li>Tasa de Impuesto.</li>
+<li>Equivalencia de unidad de medida base a unidad de medida mínima de venta.</li>
+<li>Cantidad a Vender en el Item.</li>
+<li>Unidad de Medida de Venta.</li>
+<li>Cantidad en unidad de medida base.</li>
+</ol>
+</li>
+</ol>
 </li>
 <li></li>
 <li></li>
