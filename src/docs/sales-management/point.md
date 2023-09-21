@@ -542,9 +542,7 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
 2. **Transferencia:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
 
-  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
   
-    ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
 
 3. 
 7. **Tarjeta de Crédito:**
