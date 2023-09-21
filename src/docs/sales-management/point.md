@@ -518,8 +518,27 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
   7. El cobro se agrega de la siguiente forma
 
-     
-  9. 
+     ![image](https://github.com/erpcya/docs/assets/9578152/16c354f5-c2ce-4ad4-9ca8-71bda0309403)
+
+  Esta retención refleja:
+   1. La Fecha del cobro.
+   2. Método de Pago.
+   3. Moneda.
+   4. Monto en moneda del cobro.
+   5. Monto convertido a moneda del terminal.
+
+  8. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+     ![image](https://github.com/erpcya/docs/assets/9578152/2401cd69-1934-478d-aeb9-7ff1af55342d)
+
+      
+  ::: info Nota
+
+1. Si el cobro es en moneda distinta a la del curso legal, generará IGTF.
+2. Si se elimina el cobro, el IGTF se elimina de manera autómatica.
+
+:::
+  
 
 2. **Transferencia:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
 
