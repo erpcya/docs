@@ -170,13 +170,11 @@ El pedido del punto de venta es un documento que se genera como compromiso de ve
 1. **Pedido no entregado:** No genera entrega inmediatamente luego de cobrarlo, ideal para tiendas donde manejan un área de logistica y despacho de mercancía.
 2. **Pedido Entregado:** Genera la salida de inventario autómaticamente luego de cobrar el pedido, ideal para tiendas tipo supermercados e hipermercados.
 
-### Presupuestos
+#### Presupuestos
 1. **Cotizaciones o Presupuestos:** Son documentos solicitados por el cliente, este documento genera un formato para el cliente con un presuesto, este no reserva mercancia y puede ser convertido a una factura luego.
 
 
 Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el procedimiento es exactamente igual para todos los casos, los tipos de documentos y su comportamiento dependerán del paquete que sea instalado en su empresa, por lo que por cada documento varía el resultado. Ahora bien, para el ejemplo en cuestión porceda de la siguiente forma:
-
-
 
 1. Seleccione la opción nueva orden.
    
@@ -187,6 +185,7 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
    ![image](https://github.com/erpcya/docs/assets/9578152/8e30090e-9fd3-402d-bb9c-db8175dccf8d)
 
 3. Seleccione los Items en productos.
+   
 ![image](https://github.com/erpcya/docs/assets/9578152/f8caa3be-88d4-4198-9039-1e93a5355deb)
 
 4. Al seleccionar el producto, el item se agrega al panel de items
@@ -205,6 +204,7 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
   8. **Convertido:** Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.
   9. **Opciones:** Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:
       1. **Información:** Muestra el detalle del producto, información relevante que es util para inducir una venta:
+         
          ![image](https://github.com/erpcya/docs/assets/9578152/5ebc69af-e421-48c3-90b2-c00cabed2db9)
 
          1.  Imágenes del Producto.
@@ -219,18 +219,67 @@ Ahora bien para este ejemplo vamos a tomar un pedido fiscal, sabiendo que el pro
          10. Cantidad a Vender en el Item.
          11. Unidad de Medida de Venta.
          12. Cantidad en unidad de medida base.
+             
+      2. **Edición:** Permite editar las cantidades y algunos atributos del Item.
+         
+         ![image](https://github.com/erpcya/docs/assets/9578152/3e78f912-2b15-4dae-a911-2cdfbece1dee)
 
-  11. 
-12. 
-13. 
-
-  1.
-
+         1. **Equivalencia de unidad de medida base a unidad de medida mínima de venta:** Muestra a modo de refencia la equivalencia en cantidades.
+         2. **Precio:** Muestra el precio del producto en la moneda con la que se gestiona el terminal, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+         3. **Unidad de Medida de Venta:** Muestra la unidad de medida con la que compra el producto, si el producto tiene unidad mínima de venta tomará esta unidad de medida, permite cambiar a otra unidad siempre que tenga conversión el producto.
+         4. **Cantidad a Vender en el Item:** Muestra la cantidad, inicialmente al cargar el producto es uno, puede ser modificada por el usuario, o eliminar el item.
+         5. **Precio Base:** No es editable, muestra el precio en la unidad de medida base del producto.
+         6. **Unidad de Medida Base:** No es editable, muestra la unidad de medida base del producto.
+         7. **Cantidad Base:** No es editable, muestra la cantidad en la unidad de medida base del producto.
+         8. **% Descuento:** Permite agregar un porcentaje de descuento al precio,puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+         9. **Almacén:** Permite modificar el almacén de la que venderá la mercancía, puede ser modificable,siempre y cuando su terminal tenga configurado más de un almacén.
+         10. **Cantidad Disponible:** No es editable, muestra la cantidad disponible en el almacén seleccionado en la unidad de medida base del producto.
+     
+      3. **Eliminar Item:** Permite eliminar de manera directa un item.
+         
+         ![image](https://github.com/erpcya/docs/assets/9578152/35d4681e-8fb1-4fb1-b562-0826ef41672a)
+        
+5. Seleccione la opción **Liberar Pedido**, esto debe hacerlo cuando ya su pedido esté completo y listo para facturar o entregar.
    
-7. Modifique las cantidades
-8. 
+   ![image](https://github.com/erpcya/docs/assets/9578152/86b19212-a3e8-4847-a416-4e5d2de00043)
 
-## Consulta de Producto
+6. Para imprimir el pedido debe proceder de la siguiente manera:
+   
+   1. Seleccione la opción **Orden de Venta** en **Opciones Rápidas del Punto de Ventas**
+      
+      ![image](https://github.com/erpcya/docs/assets/9578152/ef68956c-b283-46d6-8e83-ceae79611f19)
+
+   2. Vaya a la opción **Ver Vista Previa**
+      
+      ![image](https://github.com/erpcya/docs/assets/9578152/90024641-20aa-4e0a-9f63-571ad146ce49)
+
+
+### Consulta de Producto
+La consulta de precios permite al asesor de ventas leer los códigos de sus productos desde un lector de barras o tipearlos, la aplicación le mostrara en pantalla la siguiente información:
+
+![image](https://github.com/erpcya/docs/assets/9578152/04d836b6-a5b6-4568-8699-951f46121891)
+
+1. Código
+2. Nombre
+3. Existencia
+4. Disponibilidad
+5. Precio
+6. Precio Convertido
+7. Total General
+
+Para consultar los productos, proceda de la siguiente forma:
+1. Seleccione la opción **Opciones Generales** en **Opciones Rápidas del Punto de Ventas**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/88ffbea5-d8c0-4b4c-bc29-8c125cbcf441)
+
+2. Seleccione la opción **Consulta de Producto**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/9229f38a-fa1d-41c2-8eb8-e7d7c1cb6d68)
+ 
+3. Ingrese el código o nombre del producto para ver la información.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/ff679895-148a-4c03-82c6-846eba9432bf)
+ 
 
 # Gestión de Cajero
 La gestión del cajero es administrar todas las transacciones con los clientes de manera eficiente. Entre las responsabilidades de un cajero se incluyen abrir su caja, recibir pagos y emitir facturas o recibos, entregar los productos y realizar un seguimiento de todas las transacciones de efectivo y crédito hasta llegar a su arqueo de caja.
@@ -238,28 +287,213 @@ La gestión del cajero es administrar todas las transacciones con los clientes d
 ![CajeroPOS ](https://github.com/erpcya/docs/assets/9578152/15088f61-4d32-477f-b236-f2e2aa9dc1c3)
 
 
-## Selección de Terminal Asignado
+### Selección de Terminal Asignado
 El primer paso para gestionar el terminal y comenzar a tomar pedidos es seleccionar el terminal que desea operar, para esto proceda de la siguiente manera:
 
 1. Ingrese de manera habitual a la aplicación.
+   
    ![image](https://github.com/erpcya/docs/assets/9578152/a3df6e68-4ced-4bcb-965a-fc3803300760)
 
 2. Una vez dentro seleccione la opción **Punto de Venta**, ubicado en gestión de ventas.
+   
    ![image](https://github.com/erpcya/docs/assets/9578152/55ad8715-7388-4af0-9f0e-e5c7a6e29f5e)
 
 3. Estando en el Punto de venta vaya a la opción punto de venta.
+   
   ![image](https://github.com/erpcya/docs/assets/9578152/7a615600-37f7-4cd7-92c0-969f89db1e91)
 
 4. Seleccione el terminal con el que desea trabajar.
+   
   ![image](https://github.com/erpcya/docs/assets/9578152/85c0507c-554d-4a11-9c6e-224eaacee627)
 
 5. Una vez seleccionada la opción, la aplicación recargará las opciones de acuerdo a su permisología.
 
-## Apertura de Caja
-### Apertura Desde un Fondo de Caja
-### Crear Fondo de Caja
-## Selección de Pedido 
+### Apertura de Caja
+Antes de comenzar la jornada laboral, es importante revisar y por supuesto registrar en el terminal la cantidad de dinero en efectivo que tiene disponible en la caja, hazlo siempre antes de abrir el negocio, ya que podrían llegar clientes a comprar y esto podría afectar el proceso de arqueo de caja.
+
+1. Seleccione la opción **Gestión de Caja** en **Opciones Rápidas del Punto de Ventas**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/a585f366-f338-41e7-a782-1488af6a35f5)
+
+2. Seleccione la opción **Apertura**
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/91f73d87-3539-4b84-9052-c8253b0f546c)
+
+3. Se desplegará el siguiente formulario donde tendrá dos opciones:
+
+  1. **Apertura Desde un Fondo de Caja:** Al seleccionar esta opción, este proceso genera una salida de dinero desde una caja administrativa.
+     
+     1.Ingrese el dinero que recibe en el campo **Total del Pago**
+     
+       ![image](https://github.com/erpcya/docs/assets/9578152/6c4101f9-23dc-4cbc-8480-814acb267584)
+
+     2. Seleccione el método de pago en el campo **Método de Pago**
+
+       ![image](https://github.com/erpcya/docs/assets/9578152/ada60b8b-7377-4823-9e97-1ca4e00dc7e3)
+
+     3. El campo **Moneda** no es editable, se establece autómaticamente al seleccionar el método de pago.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/fbda24fd-d369-4657-845a-9befb2a0fc80)
+
+     4. Seleccione la opción **Usar Fondo de Caja**
+        
+        ![image](https://github.com/erpcya/docs/assets/9578152/932177ce-35c0-4b09-8447-fc94816a651f)
+
+     5. Seleccione la caja desde la cúal va a transferir los fondos.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/476fa783-5cc8-49f3-a93e-5fc99fd4357a)
+
+     6. Selecciona la opción agregar.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/0eb6f273-eb0b-4859-8c75-96cc2b437e1e)
+
+     7. Esta opción agrega un ingreso a su caja.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/179256cc-3770-474c-b534-dda902c1ac14)
+
+     8. Seleccione el responsable del dinero(Cajero) en el campo **Agente Cobrador**
+    
+        ![image](https://github.com/erpcya/docs/assets/9578152/5dee1c5b-73ba-4fa9-a309-ded012184833)
+
+     9. Agregue la descripción de su preferencia.
+
+         ![image](https://github.com/erpcya/docs/assets/9578152/03f53943-6a0c-4975-b0ae-33e2665190b5)
+
+     10. Seleccione la opción ok para culminar la apertura.
+
+         ![image](https://github.com/erpcya/docs/assets/9578152/e88910c8-5584-4e3e-9d5c-217d6a892645)
+
+     11. Visualizará el siguiente mensaje de confirmación.
+
+         ![image](https://github.com/erpcya/docs/assets/9578152/a14d9ad4-f4fc-4c9e-b2e5-4469d2849d8a)
+
+  2. **Crear Fondo de Caja:** Al seleccionar esta opción, este proceso no genera una salida de dinero desde una caja administrativa, generalmente es un fondo de caja fijo y transitorio.
+     1. Ingrese el dinero que recibe en el campo **Total del Pago**
+     
+       ![image](https://github.com/erpcya/docs/assets/9578152/6c4101f9-23dc-4cbc-8480-814acb267584)
+
+     2. Seleccione el método de pago en el campo **Método de Pago**
+
+       ![image](https://github.com/erpcya/docs/assets/9578152/ada60b8b-7377-4823-9e97-1ca4e00dc7e3)
+
+     3. El campo **Moneda** no es editable, se establece autómaticamente al seleccionar el método de pago.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/fbda24fd-d369-4657-845a-9befb2a0fc80)
+
+     4. Selecciona la opción agregar.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/0eb6f273-eb0b-4859-8c75-96cc2b437e1e)
+
+     5. Esta opción agrega un ingreso a su caja.
+
+        ![image](https://github.com/erpcya/docs/assets/9578152/179256cc-3770-474c-b534-dda902c1ac14)
+
+     6. Seleccione el responsable del dinero(Cajero) en el campo **Agente Cobrador**
+    
+        ![image](https://github.com/erpcya/docs/assets/9578152/5dee1c5b-73ba-4fa9-a309-ded012184833)
+
+     7. Agregue la descripción de su preferencia.
+
+         ![image](https://github.com/erpcya/docs/assets/9578152/03f53943-6a0c-4975-b0ae-33e2665190b5)
+        
+     9. Seleccione la opción ok para culminar la apertura.
+
+         ![image](https://github.com/erpcya/docs/assets/9578152/e88910c8-5584-4e3e-9d5c-217d6a892645)
+
+     10. Visualizará el siguiente mensaje de confirmación.
+
+         ![image](https://github.com/erpcya/docs/assets/9578152/a14d9ad4-f4fc-4c9e-b2e5-4469d2849d8a)
+::: info Nota
+
+Si el proceso de apertura no es realizado o concluido de manera correcto, los cobros no podrán ser ejecutados, la aplicación genera una alerta que indica **Caja no Aperturada**.
+
+:::
+ 
+### Selección de Pedido 
+Una vez generado el pedido como se explica en el cápitulo anterior, se procede a la cobranza y facturación, para seleccionar un pedido liberado, proceda de la siguiente forma:
+
+1. Seleccione la opción **Venta de Pasillo**
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/8e2c65b4-430e-478f-8921-7d6b277261a8)
+
+2. Proceda a seleccionar el pedido a cobrar.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/c96422e6-13bd-4230-9df2-155496ad7c9c)
+
+4. Su pedido será precargado en pantalla de la siguiente forma.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/1756b9b0-1ad6-4469-978b-5e94cbd448c7)
+
+5. A continuación se detalla los campos que se presenta en el panel de items:
+  
+  1. **Producto:** Muestra la descripción del producto o servicio a facturar, no es editable.
+  2. **Precio:** Muestra el precio del producto en la moneda con la que se gestiona el terminal, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+  3. **Cantidad:** Muestra la cantidad, inicialmente al cargar el producto es uno, puede ser modificada por el usuario, o eliminar el item.
+  4. **Unidad de Medida(UM):** Muestra la unidad de medida con la que compra el producto, si el producto tiene unidad mínima de venta tomará esta unidad de medida, caso contrario tomará la del producto, no es editable.
+  5.**% Descuento:** Puede ingresar el porcentaje de descuento que aplicará al producto dependiendo del % límite o el monto límite, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+  6. **Descuento:** Muestra el monto del descuento que aplica al producto dependiendo del porcentaje de descuento, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+  7. **% Impuesto:** Muestra la tasa de impuesto que aplica al producto, sabiendo que esto dependerá de la legislación del país donde tiene la instalación, además de esto, si el documento que gestiona es del tipo **Pedido Nota de Entrega:**, será exento de forma autómatica, no es editable.
+  8. **Impuesto:** Muestra el monto del impuesto que aplica al producto dependiendo de la tasa de impuesto, sabiendo que esto dependerá de la legislación del país donde tiene la instalación, además de esto, si el documento que gestiona es del tipo **Pedido Nota de Entrega:**, será exento de forma autómatica, no es editable.
+  9. **Total:** Muestra el total a pagar por el item, es decir, **(precio unitario*cantidad)+impuesto**, no es editable.
+  10. **Convertido:** Muestra el total a pagar por el item, convertido a la tasa de la moneda paralela con la que se maneja el terminal, es la tasa de cambio del día, no es editable.
+  11. **Opciones:** Es una gama de opciones adicionales para gestionar cada item, a continuación se explica cada opción:
+      1. **Información:** Muestra el detalle del producto, información relevante que es util para inducir una venta:
+         
+         ![image](https://github.com/erpcya/docs/assets/9578152/5ebc69af-e421-48c3-90b2-c00cabed2db9)
+
+         1.  Imágenes del Producto.
+         2.  Código.
+         3.  Nombre.
+         4.  Descripción.
+         5.  Unidad de Medida de Venta.
+         6.  Precio Base.
+         7.  Precio.
+         8.  Tasa de Impuesto.
+         9.  Equivalencia de unidad de medida base a unidad de medida mínima de venta.
+         10. Cantidad a Vender en el Item.
+         11. Unidad de Medida de Venta.
+         12. Cantidad en unidad de medida base.
+             
+      2. **Edición:** Permite editar las cantidades y algunos atributos del Item.
+         
+         ![image](https://github.com/erpcya/docs/assets/9578152/3e78f912-2b15-4dae-a911-2cdfbece1dee)
+
+         1. **Equivalencia de unidad de medida base a unidad de medida mínima de venta:** Muestra a modo de refencia la equivalencia en cantidades.
+         2. **Precio:** Muestra el precio del producto en la moneda con la que se gestiona el terminal, puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+         3. **Unidad de Medida de Venta:** Muestra la unidad de medida con la que compra el producto, si el producto tiene unidad mínima de venta tomará esta unidad de medida, permite cambiar a otra unidad siempre que tenga conversión el producto.
+         4. **Cantidad a Vender en el Item:** Muestra la cantidad, inicialmente al cargar el producto es uno, puede ser modificada por el usuario, o eliminar el item.
+         5. **Precio Base:** No es editable, muestra el precio en la unidad de medida base del producto.
+         6. **Unidad de Medida Base:** No es editable, muestra la unidad de medida base del producto.
+         7. **Cantidad Base:** No es editable, muestra la cantidad en la unidad de medida base del producto.
+         8. **% Descuento:** Permite agregar un porcentaje de descuento al precio,puede ser modificable,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+         9. **Almacén:** Permite modificar el almacén de la que venderá la mercancía, puede ser modificable,siempre y cuando su terminal tenga configurado más de un almacén.
+         10. **Cantidad Disponible:** No es editable, muestra la cantidad disponible en el almacén seleccionado en la unidad de medida base del producto.
+     
+      3. **Eliminar Item:** Permite eliminar de manera directa un item.
+         
+         ![image](https://github.com/erpcya/docs/assets/9578152/35d4681e-8fb1-4fb1-b562-0826ef41672a)
+
+   
 ## Cambios de Atributos
+Esta opción permite a un cajero con autorización realiza cambios en los atributos del pedido, a continuación se detalla la implicación de cada atributo:
+
+1. **Tipo de Documento:** El usuario puede cambiar el tipo de documento, seleccionando si desea que sea fiscal o no, este cambio tendrá implicaciones tributarias,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/84aba9b3-81d0-4b73-9221-386615739cd0)
+
+2.  **Almacén:**  El usuario puede cambiar el almacén del cuál desean egresar la mercancia,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/4ec103c5-c4af-4006-a244-1326410b01e6)
+
+3.  **Lista de Precios:**  El usuario puede cambiar la lista de precio del pedido, esto cambia y recalcula los precios del pedido,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/12597245-9279-4116-bdf0-f9b8fdf35a10)
+
+4.  **Campaña:**  El usuario puede cambiar la campaña del pedido, esto permite direccionar la venta a los canales correspondientes,siempre y cuando el usuario tenga acceso, en caso contrario, **solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)**.
+
+   ![image](https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb)
+
+   
 ## Cobranza
 ### Efectivo
 ### Transferencia
