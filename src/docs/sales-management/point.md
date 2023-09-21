@@ -495,38 +495,111 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
 
    
-## Cobranza
-### Efectivo
-### Transferencia
-### Tarjeta de Crédito
-### Tarjeta de Débito
-### Pago Móvil
-### Tarjeta de Crédito
-### Zelle
-### Crédito
-## Generación de IGTF
-## Carga de Comprobante de IVA
-## Consultas de Ventas
-### Por Facturar
-### Ventas de Pasillo
-### A Crédito
-### Por Entregar
-### Solo Completas
-### Propuestas
-### Anuladas
-### Cerradas
-### Devoluciones
-## Devoluciones
-### Devolución Total
-### Devolución Parcial
-## Entrega de Producto
-### Entrega Total
-### Entrega Parcial
-## Cierre de Caja
-### Cierre Resumen
-### Cierre Detalle
+### Cobranza
 
-# Gestión de Supervisor de Turno
+1. **Efectivo:** El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+  
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/65a9f5d2-a143-4132-97ce-a4596de68c45)
+
+  3. Seleccione el método de pago **Efectivo** en cualquiera de las monedas disponibles, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/b996d4c0-b3fa-4617-bb3d-e0f983e37077)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+  5. Seleccione la opción agregar cobro.
+
+     ![image](https://github.com/erpcya/docs/assets/9578152/3cd3b606-55f6-42ff-a29b-f3e60d26a25f)
+
+  7. El cobro se agrega de la siguiente forma
+
+     
+  9. 
+
+2. **Transferencia:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+    ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+3. 
+7. **Tarjeta de Crédito:**
+8. **Tarjeta de Débito:**
+9. **Pago Móvil:**
+10. **Tarjeta de Crédito:**
+11. **Zelle:**
+12. **Crédito:**
+   
+### Gestión de Tributos
+
+1. **Generación de IGTF:** Es un débito que se aplica a la cuenta por cobrar, esto significa que aumenta el monto a cobrar, este aumento representa el 3% del monto cobrado en divisas efectivo o transferencia correspondiente a la **obligación del IGTF**, **sabiendo que es una estimación** ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:
+  1. El cliente debe ser obligatoriamente **contribuyente especial**.
+  2. La tienda(empresa) debe tener definido su porcentaje de retención (100% o 75%).
+  3. El documento por cobrar debe ser físcal.
+  4. Los productos o servicios facturados deben ser grabados.
+
+Ahora bien, la estamción se genera de manera autómatica, y se visualiza en el apartado de cobros de la siguiente forma:
+
+![image](https://github.com/erpcya/docs/assets/9578152/d87bc6b7-5e93-4250-9398-75dd626393c9)
+
+Esta retención refleja:
+  1. La tasa de impuesto.
+  2. El monto que representa la retención.
+     
+Esta retención rebaja el monto a cobrar, y queda pendiente hasta registrar el comprobante que el cliente consigna a la tienda.
+
+2. **Generación de IVA:** Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad de la **obligación del IVA**, este es un monto definitivo que cálcula la tienda, este cálculo depende de las siguientes condiciones:
+  1. La tienda(empresa) debe ser obligatoriamente **contribuyente especial**.
+  2. El cobro debe ser en divisas.
+  3. El documento por cobrar debe ser físcal.
+     
+Ahora bien, la retención se genera de manera autómatica, y se visualiza en el apartado de cobros de la siguiente forma:
+
+![image](https://github.com/erpcya/docs/assets/9578152/f2227a9c-59a9-4a34-8fa6-3cf3b9a2dd95)
+
+Esta retención refleja:
+  1. El monto base o del cobro.
+  2. El monto que representa la retención en la moneda divisa.
+  3. El monto que representa la retención en la moneda de curso legal.
+     
+Esta retención aumenta el monto a cobrar.
+    
+6. **Carga de Comprobante de IVA:**
+
+### Consultas de Ventas
+
+1. **Por Facturar:**
+2. **Ventas de Pasillo:**
+3. **A Crédito:**
+4. **Por Entregar:**
+5. **Solo Completas:**
+6. **Propuestas:**
+7. **Anuladas:**
+8. **Cerradas:**
+9. **Devoluciones:**
+
+### Entrega de Producto
+
+1. **Entrega Total:**
+2. **Entrega Parcial:**
+
+
+### Devoluciones
+
+1. **Devolución Total:**
+2. **Devolución Parcial:**
+
+### Cierre de Caja
+
+1. **Cierre Resumén:**
+2. **Cierre Detalle:**
+
+## Gestión de Supervisor de Turno
 ## Descuentos
 ### Descuentos en Lineas
 ### Descuentos en Monto General
