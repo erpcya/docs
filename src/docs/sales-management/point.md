@@ -495,38 +495,52 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
 
    
-## Cobranza
-### Efectivo
-### Transferencia
-### Tarjeta de Crédito
-### Tarjeta de Débito
-### Pago Móvil
-### Tarjeta de Crédito
-### Zelle
-### Crédito
-## Generación de IGTF
-## Carga de Comprobante de IVA
-## Consultas de Ventas
-### Por Facturar
-### Ventas de Pasillo
-### A Crédito
-### Por Entregar
-### Solo Completas
-### Propuestas
-### Anuladas
-### Cerradas
-### Devoluciones
-## Devoluciones
-### Devolución Total
-### Devolución Parcial
-## Entrega de Producto
-### Entrega Total
-### Entrega Parcial
-## Cierre de Caja
-### Cierre Resumen
-### Cierre Detalle
+### Cobranza
 
-# Gestión de Supervisor de Turno
+1. **Efectivo:**
+2. **Transferencia:**
+3. **Tarjeta de Crédito:**
+4. **Tarjeta de Débito:**
+5. **Pago Móvil:**
+6. **Tarjeta de Crédito:**
+7. **Zelle:**
+8. **Crédito:**
+   
+### Gestión de Tributos
+
+1. **Generación de IGTF:**
+2. **Generación de IVA:**
+3. **Carga de Comprobante de IVA:**
+
+### Consultas de Ventas
+
+1. **Por Facturar:**
+2. **Ventas de Pasillo:**
+3. **A Crédito:**
+4. **Por Entregar:**
+5. **Solo Completas:**
+6. **Propuestas:**
+7. **Anuladas:**
+8. **Cerradas:**
+9. **Devoluciones:**
+
+### Entrega de Producto
+
+1. **Entrega Total:**
+2. **Entrega Parcial:**
+
+
+### Devoluciones
+
+1. **Devolución Total:**
+2. **Devolución Parcial:**
+
+### Cierre de Caja
+
+1. **Cierre Resumén:**
+2. **Cierre Detalle:**
+
+## Gestión de Supervisor de Turno
 ## Descuentos
 ### Descuentos en Lineas
 ### Descuentos en Monto General
