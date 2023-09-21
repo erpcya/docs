@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Sep 2023 19:16:00 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 19:16:00 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 19:16:40 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 19:16:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -788,20 +788,25 @@
 <li>
 <p><strong>Transferencia:</strong> El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
 </li>
-<li>
-<p>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</p>
-</li>
-</ol>
-<pre><code>![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
-</code></pre>
-<ol start="3">
 <li></li>
-<li><strong>Tarjeta de Crédito:</strong></li>
-<li><strong>Tarjeta de Débito:</strong></li>
-<li><strong>Pago Móvil:</strong></li>
-<li><strong>Tarjeta de Crédito:</strong></li>
-<li><strong>Zelle:</strong></li>
-<li><strong>Crédito:</strong></li>
+<li>
+<p><strong>Tarjeta de Crédito:</strong></p>
+</li>
+<li>
+<p><strong>Tarjeta de Débito:</strong></p>
+</li>
+<li>
+<p><strong>Pago Móvil:</strong></p>
+</li>
+<li>
+<p><strong>Tarjeta de Crédito:</strong></p>
+</li>
+<li>
+<p><strong>Zelle:</strong></p>
+</li>
+<li>
+<p><strong>Crédito:</strong></p>
+</li>
 </ol>
 <h3 id="gestion-de-tributos" tabindex="-1"> Gestión de Tributos</h3>
 <ol>
