@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-21T16:02:04.481Z</updated>
+  <updated>2023-09-21T16:26:48.524Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-21T14:18:44.000Z</updated>
+    <updated>2023-09-21T16:17:08.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -730,37 +730,51 @@
 <li><strong>Campaña:</strong>  El usuario puede cambiar la campaña del pedido, esto permite direccionar la venta a los canales correspondientes,siempre y cuando el usuario tenga acceso, en caso contrario, <strong>solicitará el PIN de un supervisor para autorizar la operación (Ver Gestión de Supervisor de Turno)</strong>.</li>
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb" alt="image"></p>
-<h2 id="cobranza" tabindex="-1"> Cobranza</h2>
-<h3 id="efectivo" tabindex="-1"> Efectivo</h3>
-<h3 id="transferencia" tabindex="-1"> Transferencia</h3>
-<h3 id="tarjeta-de-credito" tabindex="-1"> Tarjeta de Crédito</h3>
-<h3 id="tarjeta-de-debito" tabindex="-1"> Tarjeta de Débito</h3>
-<h3 id="pago-movil" tabindex="-1"> Pago Móvil</h3>
-<h3 id="tarjeta-de-credito-1" tabindex="-1"> Tarjeta de Crédito</h3>
-<h3 id="zelle" tabindex="-1"> Zelle</h3>
-<h3 id="credito" tabindex="-1"> Crédito</h3>
-<h2 id="generacion-de-igtf" tabindex="-1"> Generación de IGTF</h2>
-<h2 id="carga-de-comprobante-de-iva" tabindex="-1"> Carga de Comprobante de IVA</h2>
-<h2 id="consultas-de-ventas" tabindex="-1"> Consultas de Ventas</h2>
-<h3 id="por-facturar" tabindex="-1"> Por Facturar</h3>
-<h3 id="ventas-de-pasillo" tabindex="-1"> Ventas de Pasillo</h3>
-<h3 id="a-credito" tabindex="-1"> A Crédito</h3>
-<h3 id="por-entregar" tabindex="-1"> Por Entregar</h3>
-<h3 id="solo-completas" tabindex="-1"> Solo Completas</h3>
-<h3 id="propuestas" tabindex="-1"> Propuestas</h3>
-<h3 id="anuladas" tabindex="-1"> Anuladas</h3>
-<h3 id="cerradas" tabindex="-1"> Cerradas</h3>
+<h3 id="cobranza" tabindex="-1"> Cobranza</h3>
+<ol>
+<li><strong>Efectivo:</strong></li>
+<li><strong>Transferencia:</strong></li>
+<li><strong>Tarjeta de Crédito:</strong></li>
+<li><strong>Tarjeta de Débito:</strong></li>
+<li><strong>Pago Móvil:</strong></li>
+<li><strong>Tarjeta de Crédito:</strong></li>
+<li><strong>Zelle:</strong></li>
+<li><strong>Crédito:</strong></li>
+</ol>
+<h3 id="gestion-de-tributos" tabindex="-1"> Gestión de Tributos</h3>
+<ol>
+<li><strong>Generación de IGTF:</strong></li>
+<li><strong>Generación de IVA:</strong></li>
+<li><strong>Carga de Comprobante de IVA:</strong></li>
+</ol>
+<h3 id="consultas-de-ventas" tabindex="-1"> Consultas de Ventas</h3>
+<ol>
+<li><strong>Por Facturar:</strong></li>
+<li><strong>Ventas de Pasillo:</strong></li>
+<li><strong>A Crédito:</strong></li>
+<li><strong>Por Entregar:</strong></li>
+<li><strong>Solo Completas:</strong></li>
+<li><strong>Propuestas:</strong></li>
+<li><strong>Anuladas:</strong></li>
+<li><strong>Cerradas:</strong></li>
+<li><strong>Devoluciones:</strong></li>
+</ol>
+<h3 id="entrega-de-producto" tabindex="-1"> Entrega de Producto</h3>
+<ol>
+<li><strong>Entrega Total:</strong></li>
+<li><strong>Entrega Parcial:</strong></li>
+</ol>
 <h3 id="devoluciones" tabindex="-1"> Devoluciones</h3>
-<h2 id="devoluciones-1" tabindex="-1"> Devoluciones</h2>
-<h3 id="devolucion-total" tabindex="-1"> Devolución Total</h3>
-<h3 id="devolucion-parcial" tabindex="-1"> Devolución Parcial</h3>
-<h2 id="entrega-de-producto" tabindex="-1"> Entrega de Producto</h2>
-<h3 id="entrega-total" tabindex="-1"> Entrega Total</h3>
-<h3 id="entrega-parcial" tabindex="-1"> Entrega Parcial</h3>
-<h2 id="cierre-de-caja" tabindex="-1"> Cierre de Caja</h2>
-<h3 id="cierre-resumen" tabindex="-1"> Cierre Resumen</h3>
-<h3 id="cierre-detalle" tabindex="-1"> Cierre Detalle</h3>
-<h1 id="gestion-de-supervisor-de-turno" tabindex="-1"> Gestión de Supervisor de Turno</h1>
+<ol>
+<li><strong>Devolución Total:</strong></li>
+<li><strong>Devolución Parcial:</strong></li>
+</ol>
+<h3 id="cierre-de-caja" tabindex="-1"> Cierre de Caja</h3>
+<ol>
+<li><strong>Cierre Resumén:</strong></li>
+<li><strong>Cierre Detalle:</strong></li>
+</ol>
+<h2 id="gestion-de-supervisor-de-turno" tabindex="-1"> Gestión de Supervisor de Turno</h2>
 <h2 id="descuentos" tabindex="-1"> Descuentos</h2>
 <h3 id="descuentos-en-lineas" tabindex="-1"> Descuentos en Lineas</h3>
 <h3 id="descuentos-en-monto-general" tabindex="-1"> Descuentos en Monto General</h3>
