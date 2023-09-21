@@ -542,7 +542,67 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
 2. **Transferencia:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
 
+   1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
   
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/b2ad7130-f597-4291-8f00-8fdf332be52d)
+
+  3. Seleccione el método de pago **Transferencia** en cualquiera de las monedas disponibles, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/b2f12e96-5afc-40c6-bd93-3f8e4e0c7b8c)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+  5. Seleccione el banco donde recibe el dinero(receptor).
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/47fe2cc2-18a7-49a5-bc93-d6acd558f87c)
+
+  6. Indique la cédula del cliente en el campo **código**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/982f48a6-aed4-436a-a9ec-34c230124f72)
+
+  7. Indique la fecha de la operación bancaria en el campo **fecha**
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/120c846a-c330-4d18-830f-44ce896dc22c)
+
+  8. Indique el teléfono del cliente en el campo **teléfono**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/377619fe-c54d-4374-b7db-a60cc3e012f1)
+
+  9. Indique el número de referencia de la transferencia que hizo el cliente, en el campo **No. Referencia**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/a542c6a4-3ed2-41a2-b780-9d868d1a05c7)
+
+  10.
+  11. Seleccione la opción agregar cobro.
+  12. 
+
+     ![image](https://github.com/erpcya/docs/assets/9578152/3cd3b606-55f6-42ff-a29b-f3e60d26a25f)
+
+  11. El cobro se agrega de la siguiente forma
+
+     ![image](https://github.com/erpcya/docs/assets/9578152/16c354f5-c2ce-4ad4-9ca8-71bda0309403)
+
+  Esta retención refleja:
+   1. La Fecha del cobro.
+   2. Método de Pago.
+   3. Moneda.
+   4. Monto en moneda del cobro.
+   5. Monto convertido a moneda del terminal.
+
+  8. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+     ![image](https://github.com/erpcya/docs/assets/9578152/2401cd69-1934-478d-aeb9-7ff1af55342d)
+
+      
+  ::: info Nota
+
+1. Si el cobro es en moneda distinta a la del curso legal, generará IGTF.
+2. Si se elimina el cobro, el IGTF se elimina de manera autómatica.
+
+:::
 
 3. 
 7. **Tarjeta de Crédito:**
