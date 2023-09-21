@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-21T17:13:10.053Z</updated>
+  <updated>2023-09-21T17:16:30.111Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-21T17:05:16.000Z</updated>
+    <updated>2023-09-21T17:08:35.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -732,7 +732,8 @@
 <p><img src="https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb" alt="image"></p>
 <h3 id="cobranza" tabindex="-1"> Cobranza</h3>
 <ol>
-<li><strong>Efectivo:</strong></li>
+<li><strong>Efectivo:</strong> El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</li>
+<li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong></li>
 <li><strong>Transferencia:</strong></li>
 <li><strong>Tarjeta de Crédito:</strong></li>
 <li><strong>Tarjeta de Débito:</strong></li>

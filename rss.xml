@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Sep 2023 17:13:10 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 17:13:10 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 17:16:30 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 17:16:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -727,7 +727,8 @@
 <p><img src="https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb" alt="image"></p>
 <h3 id="cobranza" tabindex="-1"> Cobranza</h3>
 <ol>
-<li><strong>Efectivo:</strong></li>
+<li><strong>Efectivo:</strong> El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</li>
+<li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong></li>
 <li><strong>Transferencia:</strong></li>
 <li><strong>Tarjeta de Crédito:</strong></li>
 <li><strong>Tarjeta de Débito:</strong></li>
