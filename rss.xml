@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Sep 2023 22:11:19 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 22:11:19 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 22:26:01 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 22:26:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -997,9 +997,83 @@
 </li>
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/c67525d0-63fd-4113-9c19-9e6703e4a1ca" alt="image"></p>
+<ol start="4">
+<li>
+<p><strong>Pago Móvil:</strong> El cobro por pago móvil un monto que es abonado en la cuenta de manera autómatica por el banco, quien débita de la cuenta del cliente, que generalmente implica una comisión,puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+<ol>
+<li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</li>
+</ol>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2" alt="image"></p>
+<ol start="2">
+<li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/f88471a4-8e42-41b6-ab24-c15a9641f5ad" alt="image"></p>
+<ol start="3">
+<li>Seleccione el método de pago <strong>Pago Móvil</strong>, en el campo <strong>Método de Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/7d64fda8-8293-4e63-8533-a306fba599c8" alt="image"></p>
+<ol start="4">
+<li>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</li>
+<li>Seleccione el banco donde recibe el dinero(receptor),en el campo <strong>banco receptor</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/512aaf61-69cd-4b8d-a18d-5e403bec04fc" alt="image"></p>
+<ol start="6">
+<li>Seleccion la cuenta del cliente, si ya está registrada, esto auto-completa algunos campos, si no tiene registro, omita este paso.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/5aa26f54-f89f-4cd0-960f-ea873b9d6804" alt="image"></p>
+<ol start="8">
+<li>Seleccione el banco de donde recibe el dinero(emisor),en el campo <strong>banco emisor</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/c5bc8bbf-11e9-4057-994f-0a22544a8aa3" alt="image"></p>
 <ol start="9">
-<li><strong>Pago Móvil:</strong></li>
-<li><strong>Tarjeta de Crédito:</strong></li>
+<li>Indique la cédula del cliente en el campo <strong>código</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/d9853bcb-1750-4b54-a0e5-31d2caefbd71" alt="image"></p>
+<ol start="10">
+<li>Indique la fecha de la operación bancaria en el campo <strong>fecha</strong></li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/1505339e-e923-44ae-a030-57431a53f779" alt="image"></p>
+<ol start="11">
+<li>Indique el teléfono del cliente en el campo <strong>teléfono</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/b06b4c3d-3d46-4761-9901-d7ef814be4d9" alt="image"></p>
+<ol start="12">
+<li>Indique el número de referencia del pago móvil, en el campo <strong>referencia</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/057c9bb4-98fa-42be-b910-f686d7d60562" alt="image"></p>
+<ol start="13">
+<li>Seleccione la opción agregar cobro.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/5a8414b5-05e7-4146-a192-8500cccb8c0a" alt="image"></p>
+<ol start="14">
+<li>El cobro se agrega de la siguiente forma</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/f1c2acce-6141-40dc-9db2-027d1c46be60" alt="image"></p>
+<p>Este registro refleja:</p>
+<ol>
+<li>
+<p>La Fecha del cobro.</p>
+</li>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Moneda.</p>
+</li>
+<li>
+<p>Referencia del pago móvil.</p>
+</li>
+<li>
+<p>Monto convertido a moneda del terminal.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/e95e6f32-912e-46da-9c32-f0d7eacc1eee" alt="image"></p>
+<ol start="11">
 <li><strong>Zelle:</strong></li>
 <li><strong>Crédito:</strong></li>
 </ol>
