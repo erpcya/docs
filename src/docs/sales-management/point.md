@@ -714,8 +714,69 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 ![image](https://github.com/erpcya/docs/assets/9578152/c67525d0-63fd-4113-9c19-9e6703e4a1ca)
 
 
-9. **Pago Móvil:** 
-10. **Tarjeta de Crédito:**
+4. **Pago Móvil:** El cobro por pago móvil un monto que es abonado en la cuenta de manera autómatica por el banco, quien débita de la cuenta del cliente, que generalmente implica una comisión,puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+
+   1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/f88471a4-8e42-41b6-ab24-c15a9641f5ad)
+
+  3. Seleccione el método de pago **Pago Móvil**, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/7d64fda8-8293-4e63-8533-a306fba599c8)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+  5. Seleccione el banco donde recibe el dinero(receptor),en el campo **banco receptor**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/512aaf61-69cd-4b8d-a18d-5e403bec04fc)
+
+  6. Seleccion la cuenta del cliente, si ya está registrada, esto auto-completa algunos campos, si no tiene registro, omita este paso.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/5aa26f54-f89f-4cd0-960f-ea873b9d6804)
+
+  8. Seleccione el banco de donde recibe el dinero(emisor),en el campo **banco emisor**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/c5bc8bbf-11e9-4057-994f-0a22544a8aa3)
+
+  9. Indique la cédula del cliente en el campo **código**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/d9853bcb-1750-4b54-a0e5-31d2caefbd71)
+
+  10. Indique la fecha de la operación bancaria en el campo **fecha**
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/1505339e-e923-44ae-a030-57431a53f779)
+
+  11. Indique el teléfono del cliente en el campo **teléfono**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/b06b4c3d-3d46-4761-9901-d7ef814be4d9)
+
+  12. Indique el número de referencia del pago móvil, en el campo **referencia**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/057c9bb4-98fa-42be-b910-f686d7d60562)
+
+  13. Seleccione la opción agregar cobro.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/5a8414b5-05e7-4146-a192-8500cccb8c0a)
+
+  14. El cobro se agrega de la siguiente forma
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/f1c2acce-6141-40dc-9db2-027d1c46be60)
+
+  Este registro refleja:
+   1. La Fecha del cobro.
+   2. Método de Pago.
+   3. Moneda.
+   4. Referencia del pago móvil.
+   5. Monto convertido a moneda del terminal.
+
+  15. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/e95e6f32-912e-46da-9c32-f0d7eacc1eee)
+
+
 11. **Zelle:**
 12. **Crédito:**
    
