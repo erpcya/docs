@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-21T18:36:55.641Z</updated>
+  <updated>2023-09-21T18:44:39.854Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-21T18:26:52.000Z</updated>
+    <updated>2023-09-21T18:36:44.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -758,8 +758,38 @@
 </li>
 <li>
 <p>El cobro se agrega de la siguiente forma</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/16c354f5-c2ce-4ad4-9ca8-71bda0309403" alt="image"></p>
 </li>
-<li></li>
+</ol>
+<p>Esta retención refleja:</p>
+<ol>
+<li>
+<p>La Fecha del cobro.</p>
+</li>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Moneda.</p>
+</li>
+<li>
+<p>Monto en moneda del cobro.</p>
+</li>
+<li>
+<p>Monto convertido a moneda del terminal.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/2401cd69-1934-478d-aeb9-7ff1af55342d" alt="image"></p>
+</li>
+</ol>
+<div><p>Nota</p>
+<ol>
+<li>Si el cobro es en moneda distinta a la del curso legal, generará IGTF.</li>
+<li>Si se elimina el cobro, el IGTF se elimina de manera autómatica.</li>
+</ol>
+</div>
+<ol start="2">
 <li>
 <p><strong>Transferencia:</strong> El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
 </li>

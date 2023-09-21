@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Sep 2023 18:36:55 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 18:36:55 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 18:44:39 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 18:44:39 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -753,8 +753,38 @@
 </li>
 <li>
 <p>El cobro se agrega de la siguiente forma</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/16c354f5-c2ce-4ad4-9ca8-71bda0309403" alt="image"></p>
 </li>
-<li></li>
+</ol>
+<p>Esta retención refleja:</p>
+<ol>
+<li>
+<p>La Fecha del cobro.</p>
+</li>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Moneda.</p>
+</li>
+<li>
+<p>Monto en moneda del cobro.</p>
+</li>
+<li>
+<p>Monto convertido a moneda del terminal.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/2401cd69-1934-478d-aeb9-7ff1af55342d" alt="image"></p>
+</li>
+</ol>
+<div><p>Nota</p>
+<ol>
+<li>Si el cobro es en moneda distinta a la del curso legal, generará IGTF.</li>
+<li>Si se elimina el cobro, el IGTF se elimina de manera autómatica.</li>
+</ol>
+</div>
+<ol start="2">
 <li>
 <p><strong>Transferencia:</strong> El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
 </li>
