@@ -493,6 +493,7 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
    ![image](https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb)
 
+
    
 ## Cobranza
 ### Efectivo
