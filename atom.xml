@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-21T21:29:44.568Z</updated>
+  <updated>2023-09-21T22:11:19.289Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-21T21:18:56.000Z</updated>
+    <updated>2023-09-21T22:03:34.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -791,7 +791,7 @@
 </div>
 <ol start="2">
 <li>
-<p><strong>Transferencia:</strong> El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+<p><strong>Transferencia:</strong> El cobro en transferencia representa un monto de manera digital transferido entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
 <ol>
 <li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</li>
 </ol>
@@ -865,7 +865,7 @@
 </div>
 <ol start="3">
 <li>
-<p><strong>Tarjeta de Crédito:</strong> El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+<p><strong>Tarjeta de Crédito:</strong> El cobro por tarjeta de crédito representa un monto que es abonado en la cuenta de manera autómatica por el banco, quien débita de un crédito otorgado al cliente,, que generalmente implica una comisión,puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
 <ol>
 <li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</li>
 </ol>
@@ -875,36 +875,40 @@
 <ol start="2">
 <li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/b2ad7130-f597-4291-8f00-8fdf332be52d" alt="image"></p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/1fd3517f-5510-4382-83fa-6dee7a2a97c4" alt="image"></p>
 <ol start="3">
-<li>Seleccione el método de pago <strong>Transferencia</strong> en cualquiera de las monedas disponibles, en el campo <strong>Método de Pago</strong>.</li>
+<li>Seleccione el método de pago <strong>PDV-Crédito</strong> en cualquiera de las monedas disponibles, en el campo <strong>Método de Pago</strong>.</li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/b2f12e96-5afc-40c6-bd93-3f8e4e0c7b8c" alt="image"></p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/ae5cc754-bbdd-4e62-aa85-6732b5e0bfa0" alt="image"></p>
 <ol start="4">
 <li>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</li>
 <li>Seleccione el banco donde recibe el dinero(receptor).</li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/47fe2cc2-18a7-49a5-bc93-d6acd558f87c" alt="image"></p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/b3104913-d5b2-49f1-b596-0b74ffd50c5c" alt="image"></p>
 <ol start="6">
 <li>Indique la cédula del cliente en el campo <strong>código</strong>.</li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/982f48a6-aed4-436a-a9ec-34c230124f72" alt="image"></p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/4abf4c4e-b2d5-4c9d-8d1c-62bba388c1e0" alt="image"></p>
 <ol start="7">
 <li>Indique la fecha de la operación bancaria en el campo <strong>fecha</strong></li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/120c846a-c330-4d18-830f-44ce896dc22c" alt="image"></p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/985b659b-7cde-4aec-8d01-d8c2470fd636" alt="image"></p>
 <ol start="8">
 <li>Indique el teléfono del cliente en el campo <strong>teléfono</strong>.</li>
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/377619fe-c54d-4374-b7db-a60cc3e012f1" alt="image"></p>
 <ol start="9">
-<li>Indique el número de referencia de la transferencia que hizo el cliente, en el campo <strong>No. Referencia</strong>.</li>
+<li>Indique el tipo de tarjeta de crédito del cliente, en el campo <strong>Tarjeta de Crédito</strong>.</li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/a542c6a4-3ed2-41a2-b780-9d868d1a05c7" alt="image"></p>
-<ol start="11">
+<p><img src="https://github.com/erpcya/docs/assets/9578152/01694289-2297-4558-a795-ca32b0164c0f" alt="image"></p>
+<ol start="10">
+<li>Indique el número de la tarjeta de Crédito del cliente, en el campo <strong>Número</strong></li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/67aac089-f4de-453f-8229-f047de7f47d3" alt="image"></p>
+<ol start="12">
 <li>Seleccione la opción agregar cobro.</li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/11f0e56f-0222-4709-ac84-715752983f4b" alt="image"></p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/680e094c-48b0-496d-9d4f-b4bf6a1f3e8c" alt="image"></p>
 <ol start="12">
 <li>El cobro se agrega de la siguiente forma</li>
 </ol>
@@ -930,15 +934,75 @@
 <p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
 </li>
 </ol>
-<p><img src="https://github.com/erpcya/docs/assets/9578152/a70aa843-1e47-409c-b1b3-b10c826d318d" alt="image"></p>
-<div><p>Nota</p>
-<ol>
-<li>Si el cobro es en moneda distinta a la del curso legal, generará IGTF.</li>
-<li>Si se elimina el cobro, el IGTF se elimina de manera autómatica.</li>
-</ol>
-</div>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/186e84eb-c3cd-4cd0-a481-337b48b6fbee" alt="image"></p>
 <ol start="8">
-<li><strong>Tarjeta de Débito:</strong></li>
+<li>
+<p><strong>Tarjeta de Débito:</strong> El cobro por tarjeta de débito representa un monto que es abonado en la cuenta de manera autómatica por el banco, quien débita de la cuenta del cliente, que generalmente implica una comisión,puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+<ol>
+<li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</li>
+</ol>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2" alt="image"></p>
+<ol start="2">
+<li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/737a79e3-0260-4ba0-af3c-b3628655b0a4" alt="image"></p>
+<ol start="3">
+<li>Seleccione el método de pago <strong>PDV-Banco</strong> en cualquiera de las monedas disponibles, en el campo <strong>Método de Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/a9e786cf-9c08-42a3-b674-96debcf6d1ff" alt="image"></p>
+<ol start="4">
+<li>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</li>
+<li>Seleccione el banco donde recibe el dinero(receptor), en el campo <strong>banco</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/1391c6f3-eccd-41da-ab57-04c541b49ead" alt="image"></p>
+<ol start="6">
+<li>Indique la cédula del cliente en el campo <strong>código</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/79811efa-d7e3-4b0c-9abe-c908821e1915" alt="image"></p>
+<ol start="7">
+<li>Indique la fecha de la operación bancaria en el campo <strong>fecha</strong></li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/81a7a681-824a-47a1-8987-a114dda0e59b" alt="image"></p>
+<ol start="8">
+<li>Indique la referencia del recibo del punto de venta, en el campo <strong>referencia</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/960dd506-11a5-45e4-a2ad-eb14a6ceed18" alt="image"></p>
+<ol start="9">
+<li>Seleccione la opción agregar cobro.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/627b0f4c-ec00-4d97-bbf1-ea6c70bd414c" alt="image"></p>
+<ol start="10">
+<li>El cobro se agrega de la siguiente forma</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/106bd120-71e4-455a-b4f1-c99128ab942c" alt="image"></p>
+<p>Este registro refleja:</p>
+<ol>
+<li>
+<p>La Fecha del cobro.</p>
+</li>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Moneda.</p>
+</li>
+<li>
+<p>Referencia.</p>
+</li>
+<li>
+<p>Monto en moneda del cobro si es en divisa.</p>
+</li>
+<li>
+<p>Monto convertido a moneda del terminal.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/c67525d0-63fd-4113-9c19-9e6703e4a1ca" alt="image"></p>
+<ol start="9">
 <li><strong>Pago Móvil:</strong></li>
 <li><strong>Tarjeta de Crédito:</strong></li>
 <li><strong>Zelle:</strong></li>
