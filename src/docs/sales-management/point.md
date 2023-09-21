@@ -497,14 +497,15 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
    
 ### Cobranza
 
-1. **Efectivo:**
-2. **Transferencia:**
-3. **Tarjeta de Crédito:**
-4. **Tarjeta de Débito:**
-5. **Pago Móvil:**
-6. **Tarjeta de Crédito:**
-7. **Zelle:**
-8. **Crédito:**
+1. **Efectivo:** El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**
+3. **Transferencia:**
+4. **Tarjeta de Crédito:**
+5. **Tarjeta de Débito:**
+6. **Pago Móvil:**
+7. **Tarjeta de Crédito:**
+8. **Zelle:**
+9. **Crédito:**
    
 ### Gestión de Tributos
 
