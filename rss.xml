@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Sep 2023 16:26:48 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 16:26:48 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 16:51:52 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 16:51:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -739,7 +739,7 @@
 <h3 id="gestion-de-tributos" tabindex="-1"> Gestión de Tributos</h3>
 <ol>
 <li><strong>Generación de IGTF:</strong></li>
-<li><strong>Generación de IVA:</strong></li>
+<li><strong>Generación de IVA:</strong> Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa</li>
 <li><strong>Carga de Comprobante de IVA:</strong></li>
 </ol>
 <h3 id="consultas-de-ventas" tabindex="-1"> Consultas de Ventas</h3>
