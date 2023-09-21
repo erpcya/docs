@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-21T16:58:01.022Z</updated>
+  <updated>2023-09-21T17:13:10.053Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-21T16:46:30.000Z</updated>
+    <updated>2023-09-21T17:05:16.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -743,8 +743,36 @@
 </ol>
 <h3 id="gestion-de-tributos" tabindex="-1"> Gestión de Tributos</h3>
 <ol>
-<li><strong>Generación de IGTF:</strong></li>
-<li><strong>Generación de IVA:</strong> Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad del IVA, <strong>sabiendo que es una estimación</strong> ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:</li>
+<li><strong>Generación de IGTF:</strong> Es un débito que se aplica a la cuenta por cobrar, esto significa que aumenta el monto a cobrar, este aumento representa el 3% del monto cobrado en divisas efectivo o transferencia correspondiente a la <strong>obligación del IGTF</strong>, <strong>sabiendo que es una estimación</strong> ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:</li>
+<li>El cliente debe ser obligatoriamente <strong>contribuyente especial</strong>.</li>
+<li>La tienda(empresa) debe tener definido su porcentaje de retención (100% o 75%).</li>
+<li>El documento por cobrar debe ser físcal.</li>
+<li>Los productos o servicios facturados deben ser grabados.</li>
+</ol>
+<p>Ahora bien, la estamción se genera de manera autómatica, y se visualiza en el apartado de cobros de la siguiente forma:</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/d87bc6b7-5e93-4250-9398-75dd626393c9" alt="image"></p>
+<p>Esta retención refleja:</p>
+<ol>
+<li>La tasa de impuesto.</li>
+<li>El monto que representa la retención.</li>
+</ol>
+<p>Esta retención rebaja el monto a cobrar, y queda pendiente hasta registrar el comprobante que el cliente consigna a la tienda.
+2. <strong>Generación de IVA:</strong> Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad de la <strong>obligación del IVA</strong>, este es un monto definitivo que cálcula la tienda, este cálculo depende de las siguientes condiciones:</p>
+<ol>
+<li>La tienda(empresa) debe ser obligatoriamente <strong>contribuyente especial</strong>.</li>
+<li>El cobro debe ser en divisas.</li>
+<li>El documento por cobrar debe ser físcal.</li>
+</ol>
+<p>Ahora bien, la retención se genera de manera autómatica, y se visualiza en el apartado de cobros de la siguiente forma:</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/f2227a9c-59a9-4a34-8fa6-3cf3b9a2dd95" alt="image"></p>
+<p>Esta retención refleja:</p>
+<ol>
+<li>El monto base o del cobro.</li>
+<li>El monto que representa la retención en la moneda divisa.</li>
+<li>El monto que representa la retención en la moneda de curso legal.</li>
+</ol>
+<p>Esta retención aumenta el monto a cobrar.</p>
+<ol start="6">
 <li><strong>Carga de Comprobante de IVA:</strong></li>
 </ol>
 <h3 id="consultas-de-ventas" tabindex="-1"> Consultas de Ventas</h3>
