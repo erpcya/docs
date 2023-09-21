@@ -540,7 +540,7 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 :::
   
 
-2. **Transferencia:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+2. **Transferencia:** El cobro en transferencia representa un monto de manera digital transferido entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
 
    1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
   
@@ -602,7 +602,7 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
 :::
 
-3. **Tarjeta de Crédito:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+3. **Tarjeta de Crédito:** El cobro por tarjeta de crédito representa un monto que es abonado en la cuenta de manera autómatica por el banco, quien débita de un crédito otorgado al cliente,, que generalmente implica una comisión,puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
 
    1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
   
@@ -610,36 +610,41 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
   2. Indique el monto del efectivo en el campo **Total del Pago**.
   
-  ![image](https://github.com/erpcya/docs/assets/9578152/b2ad7130-f597-4291-8f00-8fdf332be52d)
+  ![image](https://github.com/erpcya/docs/assets/9578152/1fd3517f-5510-4382-83fa-6dee7a2a97c4)
 
-  3. Seleccione el método de pago **Transferencia** en cualquiera de las monedas disponibles, en el campo **Método de Pago**.
+  3. Seleccione el método de pago **PDV-Crédito** en cualquiera de las monedas disponibles, en el campo **Método de Pago**.
 
-  ![image](https://github.com/erpcya/docs/assets/9578152/b2f12e96-5afc-40c6-bd93-3f8e4e0c7b8c)
+  ![image](https://github.com/erpcya/docs/assets/9578152/ae5cc754-bbdd-4e62-aa85-6732b5e0bfa0)
 
   4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
   5. Seleccione el banco donde recibe el dinero(receptor).
   
-  ![image](https://github.com/erpcya/docs/assets/9578152/47fe2cc2-18a7-49a5-bc93-d6acd558f87c)
+  ![image](https://github.com/erpcya/docs/assets/9578152/b3104913-d5b2-49f1-b596-0b74ffd50c5c)
 
   6. Indique la cédula del cliente en el campo **código**.
   
-  ![image](https://github.com/erpcya/docs/assets/9578152/982f48a6-aed4-436a-a9ec-34c230124f72)
+  ![image](https://github.com/erpcya/docs/assets/9578152/4abf4c4e-b2d5-4c9d-8d1c-62bba388c1e0)
 
   7. Indique la fecha de la operación bancaria en el campo **fecha**
 
-  ![image](https://github.com/erpcya/docs/assets/9578152/120c846a-c330-4d18-830f-44ce896dc22c)
+  ![image](https://github.com/erpcya/docs/assets/9578152/985b659b-7cde-4aec-8d01-d8c2470fd636)
 
   8. Indique el teléfono del cliente en el campo **teléfono**.
 
   ![image](https://github.com/erpcya/docs/assets/9578152/377619fe-c54d-4374-b7db-a60cc3e012f1)
 
-  9. Indique el número de referencia de la transferencia que hizo el cliente, en el campo **No. Referencia**.
+  9. Indique el tipo de tarjeta de crédito del cliente, en el campo **Tarjeta de Crédito**.
   
-  ![image](https://github.com/erpcya/docs/assets/9578152/a542c6a4-3ed2-41a2-b780-9d868d1a05c7)
+  ![image](https://github.com/erpcya/docs/assets/9578152/01694289-2297-4558-a795-ca32b0164c0f)
+
+  10. Indique el número de la tarjeta de Crédito del cliente, en el campo **Número**
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/67aac089-f4de-453f-8229-f047de7f47d3)
+
   
-  11. Seleccione la opción agregar cobro.
+  12. Seleccione la opción agregar cobro.
   
-  ![image](https://github.com/erpcya/docs/assets/9578152/11f0e56f-0222-4709-ac84-715752983f4b)
+  ![image](https://github.com/erpcya/docs/assets/9578152/680e094c-48b0-496d-9d4f-b4bf6a1f3e8c)
 
   12. El cobro se agrega de la siguiente forma
 
@@ -654,17 +659,62 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
   8. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
 
-  ![image](https://github.com/erpcya/docs/assets/9578152/a70aa843-1e47-409c-b1b3-b10c826d318d)
+  ![image](https://github.com/erpcya/docs/assets/9578152/186e84eb-c3cd-4cd0-a481-337b48b6fbee)
 
       
-::: info Nota
+8. **Tarjeta de Débito:** El cobro por tarjeta de débito representa un monto que es abonado en la cuenta de manera autómatica por el banco, quien débita de la cuenta del cliente, que generalmente implica una comisión,puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
 
-1. Si el cobro es en moneda distinta a la del curso legal, generará IGTF.
-2. Si se elimina el cobro, el IGTF se elimina de manera autómatica.
+   1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
 
-:::
-8. **Tarjeta de Débito:**
-9. **Pago Móvil:**
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/737a79e3-0260-4ba0-af3c-b3628655b0a4)
+
+  3. Seleccione el método de pago **PDV-Banco** en cualquiera de las monedas disponibles, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/a9e786cf-9c08-42a3-b674-96debcf6d1ff)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+  5. Seleccione el banco donde recibe el dinero(receptor), en el campo **banco**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/1391c6f3-eccd-41da-ab57-04c541b49ead)
+
+  6. Indique la cédula del cliente en el campo **código**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/79811efa-d7e3-4b0c-9abe-c908821e1915)
+
+  7. Indique la fecha de la operación bancaria en el campo **fecha**
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/81a7a681-824a-47a1-8987-a114dda0e59b)
+
+  8. Indique la referencia del recibo del punto de venta, en el campo **referencia**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/960dd506-11a5-45e4-a2ad-eb14a6ceed18)
+  
+  9. Seleccione la opción agregar cobro.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/627b0f4c-ec00-4d97-bbf1-ea6c70bd414c)
+
+  10. El cobro se agrega de la siguiente forma
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/106bd120-71e4-455a-b4f1-c99128ab942c)
+
+  Este registro refleja:
+   1. La Fecha del cobro.
+   2. Método de Pago.
+   3. Moneda.
+   4. Referencia.
+   5. Monto en moneda del cobro si es en divisa.
+   6. Monto convertido a moneda del terminal.
+
+  8. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+![image](https://github.com/erpcya/docs/assets/9578152/c67525d0-63fd-4113-9c19-9e6703e4a1ca)
+
+
+9. **Pago Móvil:** 
 10. **Tarjeta de Crédito:**
 11. **Zelle:**
 12. **Crédito:**
