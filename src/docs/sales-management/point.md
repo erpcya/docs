@@ -509,7 +509,7 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 ### Gestión de Tributos
 
 1. **Generación de IGTF:**
-2. **Generación de IVA:** Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa 
+2. **Generación de IVA:** Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad del IVA, **sabiendo que es una estimación** ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:
 3. **Carga de Comprobante de IVA:**
 
 ### Consultas de Ventas
