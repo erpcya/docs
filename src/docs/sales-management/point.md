@@ -508,9 +508,38 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
    
 ### Gestión de Tributos
 
-1. **Generación de IGTF:**
-2. **Generación de IVA:** Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad del IVA, **sabiendo que es una estimación** ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:
-3. **Carga de Comprobante de IVA:**
+1. **Generación de IGTF:** Es un débito que se aplica a la cuenta por cobrar, esto significa que aumenta el monto a cobrar, este aumento representa el 3% del monto cobrado en divisas efectivo o transferencia correspondiente a la **obligación del IGTF**, **sabiendo que es una estimación** ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:
+  1. El cliente debe ser obligatoriamente **contribuyente especial**.
+  2. La tienda(empresa) debe tener definido su porcentaje de retención (100% o 75%).
+  3. El documento por cobrar debe ser físcal.
+  4. Los productos o servicios facturados deben ser grabados.
+
+Ahora bien, la estamción se genera de manera autómatica, y se visualiza en el apartado de cobros de la siguiente forma:
+
+![image](https://github.com/erpcya/docs/assets/9578152/d87bc6b7-5e93-4250-9398-75dd626393c9)
+
+Esta retención refleja:
+  1. La tasa de impuesto.
+  2. El monto que representa la retención.
+     
+Esta retención rebaja el monto a cobrar, y queda pendiente hasta registrar el comprobante que el cliente consigna a la tienda.
+2. **Generación de IVA:** Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad de la **obligación del IVA**, este es un monto definitivo que cálcula la tienda, este cálculo depende de las siguientes condiciones:
+  1. La tienda(empresa) debe ser obligatoriamente **contribuyente especial**.
+  2. El cobro debe ser en divisas.
+  3. El documento por cobrar debe ser físcal.
+     
+Ahora bien, la retención se genera de manera autómatica, y se visualiza en el apartado de cobros de la siguiente forma:
+
+![image](https://github.com/erpcya/docs/assets/9578152/f2227a9c-59a9-4a34-8fa6-3cf3b9a2dd95)
+
+Esta retención refleja:
+  1. El monto base o del cobro.
+  2. El monto que representa la retención en la moneda divisa.
+  3. El monto que representa la retención en la moneda de curso legal.
+     
+Esta retención aumenta el monto a cobrar.
+    
+6. **Carga de Comprobante de IVA:**
 
 ### Consultas de Ventas
 
