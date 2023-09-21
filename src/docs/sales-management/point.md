@@ -498,14 +498,42 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 ### Cobranza
 
 1. **Efectivo:** El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
-  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**
-3. **Transferencia:**
-4. **Tarjeta de Crédito:**
-5. **Tarjeta de Débito:**
-6. **Pago Móvil:**
+  
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/65a9f5d2-a143-4132-97ce-a4596de68c45)
+
+  3. Seleccione el método de pago **Efectivo** en cualquiera de las monedas disponibles, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/b996d4c0-b3fa-4617-bb3d-e0f983e37077)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+  5. Seleccione la opción agregar cobro.
+
+     ![image](https://github.com/erpcya/docs/assets/9578152/3cd3b606-55f6-42ff-a29b-f3e60d26a25f)
+
+  7. El cobro se agrega de la siguiente forma
+
+     
+  9. 
+
+2. **Transferencia:** El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:
+
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+    ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+3. 
 7. **Tarjeta de Crédito:**
-8. **Zelle:**
-9. **Crédito:**
+8. **Tarjeta de Débito:**
+9. **Pago Móvil:**
+10. **Tarjeta de Crédito:**
+11. **Zelle:**
+12. **Crédito:**
    
 ### Gestión de Tributos
 
@@ -524,6 +552,7 @@ Esta retención refleja:
   2. El monto que representa la retención.
      
 Esta retención rebaja el monto a cobrar, y queda pendiente hasta registrar el comprobante que el cliente consigna a la tienda.
+
 2. **Generación de IVA:** Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad de la **obligación del IVA**, este es un monto definitivo que cálcula la tienda, este cálculo depende de las siguientes condiciones:
   1. La tienda(empresa) debe ser obligatoriamente **contribuyente especial**.
   2. El cobro debe ser en divisas.
