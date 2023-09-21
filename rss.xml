@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Sep 2023 17:16:30 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Sep 2023 17:16:30 GMT</lastBuildDate>
+    <pubDate>Thu, 21 Sep 2023 18:36:55 GMT</pubDate>
+    <lastBuildDate>Thu, 21 Sep 2023 18:36:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -727,9 +727,45 @@
 <p><img src="https://github.com/erpcya/docs/assets/9578152/31299703-3290-43c8-af1f-36fa22590abb" alt="image"></p>
 <h3 id="cobranza" tabindex="-1"> Cobranza</h3>
 <ol>
-<li><strong>Efectivo:</strong> El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</li>
-<li>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong></li>
-<li><strong>Transferencia:</strong></li>
+<li>
+<p><strong>Efectivo:</strong> El cobro en efectivo representa un monto en moneda física y efectiva que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+</li>
+<li>
+<p>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2" alt="image"></p>
+<ol start="2">
+<li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/65a9f5d2-a143-4132-97ce-a4596de68c45" alt="image"></p>
+<ol start="3">
+<li>Seleccione el método de pago <strong>Efectivo</strong> en cualquiera de las monedas disponibles, en el campo <strong>Método de Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/b996d4c0-b3fa-4617-bb3d-e0f983e37077" alt="image"></p>
+<ol start="4">
+<li>
+<p>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</p>
+</li>
+<li>
+<p>Seleccione la opción agregar cobro.</p>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/3cd3b606-55f6-42ff-a29b-f3e60d26a25f" alt="image"></p>
+</li>
+<li>
+<p>El cobro se agrega de la siguiente forma</p>
+</li>
+<li></li>
+<li>
+<p><strong>Transferencia:</strong> El cobro en transferencia representa un monto de manera digital entre cuentas de entidades bancarias que puede ser cualquier moneda, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+</li>
+<li>
+<p>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</p>
+</li>
+</ol>
+<pre><code>![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+</code></pre>
+<ol start="3">
+<li></li>
 <li><strong>Tarjeta de Crédito:</strong></li>
 <li><strong>Tarjeta de Débito:</strong></li>
 <li><strong>Pago Móvil:</strong></li>
@@ -752,9 +788,9 @@
 <li>La tasa de impuesto.</li>
 <li>El monto que representa la retención.</li>
 </ol>
-<p>Esta retención rebaja el monto a cobrar, y queda pendiente hasta registrar el comprobante que el cliente consigna a la tienda.
-2. <strong>Generación de IVA:</strong> Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad de la <strong>obligación del IVA</strong>, este es un monto definitivo que cálcula la tienda, este cálculo depende de las siguientes condiciones:</p>
-<ol>
+<p>Esta retención rebaja el monto a cobrar, y queda pendiente hasta registrar el comprobante que el cliente consigna a la tienda.</p>
+<ol start="2">
+<li><strong>Generación de IVA:</strong> Es un crédito que se aplica a la cuenta por cobrar, esto significa que rebaja el monto a cobrar, esta rebaja representa una porción o la totalidad de la <strong>obligación del IVA</strong>, este es un monto definitivo que cálcula la tienda, este cálculo depende de las siguientes condiciones:</li>
 <li>La tienda(empresa) debe ser obligatoriamente <strong>contribuyente especial</strong>.</li>
 <li>El cobro debe ser en divisas.</li>
 <li>El documento por cobrar debe ser físcal.</li>
