@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-22T20:17:38.410Z</updated>
+  <updated>2023-09-22T20:47:30.535Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-22T20:09:31.000Z</updated>
+    <updated>2023-09-22T20:39:13.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -1141,9 +1141,98 @@
 </li>
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/7b0cbf9c-6dc1-444e-bb62-0acdef072a65" alt="image"></p>
-<ol start="12">
-<li><strong>Crédito:</strong></li>
+<div><p>Nota</p>
+<ol>
+<li>Si el cobro es en moneda distinta a la del curso legal, generará IGTF.</li>
+<li>Si se elimina el cobro, el IGTF se elimina de manera autómatica.</li>
 </ol>
+</div>
+<ol start="12">
+<li>
+<p><strong>Crédito:</strong> Esta forma de pago, solo permite cerrar la factura sin un cobro, quedando la cuenta por cobrar pendiente por cancelar de manera total o parcial posteriormente, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+</li>
+<li>
+<p>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2" alt="image"></p>
+<ol start="2">
+<li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/c3bd678a-f5a0-435f-bf75-3c689e0592f4" alt="image"></p>
+<ol start="3">
+<li>Seleccione el método de pago <strong>Crédito</strong>, en el campo <strong>Método de Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/2b3eeef1-d049-4657-abaf-191c2526f995" alt="image"></p>
+<ol start="4">
+<li>
+<p>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</p>
+</li>
+<li>
+<p>Seleccione la opción agregar cobro.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/35d298e3-ee17-4b9d-9fa0-ba84ae26240d" alt="image"></p>
+<ol start="6">
+<li>El cobro se agrega de la siguiente forma</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/948d6818-3bcc-4103-b5d7-89cfbcda778d" alt="image"></p>
+<p>Este registro refleja:</p>
+<ol>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Monto en moneda del crédito.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/a5849911-3f60-49a4-86fe-c053c8530ae1" alt="image"></p>
+<ol start="12">
+<li>
+<p><strong>Nota de Devolución:</strong> Esta forma de pago, solo permite compensar un saldo por concepto de una devolución, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+</li>
+<li>
+<p>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2" alt="image"></p>
+<ol start="2">
+<li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/c3bd678a-f5a0-435f-bf75-3c689e0592f4" alt="image"></p>
+<ol start="3">
+<li>Seleccione el método de pago <strong>Crédito</strong>, en el campo <strong>Método de Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/2b3eeef1-d049-4657-abaf-191c2526f995" alt="image"></p>
+<ol start="4">
+<li>
+<p>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</p>
+</li>
+<li>
+<p>Seleccione la opción agregar cobro.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/35d298e3-ee17-4b9d-9fa0-ba84ae26240d" alt="image"></p>
+<ol start="6">
+<li>El cobro se agrega de la siguiente forma</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/948d6818-3bcc-4103-b5d7-89cfbcda778d" alt="image"></p>
+<p>Este registro refleja:</p>
+<ol>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Monto en moneda del crédito.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/a5849911-3f60-49a4-86fe-c053c8530ae1" alt="image"></p>
 <h3 id="gestion-de-tributos" tabindex="-1"> Gestión de Tributos</h3>
 <ol>
 <li><strong>Generación de IGTF:</strong> Es un débito que se aplica a la cuenta por cobrar, esto significa que aumenta el monto a cobrar, este aumento representa el 3% del monto cobrado en divisas efectivo o transferencia correspondiente a la <strong>obligación del IGTF</strong>, <strong>sabiendo que es una estimación</strong> ya que el monto definitivo depende del comprobante que consigna el cliente, este cálculo depende de las siguientes condiciones:</li>
