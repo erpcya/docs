@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-09-21T22:26:01.968Z</updated>
+  <updated>2023-09-22T20:17:38.410Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -190,7 +190,7 @@
     <title type="html">Punto de Venta</title>
     <id>https://docs-md.erpya.com/docs/sales-management/point.html</id>
     <link href="https://docs-md.erpya.com/docs/sales-management/point.html"/>
-    <updated>2023-09-21T22:18:24.000Z</updated>
+    <updated>2023-09-22T20:09:31.000Z</updated>
     <content type="html"><![CDATA[<h2 id="¿que-es-un-punto-de-venta" tabindex="-1"> ¿Qué es un Punto de Venta?</h2>
 <p>Presupuestos, facturación, cobranza, retenciones, devoluciones parciales, el inventario y una venta electrónica son solo un inicio. El Punto de venta de ADempiere para tiendas es tu herramienta inteligente y agil para conectar todas las transacciones de ventas que mantienen a tu negocio.
 <img src="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" alt="POS (1)"></p>
@@ -1071,7 +1071,7 @@
 <p>Referencia del pago móvil.</p>
 </li>
 <li>
-<p>Monto convertido a moneda del terminal.</p>
+<p>Monto.</p>
 </li>
 <li>
 <p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
@@ -1079,7 +1079,69 @@
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/e95e6f32-912e-46da-9c32-f0d7eacc1eee" alt="image"></p>
 <ol start="11">
-<li><strong>Zelle:</strong></li>
+<li>
+<p><strong>Zelle:</strong> Zelle es una aplicación de Bank of America es una manera rápida, segura y fácil de enviar y recibir dinero con familiares y amigos que tengan una cuenta bancaria en EE.UU, para registrar un cobro de este tipo, opere de la siguiente forma:</p>
+</li>
+<li>
+<p>Vaya al formulario de cobranza, seleccionando la opción <strong>cobrar</strong>.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2" alt="image"></p>
+<ol start="2">
+<li>Indique el monto del efectivo en el campo <strong>Total del Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/d4304af4-c5ec-4045-a086-0bbbc6b6a3d2" alt="image"></p>
+<ol start="3">
+<li>Seleccione el método de pago <strong>Zelle</strong>, en el campo <strong>Método de Pago</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/4963f795-ef9d-4d71-808c-4023ca067916" alt="image"></p>
+<ol start="4">
+<li>El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.</li>
+<li>Indique la fecha de la operación bancaria en el campo <strong>fecha</strong></li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/5b4c83b0-6265-4e9d-83b3-20ec7285a02e" alt="image"></p>
+<ol start="11">
+<li>Indique el nombre del titular de la cuenta, en el campo <strong>Nombre del Titular</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/8e8e664b-d31c-4584-bff0-87af6d3194f6" alt="image"></p>
+<ol start="12">
+<li>Indique el número de referencia del pago móvil, en el campo <strong>referencia</strong>.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/f7eff33d-ad7a-491d-9c8a-d18d528af04c" alt="image"></p>
+<ol start="13">
+<li>Seleccione la opción agregar cobro.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/80517bdc-3efe-4fb7-9868-bf8f711b949e" alt="image"></p>
+<ol start="14">
+<li>El cobro se agrega de la siguiente forma</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/7aeaa440-1358-412e-a9af-0fef79148216" alt="image"></p>
+<p>Este registro refleja:</p>
+<ol>
+<li>
+<p>La Fecha del cobro.</p>
+</li>
+<li>
+<p>Método de Pago.</p>
+</li>
+<li>
+<p>Moneda.</p>
+</li>
+<li>
+<p>Referencia del Zelle.</p>
+</li>
+<li>
+<p>Monto en moneda del cobro si es en divisa.</p>
+</li>
+<li>
+<p>Monto convertido a moneda del terminal.</p>
+</li>
+<li>
+<p>El cobro se puede eliminar seleccionando la <strong>X</strong> en la esquina superior derecha.</p>
+</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/7b0cbf9c-6dc1-444e-bb62-0acdef072a65" alt="image"></p>
+<ol start="12">
 <li><strong>Crédito:</strong></li>
 </ol>
 <h3 id="gestion-de-tributos" tabindex="-1"> Gestión de Tributos</h3>
