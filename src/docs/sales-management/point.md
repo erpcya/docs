@@ -824,7 +824,79 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
 
   ![image](https://github.com/erpcya/docs/assets/9578152/7b0cbf9c-6dc1-444e-bb62-0acdef072a65)
 
-12. **Crédito:**
+  ::: info Nota
+
+1. Si el cobro es en moneda distinta a la del curso legal, generará IGTF.
+2. Si se elimina el cobro, el IGTF se elimina de manera autómatica.
+
+:::
+
+12. **Crédito:** Esta forma de pago, solo permite cerrar la factura sin un cobro, quedando la cuenta por cobrar pendiente por cancelar de manera total o parcial posteriormente, para registrar un cobro de este tipo, opere de la siguiente forma:
+    
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/c3bd678a-f5a0-435f-bf75-3c689e0592f4)
+
+  3. Seleccione el método de pago **Crédito**, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/2b3eeef1-d049-4657-abaf-191c2526f995)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+
+  5. Seleccione la opción agregar cobro.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/35d298e3-ee17-4b9d-9fa0-ba84ae26240d)
+
+  6. El cobro se agrega de la siguiente forma
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/948d6818-3bcc-4103-b5d7-89cfbcda778d)
+
+  Este registro refleja:
+   1. Método de Pago.
+   5. Monto en moneda del crédito.
+      
+  7. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/a5849911-3f60-49a4-86fe-c053c8530ae1)
+
+
+  12. **Nota de Devolución:** Esta forma de pago, solo permite compensar un saldo por concepto de una devolución, para registrar un cobro de este tipo, opere de la siguiente forma:
+    
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/c3bd678a-f5a0-435f-bf75-3c689e0592f4)
+
+  3. Seleccione el método de pago **Crédito**, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/2b3eeef1-d049-4657-abaf-191c2526f995)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+
+  5. Seleccione la opción agregar cobro.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/35d298e3-ee17-4b9d-9fa0-ba84ae26240d)
+
+  6. El cobro se agrega de la siguiente forma
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/948d6818-3bcc-4103-b5d7-89cfbcda778d)
+
+  Este registro refleja:
+   1. Método de Pago.
+   5. Monto en moneda del crédito.
+      
+  7. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/a5849911-3f60-49a4-86fe-c053c8530ae1)
+
+
    
 ### Gestión de Tributos
 
