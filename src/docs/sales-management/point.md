@@ -770,14 +770,60 @@ Esta opción permite a un cajero con autorización realiza cambios en los atribu
    2. Método de Pago.
    3. Moneda.
    4. Referencia del pago móvil.
-   5. Monto convertido a moneda del terminal.
+   5. Monto.
 
   15. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
 
   ![image](https://github.com/erpcya/docs/assets/9578152/e95e6f32-912e-46da-9c32-f0d7eacc1eee)
 
 
-11. **Zelle:**
+11. **Zelle:** Zelle es una aplicación de Bank of America es una manera rápida, segura y fácil de enviar y recibir dinero con familiares y amigos que tengan una cuenta bancaria en EE.UU, para registrar un cobro de este tipo, opere de la siguiente forma:
+
+  1. Vaya al formulario de cobranza, seleccionando la opción **cobrar**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80653950-486c-4d80-8732-adee054f4af2)
+
+  2. Indique el monto del efectivo en el campo **Total del Pago**.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/d4304af4-c5ec-4045-a086-0bbbc6b6a3d2)
+
+  3. Seleccione el método de pago **Zelle**, en el campo **Método de Pago**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/4963f795-ef9d-4d71-808c-4023ca067916)
+
+  4. El campo moneda no es editable para este método de pago, se actualiza por la moneda del método.
+  5. Indique la fecha de la operación bancaria en el campo **fecha**
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/5b4c83b0-6265-4e9d-83b3-20ec7285a02e)
+
+  11. Indique el nombre del titular de la cuenta, en el campo **Nombre del Titular**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/8e8e664b-d31c-4584-bff0-87af6d3194f6)
+
+  12. Indique el número de referencia del pago móvil, en el campo **referencia**.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/f7eff33d-ad7a-491d-9c8a-d18d528af04c)
+
+  13. Seleccione la opción agregar cobro.
+  
+  ![image](https://github.com/erpcya/docs/assets/9578152/80517bdc-3efe-4fb7-9868-bf8f711b949e)
+
+  14. El cobro se agrega de la siguiente forma
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/7aeaa440-1358-412e-a9af-0fef79148216)
+
+  Este registro refleja:
+   1. La Fecha del cobro.
+   2. Método de Pago.
+   3. Moneda.
+   4. Referencia del Zelle.
+   5. Monto en moneda del cobro si es en divisa.
+   6. Monto convertido a moneda del terminal.
+
+  15. El cobro se puede eliminar seleccionando la **X** en la esquina superior derecha.
+
+  ![image](https://github.com/erpcya/docs/assets/9578152/7b0cbf9c-6dc1-444e-bb62-0acdef072a65)
+
 12. **Crédito:**
    
 ### Gestión de Tributos
