@@ -9,6 +9,7 @@ export default hopeTheme({
     name: "ERP Consultores y Asociados, C.A.",
     url: "https://erpya.com",
   },
+  fullscreen: true,
 
   iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
   iconPrefix: "iconfont icon-",
