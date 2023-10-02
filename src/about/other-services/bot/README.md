@@ -22,3 +22,5 @@ La intención del documento es explicar las instrucciones claras y precisas de c
 - [Configuración en ADempiere](configuration-in-adempiere.md)
 
 - [Interfaz del Bot](use.md)
+
+- [Soporte en Bot](bot-support.md)
