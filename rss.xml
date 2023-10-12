@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 12 Oct 2023 23:02:05 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2023 23:02:05 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 23:08:52 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 23:08:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -281,7 +281,17 @@
 <li>Nota de Entrega</li>
 <li>Factura Forma Libre</li>
 </ol>
-<h3 id="" tabindex="-1"> </h3>
+<h3 id="devolucion-parcial" tabindex="-1"> Devolución Parcial</h3>
+<p>La nueva funcionalida de devolucion parcial ofrece varios beneficios clave para los clientes, incluidos agilidad en proceso, homgeneidad de datos y  gestión eficiente en operaciones diarias:</p>
+<ol>
+<li>Devolución Fraccionada de Productos de una venta del mismo día o días atrás.</li>
+<li>Crear Nueva Orden desde Devolución.</li>
+<li>Asignación del crédito del cliente en la nueva venta.</li>
+<li>Generación de ingreso de mercancia cuando existe entrega.</li>
+<li>Integridad en precios en devolución.</li>
+<li>Bloqueo para edición de Cantidades y precio en nueva factura desde devolución.</li>
+<li>Velocidad en Procesar una Devolución.</li>
+</ol>
 <p>Permite agregar cobro en 0.
 Deja completar Facturas sin Cobro
 Error al crear entrega en recarga de cantidades
@@ -290,18 +300,14 @@ Permite hacer una devolución de un pedido en borrador
 Validación Doble/Triple facturación por intermitencia de conectividad y multiples peticiones
 Cantidad de Disponibilidad en Búsqueda de Producto</p>
 <p>Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</p>
-<p>Devoluciones Parciales
-Facturación de Propuestas
+<p>Facturación de Propuestas
 Temporizador para procesar transacción(petición)
 Operaciones a Crédito
 Cierre de Caja Detallado
-Copiar Orden
-Crear Nueva Orden desde Devolución
-Cobranza con Nota de Crédito
-&quot;Integración Directa para Reembolsos y Validación de Pago Móvil Sitef (Farmatodo)</p>
+Copiar Orden</p>
+<p>&quot;Integración Directa para Reembolsos y Validación de Pago Móvil Sitef (Farmatodo)</p>
 <ul>
 <li>&quot;
-Previsualización de la Emtrega (Formato)
 Velocidad en Procesar Orden
 Validación para Devolución cuando no hay entrega
 Corrección en descuentos para devolución
