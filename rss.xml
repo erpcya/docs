@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 12 Oct 2023 21:39:16 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2023 21:39:16 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 21:50:01 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 21:50:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -177,8 +177,9 @@
       <category>Noticias</category>
       <pubDate>Wed, 03 May 2023 19:30:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
-<h2 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h2>
+<h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
+<h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
 <p>Actualizar Tipo de Contribuyente en PDV
 Referencia de Pago con Organización Errada
@@ -241,6 +242,7 @@ Bloqueo para edición de Cantidades y precio en nueva factura copiada desde devo
 Validación y Confirmación de Pagos Digitales
 Registro de Reembolso desde PDV</li>
 </ul>
+<h2 id="administrativo" tabindex="-1"> Administrativo</h2>
 ]]></content:encoded>
     </item>
     <item>

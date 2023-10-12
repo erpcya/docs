@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-12T21:39:16.005Z</updated>
+  <updated>2023-10-12T21:50:01.190Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,10 +173,11 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-12T21:29:44.000Z</updated>
+    <updated>2023-10-12T21:41:40.000Z</updated>
     <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
-<h2 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h2>
+<h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
+<h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
 <p>Actualizar Tipo de Contribuyente en PDV
 Referencia de Pago con Organización Errada
@@ -239,6 +240,7 @@ Bloqueo para edición de Cantidades y precio en nueva factura copiada desde devo
 Validación y Confirmación de Pagos Digitales
 Registro de Reembolso desde PDV</li>
 </ul>
+<h2 id="administrativo" tabindex="-1"> Administrativo</h2>
 ]]></content>
     <author>
       <name>Waditza Rivas</name>
