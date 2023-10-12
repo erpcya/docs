@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 12 Oct 2023 21:50:01 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2023 21:50:01 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 22:07:50 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 22:07:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -181,10 +181,25 @@
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
-<p>Actualizar Tipo de Contribuyente en PDV
-Referencia de Pago con Organización Errada
-Retención con Organización Errada (Caso IGTF e IVA)
-Visualización de Cajas al hacer Pago Móvil
+<p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisologia sin que este genere descuentos.</p>
+<h3 id="actualizar-tipo-de-contribuyente-y-correo-electronico-en-pdv" tabindex="-1"> Actualizar Tipo de Contribuyente y Correo Electrónico en PDV</h3>
+<p>Ahora puedes desde el Punto de Venta actualizar los datos de tus clientes sin tener que hacer cambios incomodos de interfaz o molestas esperas.</p>
+<h3 id="referencia-de-pago-devoluciones-cierres-de-cajas-y-retenciones-ahora-con-la-organizacion-correcta" tabindex="-1"> Referencia de Pago,Devoluciones, Cierres de Cajas, y Retenciones ahora con la organización correcta</h3>
+<p>¡Sabemos las ocupaciones que tienes!, para tí que gestionas más de una sucursal, queremos evitarte las molestias e incomodidades que se ocasionan cuando registras las operaciones y el PDV toma la organización con la que iniciaste sesión,y justo ahi te das cuenta que... ¡Ups! no era esa la sucursal con la que debiste ingresar. Así es, justo para ti es este cambio:</p>
+<ol>
+<li>Registro de Retención con Organización del Terminal</li>
+<li>IGTF</li>
+<li>IVA</li>
+<li>Registro de Devolución con Organización del Terminal</li>
+<li>Nota de Crédito</li>
+<li>Devolución</li>
+<li>Egresos de Dinero</li>
+<li>Cierre de Caja con Organización del Terminal</li>
+<li>Cierre de Caja</li>
+<li>Depósito o Transferencias a Cajas de Cierres</li>
+<li>Egresos de Dinero</li>
+</ol>
+<p>Visualización de Cajas al hacer Pago Móvil
 Adición de Campos en Método de Pago Pago Móvil
 Validar Disponibilidad desde PDV con Almacén de la Orden
 No genera el ajuste a la factura
@@ -192,7 +207,6 @@ Visualización de Campaña de la Orden
 Agregado de Campaña en las lineas del documento
 IGTF se genera manual
 Registro y Actualización de Datos en Cuentas Bancarias de Clientes
-Devolución con Organización Errada
 Pre-cálculo de Retención IVA Duplicado
 Error al cambiar el tipo de documento con PIN
 Permite agregar cobro en 0.
@@ -200,7 +214,6 @@ Deja completar Facturas sin Cobro
 Error al crear entrega en recarga de cantidades
 Actualización de Vendedores en Pedidos del PDV
 Factura con Tipo de Documento Retención de IVA
-Cierre de Caja con Egresos de otra Organización
 Al crear un comprobante de retención no establece número de comprobante
 Permite hacer una devolución de un pedido en borrador
 Actualización de Email guardado en Clientes
