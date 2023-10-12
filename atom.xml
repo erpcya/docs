@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-12T23:08:52.490Z</updated>
+  <updated>2023-10-12T23:26:39.023Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,7 +173,7 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-12T22:59:50.000Z</updated>
+    <updated>2023-10-12T23:16:36.000Z</updated>
     <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
@@ -243,7 +243,7 @@
 <li>Autorización a Cambio de Tipo de Documento con PIN</li>
 </ol>
 <h3 id="agregado-de-opciones-de-busqueda" tabindex="-1"> Agregado de Opciones de Búsqueda</h3>
-<p>Nuestro equipo ha realizado mejoras cruciales en Consultas que permiten una gestión más agíl, facíl y eficiente dentro del PDV.</p>
+<p>Nos complace presentar las nuevas pestañas para consultas que permiten una gestión más agíl, facíl y eficiente dentro del PDV.</p>
 <ol>
 <li>Por Facturar</li>
 <li>Ventas de Pasillo</li>
@@ -290,29 +290,39 @@
 <li>Bloqueo para edición de Cantidades y precio en nueva factura desde devolución.</li>
 <li>Velocidad en Procesar una Devolución.</li>
 </ol>
-<p>Permite agregar cobro en 0.
-Deja completar Facturas sin Cobro
-Error al crear entrega en recarga de cantidades
-Actualización de Vendedores en Pedidos del PDV
-Permite hacer una devolución de un pedido en borrador
-Validación Doble/Triple facturación por intermitencia de conectividad y multiples peticiones
-Cantidad de Disponibilidad en Búsqueda de Producto</p>
-<p>Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</p>
-<p>Facturación de Propuestas
-Temporizador para procesar transacción(petición)
+<h2 id="mejoras-y-correcciones" tabindex="-1"> Mejoras y Correcciones</h2>
+<p>Nuestro equipo ha realizado mejoras cruciales, como abordar las correcciones de errores dentro de la aplicación que incomodan la operción de los usuarios:</p>
+<ol>
+<li>Se incorpora una Validación para evitar agregar cobros en 0.</li>
+<li>Se incorpora una Validación para evitar completar Facturas sin Cobro.</li>
+<li>Se corrige la recarga de cantidades al realizar una entrega.</li>
+<li>Se corrige la actualización de vendedores en pedidos de otras tiendas.</li>
+<li>Se incorpora una Validación para evitar la impresión Doble/Triple de factura por intermitencia de conectividad y multiples peticiones.</li>
+<li>Se incorpora una Validación para evitar la facturación de Propuestas.</li>
+</ol>
+<h3 id="tolerancia-de-ajuste-de-factura-con-autorizacion-por-nivel-de-aprobacion" tabindex="-1"> Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</h3>
+<p>Temporizador para procesar transacción(petición)
 Operaciones a Crédito
 Cierre de Caja Detallado
 Copiar Orden</p>
-<p>&quot;Integración Directa para Reembolsos y Validación de Pago Móvil Sitef (Farmatodo)</p>
-<ul>
-<li>&quot;
-Velocidad en Procesar Orden
-Validación para Devolución cuando no hay entrega
-Corrección en descuentos para devolución
-Bloqueo para edición de Cantidades y precio en nueva factura copiada desde devolución
-Validación y Confirmación de Pagos Digitales
-Registro de Reembolso desde PDV</li>
-</ul>
+<h3 id="integracion-directa-para-reembolsos-y-validacion-de-pago-movil-con-sitef" tabindex="-1"> Integración Directa para Reembolsos y Validación de Pago Móvil con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a></h3>
+<p>Nos complace anunciar una nueva opción de proveedor de pago para nuestros clientes. Ahora puedes integrar con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a> como su pasarela de pago preferida y comience a aceptar pagos sin problemas y a validar sus pagos directamente desde el punto de venta con las siguientes opciones de Bancos:</p>
+<ol>
+<li>Provincial</li>
+<li>Mercantil</li>
+<li>Bancaribe</li>
+<li>Activo</li>
+<li>Plaza</li>
+<li>Bancrecer</li>
+<li>Exterior</li>
+<li>Bancamiga</li>
+<li>Venezuela</li>
+<li>Tesoro</li>
+<li>Banplus</li>
+</ol>
+<p>Velocidad en Procesar Orden</p>
+<p>Validación y Confirmación de Pagos Digitales
+Registro de Reembolso desde PDV</p>
 <h2 id="administrativo" tabindex="-1"> Administrativo</h2>
 ]]></content>
     <author>
