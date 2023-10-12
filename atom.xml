@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-12T23:26:39.023Z</updated>
+  <updated>2023-10-12T23:42:51.386Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,8 +173,9 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-12T23:16:36.000Z</updated>
-    <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
+    <updated>2023-10-12T23:34:21.000Z</updated>
+    <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.
+<img src="https://github.com/erpcya/docs/assets/9578152/0a25d8e2-7f16-4dc0-9aff-572cddf4e878" alt="Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
 <h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
@@ -301,8 +302,19 @@
 <li>Se incorpora una Validación para evitar la facturación de Propuestas.</li>
 </ol>
 <h3 id="tolerancia-de-ajuste-de-factura-con-autorizacion-por-nivel-de-aprobacion" tabindex="-1"> Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</h3>
-<p>Temporizador para procesar transacción(petición)
-Operaciones a Crédito
+<p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e integro en la operativa diaria:</p>
+<ol>
+<li>Control de Ajuste por Tolerancia porcentual con niveles de aprobación de supervisor</li>
+<li>Control de Ajuste por Tolerancia en monto con niveles de aprobación de supervisor</li>
+</ol>
+<h3 id="cierre-de-caja-detallado" tabindex="-1"> Cierre de Caja Detallado</h3>
+<p>Hemos reestructurado la Consolidación de todos los registros diarios de ventas para un arqueo de caja ideal dentro del punto de venta que ofrezca un detalle preciso:</p>
+<ol>
+<li>Detalle de Ingresos</li>
+<li>Detalle de Egresos</li>
+</ol>
+<h3 id="oe" tabindex="-1"> Oe</h3>
+<p>Operaciones a Crédito
 Cierre de Caja Detallado
 Copiar Orden</p>
 <h3 id="integracion-directa-para-reembolsos-y-validacion-de-pago-movil-con-sitef" tabindex="-1"> Integración Directa para Reembolsos y Validación de Pago Móvil con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a></h3>
