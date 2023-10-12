@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-12T22:42:27.235Z</updated>
+  <updated>2023-10-12T22:53:28.577Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,7 +173,7 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-12T22:32:21.000Z</updated>
+    <updated>2023-10-12T22:42:58.000Z</updated>
     <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
@@ -235,24 +235,16 @@
 <li>Ahora puedes establecer la factura a la retención de IVA</li>
 <li>Ahora puedes establecer la fecha de emisión a la retención de IVA</li>
 </ol>
-<h2 id="autorizacion-por-pin-a-diversas-funciones" tabindex="-1"> Autorización por PIN a diversas Funciones</h2>
+<h3 id="autorizacion-por-pin-a-diversas-funciones" tabindex="-1"> Autorización por PIN a diversas Funciones</h3>
 <p>Con la nueva configuración para autorización por PIN de supervisores en eventos, ahora puedes clasificar cómo y cuando cambiar atributos de tus registros</p>
 <ol>
 <li>Autorización a Cambio de Almacén con PIN</li>
 <li>Autorización a Cambio de Lista de Precios con PIN</li>
 <li>Autorización a Cambio de Tipo de Documento con PIN</li>
 </ol>
-<p>Permite agregar cobro en 0.
-Deja completar Facturas sin Cobro
-Error al crear entrega en recarga de cantidades
-Actualización de Vendedores en Pedidos del PDV
-Al crear un comprobante de retención no establece número de comprobante
-Permite hacer una devolución de un pedido en borrador
-Actualización de Email guardado en Clientes
-Validación Doble/Triple facturación por intermitencia de conectividad y multiples peticiones
-Cantidad de Disponibilidad en Búsqueda de Producto
-&quot;Agregado de Opciones de Búsqueda</p>
-<ul>
+<h3 id="agregado-de-opciones-de-busqueda" tabindex="-1"> Agregado de Opciones de Búsqueda</h3>
+<p>Nuestro equipo ha realizado mejoras cruciales en Consultas que permiten una gestión más agíl, facíl y eficiente dentro del PDV.</p>
+<ol>
 <li>Por Facturar</li>
 <li>Ventas de Pasillo</li>
 <li>A Crédito</li>
@@ -260,14 +252,28 @@ Cantidad de Disponibilidad en Búsqueda de Producto
 <li>Propuestas</li>
 <li>Anuladas</li>
 <li>Cerradas</li>
-<li>Devoluciones&quot;
-Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación
+<li>Devoluciones</li>
+</ol>
+<h3 id="consultas-de-productos" tabindex="-1"> Consultas de Productos</h3>
+<p>Para garantizar una experiencia de usuario más enfocada y simplificada para la gestión de atención al cliente, hemos implementado una formulario de consulta de productos:</p>
+<ol>
+<li>Información de Conversión y unidad de Medida Base</li>
+<li>Información de Precios Base en Moneda Origen</li>
+<li>Información de Erxistencia por Almacenes</li>
+<li>Información de Precio Multimoneda</li>
+<li>Detalle del Producto</li>
+</ol>
+<p>Permite agregar cobro en 0.
+Deja completar Facturas sin Cobro
+Error al crear entrega en recarga de cantidades
+Actualización de Vendedores en Pedidos del PDV
+Permite hacer una devolución de un pedido en borrador
+Validación Doble/Triple facturación por intermitencia de conectividad y multiples peticiones
+Cantidad de Disponibilidad en Búsqueda de Producto</p>
+<p>Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación
 Se agrega ventana de dialogo confirmación de operación
-Busqueda en Consulta de Precio</li>
-</ul>
-<p>Formulario para agregado de producto consulta Multimoneda
-Formulario para agregado de producto consulta Almacén
-Devoluciones Parciales
+Busqueda en Consulta de Precio</p>
+<p>Devoluciones Parciales
 Facturación de Propuestas
 Temporizador para procesar transacción(petición)
 Ver vista previa factura
