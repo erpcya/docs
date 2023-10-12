@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-12T22:16:18.472Z</updated>
+  <updated>2023-10-12T22:32:18.190Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,7 +173,7 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-12T22:07:52.000Z</updated>
+    <updated>2023-10-12T22:20:43.000Z</updated>
     <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
@@ -217,10 +217,17 @@
 <li>No Referencia</li>
 </ol>
 <h3 id="validacion-de-disponibilidad-en-almacen-del-pdv" tabindex="-1"> Validación de Disponibilidad en Almacén del PDV</h3>
-<p>No genera el ajuste a la factura
-Visualización de Campaña de la Orden
-Agregado de Campaña en las lineas del documento
-IGTF se genera manual
+<p>hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
+<h3 id="ajuste-a-la-factura-por-diferencal-cambiario" tabindex="-1"> Ajuste a la factura por Diferencal Cambiario</h3>
+<p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del decimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
+<h3 id="gestion-de-campana-del-pedido" tabindex="-1"> Gestión de Campaña del Pedido</h3>
+<p>Se incorpora una gestión más agíl para el usuario referente a la campaña de Venta, lo que proporciona una integración para el análisis detallado de ventas en reportes a nivel administrativo.</p>
+<ol>
+<li>Visualización de Campaña en PDV</li>
+<li>Actualización de Lineas del Pedido con Campaña</li>
+</ol>
+<h3 id="de-la-gestion-tributaria" tabindex="-1"> De la Gestión Tributaria</h3>
+<p>IGTF se genera manual
 Registro y Actualización de Datos en Cuentas Bancarias de Clientes
 Pre-cálculo de Retención IVA Duplicado
 Error al cambiar el tipo de documento con PIN

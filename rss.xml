@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 12 Oct 2023 22:16:18 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2023 22:16:18 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Oct 2023 22:32:18 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Oct 2023 22:32:18 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -219,10 +219,17 @@
 <li>No Referencia</li>
 </ol>
 <h3 id="validacion-de-disponibilidad-en-almacen-del-pdv" tabindex="-1"> Validación de Disponibilidad en Almacén del PDV</h3>
-<p>No genera el ajuste a la factura
-Visualización de Campaña de la Orden
-Agregado de Campaña en las lineas del documento
-IGTF se genera manual
+<p>hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
+<h3 id="ajuste-a-la-factura-por-diferencal-cambiario" tabindex="-1"> Ajuste a la factura por Diferencal Cambiario</h3>
+<p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del decimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
+<h3 id="gestion-de-campana-del-pedido" tabindex="-1"> Gestión de Campaña del Pedido</h3>
+<p>Se incorpora una gestión más agíl para el usuario referente a la campaña de Venta, lo que proporciona una integración para el análisis detallado de ventas en reportes a nivel administrativo.</p>
+<ol>
+<li>Visualización de Campaña en PDV</li>
+<li>Actualización de Lineas del Pedido con Campaña</li>
+</ol>
+<h3 id="de-la-gestion-tributaria" tabindex="-1"> De la Gestión Tributaria</h3>
+<p>IGTF se genera manual
 Registro y Actualización de Datos en Cuentas Bancarias de Clientes
 Pre-cálculo de Retención IVA Duplicado
 Error al cambiar el tipo de documento con PIN
