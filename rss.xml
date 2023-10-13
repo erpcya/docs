@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 12 Oct 2023 23:42:51 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Oct 2023 23:42:51 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 00:20:41 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 00:20:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -315,9 +315,9 @@
 <li>Detalle de Ingresos</li>
 <li>Detalle de Egresos</li>
 </ol>
-<h3 id="oe" tabindex="-1"> Oe</h3>
-<p>Operaciones a Crédito
-Cierre de Caja Detallado
+<h3 id="operaciones-a-credito" tabindex="-1"> Operaciones a Crédito</h3>
+<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormnete ir abonando pagos a la factura hasta cerrarla completamente.</p>
+<p>Cierre de Caja Detallado
 Copiar Orden</p>
 <h3 id="integracion-directa-para-reembolsos-y-validacion-de-pago-movil-con-sitef" tabindex="-1"> Integración Directa para Reembolsos y Validación de Pago Móvil con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a></h3>
 <p>Nos complace anunciar una nueva opción de proveedor de pago para nuestros clientes. Ahora puedes integrar con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a> como su pasarela de pago preferida y comience a aceptar pagos sin problemas y a validar sus pagos directamente desde el punto de venta con las siguientes opciones de Bancos:</p>
