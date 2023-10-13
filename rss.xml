@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 13 Oct 2023 00:56:25 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 00:56:25 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 01:17:06 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 01:17:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -179,7 +179,8 @@
       <content:encoded><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/705393e9-cd46-4e25-89c5-dc9918f3c253" alt="Copia de Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
 <h1 id="¡bienvenidos-a-nuestra-nueva-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestra nueva Versión 3.9.4!</h1>
-<p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
+<p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.</p>
+<p>¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
 <p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisologia sin que este genere descuentos.</p>

@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-13T00:56:25.854Z</updated>
+  <updated>2023-10-13T01:17:06.149Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,11 +173,12 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-13T00:48:21.000Z</updated>
+    <updated>2023-10-13T01:05:44.000Z</updated>
     <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/705393e9-cd46-4e25-89c5-dc9918f3c253" alt="Copia de Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
 <h1 id="¡bienvenidos-a-nuestra-nueva-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestra nueva Versión 3.9.4!</h1>
-<p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
+<p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.</p>
+<p>¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
 <p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisologia sin que este genere descuentos.</p>
