@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-13T01:17:06.149Z</updated>
+  <updated>2023-10-13T01:23:32.622Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,7 +173,7 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-13T01:05:44.000Z</updated>
+    <updated>2023-10-13T01:15:28.000Z</updated>
     <content type="html"><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/705393e9-cd46-4e25-89c5-dc9918f3c253" alt="Copia de Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
 <h1 id="¡bienvenidos-a-nuestra-nueva-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestra nueva Versión 3.9.4!</h1>
@@ -328,7 +328,7 @@
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/8bdcf8d0-7959-4ebb-abf7-b98a4991d7f4" alt="Blue Futuristic Illustration Modern Technology innovation Flyer (1)"></p>
 <h3 id="integracion-directa-para-reembolsos-y-validacion-de-pago-movil-con-sitef" tabindex="-1"> Integración Directa para Reembolsos y Validación de Pago Móvil con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a></h3>
-<p>Nos complace anunciar una nueva opción de proveedor de pago para nuestros clientes. Ahora puedes integrar con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a> como su pasarela de pago preferida y comience a aceptar pagos sin problemas y a validar sus pagos directamente desde el punto de venta con las siguientes opciones de Bancos:</p>
+<p>Nos complace anunciar una nueva opción de proveedor de pago para nuestros clientes. Ahora puedes integrar con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a> como su pasarela de pago preferida y comience a aceptar pagos sin problemas y a validar sus pagos directamente desde el punto de venta con la activación del servicio, esta funcionalidad ofrece las siguientes opciones de Bancos:</p>
 <ol>
 <li>Provincial</li>
 <li>Mercantil</li>
