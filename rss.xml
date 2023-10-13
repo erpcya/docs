@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 13 Oct 2023 01:40:02 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 01:40:02 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 01:43:06 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 01:43:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -184,10 +184,10 @@
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
 <p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisología sin que este genere descuentos.</p>
-<h3 id="actualizar-tipo-de-contribuyente-y-correo-electronico-en-pdv" tabindex="-1"> Actualizar Tipo de Contribuyente y Correo Electrónico en PDV</h3>
+<h3 id="actualizar-tipo-de-contribuyente-y-correo-electronico-a-cliente" tabindex="-1"> Actualizar Tipo de Contribuyente y Correo Electrónico a Cliente</h3>
 <p>Ahora puedes desde el Punto de Venta actualizar los datos de tus clientes sin tener que hacer cambios incómodos de interfaz o molestas esperas.</p>
 <h3 id="referencia-de-pago-devoluciones-cierres-de-cajas-y-retenciones-ahora-con-la-organizacion-correcta" tabindex="-1"> Referencia de Pago,Devoluciones, Cierres de Cajas, y Retenciones ahora con la organización correcta</h3>
-<p>¡Sabemos las ocupaciones que tienes!, para tí que gestionas más de una sucursal, queremos evitarte las molestias e incomodidades que se ocasionan cuando registras las operaciones y el PDV toma la organización con la que iniciaste sesión,y justo ahí te das cuenta que... ¡Ups! no era esa la sucursal con la que debiste ingresar. Así es, justo para ti es este cambio:</p>
+<p>¡Sabemos las ocupaciones que tienes!, para tí que gestionas más de una sucursal, queremos evitarte las molestias e incomodidades que se ocasionan cuando registras las operaciones y la Aplicación toma la organización con la que iniciaste sesión,y justo ahí te das cuenta que... ¡Ups! no era esa la sucursal con la que debiste ingresar. Así es, justo para ti es este cambio:</p>
 <ol>
 <li>Registro de Retención con Organización del Terminal
 <ol>
@@ -220,14 +220,14 @@
 <li>Actualización de Datos del Cliente</li>
 <li>No Referencia</li>
 </ol>
-<h3 id="validacion-de-disponibilidad-en-almacen-del-pdv" tabindex="-1"> Validación de Disponibilidad en Almacén del PDV</h3>
+<h3 id="validacion-de-disponibilidad-en-almacen-del-terminal" tabindex="-1"> Validación de Disponibilidad en Almacén del Terminal</h3>
 <p>hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
 <h3 id="ajuste-a-la-factura-por-diferencal-cambiario" tabindex="-1"> Ajuste a la factura por Diferencal Cambiario</h3>
 <p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del décimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decidido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
 <h3 id="gestion-de-campana-del-pedido" tabindex="-1"> Gestión de Campaña del Pedido</h3>
 <p>Se incorpora una gestión más ágil para el usuario referente a la campaña de venta, lo que proporciona una integración para el análisis detallado de ventas en reportes a nivel administrativo.</p>
 <ol>
-<li>Visualización de Campaña en PDV</li>
+<li>Visualización de Campaña en Terminal</li>
 <li>Actualización de Líneas del Pedido con Campaña</li>
 </ol>
 <h3 id="de-la-gestion-tributaria" tabindex="-1"> De la Gestión Tributaria</h3>
@@ -247,7 +247,7 @@
 <li>Autorización a Cambio de Tipo de Documento con PIN</li>
 </ol>
 <h3 id="agregado-de-opciones-de-busqueda" tabindex="-1"> Agregado de Opciones de Búsqueda</h3>
-<p>Nos complace presentar las nuevas pestañas para consultas que permiten una gestión más agíl, facíl y eficiente dentro del PDV.</p>
+<p>Nos complace presentar las nuevas pestañas para consultas que permiten una gestión más agíl, facíl y eficiente dentro del Terminal.</p>
 <ol>
 <li>Por Facturar</li>
 <li>Ventas de Pasillo</li>
