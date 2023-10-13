@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2023-10-13T01:33:57.754Z</updated>
+  <updated>2023-10-13T01:40:02.105Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -173,7 +173,7 @@
     <title type="html">Liberación de ADempiere 3.9.4</title>
     <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
     <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2023-10-13T01:23:04.000Z</updated>
+    <updated>2023-10-13T01:31:43.000Z</updated>
     <content type="html"><![CDATA[<p><strong>ERPyA</strong> trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/705393e9-cd46-4e25-89c5-dc9918f3c253" alt="Copia de Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
 <h1 id="¡bienvenidos-a-nuestra-nueva-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestra nueva Versión 3.9.4!</h1>
@@ -181,11 +181,11 @@
 <p>¡Veamos las novedades que nos ofrece <strong>ERPyA</strong>!</p>
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
-<p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisologia sin que este genere descuentos.</p>
+<p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisología sin que este genere descuentos.</p>
 <h3 id="actualizar-tipo-de-contribuyente-y-correo-electronico-en-pdv" tabindex="-1"> Actualizar Tipo de Contribuyente y Correo Electrónico en PDV</h3>
-<p>Ahora puedes desde el Punto de Venta actualizar los datos de tus clientes sin tener que hacer cambios incomodos de interfaz o molestas esperas.</p>
+<p>Ahora puedes desde el Punto de Venta actualizar los datos de tus clientes sin tener que hacer cambios incómodos de interfaz o molestas esperas.</p>
 <h3 id="referencia-de-pago-devoluciones-cierres-de-cajas-y-retenciones-ahora-con-la-organizacion-correcta" tabindex="-1"> Referencia de Pago,Devoluciones, Cierres de Cajas, y Retenciones ahora con la organización correcta</h3>
-<p>¡Sabemos las ocupaciones que tienes!, para tí que gestionas más de una sucursal, queremos evitarte las molestias e incomodidades que se ocasionan cuando registras las operaciones y el PDV toma la organización con la que iniciaste sesión,y justo ahi te das cuenta que... ¡Ups! no era esa la sucursal con la que debiste ingresar. Así es, justo para ti es este cambio:</p>
+<p>¡Sabemos las ocupaciones que tienes!, para tí que gestionas más de una sucursal, queremos evitarte las molestias e incomodidades que se ocasionan cuando registras las operaciones y el PDV toma la organización con la que iniciaste sesión,y justo ahí te das cuenta que... ¡Ups! no era esa la sucursal con la que debiste ingresar. Así es, justo para ti es este cambio:</p>
 <ol>
 <li>Registro de Retención con Organización del Terminal
 <ol>
@@ -209,7 +209,7 @@
 </li>
 </ol>
 <h3 id="registro-de-pago-movil-de-manera-eficiente-y-segura" tabindex="-1"> Registro de Pago Móvil de Manera Eficiente y Segura</h3>
-<p>Sabemos agil que debe ser un registro de un cobro, y los datos que conlleva este registro, es por eso que nos aseguramos que el margen de error sea mínimo, es por eso que para resguardar tus registros hemos eliminado la opción de selección de caja en registro de un Pago móvil.</p>
+<p>Sabemos ágil que debe ser un registro de un cobro, y los datos que conlleva este registro, es por eso que nos aseguramos que el margen de error sea mínimo, es por eso que para resguardar tus registros hemos eliminado la opción de selección de caja en registro de un Pago móvil.</p>
 <p>De igual modo, este registro debe contener los datos necesarios para la validación del área financiera:</p>
 <ol>
 <li>Banco Receptor</li>
@@ -221,12 +221,12 @@
 <h3 id="validacion-de-disponibilidad-en-almacen-del-pdv" tabindex="-1"> Validación de Disponibilidad en Almacén del PDV</h3>
 <p>hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
 <h3 id="ajuste-a-la-factura-por-diferencal-cambiario" tabindex="-1"> Ajuste a la factura por Diferencal Cambiario</h3>
-<p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del decimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
+<p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del décimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decidido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
 <h3 id="gestion-de-campana-del-pedido" tabindex="-1"> Gestión de Campaña del Pedido</h3>
-<p>Se incorpora una gestión más agíl para el usuario referente a la campaña de Venta, lo que proporciona una integración para el análisis detallado de ventas en reportes a nivel administrativo.</p>
+<p>Se incorpora una gestión más ágil para el usuario referente a la campaña de venta, lo que proporciona una integración para el análisis detallado de ventas en reportes a nivel administrativo.</p>
 <ol>
 <li>Visualización de Campaña en PDV</li>
-<li>Actualización de Lineas del Pedido con Campaña</li>
+<li>Actualización de Líneas del Pedido con Campaña</li>
 </ol>
 <h3 id="de-la-gestion-tributaria" tabindex="-1"> De la Gestión Tributaria</h3>
 <p>Hemos prestado especial atención a perfeccionar la experiencia del usuario que gestiona el área fiscal y tributario</p>
@@ -261,39 +261,39 @@
 <ol>
 <li>Información de Conversión y unidad de Medida Base</li>
 <li>Información de Precios Base en Moneda Origen</li>
-<li>Información de Erxistencia por Almacenes</li>
+<li>Información de Existencia por Almacenes</li>
 <li>Información de Precio Multimoneda</li>
 <li>Detalle del Producto</li>
 </ol>
-<h3 id="dialogos-para-confirmacion-de-operaciones" tabindex="-1"> Dialogos para Confirmación de Operaciones</h3>
+<h3 id="dialogo-para-confirmacion-de-operaciones" tabindex="-1"> Diálogo para Confirmación de Operaciones</h3>
 <p>Hemos introducido para ti un nueva forma de confirmación dentro de la aplicación que brinda una sensación de seguridad al saber que su operación fue o no exitosa de manera más acertada.</p>
 <ol>
-<li>Dialogo al Completar la Venta</li>
-<li>Dialogo al Completar una Devolución</li>
-<li>Dialogo al Completar una Cobranza</li>
-<li>Dialogo al Completar una apertura de Caja</li>
-<li>Dialogo al Cerrar una Caja</li>
+<li>Diálogo al Completar la Venta</li>
+<li>Diálogo al Completar una Devolución</li>
+<li>Diálogo al Completar una Cobranza</li>
+<li>Diálogo al Completar una apertura de Caja</li>
+<li>Diálogo al Cerrar una Caja</li>
 </ol>
 <h3 id="impresion-de-documentos" tabindex="-1"> Impresión de Documentos</h3>
 <p>Porque sabemos que es muy importante para tí y para mejorar la interfaz hemos incorporado la pre-visualización  de los siguientes documentos:</p>
 <ol>
-<li>Documento por Conrar no fiscal</li>
+<li>Documento por Cobrar no fiscal</li>
 <li>Nota de Entrega</li>
 <li>Factura Forma Libre</li>
 </ol>
 <h3 id="devolucion-parcial" tabindex="-1"> Devolución Parcial</h3>
-<p>La nueva funcionalida de devolucion parcial ofrece varios beneficios clave para los clientes, incluidos agilidad en proceso, homgeneidad de datos y  gestión eficiente en operaciones diarias:</p>
+<p>La nueva funcionalidad de devolución parcial ofrece varios beneficios clave para los clientes, incluidos agilidad en proceso, homogeneidad de datos y  gestión eficiente en operaciones diarias:</p>
 <ol>
 <li>Devolución Fraccionada de Productos de una venta del mismo día o días atrás.</li>
 <li>Crear Nueva Orden desde Devolución.</li>
 <li>Asignación del crédito del cliente en la nueva venta.</li>
-<li>Generación de ingreso de mercancia cuando existe entrega.</li>
+<li>Generación de ingreso de mercancía cuando existe entrega.</li>
 <li>Integridad en precios en devolución.</li>
 <li>Bloqueo para edición de Cantidades y precio en nueva factura desde devolución.</li>
 <li>Velocidad en Procesar una Devolución.</li>
 </ol>
 <h3 id="tolerancia-de-ajuste-de-factura-con-autorizacion-por-nivel-de-aprobacion" tabindex="-1"> Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</h3>
-<p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e integro en la operativa diaria:</p>
+<p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e íntegro en la operativa diaria:</p>
 <ol>
 <li>Control de Ajuste por Tolerancia porcentual con niveles de aprobación de supervisor</li>
 <li>Control de Ajuste por Tolerancia en monto con niveles de aprobación de supervisor</li>
@@ -305,7 +305,7 @@
 <li>Detalle de Egresos</li>
 </ol>
 <h3 id="operaciones-a-credito" tabindex="-1"> Operaciones a Crédito</h3>
-<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormnete ir abonando pagos a la factura hasta cerrarla completamente.</p>
+<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormente ir abonando pagos a la factura hasta cerrarla completamente.</p>
 <h3 id="copiar-pedido" tabindex="-1"> Copiar Pedido</h3>
 <p>Además, hemos incorporado mejoras que facilitarán y agilizarán la operación, como es el caso de copiar las propuestas o cotizaciones, y a su vez en pro de minimizar el margen de errores actualizamos los precios a la lista de precios actual.</p>
 <h3 id="integracion-con-gestion-financiera-administrativa" tabindex="-1"> Integración con Gestión Financiera Administrativa</h3>
