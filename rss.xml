@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 13 Oct 2023 01:33:48 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 01:33:48 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 01:33:57 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 01:33:57 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -284,18 +284,18 @@
 <li>Factura Forma Libre</li>
 </ol>
 <h3 id="devolucion-parcial" tabindex="-1"> Devolución Parcial</h3>
-<p>La nueva funcionalidad de devolución parcial ofrece varios beneficios clave para los clientes, incluidos agilidad en proceso, homogeneidad de datos y  gestión eficiente en operaciones diarias:</p>
+<p>La nueva funcionalida de devolucion parcial ofrece varios beneficios clave para los clientes, incluidos agilidad en proceso, homgeneidad de datos y  gestión eficiente en operaciones diarias:</p>
 <ol>
 <li>Devolución Fraccionada de Productos de una venta del mismo día o días atrás.</li>
 <li>Crear Nueva Orden desde Devolución.</li>
 <li>Asignación del crédito del cliente en la nueva venta.</li>
-<li>Generación de ingreso de mercancía cuando existe entrega.</li>
+<li>Generación de ingreso de mercancia cuando existe entrega.</li>
 <li>Integridad en precios en devolución.</li>
 <li>Bloqueo para edición de Cantidades y precio en nueva factura desde devolución.</li>
 <li>Velocidad en Procesar una Devolución.</li>
 </ol>
 <h3 id="tolerancia-de-ajuste-de-factura-con-autorizacion-por-nivel-de-aprobacion" tabindex="-1"> Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</h3>
-<p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e íntegro en la operativa diaria:</p>
+<p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e integro en la operativa diaria:</p>
 <ol>
 <li>Control de Ajuste por Tolerancia porcentual con niveles de aprobación de supervisor</li>
 <li>Control de Ajuste por Tolerancia en monto con niveles de aprobación de supervisor</li>
@@ -307,7 +307,7 @@
 <li>Detalle de Egresos</li>
 </ol>
 <h3 id="operaciones-a-credito" tabindex="-1"> Operaciones a Crédito</h3>
-<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormente ir abonando pagos a la factura hasta cerrarla completamente.</p>
+<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormnete ir abonando pagos a la factura hasta cerrarla completamente.</p>
 <h3 id="copiar-pedido" tabindex="-1"> Copiar Pedido</h3>
 <p>Además, hemos incorporado mejoras que facilitarán y agilizarán la operación, como es el caso de copiar las propuestas o cotizaciones, y a su vez en pro de minimizar el margen de errores actualizamos los precios a la lista de precios actual.</p>
 <h3 id="integracion-con-gestion-financiera-administrativa" tabindex="-1"> Integración con Gestión Financiera Administrativa</h3>
