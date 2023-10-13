@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 13 Oct 2023 01:26:25 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 01:26:25 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 01:31:55 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 01:31:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -307,9 +307,9 @@
 <li>Detalle de Egresos</li>
 </ol>
 <h3 id="operaciones-a-credito" tabindex="-1"> Operaciones a Crédito</h3>
-<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormnete ir abonando pagos a la factura hasta cerrarla completamente.</p>
+<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormente ir abonando pagos a la factura hasta cerrarla completamente.</p>
 <h3 id="copiar-pedido" tabindex="-1"> Copiar Pedido</h3>
-<p>Además, hemos incorporado mejoras que facilitarán y agilizarán la operación, como es el caso de copiar las propuestas o cotizaciones, y a su vez en pro de minimizar el marjen de errores actualiza los preciós a la lista de precios actual.</p>
+<p>Además, hemos incorporado mejoras que facilitarán y agilizarán la operación, como es el caso de copiar las propuestas o cotizaciones, y a su vez en pro de minimizar el margen de errores actualizamos los precios a la lista de precios actual.</p>
 <h3 id="integracion-con-gestion-financiera-administrativa" tabindex="-1"> Integración con Gestión Financiera Administrativa</h3>
 <p>Dado que las operaciones se realizan en tiempo real en ADempiere a medida que agregamos ingresos o requerimos hacer egresos digitales, se hace necesaria la intervención del área financiera para validar la existencia de pagos en la banca o para la realización de reembolsos a un cliente, es por esto que se ha agregado las siguientes bondades:</p>
 <ol>
@@ -319,13 +319,13 @@
 <li>Creación de egresos bancarios desde el área financiera</li>
 </ol>
 <h2 id="mejoras-y-correcciones" tabindex="-1"> Mejoras y Correcciones</h2>
-<p>Nuestro equipo ha realizado mejoras cruciales, como abordar las correcciones de errores dentro de la aplicación que incomodan la operción de los usuarios:</p>
+<p>Nuestro equipo ha realizado mejoras cruciales, como abordar las correcciones de errores dentro de la aplicación que incomodan la operación de los usuarios:</p>
 <ol>
 <li>Se incorpora una Validación para evitar agregar cobros en 0.</li>
 <li>Se incorpora una Validación para evitar completar Facturas sin Cobro.</li>
 <li>Se corrige la recarga de cantidades al realizar una entrega.</li>
 <li>Se corrige la actualización de vendedores en pedidos de otras tiendas.</li>
-<li>Se incorpora una Validación para evitar la impresión Doble/Triple de factura por intermitencia de conectividad y multiples peticiones.</li>
+<li>Se incorpora una Validación para evitar la impresión Doble/Triple de factura por intermitencia de conectividad y múltiples peticiones.</li>
 <li>Se incorpora una Validación para evitar la facturación de Propuestas.</li>
 </ol>
 <p><img src="https://github.com/erpcya/docs/assets/9578152/8bdcf8d0-7959-4ebb-abf7-b98a4991d7f4" alt="Blue Futuristic Illustration Modern Technology innovation Flyer (1)"></p>
