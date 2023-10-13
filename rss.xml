@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 13 Oct 2023 01:43:06 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 01:43:06 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 18:10:23 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 18:10:23 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -221,7 +221,7 @@
 <li>No Referencia</li>
 </ol>
 <h3 id="validacion-de-disponibilidad-en-almacen-del-terminal" tabindex="-1"> Validación de Disponibilidad en Almacén del Terminal</h3>
-<p>hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
+<p>Hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
 <h3 id="ajuste-a-la-factura-por-diferencal-cambiario" tabindex="-1"> Ajuste a la factura por Diferencal Cambiario</h3>
 <p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del décimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decidido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
 <h3 id="gestion-de-campana-del-pedido" tabindex="-1"> Gestión de Campaña del Pedido</h3>
