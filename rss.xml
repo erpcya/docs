@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 13 Oct 2023 00:20:41 GMT</pubDate>
-    <lastBuildDate>Fri, 13 Oct 2023 00:20:41 GMT</lastBuildDate>
+    <pubDate>Fri, 13 Oct 2023 00:53:59 GMT</pubDate>
+    <lastBuildDate>Fri, 13 Oct 2023 00:53:59 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -178,7 +178,7 @@
       <pubDate>Wed, 03 May 2023 19:30:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>ERPyA trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.
 <img src="https://github.com/erpcya/docs/assets/9578152/0a25d8e2-7f16-4dc0-9aff-572cddf4e878" alt="Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
-<h1 id="¡bienvenidos-a-nuestro-ultima-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestro última Versión 3.9.4!</h1>
+<h1 id="¡bienvenidos-a-nuestra-nueva-version-3-9-4" tabindex="-1"> ¡Bienvenidos a nuestra nueva Versión 3.9.4!</h1>
 <p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.¡Veamos las novedades que nos ofrece <strong>ERP</strong>!</p>
 <h2 id="punto-de-venta" tabindex="-1"> Punto de Venta</h2>
 <h3 id="mejora-en-gestion-de-cambio-de-precio" tabindex="-1"> Mejora en Gestión de Cambio de Precio</h3>
@@ -293,16 +293,6 @@
 <li>Bloqueo para edición de Cantidades y precio en nueva factura desde devolución.</li>
 <li>Velocidad en Procesar una Devolución.</li>
 </ol>
-<h2 id="mejoras-y-correcciones" tabindex="-1"> Mejoras y Correcciones</h2>
-<p>Nuestro equipo ha realizado mejoras cruciales, como abordar las correcciones de errores dentro de la aplicación que incomodan la operción de los usuarios:</p>
-<ol>
-<li>Se incorpora una Validación para evitar agregar cobros en 0.</li>
-<li>Se incorpora una Validación para evitar completar Facturas sin Cobro.</li>
-<li>Se corrige la recarga de cantidades al realizar una entrega.</li>
-<li>Se corrige la actualización de vendedores en pedidos de otras tiendas.</li>
-<li>Se incorpora una Validación para evitar la impresión Doble/Triple de factura por intermitencia de conectividad y multiples peticiones.</li>
-<li>Se incorpora una Validación para evitar la facturación de Propuestas.</li>
-</ol>
 <h3 id="tolerancia-de-ajuste-de-factura-con-autorizacion-por-nivel-de-aprobacion" tabindex="-1"> Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</h3>
 <p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e integro en la operativa diaria:</p>
 <ol>
@@ -317,8 +307,27 @@
 </ol>
 <h3 id="operaciones-a-credito" tabindex="-1"> Operaciones a Crédito</h3>
 <p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormnete ir abonando pagos a la factura hasta cerrarla completamente.</p>
-<p>Cierre de Caja Detallado
-Copiar Orden</p>
+<h3 id="copiar-pedido" tabindex="-1"> Copiar Pedido</h3>
+<p>Además, hemos incorporado mejoras que facilitarán y agilizarán la operación, como es el caso de copiar las propuestas o cotizaciones, y a su vez en pro de minimizar el marjen de errores actualiza los preciós a la lista de precios actual.</p>
+<h3 id="integracion-con-gestion-financiera-administrativa" tabindex="-1"> Integración con Gestión Financiera Administrativa</h3>
+<p>Dado que las operaciones se realizan en tiempo real en ADempiere a medida que agregamos ingresos o requerimos hacer egresos digitales, se hace necesaria la intervención del área financiera para validar la existencia de pagos en la banca o para la realización de reembolsos a un cliente, es por esto que se ha agregado las siguientes bondades:</p>
+<ol>
+<li>Validación y confirmación de pagos digitales</li>
+<li>Bloqueo de impresión hasta Obtener la confirmación en el área financiera</li>
+<li>Autorización para reembolsos en el área financiera</li>
+<li>Creación de egresos bancarios desde el área financiera</li>
+</ol>
+<h2 id="mejoras-y-correcciones" tabindex="-1"> Mejoras y Correcciones</h2>
+<p>Nuestro equipo ha realizado mejoras cruciales, como abordar las correcciones de errores dentro de la aplicación que incomodan la operción de los usuarios:</p>
+<ol>
+<li>Se incorpora una Validación para evitar agregar cobros en 0.</li>
+<li>Se incorpora una Validación para evitar completar Facturas sin Cobro.</li>
+<li>Se corrige la recarga de cantidades al realizar una entrega.</li>
+<li>Se corrige la actualización de vendedores en pedidos de otras tiendas.</li>
+<li>Se incorpora una Validación para evitar la impresión Doble/Triple de factura por intermitencia de conectividad y multiples peticiones.</li>
+<li>Se incorpora una Validación para evitar la facturación de Propuestas.</li>
+</ol>
+<p><img src="https://github.com/erpcya/docs/assets/9578152/f5ee7ea3-2c60-426d-8e52-574d54e1dfc6" alt="Blue Futuristic Illustration Modern Technology innovation Flyer"></p>
 <h3 id="integracion-directa-para-reembolsos-y-validacion-de-pago-movil-con-sitef" tabindex="-1"> Integración Directa para Reembolsos y Validación de Pago Móvil con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a></h3>
 <p>Nos complace anunciar una nueva opción de proveedor de pago para nuestros clientes. Ahora puedes integrar con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a> como su pasarela de pago preferida y comience a aceptar pagos sin problemas y a validar sus pagos directamente desde el punto de venta con las siguientes opciones de Bancos:</p>
 <ol>
@@ -334,10 +343,16 @@ Copiar Orden</p>
 <li>Tesoro</li>
 <li>Banplus</li>
 </ol>
-<p>Velocidad en Procesar Orden</p>
-<p>Validación y Confirmación de Pagos Digitales
-Registro de Reembolso desde PDV</p>
 <h2 id="administrativo" tabindex="-1"> Administrativo</h2>
+<h2 id="mejoras-y-correcciones-1" tabindex="-1"> Mejoras y Correcciones</h2>
+<p>Hemos mejorado la versión administrativa de ADempiere para tí que lo necesitas:</p>
+<ol>
+<li>Consolidar Ordenes de Ventas en una Factura de Ventas</li>
+<li>Secuencia incorrecta al crear orden de compra desde línea de la requisición</li>
+<li>Organización de Contexto en Cierre de Caja y Estado de Cuentas Bancarias</li>
+<li>Crear recepción con organización de linea de la orden de Compra</li>
+<li>Agregado de Impuestos en Requisición</li>
+</ol>
 ]]></content:encoded>
       <enclosure url="https://github.com/erpcya/docs/assets/9578152/0a25d8e2-7f16-4dc0-9aff-572cddf4e878" type="image/"/>
     </item>
