@@ -9,7 +9,7 @@ export default hopeTheme({
     name: "ERP Consultores y Asociados, C.A.",
     url: "https://erpya.com",
   },
-  fullscreen: true,
+  
 
   iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
   iconPrefix: "iconfont icon-",
@@ -17,6 +17,15 @@ export default hopeTheme({
   logo: "/logo.svg",
 
   repo: "https://github.com/erpcya/docs",
+
+  fullscreen: true,
+
+  themeColor: {
+    blue: "#572364",
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
 
   repoDisplay: false,
 
