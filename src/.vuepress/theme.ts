@@ -9,6 +9,14 @@ export default hopeTheme({
     name: "ERP Consultores y Asociados, C.A.",
     url: "https://erpya.com",
   },
+
+  themeColor: {
+    blue: "#933e95",
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
+
   fullscreen: true,
 
   iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
@@ -17,6 +25,7 @@ export default hopeTheme({
   logo: "/logo.svg",
 
   repo: "https://github.com/erpcya/docs",
+  
 
   repoDisplay: false,
 
@@ -34,6 +43,7 @@ export default hopeTheme({
           GitHub: "https://github.com/erpcya",
           Discord: "https://discord.gg/UWcyn7DEzV",
           Twitter: "https://twitter.com/erpcya",
+          
         },
       },
     },
