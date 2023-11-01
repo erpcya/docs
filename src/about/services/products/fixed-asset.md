@@ -9,6 +9,7 @@ tag:
 
 article: false
 ---
+
 # Activos Fijos
 
 Un activo fijo es un bien de una empresa, ya sea tangible o intangible, que no puede convertirse en líquido a corto plazo y que normalmente son necesarios para el funcionamiento de la empresa y no se destinan a la venta.
