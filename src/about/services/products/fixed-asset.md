@@ -19,7 +19,7 @@ Son ejemplos de activos fijos: bienes inmuebles, maquinaria, material de oficina
 
 ### Agrupación de Activos Fijos
 
-Venatana para Gestionar las agrupaciones o clasificaciones de Activos Fijos basado en las siguientes caracteristicas:
+Ventana para Gestionar las agrupaciones o clasificaciones de Activos Fijos basado en las siguientes caracteristicas:
 
 - Información del Grupo de Activos Fijos
   - Informacion Basica del Grupo de Activos
