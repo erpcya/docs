@@ -931,7 +931,7 @@ Esta retención refleja:
   3. El monto que representa la retención en la moneda de curso legal.
      
 Esta retención aumenta el monto a cobrar.
-
+    
 6. **Carga de Comprobante de IVA:**
 
 ### Consultas de Ventas
@@ -973,6 +973,12 @@ Esta retención aumenta el monto a cobrar.
 ## Ajustes de Facturas
 
 # Reportes de Gestión de Ventas
+
+
+
+
+
+
 
 Ubique y seleccione en el menú de ADempiere, la carpeta **Gestión de Ventas**, luego seleccione la carpeta **Orden de Ventas**, por último seleccione la ventana **Punto de Venta**.
 
@@ -1017,5 +1023,4 @@ A continuación Seleccione la opción **Crear Nuevo Socio de Negocio**, y se des
 ![Campo](/assets/img/docs/sales-management/sam-sales-image310.png)
 
 Imagen 6. Ventana Crear Socio de Negocio
-
 
