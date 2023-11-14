@@ -33,13 +33,21 @@ Ventana para Gestionar las agrupaciones o clasificaciones de Activos Fijos basad
   - Vida Util en Años
   - Vida Util en Meses
 
-### Activo Fijo
+### ¿Qué puedes controlar con la gestión Activo Fijo en ADempiere?
 
-Ventana para gestionar la información de los Activos Fijos basado en las siguientes caracteristicas:
+- Realizar el seguimiento y supervisar los activos fijos
+- Supervisar los equipos y la maquinaria en varios lugares internos y externos
+- Reducir los costes de mantenimiento
+- Mejorar la eficiencia operativa
+- Mantener un registro de los activos retirados, vendidos, robados o perdidos
 
-- Información del Activos Fijo
-  - Información Basica del Activo Fijo
-  - Grupo de Activo al que pertenece
+### ¿Qué obtendrás con la vertical de Activo Fijo en ADempiere?
+
+- Adición Activos Fijo desde una Cuenta por Pagar
+- Costo de Activo Fijo en la monedas del esquema(s) activos en la empresa
+- Gestión de Equipos Menores
+- Gestión de Amortización de Seguros como Activo Distribuido al Gasto o Costo
+- Información Detallada del Activo Fijo
   - Producto Asociado al activo fijo
   - Numero de Serie y Lote
   - Año de Manufactura
@@ -50,27 +58,35 @@ Ventana para gestionar la información de los Activos Fijos basado en las siguie
   - Ubicación del Activo
   - Responsable del Activo
   - Información General Ultimo y Proximo Mantenimiento del Activo
-- Información del Producto Asociado al Activo
 - Saldos del Activo Fijo
   - Costo del Activo
   - Tipo de Aplicación
   - Valor de Salvamento
+  - Saldo de Activo
+  - Depreciación Acumulada
+  - Monto de Gasto Mensual de la Depreciación
 - Configuración Contable del Activo
-  - Validez del Activo
-  - Valor de Salvamento
+  - Cuenta de Costo
+  - Cuenta de Gasto de Depreciación
+  - Cuenta de Ingreso
 - Transacciones del Activo
-  - Tipo de Transacción (Gasto / Capital)
-  - Fuente de Entrada de la Transacción (Factura, Importación de Datos, Manual o Proyecto)
-  - Fecha de Transacción
-  - Fecha Contable
-  - Moneda
-  - Tipo de Conversión
-  - Monto de la Transacción
-- Tabla de Depreciación
-
-### Ventana de Consulta de Activos
-
-Ventana con informacion resumida del activo
+  - Adición por Factura
+  - Adición por Importación
+  - Adición Manual
+  - Depreciación
+  - Disposición de Activo
+    - Venta
+    - Donación
+    - Desecho
+  - Entrega de Activo a un Trabajador
+  - Entrega de Activo a un Departamento
+  - Entrega de Activo a una Empresa
+- Reportes
+  - Auxiliar de Activo Fijo por Grupo
+  - Depreciación Acumulada por Grupo
+  - Detalle de Activo Fijo
+  - Amortización de Activo Fijo
+  - Detalle de Ubicación de Activo Fijo
 
 ### Métodos de Depreciacion
 
