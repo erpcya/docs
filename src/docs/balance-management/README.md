@@ -24,4 +24,4 @@ Por ello, **ERPyA** presenta la siguiente guía con instrucciones claras y preci
 - [Caja Cobranza](collection-box)
 - [Asignación de Pagos](assignment)
 - [Cierre de Caja](close-box)
-- [Conciliaciones Automáticas](reconciliation)
+- [Conciliaciones Automáticas](./open-items/reconciliation.md)

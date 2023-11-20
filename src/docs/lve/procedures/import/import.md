@@ -16,7 +16,7 @@ article: false
 
 Dicha importación tiene como consecuencia para la empresa nacional la generación de gastos aduanales, sujetos al pago de tributos o al amparo de las franquicias correspondientes.
 
-**Expediente de Importación**
+## **Expediente de Importación**
 
 El expediente de importación representa la agrupación fiscal para un proceso de importación y es quién da paso al proceso de importación.
 
@@ -110,7 +110,7 @@ A continuación se detalla los campos que son actualizados de manera automática
 
 - **Monto Pagado:** El campo aumenta al completar los pagos asociados al **Expediente**
 
-**Orden de Compra de Importación**
+## **Orden de Compra de Importación**
 
 - Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**" y luego seleccione la ventana "**Órdenes de Compra**".
 
@@ -154,7 +154,7 @@ Imagen 14. Acción Completar
 
 Imagen 15. Orden de Compra Completa
 
-**Documento por Pagar de Mercancía**
+## **Documento por Pagar de Mercancía**
 
 Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**" y luego seleccione la ventana "**Documentos por Pagar**".
 
@@ -192,7 +192,7 @@ Vea el expediente creaado anteriormente en el campo **Expediente Importación/Ex
 
 Imagen 18. Expediente de Importación
 
-**Documento por Pagar de Costos CIF**
+## **Documento por Pagar de Costos CIF**
 
 Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Compras**" y luego seleccione la ventana "**Documentos por Pagar**".
 
@@ -230,6 +230,6 @@ Al colocar el expediente se establece el **tipo de conversión negociado**.
 
 :::
 
-**Cancelación de Factura**
+## **Cancelación de Factura**
 
 Realice el procedimiento regular para realizar un documento de selección de pagos desde una factura de cuentas por pagar, explicado en el material **''Selección de pago''**, esto cancelará el pasivo con el proveedor de mercancía.
