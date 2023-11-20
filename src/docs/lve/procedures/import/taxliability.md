@@ -16,7 +16,7 @@ article: false
 
 En Venezuela para importar bienes o productos se generan tasas de impuestos sobre el precio CIF de la mercancía,además de un arancel ad valorem que normalmente está entre el 10% y el 20% del precio del producto, más la tasa aduanera, más el 16% de IVA.
 
-**Configuración Escencial**
+## **Configuración Escencial**
 
 - Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Importación y Exportación**" y luego seleccione la ventana "**Impuestos Importación/Exportación**".
 
@@ -54,7 +54,7 @@ Imagen 5. Cargo de Impuesto
 
 Imagen 6. Cargo de Impuesto
 
-**Generar Planillas de Gastos Arancelarios/Impuestos**
+## **Generar Planillas de Gastos Arancelarios/Impuestos**
 ======================================================
 
 - Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Importación y Exportación**" y luego seleccione la ventana "**Generar Impuestos Importación/Exportación**".
@@ -125,7 +125,7 @@ Imagen 16. Menú de ADempiere
 
 Repita este procedimiento hasta concluir la totalidad de las planillas.
 
-**Generar Planillas de IVA**
+## **Generar Planillas de IVA**
 ============================
 
 - Ubique y seleccione en el menú de ADempiere, la carpeta "**Gestión de Importación y Exportación**" y luego seleccione la ventana "**Generar Impuestos Importación/Exportación**".

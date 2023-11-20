@@ -18,7 +18,7 @@ Un anticipo a proveedor es el pago de una parte o un porcentaje del monto total 
 
 En ADempiere es posible reflejar los anticipos realizados a proveedores en tránsito, permitiendo por medio de este, el control de los saldos abiertos que tienen los proveedores.
 
-**Carga de Anticipo**
+## **Carga de Anticipo**
 
 - La transferencia representa un proceso en el cual se generan los pagos por concepto de anticipos al gestor(s), el mismo requiere conocimientos básicos en el proceso actual de tesorería en ADempiere.
 
@@ -166,7 +166,7 @@ Imagen 4. Documento en Caja
 | Organización | 1.1.1.1.1.015 - EFECTIVO EN TRANSITO PROVEEDORES            | 0,00                 | 200.001.332,00        |
 |              |                                                             | 200.001.332,00       | 200.001.332,00        |
 
-**Cierre de Caja**
+## **Cierre de Caja**
 
 El cierre de caja es realizado para indicar a ADempiere que al socio del negocio "**Proveedor Estándar**", se le realizó una transferencia bancaria como anticipo a su caja "**Proveedores en Tránsito - --_00000**", por el monto de "**200.001.332,00**".
 
