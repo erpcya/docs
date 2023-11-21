@@ -208,9 +208,11 @@ Introduzca en el campo **Compensación en Tiempo de Entrega**, el tiempo de entr
 
 Imagen 33. Campo Compensación en Tiempo de Entrega de la Pestaña ldm del Producto Estándar para Producción
 
-Note
+::: note
 
 Seleccione el icono **Guardar Cambios**, ubicado en la barra de herramientas de ADempiere para guardar el registro de los campos de la pestaña **LDM**.
+
+:::
 
 Si es necesario cargar otro material o componente para la producción del producto, repita las veces que sea necesario, el procedimiento anteriormente explicado desde el proceso de selección del icono **Registro Nuevo**.
 

@@ -8,13 +8,15 @@ article: false
 
 En ADempiere un inventario físico permite modificar las cantidades de productos en existencia. Este es un procedimiento delicado, que solo se debe realizar cuando la cantidad en existencia registrada en ADempiere difiera de la cantidad real de existencia en la organización o almacén. El proceso consta en reemplazar la cantidad en existencia por la cantidad real contada.
 
-Warning
+::: warning
 
-**ERPyA** no recomienda realizar inventario físico.
+[ERPyA](https://erpya.com/) no recomienda realizar inventario físico.
+
+:::
 
 El procedimiento de inventario físico sólo debe ser realizado en casos críticos como la inconsistencia de cantidades de productos por motivo de robo, hurto o casos similares. De igual forma, deben estar presentes los responsables y supervisores del almacén donde existe la inconsistencia, así como también debe estar presente un representante de contabilidad y un jefe o gerente de la empresa para avalar el procedimiento.
 
-El presente material elaborado por **ERPyA**, pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar en ADempiere un inventario físico, en su versión 3.9.2 para la localización Venezuela.
+El presente material elaborado por [ERPyA](https://erpya.com/), pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar en ADempiere un inventario físico, en su versión 3.9.2 para la localización Venezuela.
 
 - Registro de Inventario Físico
 - Consultar Detalle de Almacenamiento
@@ -69,9 +71,11 @@ Seleccione el tipo de documento a generar en el campo **Tipo de Documento**, la 
 
 Imagen 8. Campo Tipo de Documento
 
-Note
+:: note
 
 Recuerde guardar el registro de los campos de la pestaña seleccionando el icono **Guardar Registros** ubicado en la barra de herramientas de ADempiere.
+
+:::
 
 Seleccione la pestaña **Línea de Conteo de Inventario** y proceda al llenado de los campos correspondientes.
 
@@ -97,9 +101,11 @@ Introduzca en el campo **Cantidad Contada**, la cantidad real en existencia del 
 
 Imagen 12. Campo Cantidad Contada
 
-Note
+::: note
 
 Debe ser ingresada la cantidad real que existe físicamente en el almacén seleccionado.
+
+:::
 
 Seleccione el icono **Guardar Cambios**, ubicado en la barra de herramientas de ADempiere, para guardar el registro de los campos de la pestaña.
 
