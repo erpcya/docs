@@ -4,6 +4,7 @@ category: Documentation
 star: 9
 sticky: 9
 article: false
+icon: customize
 ---
 
 ADempiere ofrece una solución a pequeñas empresas que requieran manejar transacciones con sus clientes de manera agil y eficiente, y a su vez proporcionar un buen servicio al cliente.
