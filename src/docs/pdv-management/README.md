@@ -4,9 +4,10 @@ category: Documentation
 star: 9
 sticky: 9
 article: false
+icon: customize
 ---
 
-ADempiere ofrece una solución a pequeñas empresas que requieran manejar transacciones con sus clientes de manera agil y eficiente, y a su vez proporcionar un buen servicio al cliente.
+ADempiere ofrece una solución a pequeñas empresas que requieran manejar transacciones con sus clientes de manera ágil y eficiente, y a su vez proporcionar un buen servicio al cliente.
 
 Esta funcionalidad evita que los usuarios deban realizar una orden de venta, una factura, un cobro y una entrega para cumplir el proceso de venta, este punto de venta reduce estos cuatro pasos en dos pasos. Al generar una orden de venta y ser cobrada desde el punto de venta, ADempiere de forma automatica generará una factura y una entrega.
 

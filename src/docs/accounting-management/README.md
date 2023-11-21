@@ -4,6 +4,7 @@ category: Documentation
 star: 9
 sticky: 9
 article: false
+icon: customize
 ---
 
 En publicaciones previas hemos explicado la importancia que ha tenido para las pequeñas y medianas empresas la instalación de un ERP como ADempiere, para automatizar, acelerar procesos y finalmente obtener información financiera confiable que facilite la toma de decisiones. Definitivamente las tareas manuales y los software aislados no satisfacen las necesidades que tienen los departamentos, en especial para las empresas en constante crecimiento donde el volumen de tareas aumenta notoriamente.

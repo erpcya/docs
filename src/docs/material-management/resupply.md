@@ -1,6 +1,6 @@
 ---
 title: Reabastecimiento
-category: Documentation
+category: Documentación
 star: 9
 sticky: 9
 article: false
@@ -17,149 +17,28 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
 
 El proceso de reabastecimiento permite generar los respectivos documentos de movimiento de material, requisición, orden de compra, o de distribución, en estado **Borrador**. El comportamiento del proceso consta en el tipo de reabastecimiento seleccionado en la configuración del producto. ADempiere permite utilizar los siguientes tipos de reabastecimiento:
 
-Mantener El Nivel Máximo
+- Mantener El Nivel Máximo
 
-Manual
+- Manual
 
-Personalizado
+- Personalizado
 
-Reordenar por debajo del nivel mínimo
+- Reordenar por debajo del nivel mínimo
 
-Plan de reabastecimiento calculado
+- Plan de reabastecimiento calculado
 
 Para simular el proceso de reabastecimiento, se presentan los siguientes datos como ejemplo:
 
-Producto
-
-Almacén Fuente
-
-Tipo de Reabastecimiento
-
-UM
-
-Nivel Mínimo
-
-Nivel Máximo
-
-Cantidad en Existencia
-
-Cantidad a Ordenar
-
-Socio del Negocio
-
-DOIS-000001_Estandar
-
-Mantener El Nivel Máximo
-
-Unidad
-
-20
-
-40
-
-60
-
-0
-
-Estándar
-
-ACAP-000003_Cable de Red
-
-Mantener El Nivel Máximo
-
-Unidad
-
-20
-
-40
-
-41
-
-0
-
-Estándar_Estándar
-
-Mantener El Nivel Máximo
-
-Unidad
-
-20
-
-40
-
-35
-
-5
-
-DOIS-000005_Guante
-
-Mantener El Nivel Máximo
-
-Unidad
-
-20
-
-40
-
-36
-
-4
-
-INAR-000001_Hoja tamaño carta
-
-Reordenar por debajo del nivel mínimo
-
-Unidad
-
-20
-
-40
-
-20
-
-0
-
-INAR-000002_Bolígrafo
-
-Reordenar por debajo del nivel mínimo
-
-Unidad
-
-20
-
-40
-
-5
-
-15
-
-INAR-000003_Cuaderno
-
-Reordenar por debajo del nivel mínimo
-
-Unidad
-
-20
-
-40
-
-25
-
-0
-
-INAR-000004_Marcador
-
-Reordenar por debajo del nivel mínimo
-
-Unidad
-
-20
-
-40
-
-7
-
-13
+| **Producto**                 | **Almacén Fuente** | **Tipo de Reabastecimiento**         | **UM** | **Nivel Mínimo** | **Nivel Máximo** | **Cantidad en Existencia** | **Cantidad a Ordenar** | **Socio del Negocio** |
+|------------------------------|--------------------|--------------------------------------|--------|------------------|------------------|----------------------------|------------------------|------------------------|
+| DOIS-000001_Estandar         |                    | Mantener El Nivel Máximo             | Unidad | 20               | 40               | 60                         | 0                      | Estándar               |
+| ACAP-000003_Cable de Red      |                    | Mantener El Nivel Máximo             | Unidad | 20               | 40               | 41                         | 0                      |                        |
+| Estándar_Estándar             |                    | Mantener El Nivel Máximo             | Unidad | 20               | 40               | 35                         | 5                      |                        |
+| DOIS-000005_Guante            |                    | Mantener El Nivel Máximo             | Unidad | 20               | 40               | 36                         | 4                      |                        |
+| INAR-000001_Hoja tamaño carta |                    | Reordenar por debajo del nivel mínimo| Unidad | 20               | 40               | 20                         | 0                      |                        |
+| INAR-000002_Bolígrafo         |                    | Reordenar por debajo del nivel mínimo| Unidad | 20               | 40               | 5                          | 15                     |                        |
+| INAR-000003_Cuaderno          |                    | Reordenar por debajo del nivel mínimo| Unidad | 20               | 40               | 25                         | 0                      |                        |
+| INAR-000004_Marcador          |                    | Reordenar por debajo del nivel mínimo| Unidad | 20               | 40               | 7                          | 13                     |                        |
 
 Para ejecutar correctamente el proceso de reabastecimiento de almacén, es necesario que se realicen los procedimientos que a continuación se explican.
 
@@ -283,9 +162,11 @@ Seleccione en el campo **Crear**, el documento que requiere crear para reabastec
 
 Imagen 18. Campo Crear de la Ventana Reabastecimiento de Almacén
 
-Note
+::: note
 
 Cuando se requiere generar el documento **Orden de Compra**, es obligatorio seleccionar el socio del negocio proveedor en la columna **Socio del Negocio** de la ventana **Reabastecimiento de Almacén**.
+
+:::
 
 Seleccione en el campo **Tipo de Documento**, el tipo de documento con el que requiere que se genere el documento en estado **Borrador**.
 
