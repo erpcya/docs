@@ -15,6 +15,8 @@ e-Commerce es la solución tecnológica utilizada por los comercios actuales par
 
 En [ERPyA](https://erpya.com/), actualmente nos encontramos implementando una herramienta para que los comercios que deseen tener su e-Commerce puedan hacerlo de manera rápida, efectiva y muy agradable visualmente.
 
+- [Requerimientos](../e-commerce/requirements.md)
+
 - [Tema por defecto](../e-commerce/default-theme.md)
 
 - [Tema personalizado](../e-commerce/custom-theme.md)
