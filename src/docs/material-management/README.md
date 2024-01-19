@@ -14,3 +14,4 @@ Esta documentación está destinada a definir cada uno de los procedimientos par
 - [Inventario Físico](physical-inventory.md)
 - [Lista de Materiales](materials-list.md)
 - [Reabastecimiento](resupply.md)
+- [Reportes](./material-management-reports.md)
