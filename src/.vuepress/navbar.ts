@@ -143,8 +143,8 @@ export const enNavbarConfig = navbar([
       {
         text: "Binarios de Aplicaciones",
         children: [
-          "docker", 
-          "binary"],
+          "docker/", 
+          "binary/"],
       },
       {
         text: "Actualizaciones",
