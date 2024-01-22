@@ -4,10 +4,10 @@ export const enNavbarConfig = navbar([
   "/",
   {
     text: "Nosotros",
-    icon: "profile",
+    icon: "user",
     prefix: "/about/",
     children: [
-      { text: "Nosotros", icon: "profile", link: "", activeMatch: "^/about/$" },      
+      { text: "Nosotros", icon: "user", link: "", activeMatch: "^/about/$" },      
       {
         text: "Noticias",
         prefix: "news/",
@@ -53,10 +53,10 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Documentación",
-    icon: "creative",
+    icon: "lightbulb",
     prefix: "/docs/",
     children: [
-      { text: "ADempiere Estándar", link: "", icon: "note", activeMatch: "^/docs/$" },
+      { text: "ADempiere Estándar", link: "", icon: "book", activeMatch: "^/docs/$" },
       {
         text: "Gestión Básica",
         children: [
@@ -114,12 +114,12 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Comunidad",
-    icon: "group",
+    icon: "user-group",
     prefix: "/community/",
     children: [
       {
         text: "Comunidad",
-        icon: "group",
+        icon: "user-group",
         link: "",
         activeMatch: "^/community/$",
       },
@@ -131,18 +131,20 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Descargas",
-    icon: "install",
+    icon: "circle-down",
     prefix: "/downloads/",
     children: [
       {
         text: "Descargas",
-        icon: "install",
+        icon: "circle-down",
         link: "",
         activeMatch: "^/downloads/$",
       },
       {
         text: "Binarios de Aplicaciones",
-        children: ["docker", "binary"],
+        children: [
+          "docker/", 
+          "binary/"],
       },
       {
         text: "Actualizaciones",

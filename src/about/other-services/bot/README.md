@@ -1,6 +1,6 @@
 ---
 title: Bot
-icon: async
+icon: robot
 category: Otros Servicios
 star: 9
 sticky: 9

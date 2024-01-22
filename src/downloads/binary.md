@@ -1,6 +1,5 @@
 ---
 title: Descarga Binaria
-icon: github
 category: Descarga
 star: 9
 sticky: 9
