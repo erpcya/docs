@@ -1,6 +1,6 @@
 ---
 title: ¿Quiénes Somos?
-icon: group
+icon: user-group
 category: Comunidad
 star: 9
 sticky: 9
