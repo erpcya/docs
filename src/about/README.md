@@ -1,6 +1,6 @@
 ---
 title: Nosotros
-icon: profile
+icon: user
 category: Nosotros
 star: 9
 sticky: 9

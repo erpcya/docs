@@ -1,6 +1,6 @@
 ---
 title: e-Commerce
-icon: change
+icon: credit-card
 category: Otros Servicios
 star: 9
 sticky: 9

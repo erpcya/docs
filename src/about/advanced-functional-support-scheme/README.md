@@ -1,7 +1,7 @@
 ---
 title: Esquema de Soporte Funcional Avanzado
 category: Nosotros
-icon: condition
+icon: sitemap
 star: 9
 sticky: 9
 tag:

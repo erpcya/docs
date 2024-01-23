@@ -1,20 +1,19 @@
 ---
 title: Docker
-icon: docker
 category: Descarga
+icon: "docker"
 star: 9
-sticky: 9
 tag:
   - Docker
   - Docker Hub
 article: false
 ---
 
-[Docker](https://www.docker.com/) es una forma sencilla de arrancar un despliegue de aplicación, funciona bajo un esquema de contenedores que permiten reutilizar recursos y librerías de un sistema operativo. 
+[Docker](https://www.docker.com/) es una forma sencilla de arrancar un despliegue de aplicación, funciona bajo un esquema de contenedores que permiten reutilizar recursos y librerías de un sistema operativo.
 
 ## Imágenes Oficiales
 
-Todas las imágenes oficiales de [ERPyA](https://erpya.com/) se encuentran [aquí](https://hub.docker.com/u/erpya). Invertimos muchas horas y recursos en hacer que nuestra infraestructura sea de clase mundial. No vamos por el camino fácil, en su lugar vamos por el camino correcto.
+Todas las imágenes oficiales de [ERPyA](https://erpya.com/) se encuentran [aquí](https://hub.docker.com/u/erpya). Invertimos muchas horas y recursos en hacer que nuestra infraestructura sea de clase mundial. No elegimos el camino fácil, sino el camino correcto.
 
 Puedes ver los enlaces a nuestras imágenes en la siguiente lista
 
@@ -32,7 +31,6 @@ Si solo quieres ver nuestros productos puedes hacer un despliegue local de maner
 
 Para hacer el despliegue local puedes descargar [este](https://github.com/erpya/adempiere-all-services) repositorio y seguir las siguientes instrucciones.
 
-
 ### Requerimientos
 
 Sólo necesitas instalar [git](https://git-scm.com/downloads) y [Docker Compose v2.16.0 o superior](https://docs.docker.com/compose/install/linux/)
@@ -45,9 +43,10 @@ git clone https://github.com/adempiere/adempiere-all-services
 
 ### Ubica el directorio clonado
 
-```
+```sh
 cd adempiere-all-services
 ```
+
 ### Haz una copia de la plantilla de despliegue
 
 ```
@@ -60,4 +59,6 @@ cp env_template .env
 docker compose up
 ```
 
-![Despliegue](https://github.com/erpya/adempiere-all-services/blob/main/docs/ADempiere_All_Services_Vue.gif)
+---
+
+![Despliegue](/assets/img/downloads/docker/ADempiere_All_Services_Vue.gif)
