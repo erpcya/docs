@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[58434],{58434:(e,s,t)=>{t.r(s),t.d(s,{updatePageview:()=>b});var a=t(52118);const b=()=>(0,a.B)({serverURL:"https://<to-be-defined>"})}}]);
