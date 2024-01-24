@@ -1,5 +1,5 @@
 ---
-title: Administración de Materia PrimaCotización a Factura
+title: Administración de Materia Prima - Cotización a Factura
 category: Producto
 star: 9
 sticky: 9
@@ -9,6 +9,7 @@ tag:
 
 article: false
 ---
+
 # Administración de Materia Prima
 
 Gestiona las entradas y salidas de materia prima, este producto es ideal para empresas que prestan servicios de maquila o almacenamiento de materia prima.
