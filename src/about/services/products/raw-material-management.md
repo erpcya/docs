@@ -1,5 +1,5 @@
 ---
-title: Administración de Materia PrimaCotización a Factura
+title: Administración de Materia Prima - Cotización a Factura
 category: Producto
 star: 9
 sticky: 9
