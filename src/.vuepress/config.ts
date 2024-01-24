@@ -1,6 +1,6 @@
 import { defineUserConfig } from "@vuepress/cli";
 import theme from "./theme";
-import { searchProPlugin } from "vuepress-plugin-search-pro";
+import { searchPlugin } from '@vuepress/plugin-search'
 import { path } from "@vuepress/utils";
 
 export default defineUserConfig({
@@ -33,20 +33,13 @@ export default defineUserConfig({
   theme,
 
   plugins: [
-    // Click effects
-    // Search
-    searchProPlugin({
-      // index all content
+    searchPlugin({
+      // options
       locales: {
-        "/": {
-          placeholder: "Comenzar búsqueda",  
-        }
+        '/': {
+          placeholder: 'Buscar',
+        },
       },
-      indexContent: true,
-      autoSuggestions: false,
-      // add supports for category and tags
-      customFields: [
-      ],
     }),
   ],
 
