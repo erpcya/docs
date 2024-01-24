@@ -4,10 +4,10 @@ export const enNavbarConfig = navbar([
   "/",
   {
     text: "Nosotros",
-    icon: "user",
+    icon: "profile",
     prefix: "/about/",
     children: [
-      { text: "Nosotros", icon: "user", link: "", activeMatch: "^/about/$" },      
+      { text: "Nosotros", icon: "profile", link: "", activeMatch: "^/about/$" },      
       {
         text: "Noticias",
         prefix: "news/",
@@ -53,10 +53,10 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Documentación",
-    icon: "lightbulb",
+    icon: "creative",
     prefix: "/docs/",
     children: [
-      { text: "ADempiere Estándar", link: "", icon: "book", activeMatch: "^/docs/$" },
+      { text: "ADempiere Estándar", link: "", icon: "note", activeMatch: "^/docs/$" },
       {
         text: "Gestión Básica",
         children: [
@@ -114,12 +114,12 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Comunidad",
-    icon: "user-group",
+    icon: "group",
     prefix: "/community/",
     children: [
       {
         text: "Comunidad",
-        icon: "user-group",
+        icon: "group",
         link: "",
         activeMatch: "^/community/$",
       },
@@ -131,12 +131,12 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Descargas",
-    icon: "circle-down",
+    icon: "install",
     prefix: "/downloads/",
     children: [
       {
         text: "Descargas",
-        icon: "circle-down",
+        icon: "install",
         link: "",
         activeMatch: "^/downloads/$",
       },
