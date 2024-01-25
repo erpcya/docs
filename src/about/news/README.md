@@ -2,7 +2,6 @@
 title: Noticias de ERPyA
 icon: blog
 category: Noticias
-star: 9
 sticky: 9
 tag:
   - blog

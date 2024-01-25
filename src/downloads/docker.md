@@ -1,7 +1,7 @@
 ---
 title: Docker
 category: Descarga
-icon: "docker"
+icon: docker
 star: 9
 tag:
   - Docker

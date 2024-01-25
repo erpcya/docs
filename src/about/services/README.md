@@ -1,7 +1,7 @@
 ---
 title: Servicio
 category: Producto
-icon: rocket
+icon: launch
 star: 9
 sticky: 9
 tag:
