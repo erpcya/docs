@@ -69,6 +69,13 @@ export const enNavbarConfig = navbar([
         ],
       },
       {
+        text: "Inicio de Sesión con Keycloak",
+        children: [
+          "basic-rules/login-keycloak",
+          "basic-rules/login-2fa",
+        ],
+      },
+      {
         text: "Datos Maestros",
         children: [
           "master-data/business-partner",
