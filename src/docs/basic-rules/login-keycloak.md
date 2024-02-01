@@ -47,7 +47,9 @@ Donde usted debe descargar una de las aplicaciones sugeridas en su teléfono mó
 
 Una vez instalada la aplicación, escanee el código QR.
 
-Luego de haber escaneado este le dejará un código de 6 cifras. Copie el código donde le indica **Keycloak**.
+Luego de haber escaneado este le dejará un código de 6 cifras. **Importante**: debe ingresar el código antes de que caduque, si observa en la aplicación instalada en su teléfono móvil para obtener el código o si usted instaló el complemento [**Authenticator**](./login-2fa.md) en su navegador , tiene temporizador, debe ingresar el código antes de que este caduque.
+
+Copie el código donde le indica **Keycloak**.
 
 ![Código](https://github.com/erpcya/docs/assets/134967453/6605b6fc-994c-49f3-a845-d8fb8430ec79)
 
