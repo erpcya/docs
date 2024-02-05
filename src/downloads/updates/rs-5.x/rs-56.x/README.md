@@ -13,6 +13,7 @@ article: false
 
 A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-56.x**
 
+- [rs-56.9](rs-56.9.md)
 - [rs-56.8](rs-56.8.md)
 - [rs-56.7](rs-56.7.md)
 - [rs-56.6](rs-56.6.md)
