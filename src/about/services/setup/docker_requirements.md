@@ -29,3 +29,7 @@ Por lo general únicamente se necesita el controlador de red y un servicio de op
 - SSH Server
 
 Los paquetes para desktop y modo gráfico no son requeridos y no recomendamos su instalación
+
+## General
+
+- El lenguaje por defecto recomendamos **Inglés Estados Unidos**
