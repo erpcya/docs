@@ -11,6 +11,6 @@ El presente material se encuentra dirigido a cada uno de los usuarios de ADempie
 - [Inicio de Sesión](login)
 - [Interfaz de Usuario](user-interface)
 - [Iconos de la Interfaz](icons-interface)
-- [Barra de Herramientas](bar)
-- [Accesos Rápidos](access)
+- [Barra de Herramientas](toolbar)
+- [Accesos Rápidos](quick-access)
 - [Utilería](props)
