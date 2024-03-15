@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 05 Mar 2024 19:03:24 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Mar 2024 19:03:24 GMT</lastBuildDate>
+    <pubDate>Fri, 15 Mar 2024 14:05:38 GMT</pubDate>
+    <lastBuildDate>Fri, 15 Mar 2024 14:05:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Noticias</category>
@@ -1515,8 +1515,37 @@
       <link>https://docs-md.erpya.com/about/</link>
       <guid>https://docs-md.erpya.com/about/</guid>
       <source url="https://docs-md.erpya.com/rss.xml">Nosotros</source>
+      <description>Formamos parte de un grupo de empresas integradoras e implementadoras con experiencia de cientos de implementaciones sobre la Plataforma de Negocios ADempiere en empresas latinoamericanas de todo tamaño. Implementamos la plataforma ADempiere de 3 maneras: Servidores propios del cliente. En nube propia del cliente. Modalidad software como servicio (SAAS).</description>
       <category>Nosotros</category>
       <pubDate>Sun, 06 Feb 2022 16:01:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>Formamos parte de un grupo de empresas integradoras e implementadoras con experiencia de cientos de implementaciones sobre la Plataforma de Negocios ADempiere en empresas latinoamericanas de todo tamaño.</p>
+<p>Implementamos la plataforma ADempiere de 3 maneras:</p>
+<ul>
+<li>Servidores propios del cliente.</li>
+<li>En nube propia del cliente.</li>
+<li>Modalidad software como servicio (SAAS).</li>
+</ul>
+<p>Somos sponsors de la Fundación ADempiere de Alemania.</p>
+<hr>
+<p>Al elegir implementar su próximo Sistema de Gestión con nosotros, usted obtendrá los siguientes diferenciales:</p>
+<ul>
+<li>Ofrecemos Garantía por lo que implementamos.</li>
+<li>Nunca pagará licencias de software.</li>
+<li>Dispondrá de una Plataforma Integral.</li>
+<li>Implementamos la última versión estable de ADempiere ERP &amp; CRM &amp; SCM.</li>
+<li>Aplicamos una metodología de implementación propia diseñada por más de 10 años y cientos de implementaciones en empresas de América Latina.</li>
+<li>100% web, disponible desde cualquier dispositivo y lugar.</li>
+<li>Disponemos de tres formas de implantación:
+<ol>
+<li>En el servidor del cliente.</li>
+<li>En la nube del cliente.</li>
+<li>Software como servicio.</li>
+</ol>
+</li>
+<li>Ofrecemos la mejor relación costo/calidad del mercado.</li>
+<li>Brindamos la mejor Plataforma Integral ERP 100% web al alcance de la empresa mediana.</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
