@@ -16,7 +16,7 @@ article: false
 
 ## Novedades
 
--
+![new-windows](/assets/img/downloads/updates/resources/erpya-3.9.4-001-1.3.7.png)
 
 ## Contexto
 
