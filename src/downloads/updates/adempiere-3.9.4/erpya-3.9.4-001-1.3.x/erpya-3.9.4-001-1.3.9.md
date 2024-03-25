@@ -28,7 +28,7 @@ article: false
 
 ## Soporte a Versiones
 
-- ADempiereBase: 3.9.4-1.0.5
+- ADempiereBase: 3.9.4-1.2.9
 - CST-STD: rs-37.9
 - Consigned-Material: 1.3.0
 - Exchange-Operation-System: 1.2.9
