@@ -34,16 +34,16 @@ En forma paralela, el importador deberá realizar la gestión de negociación co
 
     Por su parte, el agente aduanal realiza el manifiesto de importación y la declaración única de su valor, anexando los siguientes documentos para nacionalizar la mercancía:
 
-        - Facturas Comerciales
-        - Facturas de Flete
-        - Conocimiento de Embarque
-        - Guía Aérea
-        - Carta de porte relacionada al medio de transporte en la cual se importó la mercancía
-        - Declaración jurada del valor en aduana
-        - Póliza de seguros
-        - Certificación de origen de mercancía (de ser necesario)
-        - Certificación o autorizaciones previas (de ser necesario)
-        - Otros documentos necesarios por la aduana
+  - Facturas Comerciales
+  - Facturas de Flete
+  - Conocimiento de Embarque
+  - Guía Aérea
+  - Carta de porte relacionada al medio de transporte en la cual se importó la mercancía
+  - Declaración jurada del valor en aduana
+  - Póliza de seguros
+  - Certificación de origen de mercancía (de ser necesario)
+  - Certificación o autorizaciones previas (de ser necesario)
+  - Otros documentos necesarios por la aduana
 
 - Luego, en un periodo no mayor a tres(3) días habiles el importador debe realizar el pago de los tributos aduaneros, una vez sea efectivo el pago, la aduana asigna un canal de control a la declaración única:
 
@@ -55,26 +55,26 @@ En forma paralela, el importador deberá realizar la gestión de negociación co
 
 - Posteriormente, el agente aduanal entrega la documentación completa al importador una vez haya culminado en su totalidad la nacionalización, y se haya completado los derechos de tasas portuaria y tarifas por servicios portuarios establecidos según sea el caso en la [Ley Orgánica de Aduanas](../import/LEY_ORGANICA_DE_ADUANAS.pdf), junto a la documentación del expediente el agente aduanal consigna la relación de gastos de nacionalización, tales como:
 
-        - Planilla Forma 79084
-        - Planilla Forma 99086
-        - Planilla de Pre-Liquidación
-        - Especies fiscales
-        - Impuestos municipales
-        - Impuestos de grandes transacciones financieras
-        - Comisiones
-        - Documentación 
-        - Valoración de manifiesto
-        - Precintos
-        - Movilización 
-        - Liberaciones
-        - Gastos por administrativos
-        - Multas
-        - Almacenajes
-        - Uso de Superficie
-        - Entre otros Gastos
-        - Seguros nacionales
-        - Seguridad y vigilancia
-        - Honorarios profesionales
+  - Planilla Forma 79084
+  - Planilla Forma 99086
+  - Planilla de Pre-Liquidación
+  - Especies fiscales
+  - Impuestos municipales
+  - Impuestos de grandes transacciones financieras
+  - Comisiones
+  - Documentación 
+  - Valoración de manifiesto
+  - Precintos
+  - Movilización 
+  - Liberaciones
+  - Gastos por administrativos
+  - Multas
+  - Almacenajes
+  - Uso de Superficie
+  - Entre otros Gastos
+  - Seguros nacionales
+  - Seguridad y vigilancia
+  - Honorarios profesionales
 
 - Estos gastos, son cancelados mediante anticipos o pos consignación, bajo un cruce de cuentas entre el agente aduanal y el importador, para finalmente ser convertidos a costos FOB de la mercancía importada, sin embargo en el libro de compras bajo legislación venezolana debe ser reflejados unicamente los costos CIF con el IVA resultante de estos costos.
 
@@ -87,6 +87,7 @@ El presente material elaborado por [ERPyA](https://erpya.com/), pretende ofrecer
   - [Orden de Compra de Importación](https://docs.erpya.com/docs/lve/procedures/import/import.html#orden-de-compra-de-importacion)
   - [Documento por Pagar de Mercancía](https://docs.erpya.com/docs/lve/procedures/import/import.html#documento-por-pagar-de-mercancia)
   - [Documento por Pagar de Costos CIF](https://docs.erpya.com/docs/lve/procedures/import/import.html#documento-por-pagar-de-costos-cif)
+  - [Actualización de Tasa de Cambio](https://docs.erpya.com/docs/lve/procedures/import/import.html#actualizacion-de-tasa-de-expediente-de-importacion)
   - [Cancelación de Facturas](https://docs.erpya.com/docs/lve/procedures/import/import.html#cancelacion-de-factura)
 - [Anticipo a Proveedores en Tránsito](advance-payment-to-transit-providers)
   - [Carga de Anticipo](https://docs.erpya.com/docs/lve/procedures/import/advance-payment-to-transit-providers.html#carga-de-anticipo)
