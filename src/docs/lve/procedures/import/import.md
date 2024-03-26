@@ -230,6 +230,30 @@ Al colocar el expediente se establece el **tipo de conversión negociado**.
 
 :::
 
+## **Actualización de Tasa de Expediente de Importación**
+
+- Buscar en la ventana Expediente de Importación/Exportación.
+![image](https://github.com/erpcya/docs/assets/9578152/c50ed35a-6013-41ce-aea0-214da5e635a1)
+
+- Seleccione en el acercador **Tipo de Conversión (por Documentos)**
+  ![image](https://github.com/erpcya/docs/assets/9578152/670c15cf-a785-4cd3-8215-ee69e548c5a4)
+
+- Estando en la ventana **Tipo de Conversión (por Documentos)**, vaya a la pestaña **Tasa de Cambio**
+- Proceda a modificar los montos de las tasas en los registros generados.
+  ![image](https://github.com/erpcya/docs/assets/9578152/4500fc36-8d34-4258-8ae6-074900574e86)
+
+- Vaya nuevamente al expediente, y seleccione el proceso **Actualizar Saldos de Expedientes**
+![image](https://github.com/erpcya/docs/assets/9578152/2ff78073-17e3-42e5-802f-c933e5ef64a0)
+
+- Levanta la siguiente ventana, para ejecutar el proceso.
+![image](https://github.com/erpcya/docs/assets/9578152/6b4549c7-9c1c-4143-9605-db929a84a3ef)
+
+- Seleccione la opción ok.
+![image](https://github.com/erpcya/docs/assets/9578152/2a1464b8-a9c7-47d5-97e8-470ab7b5bbe7)
+
+- Valide los saldos actualizados.
+![image](https://github.com/erpcya/docs/assets/9578152/45af6f27-ce56-4a54-b27c-4cbc1c892f30)
+
 ## **Cancelación de Factura**
 
 Realice el procedimiento regular para realizar un documento de selección de pagos desde una factura de cuentas por pagar, explicado en el material **''Selección de pago''**, esto cancelará el pasivo con el proveedor de mercancía.
