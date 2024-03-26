@@ -5,10 +5,10 @@ category: Actualizaciones
 star: 9
 sticky: 9
 tag:
-  - Actualizaciones
-  - Versiones
-  - erpya-3.9.4-001-1.3.9
-  - 2024-03-24
+  - "Actualizaciones"
+  - "Versiones"
+  - "erpya-3.9.4-001-1.3.9"
+  - "2024-03-24"
 article: false
 ---
 
@@ -16,7 +16,17 @@ article: false
 
 ## Novedades
 
-- Se agrega formulario de análisis de calidad.
+#### Validación de Parametros por Especificación de Calidad
+
+- Ventana de Especificacion de Calidad.
+- Pestaña de Prueba de Calidad en Ventana Analisis de Calidad.
+- Validación en Modelo para Aceptar/Bloquear un producto dependiendo de los pasos de verificación de Calidad.
+
+#### Configuración y Selección de Atributos de Analisis de Calidad Release 1.3.9
+
+- Pestaña para Agregar Atributos de Calidad a la configuración del Conjunto de Atributos
+- Campo para Seleccion de Atributos de Calidad
+- Formulario para la carga y creación de Instancia de Atributos Basados en Atributos de Calidad.
 
 ## Contexto
 
@@ -24,7 +34,16 @@ article: false
 
 ## Detalle Técnico
 
+- Refactory Callouts
+- Add Quality Action Setting Entity
+- Add Quality Action Entity
+- Add Quality Attribute Use
 - Add Quality Analysis Form
+- Add ASP for Quality Analysis Specification
+
+## Referencias
+
+- https://github.com/erpcya/Control-NATULAC/issues/22#issuecomment-2018728532
 
 ## Soporte a Versiones
 
