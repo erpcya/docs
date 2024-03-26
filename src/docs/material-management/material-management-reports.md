@@ -6,9 +6,11 @@ sticky: 9
 article: false
 ---
 
-Los reportes de impresión de etiquetas son herramientas valiosas para la gestión eficiente, la identificación precisa y el seguimiento de productos, contribuyendo a una operación más organizada y precisa en diversos entornos empresariales.
+
 
 ## Etiquetas para Productos
+
+Los reportes de impresión de etiquetas son herramientas valiosas para la gestión eficiente, la identificación precisa y el seguimiento de productos, contribuyendo a una operación más organizada y precisa en diversos entornos empresariales.
 
 - Formato de Impresion para Generar etiquetas para productos (Código de barras, Código **QR**). Use este reporte para imprimir los códigos de barra de los productos o **QR**
 
@@ -116,3 +118,32 @@ Después de llenar los campos respectivos. **Presionar OK**
 - Altura: 65 mm
 
 ![medidas3](/assets/img/docs/material-management/small-product-label.png)
+
+
+## Detalle de Almacenamiento
+
+- Este reporte le permite al usuario visualizar la cantidad de productos existentes a la fecha, el mismo se puede ubicar en el menú de ADempiere como **Detalle de Almacenamiento** 
+
+   ![image](https://github.com/erpcya/docs/assets/52334433/3c86e765-b69f-4d0f-8349-3749f4d4e623)
+
+- Cuenta con diferentes campos que permiten filtrar la información en base a lo requerido por el usuario
+
+   ![image](https://github.com/erpcya/docs/assets/52334433/4c37adc4-7ae1-4e55-a741-e46a6d3f8468)
+
+- Según los campos que el usuario utilice, ADempiere mostrara el reporte pero con diferente contenido (contenido de columnas). Puede generar el reporte en diferentes formatos de impresión, para ello debe seleccionar el formato a utilizar en el campo **Formato de Impresión** que se encuentra en la parte inferior de la ventana.
+
+   ![image](https://github.com/erpcya/docs/assets/52334433/d3046f92-eb7f-4a4c-a0a6-32b9face7e2e)
+
+## Detalle de Transacciones
+
+- Este reporte le permite al usuario visualizar a detalle las transacciones o movimientos que se realizan con los diferentes productos, el mismo se puede ubicar en el menú de ADempiere como **Detalle de Transacciones**
+
+   ![image](https://github.com/erpcya/docs/assets/52334433/051be278-bb33-41e8-9177-462e33a27e01)
+
+- Cuenta con diferentes campos que permiten filtrar la información en base a lo requerido por el usuario
+
+   ![image](https://github.com/erpcya/docs/assets/52334433/637148f8-6921-4541-aa88-c974a25c6b97)
+
+- Según los campos que el usuario utilice, ADempiere mostrara el reporte pero con diferente contenido (contenido de columnas). Puede generar el reporte en diferentes formatos de impresión, para ello debe seleccionar el formato a utilizar en el campo **Formato de Impresión** que se encuentra en la parte inferior de la ventana.
+
+   ![image](https://github.com/erpcya/docs/assets/52334433/b2f4ff07-74dc-4d97-9e1a-fb2f053af13e)
