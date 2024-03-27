@@ -60,8 +60,8 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 ![image](https://github.com/erpcya/docs/assets/9578152/d928a10a-0410-4f4f-bc17-38d29a56a4a6)
 
 - Genera registros con los siguientes productos partes de la estimación:
-  - Materia Prima
-  - Semielaborados
-  - Producto Terminado
+  - **Materia Prima:** Perimite generar una Requisición o una Orden de Compras.
+  - **Semielaborados:** Perimite generar una orden de producción.
+  - **Producto Terminado:** Perimite generar una orden de producción.
 
 ## 
