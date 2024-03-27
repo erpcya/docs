@@ -26,9 +26,9 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 
 - **Cantidad en Demanda:** Cantidad resultante de la siguiente fórmula:
 
-                PRODUCTO TERMINADO=CANTIDAD NECESARIA(LDM)*CANTIDAD ESTIMADA PARA VENTA
-                PRODUUCTO SEMIELABORADO= 
-- 
+  **INSUMOS DE PRODUCTO SEMIELABORADO**= CANTIDAD NECESARIA(LDM)* CANTIDAD NECESARIA PARA PRODUCIR PT* CANTIDAD ESTIMADA PARA VENTA(PRONÓSTICO)
+  
+  **INSUMOS PRODUCTO TERMINADO**= CANTIDAD NECESARIA(LDM)*CANTIDAD ESTIMADA PARA VENTA(PRONÓSTICO)
 
   
 ## Ejecución de Plan de Reabastecimiento en Base a Pronóstico
