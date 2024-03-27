@@ -155,6 +155,10 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 ![image](https://github.com/erpcya/docs/assets/9578152/af6e3a4b-0137-4dbd-9d58-787e36ca4c97)
 
 
+### Resultado de la Ejecución
+
+- Para ver el resultado vaya a la ventana **Requisiciones**.
+
 
 
 
