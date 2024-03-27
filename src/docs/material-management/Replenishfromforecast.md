@@ -8,8 +8,16 @@ article: false
 
 Las estrategias de reabastecimiento son esenciales para optimizar los niveles de inventario y garantizar la satisfacción del cliente. ayudan a las empresas a evitar desabastecimientos, excesos de existencias y desperdicios, al tiempo que maximizan el rendimiento en la producción, ganancias y la eficiencia. Las estrategias de reabastecimiento pueden variar según el tipo de inventario, los patrones de demanda, los plazos de entrega y la distribución del almacén. 
 
-No existe una solución única para el reabastecimiento, sino más bien una variedad de métodos y políticas que pueden adaptarse a diferentes situaciones.En esta oportunidad ADempiere le brindará una solición basada en el reabastecimiento de empresas manufactureras, esta estrategia consiste en estimar  de manufactura desde un pronóstico de ventas en un periodo determinado.
+No existe una solución única para el reabastecimiento, sino más bien una variedad de métodos y políticas que pueden adaptarse a diferentes situaciones.En esta oportunidad ADempiere le brindará una solición basada en el reabastecimiento de empresas manufactureras, esta estrategia consiste en estimar cantidades necesarias para dar cumplimiento a un pronóstico de ventas en un periodo determinado.
 
+## Configuración Esencial
+
+- **Almacén:** Es necesario
+- **Producto:**
+- **Lista de Materiales:**
+- **Pronóstico de Ventas:**
+
+  
 ## Ejecución de Plan de Reabastecimiento en Base a Pronóstico
 
 - Vaya al menú **Gestión de Materiales**->**Reabastecimiento desde Pronóstico**
