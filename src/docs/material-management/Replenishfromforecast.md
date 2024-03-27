@@ -28,9 +28,9 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
   
           Variables:
     
-          **CNLDM**= CANTIDAD NECESARIA(LDM)
-          **CNPT**= CANTIDAD NECESARIA PARA PRODUCIR PT
-          **CEP**= CANTIDAD ESTIMADA PARA VENTA(PRONÓSTICO)
+          CNLDM= CANTIDAD NECESARIA(LDM)
+          CNPT= CANTIDAD NECESARIA PARA PRODUCIR PT
+          CEP= CANTIDAD ESTIMADA PARA VENTA(PRONÓSTICO)
   
                 INSUMOS DE PRODUCTO SEMIELABORADO = CNLDM*CNPT*CEP
                 INSUMOS PRODUCTO TERMINADO = CNLDM*CEP
