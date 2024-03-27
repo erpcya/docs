@@ -22,7 +22,13 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 
 ## Formulación de Demanda
 
-- **
+- **Cantidad en Existencia:** Cantidad existente de producto en almacenes con el check **Reabastecimiento desde Pronostico** en estado **verdadero**.
+
+- **Cantidad en Demanda:** Cantidad resultante de la siguiente fórmula:
+
+                PRODUCTO TERMINADO=CANTIDAD NECESARIA(LDM)*CANTIDAD ESTIMADA PARA VENTA
+                PRODUUCTO SEMIELABORADO= 
+- 
 
   
 ## Ejecución de Plan de Reabastecimiento en Base a Pronóstico
