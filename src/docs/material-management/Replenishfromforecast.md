@@ -26,16 +26,14 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 
 - **Cantidad en Demanda:** Cantidad resultante de la siguiente fórmula:
   
-          **Variables:**
-  
-          **IPS**= INSUMOS DE PRODUCTO SEMIELABORADO
-          **IPT**= INSUMOS PRODUCTO TERMINADO
+          Variables:
+    
           **CNLDM**= CANTIDAD NECESARIA(LDM)
           **CNPT**= CANTIDAD NECESARIA PARA PRODUCIR PT
           **CEP**= CANTIDAD ESTIMADA PARA VENTA(PRONÓSTICO)
   
-                **IPS**= CNLDM*CNPT*CEP
-                **IPT**= CNLDM*CEP
+                INSUMOS DE PRODUCTO SEMIELABORADO = CNLDM*CNPT*CEP
+                INSUMOS PRODUCTO TERMINADO = CNLDM*CEP
 
   
 ## Ejecución de Plan de Reabastecimiento en Base a Pronóstico
