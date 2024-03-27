@@ -24,7 +24,7 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 
 - **Cantidad en Existencia:** Cantidad existente de producto en almacenes con el check **Reabastecimiento desde Pronostico** en estado **verdadero**.
 
-- **Cantidad en Demanda:** Cantidad resultante de la siguiente fórmula:
+- **Cantidad en Demanda:** Cantidad necesaria para dar cumplimiento a un plan de reabastecimiento basado en pronóstico, esta es resultante de la siguiente fórmula:
   
           Variables:
     
@@ -34,6 +34,15 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
   
                 INSUMOS DE PRODUCTO SEMIELABORADO = CNLDM*CNPT*CEP
                 INSUMOS PRODUCTO TERMINADO = CNLDM*CEP
+
+- **Cantidad a Reabastecer:** Cantidad necesaria para dar cumplimiento a un plan de reabastecimiento basado en pronóstico, esta toma en cuenta las cantidades existentes en inventario, esta es resultante de la siguiente fórmula:
+  
+          Variables:
+    
+          CD= CANTIDAD EN DEMANDA
+          CE= CANTIDAD EXISTENTE
+  
+                CANTIDAD A REABASTECER = CD-CE
 
   
 ## Ejecución de Plan de Reabastecimiento en Base a Pronóstico
