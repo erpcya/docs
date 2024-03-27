@@ -20,6 +20,8 @@ Esta funcionalidad permitirá tener un único centro para recibir todas las soli
 
 ![erpya-1.4.4](/assets/img/downloads/updates/resources/erpya-1.4.4.png)
 
+Anteriormente debía existir un servicio por cada cliente a notificar, esto suponía un gasto innecesario de recursos.
+
 ## Contexto
 
 - Se agrega funcionalidad para establecer los nombres de host y token en los dispositivos de asistencia.
