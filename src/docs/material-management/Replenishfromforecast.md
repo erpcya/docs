@@ -12,10 +12,17 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
 
 ## Configuración Esencial
 
-- **Almacén:** Es necesario
-- **Producto:**
-- **Lista de Materiales:**
-- **Pronóstico de Ventas:**
+- **Almacén:** Es necesario que exista al menos un almacén con el check **Reabastecimiento desde Pronostico** en estado **verdadero**, dicho(s) almacén es instrumento de evaluación en cantidades en compromiso de recibo, existencia, demanda y cantidad a reabastecer para el reabastecimiento
+  
+- **Producto:** Es necesario que los productos que van a ser evaluados contenga al menos una lista de materiales, con los productos de tipo insumos/matería prima para su producción.
+
+- **Lista de Materiales:** Es necesario que exista al menos una lista de materiales en el producto a producir(Producto Terminado o Semielaborado) con el check **Reabastecimiento desde Pronostico** en estado **verdadero**, dicho registro es utilizado para calcular las cantidades y productos necesarios en base a demanda.
+  
+- **Pronóstico de Ventas:** La base de cálculo para la demanda en la cantidad estimada para la venta de producto terminado, por lo que es necesario un pronóstico valido dentro del período de ejecución del plan de reabastecimiento.
+
+## Formulación de Demanda
+
+- **
 
   
 ## Ejecución de Plan de Reabastecimiento en Base a Pronóstico
