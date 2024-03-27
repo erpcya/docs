@@ -86,4 +86,77 @@ No existe una solución única para el reabastecimiento, sino más bien una vari
   - **Semielaborados:** Perimite generar una orden de producción.
   - **Producto Terminado:** Perimite generar una orden de producción.
 
-## 
+## Generar Requisición a Partir del Plan de Reabastecimiento
+
+- Vaya al menú **Gestión de Materiales**->**Reabastecimiento desde Pronóstico**
+
+![image](https://github.com/erpcya/docs/assets/9578152/8c1d321a-5c03-44e2-9360-6ea3e8ffa493)
+
+- Seleccione la opción **Reabastecimiento desde Pronóstico (Requisición a Compras)**
+
+![image](https://github.com/erpcya/docs/assets/9578152/a0b176f7-9927-4148-b9a5-ca1f6ba5dce7)
+
+- A continuación veremos la siguiente pantalla
+
+![image](https://github.com/erpcya/docs/assets/9578152/5cc05828-8012-4567-a625-f3fc165de38f)
+
+- Proceda a seleccionar el plan de reabastecimiento para generar la estimación del reabastecimiento.
+
+![image](https://github.com/erpcya/docs/assets/9578152/3ff2317f-6a71-43e3-b6d6-55dfb252ec97)
+
+- Seleccionar el producto en caso de querer filtrar el producto a reabastecer.
+
+![image](https://github.com/erpcya/docs/assets/9578152/080299ba-8ead-4cf3-bc29-f60c877f1e28)
+
+- Seleccionar **Comenzar la búsqueda**
+
+![image](https://github.com/erpcya/docs/assets/9578152/44031afc-f67c-44d5-b923-364140e67a66)
+
+- Seleccionar los productos a reabastecer.
+- Seleccionar el tipo de documento para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/44110194-ed3f-404a-9102-d4a742408d5e)
+
+- Seleccionar la fecha para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/7e157375-1440-4e25-b73c-2a275c2fad5e)
+
+- Seleccionar la Lista de Precios para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/cc269959-f3b7-42bb-a574-b53a10637897)
+
+- Seleccionar el almacén para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/6edd3ff2-1056-492c-83ed-8b2a4ec76c26)
+
+- Seleccionar el proyecto para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/43165140-0492-451e-aed3-5b6e17933064)
+
+- Seleccionar la Actividad para la requisición
+
+![image](https://github.com/erpcya/docs/assets/9578152/fb059eb0-4307-424e-835f-74d3d9dbf6cc)
+
+
+- Seleccionar la Organización para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/280e233c-1e88-4df5-bf12-3bf31c595f99)
+
+- Seleccionar el centro de costo para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/d4fbfa83-fcf7-4578-af78-cc29d08a5b2c)
+
+- Seleccionar la acción de documento para la requisición.
+
+![image](https://github.com/erpcya/docs/assets/9578152/fa5b7933-0741-4994-bb3d-ea09dd60b015)
+
+- Seleccionar la opción **OK**
+
+![image](https://github.com/erpcya/docs/assets/9578152/af6e3a4b-0137-4dbd-9d58-787e36ca4c97)
+
+
+
+
+
+
+
