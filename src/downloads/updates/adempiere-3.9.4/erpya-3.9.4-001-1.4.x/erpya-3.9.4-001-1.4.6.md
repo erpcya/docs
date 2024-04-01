@@ -112,3 +112,4 @@ article: false
 ## Requerimientos
 
 - XML's a aplicar:
+  - 07340_Add_ERP_Custom_API_for_Exchange_v3.xml
