@@ -13,3 +13,5 @@ Esta documentación está destinada a definir cada uno de los procedimientos par
 - [Gestión de Almacén Avanzado](warehouse-management)
 - [Orden de Distribución](distribution-order)
 - [Generar Orden de Salida (Orden de Venta / Distribución](outbound-order)
+- [Crear Orden de Flete desde Orden](create-freight-order-from-order)
+- [Crear Orden de Flete desde Órdenes de Salida](create-freight-order-from-outbound-order)
