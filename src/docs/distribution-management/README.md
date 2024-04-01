@@ -12,3 +12,4 @@ Esta documentación está destinada a definir cada uno de los procedimientos par
 - [Registro de Peso](weight)
 - [Gestión de Almacén Avanzado](warehouse-management)
 - [Orden de Distribución](distribution-order)
+- [Generar Orden de Salida (Orden de Venta / Distribución](outbound-order)
