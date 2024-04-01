@@ -131,3 +131,9 @@ article: false
 ## Requerimientos
 
 - XML's a aplicar:
+  - 06620_Refactory_Callouts.xml
+  - 06630_Add_Quality_Action_Setting_Entity.xml
+  - 06640_Add_Quality_Action_Entity.xml
+  - 06650_Add_Quality_Analisis_Form.xml
+  - 06660_Add_Quality_Attribute_Use_Entity.xml
+  - 06680_Add_ASP_for_Quality_Analysis_Functionality.xml

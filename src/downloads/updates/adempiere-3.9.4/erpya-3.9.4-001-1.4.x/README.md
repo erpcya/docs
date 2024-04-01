@@ -17,4 +17,4 @@ A continuación se encuentra una listas con las versiones relacionadas a la **ma
 - [erpya-3.9.4-001-1.4.1](erpya-3.9.4-001-1.4.1.md)
 - [erpya-3.9.4-001-1.4.2](erpya-3.9.4-001-1.4.2.md)
 - [erpya-3.9.4-001-1.4.3](erpya-3.9.4-001-1.4.3.md)
-- [erpya-3.9.4-001-1.4.3](erpya-3.9.4-001-1.4.4.md)
+- [erpya-3.9.4-001-1.4.4](erpya-3.9.4-001-1.4.4.md)
