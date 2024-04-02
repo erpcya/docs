@@ -4,7 +4,6 @@ category: Documentation
 star: 9
 sticky: 9
 article: false
-icon: customize
 ---
 
 - Seleccione en el menú de ADempiere la carpeta **Gestión de Distribución**, luego seleccione la ventana de búsqueda inteligente **Generar Movimiento de Inventario desde Orden de Salida**.
