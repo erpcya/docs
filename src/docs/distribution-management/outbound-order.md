@@ -18,7 +18,7 @@ article: false
 
     Imagen 2. Ventana Generar Orden de Salida (Orden de Venta/Distribución)
 
-- Seleccione en el campo **Organización**, la organización para la cual esta realizando el registro.
+- Seleccione en el campo **Organización**, la organización con la que fue generada la orden de distribución que requiere filtrar.
 
     ![image](https://github.com/erpcya/docs/assets/52334433/1e14641c-976a-4c25-907f-d7361cb8dd8c)
 
@@ -30,13 +30,13 @@ article: false
 
     Imagen 4. Campo Tipo de Movimiento
 
-- Seleccione en el campo **Tipo de Documento**, el tipo de documento por el cual requiere filtrar la búsqueda para generar la orden de salida.
+- Seleccione en el campo **Tipo de Documento**, el tipo de documento con el cual fue generada la orden de distribución que requiere filtrar.
 
     ![image](https://github.com/erpcya/docs/assets/52334433/1d1d49f4-e8ec-42b8-9de7-1533c320f104)
 
     Imagen 5. Campo Tipo de Documento
 
-- Seleccione en el campo **Almacén**, el almacén por el cual requiere filtrar la búsqueda para generar la orden de salida.
+- Seleccione en el campo **Almacén**, el almacén donde se encuentra el producto (almacén origen de la orden de distribución).
 
     ![image](https://github.com/erpcya/docs/assets/52334433/cc6fea5e-2871-48f4-9534-a8cece843043)
 
@@ -114,9 +114,9 @@ article: false
 
     Imagen 18. Resultado de Búsqueda de Líneas de las Órdenes
 
-- Seleccione en el campo **Ubicación**, la ubicación a la cual se entregara el producto.
+- Seleccione en el campo **Ubicación**, la ubicación dentro del almacén desde el cual sale el producto.
 
-    ![image](https://github.com/erpcya/docs/assets/52334433/c1003bf7-5459-43d6-b5d2-efa4f5921bf7)
+    ![image](https://github.com/erpcya/docs/assets/52334433/db696fef-66bf-4f39-8606-b8b2e752280b)
 
     Imagen 19. Campo Ubicación
 
