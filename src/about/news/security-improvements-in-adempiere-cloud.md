@@ -61,7 +61,7 @@ La 2FA y Keycloak son herramientas fundamentales para mejorar la seguridad infor
 
 **Compatibilidad con métodos de autenticación tradicionales**
 
-Los métodos de autenticación tradicionales, como el uso de un nombre de usuario y contraseña, se mantendrán hasta el 31/12/2024. A partir de esa fecha, se requerirá el uso de 2FA y/o Keycloak para acceder a ADempiere Cloud.
+Los métodos de autenticación tradicionales, como el uso de un nombre de usuario y contraseña, se mantendrán hasta el **31/12/2024**. A partir de esa fecha, se requerirá el uso de 2FA y/o Keycloak para acceder a ADempiere Cloud.
 
 **Disclaimer**
 
@@ -74,10 +74,10 @@ Para obtener más información sobre las mejoras de seguridad en ADempiere Cloud
 - Documentación de ADempiere Cloud: https://docs.erpya.com/
 
 **Recursos adicionales**:
-● [https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores: https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661](https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661)
-● https://www.keycloak.org/: https://www.keycloak.org/ 
-● https://www.cloudflare.com/es-es/learning/ssl/what-is-https/: 
-● https://es.wikipedia.org/wiki/HTTPS 
+- [Autenticación en dos vías](https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661)
+- https://www.keycloak.org/: https://www.keycloak.org/
+- https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:
+- https://es.wikipedia.org/wiki/HTTPS 
 
 **Nota**: Este documento es una guía general y no sustituye la necesidad de realizar una evaluación de riesgos específica para cada organización.
 
