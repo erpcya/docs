@@ -74,7 +74,7 @@ Para obtener más información sobre las mejoras de seguridad en ADempiere Cloud
 - Documentación de ADempiere Cloud: https://docs.erpya.com/
 
 **Recursos adicionales**:
-● https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores: https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661
+● [https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores: https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661](https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661)
 ● https://www.keycloak.org/: https://www.keycloak.org/ 
 ● https://www.cloudflare.com/es-es/learning/ssl/what-is-https/: 
 ● https://es.wikipedia.org/wiki/HTTPS 
