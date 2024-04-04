@@ -14,6 +14,10 @@ article: false
 
 **Fecha de Liberación:** 2024-03-14
 
+## Artículo Relacionado
+
+- https://docs.erpya.com/about/news/security-improvements-in-adempiere-cloud.html#conclusion
+
 ## Novedades
 
 - Corrección en soporte a generar tasa de Expediente de Importación
