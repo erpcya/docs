@@ -13,6 +13,7 @@ export const enNavbarConfig = navbar([
         prefix: "news/",
         children: [
           "2023-01-01-adempiere-394",
+          "security-improvements-in-adempiere-cloud",
         ],
       },
       {
