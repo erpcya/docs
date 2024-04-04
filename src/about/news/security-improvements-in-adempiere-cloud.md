@@ -74,10 +74,10 @@ Para obtener más información sobre las mejoras de seguridad en ADempiere Cloud
 - Documentación de ADempiere Cloud: https://docs.erpya.com/
 
 **Recursos adicionales**:
-● https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores: [se quitó una URL no válida] 
-● https://www.keycloak.org/: https://www.keycloak.org/ 
-● https://www.cloudflare.com/es-es/learning/ssl/what-is-https/: 
-● https://es.wikipedia.org/wiki/HTTPS 
+  ● https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores: [se quitó una URL no válida] 
+  ● https://www.keycloak.org/
+  ● https://www.cloudflare.com/es-es/learning/ssl/what-is-https/
+  ● https://es.wikipedia.org/wiki/HTTPS
 
 **Nota**: Este documento es una guía general y no sustituye la necesidad de realizar una evaluación de riesgos específica para cada organización.
 
