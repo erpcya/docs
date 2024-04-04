@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-04-04T16:04:51.671Z</updated>
+  <updated>2024-04-04T16:07:18.909Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -20,7 +20,7 @@
     <title type="text">Mejoras de seguridad en ADempiere Cloud</title>
     <id>https://docs-md.erpya.com/about/news/security-improvements-in-adempiere-cloud.html</id>
     <link href="https://docs-md.erpya.com/about/news/security-improvements-in-adempiere-cloud.html"/>
-    <updated>2024-04-04T15:58:55.000Z</updated>
+    <updated>2024-04-04T16:01:12.000Z</updated>
     <summary type="html"><![CDATA[<figure><img src="/assets/img/about/news/keycloak-is-here.png" alt="Keycloak is Here!" tabindex="0" loading="lazy"><figcaption>Keycloak is Here!</figcaption></figure>
 <h3> Introducción</h3>
 <p>Nos complace anunciar la incorporación de importantes mejoras de seguridad en ADempiere Cloud, diseñadas para proteger mejor sus datos y su infraestructura. Estas mejoras incluyen:</p>]]></summary>
@@ -72,7 +72,7 @@
 </ul>
 <p><strong>Recursos adicionales</strong>:</p>
 <ul>
-<li><a href="https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661" target="_blank" rel="noopener noreferrer">Autenticación en dos vías</a></li>
+<li><a href="https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661" target="_blank" rel="noopener noreferrer">https://support.microsoft.com/es-es/topic/qué-es-autenticación-multifactor-e5e39437-121c-be60-d123-eda06bddf661</a></li>
 <li><a href="https://www.keycloak.org/:" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/:</a> <a href="https://www.keycloak.org/" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/</a></li>
 <li><a href="https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:" target="_blank" rel="noopener noreferrer">https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:</a></li>
 <li><a href="https://es.wikipedia.org/wiki/HTTPS" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/HTTPS</a></li>
