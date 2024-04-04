@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-04-04T15:53:40.961Z</updated>
+  <updated>2024-04-04T16:04:51.671Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -20,7 +20,7 @@
     <title type="text">Mejoras de seguridad en ADempiere Cloud</title>
     <id>https://docs-md.erpya.com/about/news/security-improvements-in-adempiere-cloud.html</id>
     <link href="https://docs-md.erpya.com/about/news/security-improvements-in-adempiere-cloud.html"/>
-    <updated>2024-04-04T15:47:34.000Z</updated>
+    <updated>2024-04-04T15:58:55.000Z</updated>
     <summary type="html"><![CDATA[<figure><img src="/assets/img/about/news/keycloak-is-here.png" alt="Keycloak is Here!" tabindex="0" loading="lazy"><figcaption>Keycloak is Here!</figcaption></figure>
 <h3> Introducción</h3>
 <p>Nos complace anunciar la incorporación de importantes mejoras de seguridad en ADempiere Cloud, diseñadas para proteger mejor sus datos y su infraestructura. Estas mejoras incluyen:</p>]]></summary>
@@ -62,7 +62,7 @@
 <h3> Conclusión</h3>
 <p>La 2FA y Keycloak son herramientas fundamentales para mejorar la seguridad informática de las organizaciones. La 2FA añade una capa adicional de seguridad al proceso de autenticación, mientras que Keycloak facilita la gestión de usuarios, roles y permisos. La omisión de estas medidas, junto con la falta de protocolo HTTPS, puede exponer a las organizaciones a un alto riesgo de ataques informáticos.</p>
 <p><strong>Compatibilidad con métodos de autenticación tradicionales</strong></p>
-<p>Los métodos de autenticación tradicionales, como el uso de un nombre de usuario y contraseña, se mantendrán hasta el 31/12/2024. A partir de esa fecha, se requerirá el uso de 2FA y/o Keycloak para acceder a ADempiere Cloud.</p>
+<p>Los métodos de autenticación tradicionales, como el uso de un nombre de usuario y contraseña, se mantendrán hasta el <strong>31/12/2024</strong>. A partir de esa fecha, se requerirá el uso de 2FA y/o Keycloak para acceder a ADempiere Cloud.</p>
 <p><strong>Disclaimer</strong></p>
 <p>El uso de las nuevas funcionalidades de seguridad es opcional. Sin embargo, le recomendamos encarecidamente que las utilice para proteger mejor sus datos y su infraestructura. Si decide no utilizar estas funcionalidades, será responsable de los riesgos de seguridad que puedan surgir.</p>
 <h3> Para más información</h3>
@@ -70,11 +70,13 @@
 <ul>
 <li>Documentación de ADempiere Cloud: <a href="https://docs.erpya.com/" target="_blank" rel="noopener noreferrer">https://docs.erpya.com/</a></li>
 </ul>
-<p><strong>Recursos adicionales</strong>:<br>
-● <a href="https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/Autenticaci%C3%B3n_de_m%C3%BAltiples_factores: https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661</a><br>
-● <a href="https://www.keycloak.org/:" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/:</a> <a href="https://www.keycloak.org/" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/</a><br>
-● <a href="https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:" target="_blank" rel="noopener noreferrer">https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:</a><br>
-● <a href="https://es.wikipedia.org/wiki/HTTPS" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/HTTPS</a></p>
+<p><strong>Recursos adicionales</strong>:</p>
+<ul>
+<li><a href="https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661" target="_blank" rel="noopener noreferrer">Autenticación en dos vías</a></li>
+<li><a href="https://www.keycloak.org/:" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/:</a> <a href="https://www.keycloak.org/" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/</a></li>
+<li><a href="https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:" target="_blank" rel="noopener noreferrer">https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:</a></li>
+<li><a href="https://es.wikipedia.org/wiki/HTTPS" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/HTTPS</a></li>
+</ul>
 <p><strong>Nota</strong>: Este documento es una guía general y no sustituye la necesidad de realizar una evaluación de riesgos específica para cada organización.</p>
 <h3> Contacto</h3>
 <p>Si tiene alguna pregunta sobre las mejoras de seguridad en ADempiere Cloud, no dude en contactarnos a través de nuestro <strong>Soporte ADempiere ERP</strong></p>
