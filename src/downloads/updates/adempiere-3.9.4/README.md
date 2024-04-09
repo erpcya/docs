@@ -23,3 +23,4 @@ A continuación se encuentra una lista de cada **macro versión**, tómate tu ti
 
 - [erpya-3.9.4-001-1.3.x](./erpya-3.9.4-001-1.3.x/)
 - [erpya-3.9.4-001-1.4.x](./erpya-3.9.4-001-1.4.x/)
+- [erpya-3.9.4-001-1.5.x](./erpya-3.9.4-001-1.5.x/)

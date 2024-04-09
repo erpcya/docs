@@ -1,5 +1,5 @@
 ---
-title: erpya-3.9.4-001-1.4.9
+title: erpya-3.9.4-001-1.5.0
 icon: app
 category: Actualizaciones
 star: 9
@@ -7,7 +7,7 @@ sticky: 9
 tag:
   - "Actualizaciones"
   - "Versiones"
-  - "erpya-3.9.4-001-1.4.9"
+  - "erpya-3.9.4-001-1.5.0"
   - "2024-04-09"
 article: false
 ---
@@ -16,27 +16,21 @@ article: false
 
 ## Novedades
 
-- Secuencia para Configuración de Accion de Analisis de Calidad
-- Referencia de Documentos (Recepcion de Producto, Producción, Movimiento de Inventario, Devolucion de Cliente) en Analisis de Calidad.
-- Consulta inteligente para procesar Acciones de Analisis de Calidad
-- Estado de Producto en Instancia de Atributos y en Lote
+- El formulario para Generar Orden de Salida desde Órdenes de Ventas / Distribución tiene la posubilidad de filtrar los documentos a través del tipo de documento seleccionado tal como se ve en la imagen:
+
+![1.5.0](/assets/img/downloads/updates/resources/adempiere-1.5.0.png)
+
+El problema que se corrigió aquí es que la lista que mostraba de los tipos de documentos no estaba haciendo filtro por la bandera `Activo del registro de tipo de documento`.
+
+No es un problema crítico pero es muy molesto para el usuario seleccionar un tipo de documento que no se encuentra en uso actualmente
 
 ## Contexto
 
-- Se establece atributos de calidad de solo lectura cuando el documento se procesa en estado.
+- Se agrega validación en los tipos de documentos de filtro en el formulario para `Generar Orden de Salida`.
 
 ## Detalle Técnico
 
-- Add Sequence and ProductType on Quality Action Settings
-- Add Identifier to Quality Action Setting Entity
-- Add SortTab on Quality Action Setting Window
-- Add References to Quality Analysis and Quality Action
-- Add Process Quality Action Browse
-- Add Product Status to Attribute Set Instance and Lot
-
-## Enlaces relacionados
-
-- https://github.com/erpcya/Control-NATULAC/issues/22#issuecomment-2044685949
+- Fixed error with active flag for document type search for Generate
 
 ## Soporte a Versiones
 
@@ -124,20 +118,3 @@ article: false
 ## Requerimientos
 
 - XML's a aplicar:
-
-  - 06690_Add_Sequence_and_ProductType_on_Quality_Action_Settings.xml
-  - 06700_Add_Identifier_to_Quality_Action_Settings.xml
-  - 06710_Add_Sort_tab_on_Quality_Action_Setting.xml
-  - 06720_Add_Fields_to_Quality_Analysis.xml
-  - 06730_Add_Business_Partner_info_to_Quality_Action_Settings.xml
-  - 06740_Add_Business_Partner_Info_to_Quality_Action.xml
-  - 06750_Add_Locator_and_Attribute_Set_instance_to_Quality_Action.xml
-  - 06760_Add_References_to_Quality_Analysis_And_Quality_Action.xml
-  - 06770_Rename_Product_Status_Field.xml
-  - 06780_Fix_Return_References_on_Quality_Action.xml
-  - 06790_Add_Process_Quality_Action_Browse.xml
-  - 06800_Add_Quality_Analysis_References_on_Distribution_Order.xml
-  - 06810_Add_Product_Reference_on_Quality_Action.xml
-  - 06820_Add_Inventory_Movement_Reference.xml
-  - 06830_Fix_WhereClause_Generate_Document_Action_Browser.xml
-  - 06840_Add_Product_Status_to_Attribute_Instance_And_Lot.xml
