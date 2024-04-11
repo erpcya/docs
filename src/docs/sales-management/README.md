@@ -21,3 +21,4 @@ Esta documentación está destinada a definir cada uno de los procedimientos par
 - [Nota de Crédito](credit)
 - [Nota de Débito](debit)
 - [Punto de Venta](point)
+- [Pronóstico de Ventas](forecast)
