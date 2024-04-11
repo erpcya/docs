@@ -16,7 +16,7 @@ article: false
 
 ## Novedades
 
-- El formulario para Generar Orden de Salida desde Órdenes de Ventas / Distribución tiene la posubilidad de filtrar los documentos a través del tipo de documento seleccionado tal como se ve en la imagen:
+- El formulario para Generar Orden de Salida desde Órdenes de Ventas / Distribución tiene la posibilidad de filtrar los documentos a través del tipo de documento seleccionado tal como se ve en la imagen:
 
 ![1.5.0](/assets/img/downloads/updates/resources/adempiere-1.5.0.png)
 
