@@ -1,5 +1,5 @@
 ---
-title: erpya-3.9.4-001-1.5.0
+title: erpya-3.9.4-001-1.5.1
 icon: app
 category: Actualizaciones
 star: 9
@@ -7,34 +7,44 @@ sticky: 9
 tag:
   - "Actualizaciones"
   - "Versiones"
-  - "erpya-3.9.4-001-1.5.0"
-  - "2024-04-09"
+  - "erpya-3.9.4-001-1.5.1"
+  - "2024-04-11"
 article: false
 ---
 
-**Fecha de Liberación:** 2024-04-09
+**Fecha de Liberación:** 2024-04-11
 
 ## Novedades
 
-- El formulario para Generar Orden de Salida desde Órdenes de Ventas / Distribución tiene la posibilidad de filtrar los documentos a través del tipo de documento seleccionado tal como se ve en la imagen:
+- Este cambio permite crear lineas de Orden de Flete desde Lineas de Órdenes de Salida, permitiendo realizar filtros por:
 
-![1.5.0](/assets/img/downloads/updates/resources/adempiere-1.5.0.png)
-
-El problema que se corrigió aquí es que la lista que mostraba de los tipos de documentos no estaba haciendo filtro por la bandera `Activo del registro de tipo de documento`.
-
-No es un problema crítico pero es muy molesto para el usuario seleccionar un tipo de documento que no se encuentra en uso actualmente
+  - Organización
+  - Tipo de Documento
+  - Transacción de Ventas
+  - Almacén
+  - Fecha de Transacción
+  - Fecha de Selección
+  - Fecha de Envío
+  - Representante de Ventas
+  - Referencia de Orden
+  - Orden de Salida
+  - Orden de Ventas
+  - Orden de Distribución
+  - Vía de Entrega
+  - Regla de Entrega
+  - Categoría de Fletes
 
 ## Contexto
 
-- Se agrega validación en los tipos de documentos de filtro en el formulario para `Generar Orden de Salida`.
+- Se agrega Visor para crear Orden de Flete desde Línea de Órdenes de Salida
 
 ## Detalle Técnico
 
-- Fixed error with active flag for document type search for Generate
+- Viewer is added to create Freight Order from Outbound Order Line
 
 ## Soporte a Versiones
 
-- ADempiereBase: 3.9.4-1.4.6
+- ADempiereBase: 3.9.4-1.4.7
 - CST-STD: rs-37.9
 - Consigned-Material: 1.3.0
 - Exchange-Operation-System: 1.3.3
@@ -79,7 +89,7 @@ No es un problema crítico pero es muy molesto para el usuario seleccionar un ti
 - Point-Of-Sales-Improvements: 1.5.2
 - Kafka-Replicator-Client: 1.0.9
 - Kafka-Util: 1.0.2
-- Core-Tools: 1.5.0
+- Core-Tools: 1.5.1
 - Get-Weight:1.2.4
 - Record-Weight: 1.0.7
 - Raw-Material-Receipt: 3.9.4-1.1.9
@@ -111,7 +121,7 @@ No es un problema crítico pero es muy molesto para el usuario seleccionar un ti
 - Amount-In-Words: 1.0.6
 - Sales-Order-Improvements: 1.0.4
 - Additional-Withholding-Tax: 3.9.4-1.2.7
-- ADempiere-Freight-Improvements: 1.0.3
+- ADempiere-Freight-Improvements: 1.0.4
 - Warehouse-Management-System-Improvements: adempiere-3.9.4-1.2.0
 - Quality-Analysis-Material: 1.2.4
 

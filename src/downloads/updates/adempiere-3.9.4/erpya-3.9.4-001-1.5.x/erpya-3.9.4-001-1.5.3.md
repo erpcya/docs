@@ -1,5 +1,5 @@
 ---
-title: erpya-3.9.4-001-1.5.0
+title: erpya-3.9.4-001-1.5.3
 icon: app
 category: Actualizaciones
 star: 9
@@ -7,34 +7,35 @@ sticky: 9
 tag:
   - "Actualizaciones"
   - "Versiones"
-  - "erpya-3.9.4-001-1.5.0"
-  - "2024-04-09"
+  - "erpya-3.9.4-001-1.5.3"
+  - "2024-04-11"
 article: false
 ---
 
-**Fecha de Liberación:** 2024-04-09
+**Fecha de Liberación:** 2024-04-11
 
 ## Novedades
 
-- El formulario para Generar Orden de Salida desde Órdenes de Ventas / Distribución tiene la posibilidad de filtrar los documentos a través del tipo de documento seleccionado tal como se ve en la imagen:
-
-![1.5.0](/assets/img/downloads/updates/resources/adempiere-1.5.0.png)
-
-El problema que se corrigió aquí es que la lista que mostraba de los tipos de documentos no estaba haciendo filtro por la bandera `Activo del registro de tipo de documento`.
-
-No es un problema crítico pero es muy molesto para el usuario seleccionar un tipo de documento que no se encuentra en uso actualmente
+- Se agrega soporte a crear o reemplazar registros de impuestos por producto en proceso.
 
 ## Contexto
 
-- Se agrega validación en los tipos de documentos de filtro en el formulario para `Generar Orden de Salida`.
+- Impuestos por producto en proceso
 
 ## Detalle Técnico
 
-- Fixed error with active flag for document type search for Generate
+- Add support to create or replace record on create tax product process.
+
+## Enlaces Relacionados
+
+- https://github.com/erpcya/Control-PROSEIN/issues/595
+- https://github.com/erpcya/Control-PROSEIN/issues/596
+- https://github.com/erpcya/Control-PROSEIN/issues/597
+- https://github.com/erpcya/Control-PROSEIN/issues/598
 
 ## Soporte a Versiones
 
-- ADempiereBase: 3.9.4-1.4.6
+- ADempiereBase: 3.9.4-1.4.7
 - CST-STD: rs-37.9
 - Consigned-Material: 1.3.0
 - Exchange-Operation-System: 1.3.3
@@ -51,10 +52,10 @@ No es un problema crítico pero es muy molesto para el usuario seleccionar un ti
 - Withholding-Engine: 1.2.8
 - Migration-Tools: 1.0.4
 - LVE: 2.2.3
-- Performance-Analysis:1.1.6
+- Performance-Analysis:1.1.7
 - Queue-Manager: 1.0.7
 - Notification-Queue: 1.1.6
-- Point-Of-Sales-Improvements: 1.5.2
+- Point-Of-Sales-Improvements: 1.5.3
 - Kafka-Replicator-Client: 1.0.9
 - Kafka-Uti- ADempiereBase: 3.9.3-rs-4.3
 - CST-STD: rs-37.6
@@ -76,17 +77,17 @@ No es un problema crítico pero es muy molesto para el usuario seleccionar un ti
 - Performance-Analysis: 1.1.4
 - Queue-Manager: 1.0.7
 - Notification-Queue: 1.1.6
-- Point-Of-Sales-Improvements: 1.5.2
+- Point-Of-Sales-Improvements: 1.5.3
 - Kafka-Replicator-Client: 1.0.9
 - Kafka-Util: 1.0.2
-- Core-Tools: 1.5.0
+- Core-Tools: 1.5.3
 - Get-Weight:1.2.4
 - Record-Weight: 1.0.7
 - Raw-Material-Receipt: 3.9.4-1.1.9
 - Additional-Reports: 1.2.7
 - Material-Management-Improvements: 1.1.8
 - Warehouse-Management-System-Improvements: 1.1.6
-- Import-Export-Management: 3.9.4-1.0.9
+- Import-Export-Management: 3.9.4-1.1.4
 - Update-Management: 1.1.9
 - Mini-Retail: 1.1.7
 - Print-Queue: 1.1.4
@@ -111,10 +112,13 @@ No es un problema crítico pero es muy molesto para el usuario seleccionar un ti
 - Amount-In-Words: 1.0.6
 - Sales-Order-Improvements: 1.0.4
 - Additional-Withholding-Tax: 3.9.4-1.2.7
-- ADempiere-Freight-Improvements: 1.0.3
+- ADempiere-Freight-Improvements: 1.0.4
 - Warehouse-Management-System-Improvements: adempiere-3.9.4-1.2.0
 - Quality-Analysis-Material: 1.2.4
 
 ## Requerimientos
 
 - XML's a aplicar:
+
+  - 09750_Add_Index_on_Tax_Product_Entity.xml
+  - 09760_Add_Description_to_Process.xml
