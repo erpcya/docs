@@ -166,6 +166,8 @@ Para cargar el pronóstico con el segundo caso, puede realizar lo indicado en el
 
 - Puede verificar si la información fue cargada correctamente al importador seleccionando las flechas direccionales de derecha e izquierda. 
 
+  ![image](https://github.com/erpcya/docs/assets/52334433/21d31b24-7923-468d-8dc9-6ec95b85eb54)
+
   Imagen 5. Flechas Direccionales de Derecha e Izquierda
 
 - Al seleccionar la flecha direccional derecha puede ver como se muestra en los campos que estan en la parte inferior de la ventana, la información cargada.
@@ -250,7 +252,8 @@ Para cargar el pronóstico con el segundo caso, puede realizar lo indicado en el
 
   Imagen 8. Icono Guardar Cambios
 
-Nota:
+::: note
 
   Para registrar otra línea dentro del mismo pronóstico, debe seleccionar el icono **Registro Nuevo** y repetir el proceso de carga de datos manual.
   
+:::
