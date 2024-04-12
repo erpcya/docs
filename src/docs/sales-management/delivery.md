@@ -14,6 +14,8 @@ El presente material elaborado por ERPyA, pretende ofrecerle una explicación ef
   - Imprimir Entregas Generadas
 - Generar Entregas (Manual)
   - Consultar Entregas Generadas
+- Generar Entregas desde Orden de Salida
+  - Consultar Entregas Generadas
 
 ## Registro de Entregas (Cliente)
 
@@ -600,3 +602,125 @@ Podrá visualizar el documento de entrega buscado. El mismo es generado con el e
 ![Campo](/assets/img/docs/sales-management/sam-sales-image215.png)
 
 Imagen 14. Documento de Entrega Generada
+
+## Generar Entregas desde Orden de Salida 
+
+Ubique y seleccione en el menú de ADempiere, la carpeta **Gestión Avanzada de Almacenes**, luego seleccione la carpeta **Operaciones de Salidas**, por último seleccione la ventana de búsqueda inteligente (Smart Browser) **Generar Entregas desde Ordenes de Venta**.
+
+![image](https://github.com/erpcya/docs/assets/52334433/e4c1f7ad-714f-429d-97b8-7c44d23ba81a)
+
+Imagen 1. Menú de ADempiere
+
+Podrá visualizar la ventana **Generar Entregas desde Ordenes de Venta** y proceder al llenado de los campos correspondientes para filtrar la búsqueda.
+
+![image](https://github.com/erpcya/docs/assets/52334433/29d1a058-f7d3-4c05-8c28-fe0912afeb68)
+
+Imagen 2. Ventana de Búsqueda Inteligente (Smart Browser)
+
+Seleccione en el campo **Fecha de la Orden**, la fecha de la orden de salida que requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/97f57c87-c6fe-4d77-9116-50acf6b55cb8)
+
+Imagen 3. Campo Fecha de la Orden
+
+Seleccione en el campo **Orden de Venta**, la orden de venta que requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/5c22a637-c1f4-4dd6-94ed-0fa845d26fd2)
+
+Imagen 4. Campo Orden de Venta
+
+Introduzca en el campo **No. del Documento**, el número de documento de la orden por la cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/7a63dc93-b80d-4a69-ae3a-06d6177d57ee)
+
+Imagen 5. Campo No. del Documento
+
+Seleccione en el campo **Orden de Salida**, la orden de salida que requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/b36a7c29-caad-4729-a804-3e36e3578365)
+
+Imagen 6. Campo Orden de Salida
+
+Seleccione en el campo **Almacén**, el almacén por el cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/f5dae6e4-5738-4a34-8bf1-65238972b715)
+
+Imagen 7. Campo Almacén
+
+Seleccione en el campo **Producto**, el producto por el cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/ce602696-71d0-43f2-8a99-fe052e0aae9c)
+
+Imagen 8. Campo Producto
+
+Seleccione en el campo **UM**, la unidad de medida por la cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/7146ffbd-80f2-4062-a94c-4c2108410426)
+
+Imagen 9. Campo UM
+
+Seleccione en el campo **Socio del Negocio**, el socio del negocio por el cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/76a89b39-9c9d-44de-b54b-d2c157176eaa)
+
+Imagen 10. Campo Socio del Negocio
+
+Introduzca en el campo **Referencia de Orden de Socio del Negocio**, la referencia de la orden por la cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/3ac6ebed-d8fe-40b1-94ba-aa1003fb0d08)
+
+Imagen 11. Camnpo Referencia de Orden de Socio del Negocio
+
+Seleccione en el campo **Tipo de Documento**, el tipo de documento por el cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/4ad78b06-940f-4978-bbab-f187ecdddeba)
+
+Imagen 12. Campo Tipo de Documento
+
+Seleccione en el campo **Agente Comercial**, el agente comercial por el cual requiere filtrar para generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/ab9e1a8a-e8a0-422c-a0a4-62a1a8a3c189)
+
+Imagen 13. Agente Comercial
+
+Seleccione la opción **Comenzar Búsqueda**, para filtrar la información en base a lo seleccionado anteriormente en los campos.
+
+![image](https://github.com/erpcya/docs/assets/52334433/c038cba0-4835-4af5-8321-36fa1e9c9324)
+
+Imagen 14. Botón Comenzar Búsqueda
+
+Podrá visualizar los resultados, donde debe seleccionar las líneas de cuales requiere generar la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/381978f2-7485-411b-9ab0-c1cfd446d0d2)
+
+Imagen 15. Resultado de Búsqueda
+
+En el campo **Acción de Documento** podrá visualizar la acción de documento con la cual será generada la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/052ba505-c1c5-4ef7-981c-f9b0fb07bb82)
+
+Imagen 16. Campo Acción de Documento
+
+Seleccione en el campo **Fecha del Movimiento**, la fecha con la cual será generada la entrega.
+
+![image](https://github.com/erpcya/docs/assets/52334433/2a0c5611-70ac-4828-87cd-0eb15309d697)
+
+Imagen 17. Campo Fecha del Movimiento
+
+Seleccione la opción **OK** para generar la entrega y visualizar en la parte inferior izquierda el número de documento generado.
+
+![image](https://github.com/erpcya/docs/assets/52334433/a5d29f61-a12c-4b0e-8368-6df5fd935567)
+
+## Consultar Entregas Generadas
+
+Para consultar la entrega generada en la ventana **Entregas (Cliente)** se debe seleccionar el icono **Encontrar Registro** ubicado en la barra de herramientas de ADempiere, para luego ingresar en el campo **No del Documento**, el número de documento de la entrega detallado en el resultado del proceso realizado antes y finalmente seleccionar la opción **OK** para realizar la búsqueda.
+
+![image](https://github.com/erpcya/docs/assets/52334433/22f0cc3d-c7e5-4890-8f58-ddf6b24ad8a2)
+
+Imagen 18. Ventana Encontrar Registro Entrega
+
+Podrá visualizar el documento de entrega buscado. El mismo es generado con el estado de documento seleccionado en el campo **Acción en el Documento**, de la ventana **Generar Entregas desde Ordenes de Venta**.
+
+![image](https://github.com/erpcya/docs/assets/52334433/95e75bed-2554-40c0-b09b-6ae723b3a0e2)
+
+Imagen 19. Documento de Entrega Generada
