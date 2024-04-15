@@ -1,5 +1,5 @@
 ---
-title: erpya-3.9.4-001-1.5.5
+title: erpya-3.9.4-001-1.5.7
 icon: app
 category: Actualizaciones
 star: 9
@@ -7,32 +7,35 @@ sticky: 9
 tag:
   - "Actualizaciones"
   - "Versiones"
-  - "erpya-3.9.4-001-1.5.5"
-  - "2024-04-12"
-article: false
+  - "erpya-3.9.4-001-1.5.7"
+  - "2024-04-15"
+  - "Noticias"
+article: true
 ---
 
-**Fecha de Liberación:** 2024-04-12
+**Fecha de Liberación:** 2024-04-15
 
 ## Novedades
 
-- Soporte a Obtener LDM desde Producción o desde LDM predeterminada si no esta establecida en la Produccion
+- Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela.
+
+Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.
+
+En promedio, para un cliente con 296 empleados el tiempo de procesamiendo se encuentra entre 35 y 45 minutos. Después de aplicar el procesamiento paralelo se reduce a 1 minuto
+
+`ParallelEngine.run: Calculation for createParallelMovements # Time elapsed: 01:04.576`
 
 ## Contexto
 
-- Lista de Materiales
+- Nómina
 
 ## Detalle Técnico
 
-- Change Method getDefaultProductBom by get BOM of Production or Default
-
-## Enlaces relacionados
-
-- [Error al Realizar Producción #34](https://github.com/erpcya/Control-NATULAC/issues/34)
+- With this release, payroll execution time is considerably reduced to just minutes.
 
 ## Soporte a Versiones
 
-- ADempiereBase: 3.9.4-1.5.1
+- ADempiereBase: 3.9.4-1.5.3
 - CST-STD: rs-37.9
 - Consigned-Material: 1.3.0
 - Exchange-Operation-System: 1.3.3
@@ -52,7 +55,7 @@ article: false
 - Performance-Analysis:1.1.7
 - Queue-Manager: 1.0.7
 - Notification-Queue: 1.1.6
-- Point-Of-Sales-Improvements: 1.5.5
+- Point-Of-Sales-Improvements: 1.5.7
 - Kafka-Replicator-Client: 1.0.9
 - Kafka-Uti- ADempiereBase: 3.9.3-rs-4.3
 - CST-STD: rs-37.6
@@ -61,7 +64,7 @@ article: false
 - Cloud-Service-Management: 1.2.9
 - Cash-Management: 1.1.6
 - Currency-Convert-Documents: 1.1.8
-- Farmer-Assistance-Program: 1.5.5
+- Farmer-Assistance-Program: 1.5.7
 - RethinkDB-Replicator-Client: 1.1.5
 - Third-Party-Access: 1.0.6
 - Fiscal-Printer: 11.5.8
@@ -74,10 +77,10 @@ article: false
 - Performance-Analysis: 1.1.4
 - Queue-Manager: 1.0.7
 - Notification-Queue: 1.1.6
-- Point-Of-Sales-Improvements: 1.5.5
+- Point-Of-Sales-Improvements: 1.5.7
 - Kafka-Replicator-Client: 1.0.9
 - Kafka-Util: 1.0.2
-- Core-Tools: 1.5.5
+- Core-Tools: 1.5.7
 - Get-Weight:1.2.4
 - Record-Weight: 1.0.7
 - Raw-Material-Receipt: 3.9.4-1.1.9
@@ -88,7 +91,7 @@ article: false
 - Update-Management: 1.1.9
 - Mini-Retail: 1.1.7
 - Print-Queue: 1.1.4
-- ERP-Payroll-Definition: 1.1.0
+- ERP-Payroll-Definition: 1.1.2
 - Internal-Store: 1.0.4
 - Telegram-Notifier: 1.0.5
 - Costing-Engine-Improvements: 1.1.1
