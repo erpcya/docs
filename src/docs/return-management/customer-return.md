@@ -1,29 +1,10 @@
 ---
-title: Gestión de Devoluciones
+title: Devolución de Cliente
 category: Documentation
 star: 9
 sticky: 9
 article: false
 ---
-
-Esta documentación está destinada a definir la gestión de devoluciones de ADempiere para cualquier organización, es importante seguir al pie de la letra cada uno de los procedimientos descritos aquí recuerde que de eso dependerá el buen uso del ERP.
-
-La versión 3.9.2 de ADempiere en la localización Venezuela, contempla la documentación de los siguientes maestros necesarios para generar de manera existosa las transacciones del mismo.
-
-- Devolución de Cliente
-  - Autorización de Devolución (Cliente)
-  - Devolución (Cliente)
-  - Nota de Crédito por Devolución (Cliente)
-  - Consultar Saldos Abiertos
-  - Consultar Detalle de Transacciones
-- Devolución a Proveedor
-  - Autorización de Devolución a Proveedor
-  - Devolución a Proveedor
-  - Completar Nota de Crédito Generada
-  - Consultar Saldos Abiertos
-  - Consultar Detalle de Transacciones
-
-## Devolución de Cliente
 
 El presente material elaborado por ERPyA pretende ofrecerle una explicación eficiente a nuestros clientes del procedimiento a seguir para realizar una **Devolución de Cliente** en la versión 3.9.2 de ADempiere en la localización Venezuela. Dicho proceso de devolución es realizado generando un documento de autorización de devolución y porterior a ello, los documentos de devolución y nota de crédito correspondientes, los mismos son necesarios para reflejar el ingreso de los productos al almacén y disminuir el saldo de la factura.
 
