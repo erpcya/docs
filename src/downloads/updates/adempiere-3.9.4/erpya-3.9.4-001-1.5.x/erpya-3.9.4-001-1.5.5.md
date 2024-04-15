@@ -28,7 +28,7 @@ article: false
 
 ## Enlaces relacionados
 
-- https://github.com/erpcya/Control-NATULAC/issues/34
+- [Error al Realizar Producción #34](https://github.com/erpcya/Control-NATULAC/issues/34)
 
 ## Soporte a Versiones
 
