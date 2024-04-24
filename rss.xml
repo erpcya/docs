@@ -6,14 +6,173 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 18 Apr 2024 13:18:27 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Apr 2024 13:18:27 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Apr 2024 15:56:58 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Apr 2024 15:56:58 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.6.1</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.1.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.1.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.6.1</source>
+      <description>Fecha de Liberación: 2024-04-25 Novedades Con este cambio ya es posible personalizar la firma de correos enviados desde ADempiere. Uso Después de aplicar los cambios y las configuraciones necesarias, por defecto se enviará una firma como la que se ve a continuación</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 24 Apr 2024 15:50:39 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-25</p>
+<h2> Novedades</h2>
+<ul>
+<li>Con este cambio ya es posible personalizar la firma de correos enviados desde ADempiere.</li>
+</ul>
+<h2> Uso</h2>
+<p>Después de aplicar los cambios y las configuraciones necesarias, por defecto se enviará una firma como la que se ve a continuación</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img1.png" alt="adempiere-patch-zk-1.6.1-img1" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img1</figcaption></figure>
+<p>Como opciones válidas se puede configurar la firma personalizada en la información de compañía y se sobrescribe con la información de la organización</p>
+<p>En orden de prioridades, la firma será tomada de la siguiente manera:</p>
+<h3> Por Usuario</h3>
+<p>Toma la firma del usuario si la tiene configurada</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img2.png" alt="adempiere-patch-zk-1.6.1-img2" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img2</figcaption></figure>
+<h3> Por Organización</h3>
+<p>Toma la firma de la organización si la tiene configurada</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img3.png" alt="adempiere-patch-zk-1.6.1-img3" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img3</figcaption></figure>
+<h3> Por Compañía</h3>
+<p>Toma la firma de la compañía si la tiene configurada</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img4.png" alt="adempiere-patch-zk-1.6.1-img4" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img4</figcaption></figure>
+<hr>
+<p>Si no tiene configurada ninguna firma configurada tomará por defecto el siguiente mensaje:</p>
+<p>En Inglés:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><p>En Español:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><h2> Corrección de Parámetros en Reportes</h2>
+<p>Se corrige problema con los valores a visualizar en los parámetros de reportes ejecutados desde un programador de procesos, esto se encuentra reportado en la sección <a href="https://docs.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.1.html#enlaces-relacionados" target="_blank" rel="noopener noreferrer"><strong>Enlaces relacionados</strong></a></p>
+<h2> Corrección de Lógica contable de diferencias contables inter-compañia</h2>
+<p>En la contabilidad de la asignacion de pagos cuando existe una diferencia contable intercompañia los montos que asienta intercompañia son distintos a los originales</p>
+<ul>
+<li>Muestra actual</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img5.jpeg" alt="adempiere-patch-zk-1.6.1-img5" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img5</figcaption></figure>
+<ul>
+<li>Muestra corregida</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img6.jpeg" alt="adempiere-patch-zk-1.6.1-img6" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img6</figcaption></figure>
+<h2> Se agrega soporte a Sobreescribir Instancia de Atributos en Acción de Análisis de Calidad</h2>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img7.png" alt="adempiere-patch-zk-1.6.1-img7" tabindex="0" loading="lazy"><figcaption>adempiere-patch-zk-1.6.1-img7</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Se Agrega firma de correos basado en notificaciones de ERPYA.</li>
+<li>Corrección de parámetros en reportes.</li>
+<li>Corrección de Lógica contable de diferencias contables inter-compañia</li>
+<li>Se agrega soporte a Sobreescribir Instancia de Atributos en Acción de Análisis de Calidad</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Custom Email Signature</li>
+<li>Parameter Correction in Reports</li>
+<li>Correction of accounting logic for inter-company accounting differences</li>
+<li>Added support for Overriding Attribute Instance in Quality Analysis Action</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<p><a href="https://github.com/erpcya/adempiere/issues/60" target="_blank" rel="noopener noreferrer">erpcya/adempiere#60</a></p>
+<h2> Soporte a Versiones</h2>
+<ul>
+<li>ADempiereBase: 3.9.4-1.6.0</li>
+<li>CST-STD: rs-37.9</li>
+<li>Consigned-Material: 1.3.0</li>
+<li>Exchange-Operation-System: 1.3.3</li>
+<li>Cloud-Service-Management: 3.9.4-1.3.0</li>
+<li>Cash-Management: 1.1.6</li>
+<li>Currency-Convert-Documents: 1.1.8</li>
+<li>Farmer-Assistance-Program: 3.9.4-1.6.1</li>
+<li>RethinkDB-Replicator-Client: 1.1.5</li>
+<li>Third-Party-Access: 1.0.6</li>
+<li>Fiscal-Printer: 11.6.1</li>
+<li>Sales-Force-Management: 1.2.8</li>
+<li>Delivery-Management-Service: 1.2.0</li>
+<li>Travel-Agency-Management: 3.9.4-1.1.2</li>
+<li>Withholding-Engine: 1.2.8</li>
+<li>Migration-Tools: 1.0.4</li>
+<li>LVE: 2.2.3</li>
+<li>Performance-Analysis:1.1.7</li>
+<li>Queue-Manager: 1.0.7</li>
+<li>Notification-Queue: 1.1.6</li>
+<li>Point-Of-Sales-Improvements: 1.6.1</li>
+<li>Kafka-Replicator-Client: 1.0.9</li>
+<li>Kafka-Uti- ADempiereBase: 3.9.3-rs-4.3</li>
+<li>CST-STD: rs-37.6</li>
+<li>Consigned-Material: 1.3.0</li>
+<li>Exchange-Operation-System: 1.2.9</li>
+<li>Cloud-Service-Management: 1.2.9</li>
+<li>Cash-Management: 1.1.6</li>
+<li>Currency-Convert-Documents: 1.1.8</li>
+<li>Farmer-Assistance-Program: 1.6.1</li>
+<li>RethinkDB-Replicator-Client: 1.1.5</li>
+<li>Third-Party-Access: 1.0.6</li>
+<li>Fiscal-Printer: 11.6.1</li>
+<li>Sales-Force-Management: 3.9.4-1.3.1</li>
+<li>Delivery-Management-Service: 3.9.4-1.2.1</li>
+<li>Travel-Agency-Management: 1.1.1</li>
+<li>Withholding-Engine: 1.2.8</li>
+<li>Migration-Tools: 1.0.4</li>
+<li>LVE: 2.2.3</li>
+<li>Performance-Analysis: 1.1.4</li>
+<li>Queue-Manager: 1.0.7</li>
+<li>Notification-Queue: 1.1.6</li>
+<li>Point-Of-Sales-Improvements: 1.6.1</li>
+<li>Kafka-Replicator-Client: 1.0.9</li>
+<li>Kafka-Util: 1.0.2</li>
+<li>Core-Tools: 1.6.1</li>
+<li>Get-Weight:1.2.4</li>
+<li>Record-Weight: 1.0.7</li>
+<li>Raw-Material-Receipt: 3.9.4-1.1.9</li>
+<li>Additional-Reports: 1.2.7</li>
+<li>Material-Management-Improvements: 1.1.8</li>
+<li>Warehouse-Management-System-Improvements: 1.1.6</li>
+<li>Import-Export-Management: 3.9.4-1.1.4</li>
+<li>Update-Management: 1.1.9</li>
+<li>Mini-Retail: 1.1.7</li>
+<li>Print-Queue: 1.1.4</li>
+<li>ERP-Payroll-Definition: 1.1.2</li>
+<li>Internal-Store: 1.0.4</li>
+<li>Telegram-Notifier: 1.0.5</li>
+<li>Costing-Engine-Improvements: 1.1.1</li>
+<li>Default-Attribute: 1.0.1</li>
+<li>Financial-Report: 1.0.1</li>
+<li>Json-Replicator-Client: 1.0.2</li>
+<li>Kubernetes-Cluster: 1.0.7</li>
+<li>ADempiere-Exporter: 1.0.5</li>
+<li>ADempiere-TelegramBot</li>
+<li>e-Commerce-Queue: 1.1.5</li>
+<li>Vue-StoreFront-API: 1.0.9</li>
+<li>Mercado-Libre-Venezuela-API: 1.0.8</li>
+<li>Common-Functionalities: 1.0.0</li>
+<li>FAP-Venezuela-Location: 3.9.4-1.1.9</li>
+<li>LVE-AdditionalTax: 1.2.3</li>
+<li>Time-Control: 1.0.2</li>
+<li>Payment-Customizations: 1.0.0</li>
+<li>Amount-In-Words: 1.0.6</li>
+<li>Sales-Order-Improvements: 1.0.4</li>
+<li>Additional-Withholding-Tax: 3.9.4-1.2.7</li>
+<li>ADempiere-Freight-Improvements: 1.0.4</li>
+<li>Warehouse-Management-System-Improvements: adempiere-3.9.4-1.2.0</li>
+<li>Quality-Analysis-Material: 1.2.4</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>
+<p>Aplicar XML's:</p>
+<ul>
+<li>06850_Delete_columns_for_Quality_Analysis_Setting.xml</li>
+<li>06860_Add_field_for_overwrite_attributes_on_Lot.xml</li>
+<li>06870_Add_field_Attribute_Set_instance_Base.xml</li>
+<li>06880_Add_Flag_for_is_Attribute_instance_Changed.xml</li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.6.0</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.0.html</link>
