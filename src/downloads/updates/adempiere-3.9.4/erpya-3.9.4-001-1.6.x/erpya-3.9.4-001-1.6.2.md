@@ -34,7 +34,7 @@ A partir de este cambio se separan los reportes de Jasper del repositorio de Add
 
 [(Bug Report) Reportes ejecutados desde el Programador de Procesos no muestran los valores de parámetros #60](https://github.com/erpcya/adempiere/issues/60)
 
-- [1.6.2](https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.2)
+- [ERPYA v1.6.2](https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.2)
 
 ## Requerimientos
 
