@@ -140,6 +140,8 @@ article: false
 - <https://github.com/erpcya/Control-ERPYA/issues/995>
 - <https://github.com/erpcya/Control-PROSEIN/issues/578>
 
+- [ERPYA v1.3.4](https://github.com/erpya/adempiere_patch_zk/releases/tag/1.3.4)
+
 ## Servicios Relacionados
 
 ## Detalle Técnico
