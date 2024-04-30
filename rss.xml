@@ -6,14 +6,75 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 26 Apr 2024 15:21:11 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Apr 2024 15:21:11 GMT</lastBuildDate>
+    <pubDate>Tue, 30 Apr 2024 13:09:14 GMT</pubDate>
+    <lastBuildDate>Tue, 30 Apr 2024 13:09:14 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.6.4</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.4.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.4.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.6.4</source>
+      <description>Fecha de Liberación: 2024-04-29 Novedades Ésta funcionalidad permite que si se accede a ADempiere desde Keycloak, se puede decidir si al cerrar la sesión de ADempiere se cerrará la sesión de keycloak automáticamente. Para que ésto funcione se tienen tres opciones para configurar las reglas del negocio de manera jerárquica:</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 30 Apr 2024 13:02:46 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-29</p>
+<h2> Novedades</h2>
+<ul>
+<li>Ésta funcionalidad permite que si se accede a ADempiere desde Keycloak, se puede decidir si al cerrar la sesión de ADempiere se cerrará la sesión de keycloak automáticamente.</li>
+</ul>
+<p>Para que ésto funcione se tienen tres opciones para configurar las reglas del negocio de manera jerárquica:</p>
+<ul>
+<li>Configuración por Usuario: Predomina sobre todas</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.4-img1.png" alt="img1" tabindex="0" loading="lazy"><figcaption>img1</figcaption></figure>
+<ul>
+<li>Configuración por Rol: Ésta es tomada en cuenta si no existe configuración por usuario</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.4-img2.png" alt="img2" tabindex="0" loading="lazy"><figcaption>img2</figcaption></figure>
+<ul>
+<li>Configuración por Compañía: Ésta es tomada en cuenta si no existe configuración por rol y usuario</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.4-img3.png" alt="img3" tabindex="0" loading="lazy"><figcaption>img3</figcaption></figure>
+<ul>
+<li>
+<p>Se agrega soporte para crear documento de Ajuste de Debito / Credito asignado a un Expediente de importación</p>
+</li>
+<li>
+<p>Marcar un Socio de Negocio y un Tipo de Documento de Credito y Debito con el Tilde Usado para Ajustar Expediente de Importación</p>
+</li>
+</ul>
+<p><strong>Esta marca debe estar presente en el Socio de Negocio y en el Tipo de Documento</strong></p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.4-img4.png" alt="img4" tabindex="0" loading="lazy"><figcaption>img4</figcaption></figure>
+<ul>
+<li>En la Ventana Expediente de Importacion en el Engranaje se encontrara el proceso para Generar el Documento de Ajuste</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.4-img5.png" alt="img5" tabindex="0" loading="lazy"><figcaption>img5</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de Sesión en Keycloak</li>
+<li>Proceso para Ajustar Base de Impuestos de Importación</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of Keycloak</li>
+<li>Process to Adjust Import Tax Base</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.4" target="_blank" rel="noopener noreferrer">ERPYA v1.6.4</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.4-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.6.3</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.3.html</link>
