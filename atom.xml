@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-04-30T13:09:14.180Z</updated>
+  <updated>2024-04-30T15:47:29.087Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -17,6 +17,355 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.6.5</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.5.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.5.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige referencia incorrecta en reportes de Estado de Cuentas de Socio de Negocio y Saldo en Banco</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Se agrega Clase Builder</li>
+<li>Corección en Reporte Estado de Cuentas de Socio de Negocio y Saldo en Banco.</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige referencia incorrecta en reportes de Estado de Cuentas de Socio de Negocio y Saldo en Banco</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Se agrega Clase Builder</li>
+<li>Corección en Reporte Estado de Cuentas de Socio de Negocio y Saldo en Banco.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<p>The versions of the following libraries are updated:</p>
+<p><code>org.erpya.adempiere.tools:exchange-operating-system: 1.3.4</code><br>
+<code>org.erpya.tools:rest-api-client: 1.8.1</code><br>
+<code>org.erpya.adempiere.tools:currency-conversion-documents: 1.2.2</code></p>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.5" target="_blank" rel="noopener noreferrer">ERPYA v1.6.5</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-ELMOR/issues/233" target="_blank" rel="noopener noreferrer">Error al Generar Reporte de Saldo en Banco #233</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/discussions/6" target="_blank" rel="noopener noreferrer">Discussion Reference</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.6.6</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.6.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.6.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega recarga para el atributo <code>refresh token</code>, esto permite que al momento de hacer logout de una sesión se obtenga el último token del tipo <code>refresh</code> para hacer <code>logout</code> del proveedor de servicio <code>OpenID</code></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega recarga para el atributo <code>refresh token</code>, esto permite que al momento de hacer logout de una sesión se obtenga el último token del tipo <code>refresh</code> para hacer <code>logout</code> del proveedor de servicio <code>OpenID</code></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Keycloak</li>
+<li>OpenID</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Added reload for <code>refresh token</code> attribute</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.6" target="_blank" rel="noopener noreferrer">ERPYA v1.6.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.6.7</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.7.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.7.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige cierre de sesión desde la interfaz <code>ZK</code></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de sesión desde la interfaz <code>ZK</code></li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of ZK</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige cierre de sesión desde la interfaz <code>ZK</code></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de sesión desde la interfaz <code>ZK</code></li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of ZK</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.7" target="_blank" rel="noopener noreferrer">ERPYA v1.6.7</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/adempiere/issues/62" target="_blank" rel="noopener noreferrer">BugReport: Al hacer Logout no cierra sesión de ADempiere #62</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.6.8</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.8.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.8.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige cierre de sesión desde la interfaz ZK</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de Sesión en <code>ZK</code>. Esta versión prioriza la seguridad de la sesión, evitando que queden sesiones abiertas.</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige cierre de sesión desde la interfaz ZK</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de Sesión en <code>ZK</code>. Esta versión prioriza la seguridad de la sesión, evitando que queden sesiones abiertas.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of <code>ZK</code></li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.8" target="_blank" rel="noopener noreferrer">ERPYA v1.6.8</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/adempiere/issues/62" target="_blank" rel="noopener noreferrer">BugReport: Al hacer Logout no cierra sesión de ADempiere #62</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.6.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.9.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige cierre de sesión desde la interfaz <code>ZK</code></p>
+</li>
+<li>
+<p>Esta versión prioriza la seguridad de la sesión, evitando que queden sesiones abiertas.</p>
+</li>
+<li>
+<p>Con esta versión se valida que no exista una sesión abierta mientras ya está procesada.</p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige cierre de sesión desde la interfaz <code>ZK</code></p>
+</li>
+<li>
+<p>Esta versión prioriza la seguridad de la sesión, evitando que queden sesiones abiertas.</p>
+</li>
+<li>
+<p>Con esta versión se valida que no exista una sesión abierta mientras ya está procesada.</p>
+</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de Sesión en <code>ZK</code></li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of <code>ZK</code></li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.9" target="_blank" rel="noopener noreferrer">ERPYA v1.6.9</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/adempiere/issues/62" target="_blank" rel="noopener noreferrer">BugReport: Al hacer Logout no cierra sesión de ADempiere #62</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.7.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.0.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige cierre de sesión desde la interfaz <code>ZK</code></p>
+</li>
+<li>
+<p>Esta versión prioriza la seguridad de la sesión, evitando que queden sesiones abiertas.</p>
+</li>
+<li>
+<p>Con esta versión se valida que no exista una sesión abierta mientras ya está procesada.</p>
+</li>
+<li>
+<p>Se limpia la sesión previa.</p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige cierre de sesión desde la interfaz <code>ZK</code></p>
+</li>
+<li>
+<p>Esta versión prioriza la seguridad de la sesión, evitando que queden sesiones abiertas.</p>
+</li>
+<li>
+<p>Con esta versión se valida que no exista una sesión abierta mientras ya está procesada.</p>
+</li>
+<li>
+<p>Se limpia la sesión previa.</p>
+</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de Sesión en <code>ZK</code></li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of <code>ZK</code></li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.0" target="_blank" rel="noopener noreferrer">ERPYA v1.7.0</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/adempiere/issues/62" target="_blank" rel="noopener noreferrer">BugReport: Al hacer Logout no cierra sesión de ADempiere #62</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.7.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.1.html"/>
+    <updated>2024-04-30T15:40:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige validación para que no permita agregar caracteres al final de una cédula de identidad.</p>
+</li>
+<li>
+<p>Esta validación fue agregada en la <a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.8" target="_blank" rel="noopener noreferrer">versión 1.5.8</a></p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige validación para que no permita agregar caracteres al final de una cédula de identidad.</p>
+</li>
+<li>
+<p>Esta validación fue agregada en la <a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.8" target="_blank" rel="noopener noreferrer">versión 1.5.8</a></p>
+</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Cierre de Sesión en <code>ZK</code></li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Signing out of <code>ZK</code></li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.1" target="_blank" rel="noopener noreferrer">ERPYA v1.7.1</a></p>
+</li>
+<li>
+<p><a href="https://github.com/adempiere/LVE/issues/59" target="_blank" rel="noopener noreferrer">Validación de Cédula permite caracteres al final #59</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/discussions/7" target="_blank" rel="noopener noreferrer">Discussion Reference</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-04-30T15:40:42.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-1.6.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.4.html</id>
