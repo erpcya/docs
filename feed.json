@@ -6,6 +6,32 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.7.3",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.3.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.3.html",
+      "summary": "Fecha de Liberación: 2024-05-03 Novedades Se actualizan las referencias de librerías de gRPC para impresión usándo el servicio de colas de impresión fiscal de gRPC Contexto Actualización de Librerías Fiscales Detalle Técnico",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se actualizan las referencias de librerías de gRPC para impresión usándo el servicio de colas de impresión fiscal de gRPC</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Actualización de Librerías Fiscales</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Update of Tax Libraries</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.3\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.3</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/647\" target=\"_blank\" rel=\"noopener noreferrer\">Error al tratar de imprimir en impresora fiscal #647</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n",
+      "date_published": "2024-05-03T14:19:36.000Z",
+      "date_modified": "2024-05-03T14:19:36.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.7.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.4.html",
+      "summary": "Fecha de Liberación: 2024-05-03 Novedades Se agrega soporte extendido a librerías de gRPC para evitar problemas de servicio de impresión fiscal. Se agregan las Retenciones de Nómina como parte del XML de Declaración de Retenciones.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega soporte extendido a librerías de gRPC para evitar problemas de servicio de impresión fiscal.</p>\n</li>\n<li>\n<p>Se agregan las Retenciones de Nómina como parte del XML de Declaración de Retenciones.</p>\n</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Actualización de Librerías Fiscales</li>\n<li>Declaración de ISLR de Empleados</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Update of Tax Libraries</li>\n<li>Employee ISLR Declaration</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.4\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.4</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/647\" target=\"_blank\" rel=\"noopener noreferrer\">Error al tratar de imprimir en impresora fiscal #647</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-05-03T14:19:36.000Z",
+      "date_modified": "2024-05-03T14:19:36.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-1.7.2",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.2.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.2.html",
