@@ -51,7 +51,31 @@ Generalmente los **Socios de Negocios** son registros compartidos entre entidade
 
 Introduzca el código de socio del negocio en el campo **Código**.
 
-El código es un dato único e irrepetible que protege la entrada de los registros, evitando la duplicidad de los mismos, generalmente se refiere al número de identificación que acredite la identidad de una persona natural una entidad jurídica, por ejemplo, una cédula de identidad o un RIF.
+El código es un dato único e irrepetible que protege la entrada de los registros, evitando la duplicidad de los mismos, generalmente se refiere al número de identificación que acredite la identidad de una persona natural una entidad jurídica, por ejemplo, una cédula de identidad o un RIF. Cuando el Socio de Negocio es un empleado o una firma personal, en éste campo se coloca la **Cédula de Identidad** en formato `V0000000000`, los caracteres permitidos son los siguientes:
+
+- J: Jurídico
+- V: Venezolano
+- E: Extranjero
+- G: Gobierno
+- X: Aplica para Extranjeros sin documento venezolado (para importar)
+
+El tamaño máximo del texto debe ser `11` dígitos incluyendo la primera letra
+
+Si el código no coincide con el formato se mostrará el siguiente mensaje:
+
+**Ingles:**
+```
+Invalid Business Partner Value Format
+You should use the format [V, J, G, E, X (External unkow)][00000000]
+Example: V20000000 / J400000000
+```
+
+**Español**
+```
+Formato de C.I./R.I.F No Válido
+Debería usar el formato [V, J, G, E, X (Para Extranjeros sin Documento)][00000000]
+Ejemplo: V20000000 / J400000000
+```
 
 Note
 
@@ -135,7 +159,44 @@ Imagen 10. Campo Saldo Actual
 
 Podrá visualizar el número de identificación autogenerado a partir del campo **Código** en el campo **Número de Identificación**
 
-El número de identificación se refiere al número que acredita la identidad de una persona natural una entidad jurídica, por ejemplo, una cédula de identidad o un RIF, este campo mantiene incidencia en la generación de documentos fiscales como facturas, retenciones y comprobantes ARC.
+El número de identificación se refiere al número que acredita la identidad de una persona natural una entidad jurídica, por ejemplo, una cédula de identidad o un RIF, este campo mantiene incidencia en la generación de documentos fiscales como facturas, retenciones y comprobantes ARC. Para todos los casos se debe colocar en éste campo el **R.I.F** de la entidad o persona que se está registrando. Su formato es `V0000000000` y si la cantidad de números es menor a **9** dígitos se rellenará con ceros a la izquierda, los caracteres permitidos son los siguientes:
+
+- J: Jurídico
+- V: Venezolano
+- E: Extranjero
+- G: Gobierno
+- X: Aplica para Extranjeros sin documento venezolado (para importar)
+
+El tamaño máximo del texto debe ser `11` dígitos incluyendo la primera letra
+
+Si el **Número de Identificación** no coincide con el formato se mostrará el siguiente mensaje:
+
+**Ingles:**
+```
+Invalid Business Partner Value Format
+You should use the format [V, J, G, E, X (External unkow)][00000000]
+Example: V20000000 / J400000000
+```
+
+**Español**
+```
+Formato de C.I./R.I.F No Válido
+Debería usar el formato [V, J, G, E, X (Para Extranjeros sin Documento)][00000000]
+Ejemplo: V20000000 / J400000000
+```
+
+Si por alguna razón el **Número de Identificación** no tiene el mismo caracter de inicio que el **Código** se mostrará el siguiente error:
+
+**Ingles:**
+```
+Value and Tax ID Mismatch
+```
+
+**Español:**
+
+```
+La Cédula y el R.I.F No Coinciden
+```
 
 Seleccione el checklist **Exento de Impuesto en Venta**.
 
