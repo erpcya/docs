@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.7.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.2.html",
+      "summary": "Fecha de Liberación: 2024-04-30 Novedades Se corrige problema con lectura de datos de la cola de impresión fiscal, esto aplica sólo para las impresoras que usan kafka como cola Se establece como criterio el uso únicamente de nombres en minúscula para los nombres de las impresoras fiscales",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-30</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se corrige problema con lectura de datos de la cola de impresión fiscal, esto aplica sólo para las impresoras que usan kafka como cola</p>\n</li>\n<li>\n<p>Se establece como criterio el uso únicamente de nombres en minúscula para los nombres de las impresoras fiscales</p>\n</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Impresora Fiscal</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Fiscal Print</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.2</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-ERPYA/issues/1007\" target=\"_blank\" rel=\"noopener noreferrer\">Error: No lee datos de la cola de impresión fiscal #1007</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/fiscal-printer/releases/tag/1.6.0\" target=\"_blank\" rel=\"noopener noreferrer\">Fiscal Printer v1.6.0</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/adempiere/LVE/releases/tag/2.3.1\" target=\"_blank\" rel=\"noopener noreferrer\">LVE v2.3.1</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/adempiere/LVE/issues/60\" target=\"_blank\" rel=\"noopener noreferrer\">Permite cambiar el dígito de la Cédula con el RIF #60</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/discussions/8\" target=\"_blank\" rel=\"noopener noreferrer\">Discussion Reference</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-05-03T12:40:18.000Z",
+      "date_modified": "2024-05-03T12:40:18.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-1.6.5",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.5.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.5.html",
