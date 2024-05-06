@@ -37,7 +37,7 @@ En esté caso observar si la conexión entre el adaptador y el cable, a través 
 
 - Posición en la que esta el conector RJ45:
 
-![Imagen 4. Parte Posterior de La Impresora](/assets/img/docs/fiscal-printer/rear-view-printer.jpg)
+![Imagen 4. Parte Posterior de La Impresora](/assets/img/docs/fiscal-printer/rear-view-printer.png)
 
 Comprobar que el conector RJ45 este en el puerto de la impresora marcado con las Siglas “PC” en la parte posterior de la impresora.
 
