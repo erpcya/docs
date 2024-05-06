@@ -70,6 +70,13 @@ export const enNavbarConfig = navbar([
         ],
       },
       {
+        text: "Dispositivos",
+        children: [
+          "devices/record-weight/",
+          "devices/fiscal-printer",
+        ],
+      },
+      {
         text: "Inicio de Sesión con Keycloak",
         children: [
           "basic-rules/login-keycloak",
