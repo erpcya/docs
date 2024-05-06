@@ -1,7 +1,7 @@
 ---
-title: Dispositivos
+title: Lectura de Peso
 icon: computer
-category: Otros Servicios
+category: Dispositivos
 star: 9
 sticky: 9
 tag:
@@ -11,7 +11,7 @@ tag:
 article: false
 ---
 
-En esta seccion se describen los Dispositivos, que pueden ser conectados a ADempiere a través de las aplicaciones desarrolladas por [ERPyA](http://erpya.com/)
+En esta seccion se describe la Lectura de Peso, que puede ser conectado a ADempiere a través de las aplicaciones desarrolladas por [ERPyA](http://erpya.com/)
 
 - [Instalar Cliente de Lectura de Peso](./install-record-weight-sender.md)
 
