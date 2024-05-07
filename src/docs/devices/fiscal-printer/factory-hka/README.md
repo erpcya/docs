@@ -1,6 +1,6 @@
 ---
-title: factory-hka-80
-category: Documentation
+title: factory HKA 80
+category: documentación
 star: 9
 sticky: 9
 article: false
