@@ -35,7 +35,7 @@ article: true
 ## Contexto
 
 - Impresión Fiscal
-- Proceso Copiar Compañia
+- Control de Calidad
 
 ## Detalle Técnico
 
