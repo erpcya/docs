@@ -162,13 +162,14 @@ export const enNavbarConfig = navbar([
       {
         text: "Actualizaciones",
         children: [
-          "updates/", 
+          "updates/",
+          "updates/adempiere-3.9.4",
           "updates/rs-5.x", 
           "updates/rs-4.x",
           "updates/rs-3.x",
           "updates/rs-2.x",
           "updates/rs-1.x",
-          "updates/adempiere-3.9.4"
+          "updates/devices"
         ],
       },
     ],
