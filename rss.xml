@@ -6,14 +6,100 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 07 May 2024 14:05:41 GMT</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 14:05:41 GMT</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 18:22:20 GMT</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 18:22:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.7.8</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.8.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.8.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.7.8</source>
+      <description>Fecha de Liberación: 2024-05-07 Novedades Impresión Fiscal Se agrega bandera para determinar si una unidad de medida se cuenta por separado 1.7.8</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 07 May 2024 18:15:03 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
+<h2> Novedades</h2>
+<h3> Impresión Fiscal</h3>
+<ul>
+<li>Se agrega bandera para determinar si una unidad de medida se cuenta por separado</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.8-img1.png" alt="1.7.8" tabindex="0" loading="lazy"><figcaption>1.7.8</figcaption></figure>
+<ul>
+<li>Se agrega pestaña de configuración para valores predeterminados del formato de impresión fiscal</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.8-img2.png" alt="1.7.8" tabindex="0" loading="lazy"><figcaption>1.7.8</figcaption></figure>
+<p>Con estos cambios ya se puede configurar si se quiere mostrar la siguiente información:</p>
+<ul>
+<li>Mostrar Representante de Ventas</li>
+<li>Mostrar Almacén</li>
+<li>Mostrar Terminal (POS)</li>
+<li>Mostrar Referencia de Orden</li>
+<li>Mostrar Nota de Documento</li>
+<li>Mostrar Cantidad de Artículos</li>
+</ul>
+<hr>
+<h3> Control de Calidad</h3>
+<ul>
+<li>Corrección de Validador de Modelo al Completar un Movimiento de Inventario</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Control de Calidad</li>
+<li>Impresión Fiscal</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Quality Analysis</li>
+<li>Fiscal Printer</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.8" target="_blank" rel="noopener noreferrer">ERPYA v1.7.8</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.8-img1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>rs-6.4</title>
+      <link>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/rs-6.4.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/rs-6.4.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">rs-6.4</source>
+      <description>Fecha de Liberación: 2024-05-07 Novedades Contexto Detalle Técnico Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 07 May 2024 18:15:03 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
+<h2> Novedades</h2>
+<ul>
+<li></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li></li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li></li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></p>
+</li>
+<li>
+<p><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.7.6</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.6.html</link>
