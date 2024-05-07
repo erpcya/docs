@@ -1,5 +1,5 @@
 ---
-title: Requerimientos
+title: Caracteres permitidos por línea
 category: Documentación
 star: 9
 sticky: 9
@@ -7,24 +7,28 @@ article: false
 icon: customize
 ---
 
-Usado para incrementar tamaños en la HKA-80
+ Documentación validada por Erpcya para incrementar tamaños de caracteres por línea en la HKA-80
 -
-![image](https://github.com/Soporte-FuncionalERP/docs/assets/168581711/8c96cbbe-b425-43ff-81d7-d7ec4ad05b70)
+
+![image](https://media.discordapp.net/attachments/1234904521759522900/1237072317184741383/Impresora_Fiscal_HKA80.png?ex=663af9a0&is=6639a820&hm=a7eaa63edcfda4791bab50b9bd485a457cdf3de6d2371892de11e1196d532e1f&=&format=webp&quality=lossless&width=419&height=479)
+
 
 **Explicación de dicha imagen**
 
- **RIF/CEDULA** (Permite un máximo de **40 Caracteres**)
+ - **RIF/Cédula** (Permite un máximo de **40 Caracteres**)
 
 
-**RAZÓN SOCIAL** (Permite un máximo de **80 Caracteres**)
+- **Razón social** (Permite un máximo de **80 Caracteres**)
 
-En la **DIRECCION CLIENTE** Y **DATOS DE LA ORDEN DE VENTA** (Permite un máximo de **40 Caracteres por línea**) Y (Un máximo de (**9 Líneas**)
+- En la **Direccion cliente** Y **Datos de la orden de venta** (Permite un máximo de **40 Caracteres por línea**) Y (Un máximo de (**9 Líneas**)
 
-**CÓDIGO DE PRODUCTO** ( Permite un máximo de **20 Caracteres**)
+- **Código de producto** ( Permite un máximo de **20 Caracteres**)
 
-**INFORMACIÓN DE PRODUCTO** ( Permite un máximo de **127 Caracteres por línea**)
+- **Información de producto** ( Permite un máximo de **127 Caracteres por línea**)
 
-En los **DATOS DE LA TERMINAL** Y **NOTA DEL TIPO DE DOCUMENTO**  (Permite un máximo de **40 Caracteres por línea**) Y (Un máximo de (**9 Líneas**)
+- En los **Datos de la terminal** Y **Nota del tipo de documento**  (Permite un máximo de **40 Caracteres por línea**) Y (Un máximo de (**9 Líneas**)
+
+
 
 
 
