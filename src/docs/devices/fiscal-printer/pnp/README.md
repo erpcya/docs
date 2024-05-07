@@ -35,50 +35,48 @@ Impresora PF-300A
 **Descripción de dicha Impresora**
  -
 
- Reporte Z o Cierre Diario
+- Reporte Z o Cierre Diario
  
-Reporte X o Cierre de Turno
+- Reporte X o Cierre de Turno
 
-Reporte de Memoria Fiscal por día y por Mes
+- Reporte de Memoria Fiscal por día y por Mes
 
-Impresión via REST API direct (web)
+- Comprobantes Fiscales
 
-Comprobantes Fiscales
+- Comprobantes No Fiscales
 
-Comprobantes No Fiscales
+- Notas de Crédito
 
-Notas de Crédito
+- Memoria de Auditoria
 
-Memoria de Auditoria
+- Utiliza Papel Carta y 1/2 Carta
 
-Utiliza Papel Carta y 1/2 Carta
+- Dispositivo de Transmisión PNPDT01 (Interno) WIFI
 
-Dispositivo de Transmisión PNPDT01 (Interno) WIFI
+- ontrol del IGTF
 
-Control del IGTF
+- Actualizaciones remotas
 
-Actualizaciones remotas
+- Mecanismo de altísima durabilidad. Tecnología Japonesa.
 
-Mecanismo de altísima durabilidad. Tecnología Japonesa.
+- Aprobación SENIAT/GF/0075 y 0076
 
-Aprobación SENIAT/GF/0075 y 0076
+- Letras Serial fiscal EOL
 
-Letras Serial fiscal EOL
-
-Aplicaciones gratuitas
+- Aplicaciones gratuitas
 
 **Características**
 -
 
-**Método de Impresión** 	  Matricial de 9 pines
+- **Método de Impresión** 	  Matricial de 9 pines
 
-**Velocidad**		  300 cps, 80 Columnas de impresión.
+- **Velocidad**		  300 cps, 80 Columnas de impresión.
 
-**Manejo de papel**	   Alimentación	
+- **Manejo de papel**	   Alimentación	
 
-**Interface**		 USB Serial cdc, Serial RS232 Opcional
+- **Interface**		 USB Serial cdc, Serial RS232 Opcional
 
-**Fuentes**	
+- **Fuentes**	
 
 Tamaño	7×9 / 9×9
            
@@ -86,7 +84,7 @@ Columnas	40/42 o 33/35
             
 Mapa de Caracteres95 alfanuméricos, 32 internacionales, 128×8 gráficos.
             
-**Confiabilidad**
+- **Confiabilidad**
 
 Volumen total de impresión	12 Millones de líneas
 
@@ -94,11 +92,11 @@ Duración Cabezal	400 millones de golpes
 
 Duración de la Cinta	3 millones de caracteres en versión borrador
                   
-**Requisitos electricos** 		  120 V Máximo
+- **Requisitos electricos** 		  120 V Máximo
 
-**Cartucho de cinta**		   8750 cinta color negra.
+- **Cartucho de cinta**		   8750 cinta color negra.
 
-**Dimensiones**     	Ancho	36.6 cm
+- **Dimensiones**     	Ancho	36.6 cm
 
 Largo	27.5 cm
 
@@ -106,9 +104,9 @@ Alto	15.9 cm
 
 Peso	4.4 kgs.
 
-**Compatibilidad**		   Protocolo Fiscal PNP, No depende del Sistema Operativo.
+- **Compatibilidad**		   Protocolo Fiscal PNP, No depende del Sistema Operativo.
 
-**Manejo de Papel**		
+- **Manejo de Papel**		
 
 Papel continuo:	ancho 4″ a 10″
 
