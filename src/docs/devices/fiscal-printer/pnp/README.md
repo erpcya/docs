@@ -1,5 +1,5 @@
 ---
-title: Pnp Pf 300A 
+title: Pnp PF 300A 
 category: documentación
 star: 9
 sticky: 9
