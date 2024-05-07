@@ -8,20 +8,17 @@ icon: customize
 ---
 
 
-**factory-hka-80**
---
-
 **¿De dónde es su fabricante?**
--
+--
 
 Es una empresa internacional, ágil y moderna con presencia en Venezuela, Panamá, Colombia, México, Perú, República Dominicana, Bolivia y USA. 
 
 **¿Cuál es el modelo que utilizamos?**
 -
 
- Impresora Fiscal HKA80
+ Impresora Fiscal HKA-80
 
- ![image](https://github.com/Soporte-FuncionalERP/docs/assets/168581711/0a1fcbd4-d453-422c-bdd9-6de74c9abe07)
+ ![image](https://thefactoryhka.com/tfhkaBancoImagenesSitesNew/public/productos/hka80/images/15v_hka80medium.jpg)
 
 
  **Descripción de dicha Impresora**
