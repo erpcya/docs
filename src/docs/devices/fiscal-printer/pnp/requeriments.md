@@ -1,5 +1,5 @@
 ---
-title: Requerimientos
+title: Caracteres permitidos por línea
 category: Documentación
 star: 9
 sticky: 9
