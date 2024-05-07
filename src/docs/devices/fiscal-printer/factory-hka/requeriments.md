@@ -10,7 +10,7 @@ icon: customize
  Documentación validada por Erpcya para incrementar tamaños de caracteres por línea en la HKA-80
 -
 
-![image](https://thefactoryhka.com/tfhkaBancoImagenesSitesNew/public/productos/hka80/images/15v_hka80medium.jpg)
+![image](https://media.discordapp.net/attachments/1234904521759522900/1237072317184741383/Impresora_Fiscal_HKA80.png?ex=663af9a0&is=6639a820&hm=a7eaa63edcfda4791bab50b9bd485a457cdf3de6d2371892de11e1196d532e1f&=&format=webp&quality=lossless&width=419&height=479)
 
 
 **Explicación de dicha imagen**
