@@ -2,12 +2,12 @@
 **factory-hka**
 --
 
-**¿De donde es su fabricante?**
+**¿De dónde es su fabricante?**
 -
 
-Es una empresa internacional, agil y moderna con presencia en Venezuela, Panamá, Colombia, México, Perú, República Dominicana, Bolivia y USA. 
+Es una empresa internacional, ágil y moderna con presencia en Venezuela, Panamá, Colombia, México, Perú, República Dominicana, Bolivia y USA. 
 
-**¿Cual es el modelo que utilizamos?**
+**¿Cuál es el modelo que utilizamos?**
 -
 
  Impresora Fiscal HKA80
@@ -18,7 +18,7 @@ Es una empresa internacional, agil y moderna con presencia en Venezuela, Panamá
  **Descripción de dicha Impresora**
  -
 
- La Impresora Fiscal HKA80 se caracteriza por su alta rapidez de impresión de tickets, cuenta con un diseño robusto y seguro cumpliendo así las normativas fiscales del país. La impresora posee un cortador automático de papel, impresión de códigos de barra en 1D y 2D, comunicación vía Serial o USB tipo B para la PC, puerto para Gaveta y Display externo. Por último, su sistema integrado Anti-Tamper es capaz de detectar al momento que se abre el equipo y graba esa información en la memoria de auditoria, garantizando la seguridad y robustez que se requiere en una máquina fiscal.
+ La Impresora Fiscal HKA80 se caracteriza por su alta rapidez de impresión de tickets, cuenta con un diseño robusto y seguro cumpliendo así las normativas fiscales del país. La impresora posee un cortador automático de papel, impresión de códigos de barra en 1D y 2D, comunicación vía Serial o USB tipo B para la PC, puerto para Gaveta y Display externo. Por último, su sistema integrado Anti-Tamper es capaz de detectar al momento que se abre el equipo y graba esa información en la memoria de auditoría, garantizando la seguridad y robustez que se requiere en una máquina fiscal.
 
 **Diseño compacto y elegante, mayor rapidez de comunicación y altas prestaciones en rendimiento.**
 
@@ -52,17 +52,17 @@ Es una empresa internacional, agil y moderna con presencia en Venezuela, Panamá
 
 Esta impresora se ajusta a las regulaciones de ley establecidas por el SENIAT para máquinas fiscales bajo la providencia SENIAT/GF/00064 de fecha 17 febrero del 2016
 
-**Esta impresora es ideal en los siguietes establecimietos**
+**Esta impresora es ideal en los siguientes establecimientos**
 -
 
--Kioskos
--Panaderias
--Cafeterias
+-Kioscos
+-Panaderías
+-Cafeterías
 -Farmacias
--Loterias
+-Loterías
 -Supermercados 
 
-**Caracteristicas**
+**Características**
 -
 
 **Método de Impresión:**	Impresora lineal térmica directa.
