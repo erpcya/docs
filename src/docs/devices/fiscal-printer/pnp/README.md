@@ -30,7 +30,7 @@ Av Sucre Torre Centro Piso 20. Ofc. 204. Los Dos Caminos. Caracas Venezuela
 -
 Impresora PF-300A 
 
-![image](https://github.com/Soporte-FuncionalERP/docs/assets/168581711/9099cc7f-45ee-4b08-9d36-28a96bb81783)
+![image](https://desarrollospnp.com/wp-content/uploads/2016/07/pf300II-300x300.png)
 
 **Descripción de dicha Impresora**
  -
