@@ -8,9 +8,6 @@ icon: customize
 ---
 
 
-**PNP PF-300A**
---
-
 **¿De dónde es su fabricante?**
 -
 
