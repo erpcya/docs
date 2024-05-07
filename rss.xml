@@ -6,14 +6,92 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Mon, 06 May 2024 20:15:26 GMT</pubDate>
-    <lastBuildDate>Mon, 06 May 2024 20:15:26 GMT</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 14:05:41 GMT</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 14:05:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.7.6</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.6.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.6.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.7.6</source>
+      <description>Fecha de Liberación: 2024-05-07 Novedades Impresión Fiscal Se corrige problema con cantidad de artículos en la impresión fiscal para artículos con unidades de medidas sin precisión. Control de Calidad Se Agrega referencia a Inventario Fisico Se Agrega Formato de Impresion de Analisis de Calidad</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 07 May 2024 13:56:49 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
+<h2> Novedades</h2>
+<h3> Impresión Fiscal</h3>
+<ul>
+<li>Se corrige problema con cantidad de artículos en la impresión fiscal para artículos con unidades de medidas sin precisión.</li>
+</ul>
+<hr>
+<h2> Control de Calidad</h2>
+<ul>
+<li>Se Agrega referencia a Inventario Fisico</li>
+<li>Se Agrega Formato de Impresion de Analisis de Calidad</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.6-img1.png" alt="1.7.6" tabindex="0" loading="lazy"><figcaption>1.7.6</figcaption></figure>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.6-img2.png" alt="1.7.6" tabindex="0" loading="lazy"><figcaption>1.7.6</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Impresión Fiscal</li>
+<li>Control de Calidad</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Fiscal Print</li>
+<li>Quality Analysis</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.6" target="_blank" rel="noopener noreferrer">ERPYA v1.7.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.6-img1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-1.7.7</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.7.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.7.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.7.7</source>
+      <description>Fecha de Liberación: 2024-05-07 Novedades Control de Calidad Corrección NPE en Ventana de seleccion de Atributos de Calidad Corrección NPE al copiar instancias de atributos al completar un Analisis de Calidad Soporte a Orden de Distribución con la misma organización del Analisis de Calidad Soporte a Creacion de Analisis de Calidad con la misma organización del documento origen</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 07 May 2024 13:56:49 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
+<h2> Novedades</h2>
+<h2> Control de Calidad</h2>
+<ul>
+<li>Corrección NPE en Ventana de seleccion de Atributos de Calidad</li>
+<li>Corrección NPE al copiar instancias de atributos al completar un Analisis de Calidad</li>
+<li>Soporte a Orden de Distribución con la misma organización del Analisis de Calidad</li>
+<li>Soporte a Creacion de Analisis de Calidad con la misma organización del documento origen</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Control de Calidad</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Quality Analysis</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.7" target="_blank" rel="noopener noreferrer">ERPYA v1.7.7</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.7.5</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.5.html</link>
@@ -59,7 +137,7 @@
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
+<li>No se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.5-img1.png" type="image/png"/>

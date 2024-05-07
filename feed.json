@@ -6,14 +6,41 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.7.6",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.6.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.6.html",
+      "summary": "Fecha de Liberación: 2024-05-07 Novedades Impresión Fiscal Se corrige problema con cantidad de artículos en la impresión fiscal para artículos con unidades de medidas sin precisión. Control de Calidad Se Agrega referencia a Inventario Fisico Se Agrega Formato de Impresion de Analisis de Calidad",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>\n<h2> Novedades</h2>\n<h3> Impresión Fiscal</h3>\n<ul>\n<li>Se corrige problema con cantidad de artículos en la impresión fiscal para artículos con unidades de medidas sin precisión.</li>\n</ul>\n<hr>\n<h2> Control de Calidad</h2>\n<ul>\n<li>Se Agrega referencia a Inventario Fisico</li>\n<li>Se Agrega Formato de Impresion de Analisis de Calidad</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.6-img1.png\" alt=\"1.7.6\" tabindex=\"0\" loading=\"lazy\"><figcaption>1.7.6</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.6-img2.png\" alt=\"1.7.6\" tabindex=\"0\" loading=\"lazy\"><figcaption>1.7.6</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Impresión Fiscal</li>\n<li>Control de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Fiscal Print</li>\n<li>Quality Analysis</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.6\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.6</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.6-img1.png",
+      "date_published": "2024-05-07T13:56:49.000Z",
+      "date_modified": "2024-05-07T13:56:49.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.7.7",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.7.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.7.html",
+      "summary": "Fecha de Liberación: 2024-05-07 Novedades Control de Calidad Corrección NPE en Ventana de seleccion de Atributos de Calidad Corrección NPE al copiar instancias de atributos al completar un Analisis de Calidad Soporte a Orden de Distribución con la misma organización del Analisis de Calidad Soporte a Creacion de Analisis de Calidad con la misma organización del documento origen",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>\n<h2> Novedades</h2>\n<h2> Control de Calidad</h2>\n<ul>\n<li>Corrección NPE en Ventana de seleccion de Atributos de Calidad</li>\n<li>Corrección NPE al copiar instancias de atributos al completar un Analisis de Calidad</li>\n<li>Soporte a Orden de Distribución con la misma organización del Analisis de Calidad</li>\n<li>Soporte a Creacion de Analisis de Calidad con la misma organización del documento origen</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Control de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Quality Analysis</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.7\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.7</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-05-07T13:56:49.000Z",
+      "date_modified": "2024-05-07T13:56:49.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-1.7.5",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.5.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.5.html",
       "summary": "Fecha de Liberación: 2024-05-03 Novedades Se agrega fecha de la orden a la fecha de la referencia de pago cuando el mismo no tiene fecha asociada Se agrega bandera para permitir leer la cola de impresión después de enviar documentos 1.7.5",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega fecha de la orden a la fecha de la referencia de pago cuando el mismo no tiene fecha asociada</li>\n<li>Se agrega bandera para permitir leer la cola de impresión después de enviar documentos</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.5-img1.png\" alt=\"1.7.5\" tabindex=\"0\" loading=\"lazy\"><figcaption>1.7.5</figcaption></figure>\n<hr>\n<ul>\n<li>\n<p>Se Agrega soporte a copiar descripcion desde la Linea de la Requisicion a la Linea de la Orden de Compra</p>\n</li>\n<li>\n<p>Se corrige ventana de Selección de Atributos de Calidad</p>\n</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Impresión Fiscal</li>\n<li>Proceso Copiar Compañia</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Fiscal Print</li>\n<li>Copy Company Process</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.5\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.5</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/648\" target=\"_blank\" rel=\"noopener noreferrer\">Error al Imprimir Factura con Pago Asociado Tipo Crédito #648</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega fecha de la orden a la fecha de la referencia de pago cuando el mismo no tiene fecha asociada</li>\n<li>Se agrega bandera para permitir leer la cola de impresión después de enviar documentos</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.5-img1.png\" alt=\"1.7.5\" tabindex=\"0\" loading=\"lazy\"><figcaption>1.7.5</figcaption></figure>\n<hr>\n<ul>\n<li>\n<p>Se Agrega soporte a copiar descripcion desde la Linea de la Requisicion a la Linea de la Orden de Compra</p>\n</li>\n<li>\n<p>Se corrige ventana de Selección de Atributos de Calidad</p>\n</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Impresión Fiscal</li>\n<li>Proceso Copiar Compañia</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Fiscal Print</li>\n<li>Copy Company Process</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.5\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.5</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/648\" target=\"_blank\" rel=\"noopener noreferrer\">Error al Imprimir Factura con Pago Asociado Tipo Crédito #648</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.7.5-img1.png",
       "date_published": "2024-05-06T11:43:42.000Z",
-      "date_modified": "2024-05-06T11:43:42.000Z",
+      "date_modified": "2024-05-07T13:56:49.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
