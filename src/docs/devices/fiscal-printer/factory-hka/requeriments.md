@@ -9,7 +9,9 @@ icon: customize
 
  Documentación validada por Erpcya para incrementar tamaños de caracteres por línea en la HKA-80
 -
-![image](https://github.com/Soporte-FuncionalERP/docs/assets/168581711/8c96cbbe-b425-43ff-81d7-d7ec4ad05b70)
+
+![image](https://thefactoryhka.com/tfhkaBancoImagenesSitesNew/public/productos/hka80/images/15v_hka80medium.jpg)
+
 
 **Explicación de dicha imagen**
 
