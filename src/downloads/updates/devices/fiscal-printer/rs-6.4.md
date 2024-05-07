@@ -14,16 +14,9 @@ article: true
 **Fecha de Liberación:** 2024-05-07
 
 ## Novedades
-
--
-
-## Contexto
-
-- 
-
-## Detalle Técnico
-
-- 
+- Se agrega validación para tilde en caracteres del tipo `áÁéÉíÍóÓúÚ` cambiando a sus equivalentes válidos `aAeEiIoOuU`
+- Se agrega soporte para permitir los máximos soportados en impresoras fiscales `HKA-80` y `PF-300-A`
+- Se agrega nota de documento larga, ideal para texto al final del documento
 
 ## Enlaces relacionados
 
