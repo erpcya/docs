@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 07 May 2024 18:46:08 GMT</pubDate>
-    <lastBuildDate>Tue, 07 May 2024 18:46:08 GMT</lastBuildDate>
+    <pubDate>Tue, 07 May 2024 18:51:37 GMT</pubDate>
+    <lastBuildDate>Tue, 07 May 2024 18:51:37 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -73,21 +73,15 @@
       <link>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/rs-6.4.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/rs-6.4.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">rs-6.4</source>
-      <description>Fecha de Liberación: 2024-05-07 Novedades Contexto Detalle Técnico Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits</description>
+      <description>Fecha de Liberación: 2024-05-07 Novedades Se agrega validación para tilde en caracteres del tipo áÁéÉíÍóÓúÚ cambiando a sus equivalentes válidos aAeEiIoOuU Se agrega soporte para permitir los máximos soportados en impresoras fiscales HKA-80 y PF-300-A Se agrega nota de documento larga, ideal para texto al final del documento</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 07 May 2024 18:15:03 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
 <h2> Novedades</h2>
 <ul>
-<li></li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li></li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li></li>
+<li>Se agrega validación para tilde en caracteres del tipo <code>áÁéÉíÍóÓúÚ</code> cambiando a sus equivalentes válidos <code>aAeEiIoOuU</code></li>
+<li>Se agrega soporte para permitir los máximos soportados en impresoras fiscales <code>HKA-80</code> y <code>PF-300-A</code></li>
+<li>Se agrega nota de documento larga, ideal para texto al final del documento</li>
 </ul>
 <h2> Enlaces relacionados</h2>
 <ul>
