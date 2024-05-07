@@ -18,3 +18,8 @@ Usado para incrementar tamaños en la PF-300A
 
 **RAZÓN SOCIAL** (Permite un máximo de **80 Caracteres**)
 
+**CÓDIGO DE PRODUCTO Y INFORMACION DE PRODUCTO** ( Permite un máximo de **85 Caracteres**)
+
+**CANTIDAD DE LÍNEAS POR PRODUCTO** ( Permite un máximo de **3 por líneas**)
+
+En la **DIRECCION CLIENTE** **DATOS DE LA ORDEN DE VENTA** Y **NOTA DEL TIPO DE DOCUMENTO** (Permite un máximo de **20 líneas**) Y (Un máximo de (**40 Caracteres por Línea**)
