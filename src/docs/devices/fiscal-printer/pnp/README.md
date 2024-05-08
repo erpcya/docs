@@ -1,6 +1,6 @@
 ---
-title: Pnp PF 300A 
-category: documentación
+title: PNP PF-300A 
+category: Documentación
 star: 9
 sticky: 9
 article: false
@@ -8,32 +8,20 @@ icon: customize
 ---
 
 
-**¿De dónde es su fabricante?**
--
+## ¿De dónde es su fabricante?
 
-Somos una empresa dedicada a generar soluciones en el mercado de informática, especializados en integraciones de múltiples plataformas.
+Es una empresa dedicada a generar soluciones en el mercado de informática, especializados en integraciones de múltiples plataformas.
 
-Basados en nuestra experiencia de mas de 30 años en el área, desarrollando sistemas administrativos, de punto de venta y circuitos electrónicos.
+Basados en su experiencia de mas de 30 años en el área, desarrollando sistemas administrativos, de punto de venta y circuitos electrónicos.
 
-Nuestra filosofía es usar las tecnologías mas seguras y económicas, de manera de evitar gastos innecesarios a nuestros clientes, desarrollando soluciones eficientes y de requerimientos mínimos a nivel de hardware y mantenimiento, permitiendo el desarrollo de sus negocios sin la carga adicional de costos recurrentes en hardware y en software.
+## ¿Cuál es el modelo que utilizamos?
 
-No dude en contactarnos y plantear su necesidad para  buscarle la solución adaptada a sus requerimientos.
+![Impresora PF-300A](/assets/img/docs/fiscal-printer/pnp-pf-300a.png)
 
-Av Sucre Torre Centro Piso 20. Ofc. 204. Los Dos Caminos. Caracas Venezuela
-
-
-
-**¿Cuál es el modelo que utilizamos?**
--
-Impresora PF-300A 
-
-![image](https://desarrollospnp.com/wp-content/uploads/2016/07/pf300II-300x300.png)
-
-**Descripción de dicha Impresora**
- -
+## Descripción de dicha Impresora
 
 - Reporte Z o Cierre Diario
- 
+
 - Reporte X o Cierre de Turno
 
 - Reporte de Memoria Fiscal por día y por Mes
@@ -62,51 +50,81 @@ Impresora PF-300A
 
 - Aplicaciones gratuitas
 
-**Características**
--
+## Características
 
-- **Método de Impresión** 	  Matricial de 9 pines
+- **Método de Impresión**
 
-- **Velocidad**		  300 cps, 80 Columnas de impresión.
+  - Matricial de 9 pines
 
-- **Manejo de papel**	   Alimentación	
+- **Velocidad**
+  - 300 cps, 80 Columnas de impresión.
 
-- **Interface**		 USB Serial cdc, Serial RS232 Opcional
+- **Manejo de papel**
+  
+  - Alimentación
 
-- **Fuentes**	
+- **Interface**
+  
+  - USB Serial cdc, Serial RS232 Opcional
 
-Tamaño	7×9 / 9×9
-           
-Columnas	40/42 o 33/35
-            
-Mapa de Caracteres95 alfanuméricos, 32 internacionales, 128×8 gráficos.
-            
+- **Fuentes**
+
+  - Tamaño
+    - 7×9 / 9×9
+
+- Columnas
+
+  - 40/42 o 33/35
+
+- Mapa de Caracteres
+
+  - 95 alfanuméricos, 32 internacionales, 128×8 gráficos.
+
 - **Confiabilidad**
 
-Volumen total de impresión	12 Millones de líneas
+  - Volumen total de impresión
 
-Duración Cabezal	400 millones de golpes
+    - 12 Millones de líneas
 
-Duración de la Cinta	3 millones de caracteres en versión borrador
-                  
-- **Requisitos electricos** 		  120 V Máximo
+  - Duración Cabezal
 
-- **Cartucho de cinta**		   8750 cinta color negra.
+    - 400 millones de golpes
 
-- **Dimensiones**     	Ancho	36.6 cm
+- Duración de la Cinta
 
-Largo	27.5 cm
+  - 3 millones de caracteres en versión borrador
 
-Alto	15.9 cm
+- **Requisitos electricos**
+  - 120 V Máximo
 
-Peso	4.4 kgs.
+- **Cartucho de cinta**
+  - 8750 cinta color negra.
 
-- **Compatibilidad**		   Protocolo Fiscal PNP, No depende del Sistema Operativo.
+- **Dimensiones**
 
-- **Manejo de Papel**		
+- Ancho
+  - 36.6 cm
 
-Papel continuo:	ancho 4″ a 10″
+- Largo
+  - 27.5 cm
 
-longitud 22″, máximo página
+- Alto
+  - 15.9 cm
 
-Espesor máximo 0,015″
+- Peso
+  - 4.4 kgs.
+
+- **Compatibilidad**
+  - Protocolo Fiscal PNP, No depende del Sistema Operativo.
+
+- **Manejo de Papel**
+
+  - Papel continuo: Ancho 4″ a 10″
+
+  - Longitud 22″, máximo página
+
+  - Espesor máximo 0,015″
+
+- A continuación se detallan los requerimientos necesarios para utilizar nuestra aplicación en el siguiente documento:
+
+  - [Requerimientos](./requeriments.md)
