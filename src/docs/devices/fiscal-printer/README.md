@@ -16,8 +16,9 @@ Comprende todo lo relacionado con la emisión de documentos a través de un disp
 Actualmente se tiene soporte para las marcas:
 
 - [The Factory HKA](./factory-hka/)
+  - [Requerimientos](./factory-hka/requeriments.md)
 - [Hasar](./hasar/)
 - [VMax](./vmax/)
 - [Desarrollo PnP C.A](./pnp/)
 
-  - [Errores comunes Impresora Fiscal](commons-errors-fiscal-printer.md)
+- [Errores comunes Impresora Fiscal](commons-errors-fiscal-printer.md)
