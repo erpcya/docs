@@ -1,5 +1,5 @@
 ---
-title: Lista de Versiones de PNP
+title: Lista de Versiones de Lectura de Peso
 icon: app
 category: Actualizaciones
 star: 9
