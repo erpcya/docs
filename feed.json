@@ -39,7 +39,7 @@
       "summary": "Fecha de Liberación: 2024-05-07 Novedades Se agrega validación para tilde en caracteres del tipo áÁéÉíÍóÓúÚ cambiando a sus equivalentes válidos aAeEiIoOuU Se agrega soporte para permitir los máximos soportados en impresoras fiscales HKA-80 y PF-300-A Se agrega nota de documento larga, ideal para texto al final del documento",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega validación para tilde en caracteres del tipo <code>áÁéÉíÍóÓúÚ</code> cambiando a sus equivalentes válidos <code>aAeEiIoOuU</code></li>\n<li>Se agrega soporte para permitir los máximos soportados en impresoras fiscales <code>HKA-80</code> y <code>PF-300-A</code></li>\n<li>Se agrega nota de documento larga, ideal para texto al final del documento</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x64 bits</a></li>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x86 bits</a></li>\n</ul>\n",
       "date_published": "2024-05-07T18:15:03.000Z",
-      "date_modified": "2024-05-10T23:04:58.000Z",
+      "date_modified": "2024-05-10T23:04:40.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
