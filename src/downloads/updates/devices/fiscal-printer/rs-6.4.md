@@ -8,6 +8,8 @@ tag:
   - "Actualizaciones"
   - "Versiones"
   - "Noticias"
+  - "Impresora Fiscal"
+  - "Dispositivos"
 article: true
 ---
 
