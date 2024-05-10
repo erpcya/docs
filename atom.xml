@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-05-08T17:48:07.840Z</updated>
+  <updated>2024-05-10T23:11:45.537Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -17,6 +17,36 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">1.1.2</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/1.1.2.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/1.1.2.html"/>
+    <updated>2024-05-10T23:04:24.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-10</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agregan parámetros de instalación de impresora</li>
+<li>Se agregan variables de entorno por defecto al instalar</li>
+<li>Se agrega el programa de impresión como servicio de windows al instalar</li>
+<li>Se agrega ejecutable para desinstalar el servicio</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-10</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agregan parámetros de instalación de impresora</li>
+<li>Se agregan variables de entorno por defecto al instalar</li>
+<li>Se agrega el programa de impresión como servicio de windows al instalar</li>
+<li>Se agrega ejecutable para desinstalar el servicio</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-05-10T23:04:24.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-1.7.8</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.8.html</id>
@@ -80,7 +110,7 @@
     <title type="text">rs-6.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/rs-6.4.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/rs-6.4.html"/>
-    <updated>2024-05-07T18:44:20.000Z</updated>
+    <updated>2024-05-10T23:04:58.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
 <h2> Novedades</h2>
 <ul>
@@ -97,12 +127,8 @@
 </ul>
 <h2> Enlaces relacionados</h2>
 <ul>
-<li>
-<p><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></p>
-</li>
-<li>
-<p><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></p>
-</li>
+<li><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
+<li><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
