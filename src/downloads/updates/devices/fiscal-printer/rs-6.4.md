@@ -8,6 +8,8 @@ tag:
   - "Actualizaciones"
   - "Versiones"
   - "Noticias"
+  - "Impresora Fiscal"
+  - "Dispositivos"
 article: true
 ---
 
@@ -21,5 +23,4 @@ article: true
 ## Enlaces relacionados
 
 - [Descargue aquí la aplicación para x64 bits](https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe)
-
 - [Descargue aquí la aplicación para x86 bits](https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe)
