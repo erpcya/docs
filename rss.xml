@@ -6,14 +6,56 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 10 May 2024 23:12:49 GMT</pubDate>
-    <lastBuildDate>Fri, 10 May 2024 23:12:49 GMT</lastBuildDate>
+    <pubDate>Wed, 15 May 2024 16:47:48 GMT</pubDate>
+    <lastBuildDate>Wed, 15 May 2024 16:47:48 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title></title>
+      <link>https://docs-md.erpya.com/docs/devices/fiscal-printer/installing-the-fiscal-printer-program/documentation-to-install-the-Hka-80-and-Pnp-300a-fiscal-printer-program.html</link>
+      <guid>https://docs-md.erpya.com/docs/devices/fiscal-printer/installing-the-fiscal-printer-program/documentation-to-install-the-Hka-80-and-Pnp-300a-fiscal-printer-program.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml"></source>
+      <description>Instalación del programa ERP-Printing-Service-1.1.2-win-x64.exe Para descargar el Archivo a instalar, puedes usar el siguiente link: https://docs.erpya.com/downloads/updates/devices/fiscal-printer/1.1.2.html#novedades</description>
+      <pubDate>Wed, 15 May 2024 16:40:26 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> <strong>Instalación del programa ERP-Printing-Service-1.1.2-win-x64.exe</strong></h2>
+<p><strong>Para descargar el Archivo a instalar, puedes usar el siguiente link:</strong></p>
+<p><a href="https://docs.erpya.com/downloads/updates/devices/fiscal-printer/1.1.2.html#novedades" target="_blank" rel="noopener noreferrer">https://docs.erpya.com/downloads/updates/devices/fiscal-printer/1.1.2.html#novedades</a></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/0887dda2-73a2-42fc-aeb4-1400bcacedb0" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
+<h2> <strong>Una vez descargado dicho Archivo procedemos a la Instalación</strong></h2>
+<p><strong>Buscamos el archivo en descargas</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/998922c5-445c-4714-8a37-8d7dbf0d170d" alt="image1" tabindex="0" loading="lazy"><figcaption>image1</figcaption></figure>
+<p><strong>Ejecutamos el archivo en descargas como Administrador</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/8e56c29f-1cb4-43e4-8f2d-b68b174d93a3" alt="image2" tabindex="0" loading="lazy"><figcaption>image2</figcaption></figure>
+<p><strong>Seleccionamos el Idioma a usar</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/f43dbf17-136d-4fff-aabe-e552649364f8" alt="image3" tabindex="0" loading="lazy"><figcaption>image3</figcaption></figure>
+<p><strong>Hacer click en Siguiente</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/9bcdc938-9597-45c6-827a-77cdda0ef725" alt="image4" tabindex="0" loading="lazy"><figcaption>image4</figcaption></figure>
+<p><strong>Aceptar los términos y condiciones del Programa</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/18df89b4-88a0-4253-945a-2d17ba9ef883" alt="image5" tabindex="0" loading="lazy"><figcaption>image5</figcaption></figure>
+<p><strong>Seleccionar la ruta de instalación del programa</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/ee15799d-77b9-4363-9e81-23a164ff4f19" alt="image6" tabindex="0" loading="lazy"><figcaption>image6</figcaption></figure>
+<p><strong>C:\Users\ERP-Printing-Service</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/df66bf54-64d3-4cdf-a39e-83c6896921b4" alt="image7" tabindex="0" loading="lazy"><figcaption>image7</figcaption></figure>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/45358c80-2602-4385-b9f2-e37d7009a12b" alt="image8" tabindex="0" loading="lazy"><figcaption>image8</figcaption></figure>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/9724512d-80cb-4ab6-8bc5-85ebfac04cdc" alt="image9" tabindex="0" loading="lazy"><figcaption>image9</figcaption></figure>
+<p><strong>Luego de seleccionar la Ruta, le damos en Instalar</strong></p>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/5691ab7d-a358-46f9-b0c2-02c8ab19e4a8" alt="image10" tabindex="0" loading="lazy"><figcaption>image10</figcaption></figure>
+<h2> <strong>Luego que la instalación esté completa procedemos a la configuración de la impresora</strong></h2>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/de0cdbc4-94d2-447d-92ca-e5205576a16d" alt="image11" tabindex="0" loading="lazy"><figcaption>image11</figcaption></figure>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/51ab930d-b429-4348-8573-63db57fedc6c" alt="image12" tabindex="0" loading="lazy"><figcaption>image12</figcaption></figure>
+<p><strong>Procedemos a sustituir los campos con los Siguiente datos</strong></p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/13a95f63-c712-4550-9709-99d27beafa85" alt="image13" tabindex="0" loading="lazy"><figcaption>image13</figcaption></figure>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/56b151af-17f8-40e1-a621-69c507cedbd7" alt="image14" tabindex="0" loading="lazy"><figcaption>image14</figcaption></figure>
+<h2> <strong>Luego de esto La instalación está completada, Y para finalizar procedemos al reinicio del Equipo</strong></h2>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/ce403528-baac-4a1d-b6d8-8cac88516657" alt="image15" tabindex="0" loading="lazy"><figcaption>image15</figcaption></figure>
+<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/373edd18-7e0c-4de9-8b42-f2e9051cb241" alt="image16" tabindex="0" loading="lazy"><figcaption>image16</figcaption></figure>
+]]></content:encoded>
+      <enclosure url="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/0887dda2-73a2-42fc-aeb4-1400bcacedb0" type="image/"/>
+    </item>
     <item>
       <title>1.1.2</title>
       <link>https://docs-md.erpya.com/downloads/updates/devices/fiscal-printer/1.1.2.html</link>
