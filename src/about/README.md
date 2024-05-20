@@ -27,6 +27,10 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
 
 ## Los Líderes de ERP
 
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+
 <div class="card-container">
   <div class="flip-card">
     <div class="flip-card-inner">
@@ -36,7 +40,7 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
       </div>
       <div class="flip-card-back">
         <p class="title">Yamel Senih</p>
-        <img src="/assets/img/about/ysenih.jpeg" alt="Yamel Senih">
+        <img src="https://1.gravatar.com/avatar/996b0aa5fe275000769119b585d618ec56c01216cb1573515f7a8ee5b447e819?size=256" alt="Yamel Senih">
         <a href="https://github.com/yamelsenih" target="_blank">
           <i class="fab fa-github"></i>
         </a>
@@ -52,7 +56,7 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
       </div>
       <div class="flip-card-back">
         <p class="title">Carlos Parada</p>
-        <img src="/assets/img/about/cparada.png" alt="Carlos Parada">
+        <img src="https://1.gravatar.com/avatar/0c1be84f09dc9bffbc62184a285eb56c43770b9a5cc166b2c9a19a42434e8cfb?size=256" alt="Carlos Parada">
         <a href="https://github.com/carlosaparadam" target="_blank">
           <i class="fab fa-github"></i>
         </a>
@@ -68,7 +72,7 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
       </div>
       <div class="flip-card-back">
         <p class="title">José Botero</p>
-        <img src="/assets/img/about/jbotero.jpeg" alt="José Botero">
+        <img src="https://avatars.githubusercontent.com/u/33498993?v=4" alt="José Botero">
         <a href="https://github.com/jabo6311" target="_blank">
           <i class="fab fa-github"></i>
         </a>
@@ -149,14 +153,9 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
 .flip-card-back a {
   margin-top: 10px;
   color: white;
-  font-size: 24px;
-}
-
-.flip-card-back a:hover {
-  color: #cce7ff;
+  font-size: 1.5em;
 }
 </style>
-
 
 ## Objetivos Estratégicos
 
