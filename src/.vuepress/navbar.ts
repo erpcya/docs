@@ -28,11 +28,9 @@ export const enNavbarConfig = navbar([
         text: "Otros Servicios",
         children: [
           "other-services/e-commerce",
-          "other-services/bot",
-          "other-services/devices",
+          "other-services/bot"
         ],
       },
-      
     ],
   },
   {
@@ -70,10 +68,16 @@ export const enNavbarConfig = navbar([
         ],
       },
       {
+        text: "General",
+        children: [
+          "general/configure-report-page.md"
+        ],
+      },
+      {
         text: "Dispositivos",
         children: [
           "devices/record-weight/",
-          "devices/fiscal-printer",
+          "devices/printers",
         ],
       },
       {
