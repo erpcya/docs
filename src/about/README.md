@@ -133,17 +133,12 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
 }
 
 .flip-card-front {
-  background-image: url('/assets/img/about/erp-bg.png');
-  background-size: cover;
-  background-position: center;
-  /* background: linear-gradient(120deg, #cce7ff 60%, #b3d9ff 88%, #99ccff 40%, rgba(9, 109, 217, 0.603) 48%); */
-  color: white;
+  background: linear-gradient(120deg, #cce7ff 60%, #b3d9ff 88%, #99ccff 40%, rgba(9, 109, 217, 0.603) 48%);
+  color: #096dd9;
 }
 
 .flip-card-back {
-  background-image: url('/assets/img/about/erp-bg.png');
-  background-size: cover;
-  background-position: center;
+  background: linear-gradient(120deg, #4da3ff 30%, #096dd9 88%, #cce7ff 40%, #3399ff 78%);
   color: white;
   transform: rotateY(180deg);
 }
