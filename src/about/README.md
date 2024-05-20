@@ -35,11 +35,11 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <p class="title">Desarrollador / CEO de ERP</p>
+        <p class="title-card">Desarrollador / CEO de ERP</p>
         <p>Yamel Senih</p>
       </div>
       <div class="flip-card-back">
-        <p class="title">Yamel Senih</p>
+        <p class="title-card">Yamel Senih</p>
         <img src="https://1.gravatar.com/avatar/996b0aa5fe275000769119b585d618ec56c01216cb1573515f7a8ee5b447e819?size=256" alt="Yamel Senih">
         <a href="https://github.com/yamelsenih" target="_blank">
           <i class="fab fa-github"></i>
@@ -51,11 +51,11 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <p class="title">Desarrollador / Servicios / Director</p>
+        <p class="title-card">Desarrollador / Servicios / Director</p>
         <p>Carlos Parada</p>
       </div>
       <div class="flip-card-back">
-        <p class="title">Carlos Parada</p>
+        <p class="title-card">Carlos Parada</p>
         <img src="https://1.gravatar.com/avatar/0c1be84f09dc9bffbc62184a285eb56c43770b9a5cc166b2c9a19a42434e8cfb?size=256" alt="Carlos Parada">
         <a href="https://github.com/carlosaparadam" target="_blank">
           <i class="fab fa-github"></i>
@@ -67,11 +67,11 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
   <div class="flip-card">
     <div class="flip-card-inner">
       <div class="flip-card-front">
-        <p class="title">Finanzas / Comercial</p>
+        <p class="title-card">Finanzas / Comercial</p>
         <p>José Botero</p>
       </div>
       <div class="flip-card-back">
-        <p class="title">José Botero</p>
+        <p class="title-card">José Botero</p>
         <img src="https://avatars.githubusercontent.com/u/33498993?v=4" alt="José Botero">
         <a href="https://github.com/jabo6311" target="_blank">
           <i class="fab fa-github"></i>
@@ -97,7 +97,7 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
   font-family: sans-serif;
 }
 
-.title {
+.title-card {
   font-size: 1.5em;
   font-weight: 900;
   text-align: center;
@@ -133,12 +133,17 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
 }
 
 .flip-card-front {
-  background: linear-gradient(120deg, #cce7ff 60%, #b3d9ff 88%, #99ccff 40%, rgba(9, 109, 217, 0.603) 48%);
-  color: #096dd9;
+  background-image: url('/assets/img/about/erp-bg.png');
+  background-size: cover;
+  background-position: center;
+  /* background: linear-gradient(120deg, #cce7ff 60%, #b3d9ff 88%, #99ccff 40%, rgba(9, 109, 217, 0.603) 48%); */
+  color: white;
 }
 
 .flip-card-back {
-  background: linear-gradient(120deg, #4da3ff 30%, #096dd9 88%, #cce7ff 40%, #3399ff 78%);
+  background-image: url('/assets/img/about/erp-bg.png');
+  background-size: cover;
+  background-position: center;
   color: white;
   transform: rotateY(180deg);
 }
@@ -153,7 +158,11 @@ A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su co
 .flip-card-back a {
   margin-top: 10px;
   color: white;
-  font-size: 1.5em;
+  font-size: 24px;
+}
+
+.flip-card-back a:hover {
+  color: #cce7ff;
 }
 </style>
 
