@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Sat, 18 May 2024 20:01:30 GMT</pubDate>
-    <lastBuildDate>Sat, 18 May 2024 20:01:30 GMT</lastBuildDate>
+    <pubDate>Mon, 20 May 2024 20:19:13 GMT</pubDate>
+    <lastBuildDate>Mon, 20 May 2024 20:19:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Documentación</category>
@@ -31,46 +31,49 @@
 </ul>
 <h2> Pasos de Instalación</h2>
 <h3> Descarga del Instalador</h3>
-<p>Para descargar el Archivo a instalar, puedes usar el siguiente <a href="../../../downloads/updates/devices/printers">link</a></p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/0887dda2-73a2-42fc-aeb4-1400bcacedb0" alt="image" tabindex="0" loading="lazy"><figcaption>image</figcaption></figure>
-<p>Una vez descargado dicho Archivo procedemos a la Instalación</p>
+<p>Para descargar el <strong>Archivo</strong> a instalar, puedes usar el siguiente <a href="../../../downloads/updates/devices/printers">link</a></p>
+<figure><img src="/assets/img/docs/fiscal-printer/download-page.png" alt="Página de Descarga" tabindex="0" loading="lazy"><figcaption>Página de Descarga</figcaption></figure>
+<p>Una vez descargado dicho <strong>Archivo</strong> procedemos a la <strong>Instalación</strong></p>
 <p>Ubica el archivo previamente descargado</p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/998922c5-445c-4714-8a37-8d7dbf0d170d" alt="image1" tabindex="0" loading="lazy"><figcaption>image1</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/previously-downloaded-file.png" alt="Archivo" tabindex="0" loading="lazy"><figcaption>Archivo</figcaption></figure>
 <h3> Ejecutando el Instalador</h3>
 <p>Al intentar ejecutar el instalador te solicitará la ejecución en modo administrador, debes aceptar para continuar la instalación.</p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/8e56c29f-1cb4-43e4-8f2d-b68b174d93a3" alt="image2" tabindex="0" loading="lazy"><figcaption>image2</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/setup.png" alt="Instalación" tabindex="0" loading="lazy"><figcaption>Instalación</figcaption></figure>
 <h3> Seleccionando el Idioma</h3>
 <p>Seleccione el idioma con el cual desea continuar la instalación.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Nota</p>
-<p>El idioma seleccionado determinará el nombre del servicio a instalar.<br>
-Si selecciona Español el servicio se llamará "Servicio de Impresión ERP"<br>
-Si selecciona Inglés el servicio se llamará "ERP Printing Service"</p>
+<p>El idioma seleccionado determinará el nombre del servicio a instalar.</p>
+<ul>
+<li>Si selecciona Español el servicio se llamará "Servicio de Impresión ERP"</li>
+<li>Si selecciona Inglés el servicio se llamará "ERP Printing Service"</li>
+</ul>
 </div>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/f43dbf17-136d-4fff-aabe-e552649364f8" alt="image3" tabindex="0" loading="lazy"><figcaption>image3</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/select-language.png" alt="Selección de Lenguaje" tabindex="0" loading="lazy"><figcaption>Selección de Lenguaje</figcaption></figure>
 <p>Luego de seleccionar el idioma de instalación se presiona <strong>Siguiente</strong> para ir al siguiente formulario.</p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/9bcdc938-9597-45c6-827a-77cdda0ef725" alt="image4" tabindex="0" loading="lazy"><figcaption>image4</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/setup-2.png" alt="Formulario" tabindex="0" loading="lazy"><figcaption>Formulario</figcaption></figure>
 <h3> Aceptando los Términos y Condiciones</h3>
 <p>Es importante que lea bien los términos y condiciones del contrato de instalación, al aceptarlo estará de acuerdo con todo lo que establece nuestro contrato de instalación.</p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/18df89b4-88a0-4253-945a-2d17ba9ef883" alt="image5" tabindex="0" loading="lazy"><figcaption>image5</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/terms-and-conditions.png" alt="Acuerdo de Licencia" tabindex="0" loading="lazy"><figcaption>Acuerdo de Licencia</figcaption></figure>
 <h3> Seleccionando la Ruta de Instalación</h3>
 <p>La ruta de instalación es el lugar donde estarán los archivos necesarios para que la aplicación funcione correctamente, de igual manera se usará en adelante para aplicar las actualizaciones o desinstalar la aplicación.</p>
 <p>Trate de usar una ruta que no contenga caracteres especiales como <code>()*#$+</code></p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/ee15799d-77b9-4363-9e81-23a164ff4f19" alt="image6" tabindex="0" loading="lazy"><figcaption>image6</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/path.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
 <p>Para efectos de este ejemplo usaremos la ruta <code>C:\Users\ERP-Printing-Service</code></p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/df66bf54-64d3-4cdf-a39e-83c6896921b4" alt="image7" tabindex="0" loading="lazy"><figcaption>image7</figcaption></figure>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/45358c80-2602-4385-b9f2-e37d7009a12b" alt="image8" tabindex="0" loading="lazy"><figcaption>image8</figcaption></figure>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/9724512d-80cb-4ab6-8bc5-85ebfac04cdc" alt="image9" tabindex="0" loading="lazy"><figcaption>image9</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/path-2.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/path-3.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/path-4.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
 <p>Al seleccionar la ruta presionamos el botón <strong>Instalar</strong> para que se inicie el proceso de instalación</p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/5691ab7d-a358-46f9-b0c2-02c8ab19e4a8" alt="image10" tabindex="0" loading="lazy"><figcaption>image10</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/install.png" alt="Instalar" tabindex="0" loading="lazy"><figcaption>Instalar</figcaption></figure>
 <h3> Configurando la Impresora</h3>
 <p>Al terminar la instalación aparecerá un diálogo preguntando si desea configurar la impresora. Presione la opción <strong>Si</strong> para configurarla.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Nota</p>
-<p>La opción para configurar impresora puede ignorada si ya se encuentra todo instalado y configurado y únicamente está actualizando la aplicación</p>
+<p>La opción para configurar impresora puede ser ignorada si ya se encuentra instalado y configurado y únicamente está actualizando la aplicación</p>
 </div>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/de0cdbc4-94d2-447d-92ca-e5205576a16d" alt="image11" tabindex="0" loading="lazy"><figcaption>image11</figcaption></figure>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/51ab930d-b429-4348-8573-63db57fedc6c" alt="image12" tabindex="0" loading="lazy"><figcaption>image12</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/installation.png" alt="Instalar" tabindex="0" loading="lazy"><figcaption>Instalar</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/question.png" alt="Instalar" tabindex="0" loading="lazy"><figcaption>Instalar</figcaption></figure>
+<hr>
 <p>Configure los datos necesarios para que la impresora pueda ser administrada desde las aplicaciones de <a href="http://erpya.com" target="_blank" rel="noopener noreferrer">E.R.P. Consultores y Asociados, C.A.</a>. Si tiene alguna duda con respecto a este punto puede solicitar los datos a nuestro servicio de atención al cliente.</p>
 <ul>
 <li><strong>Servidor</strong>: Coloque aquí la dirección del servidor de colas de impresión donde se conectará su dispositivo, tome en cuenta que la dirección puede variar si su instalación es cloud o es On Premise</li>
@@ -79,18 +82,18 @@ Si selecciona Inglés el servicio se llamará "ERP Printing Service"</p>
 <li><strong>Nombre de Impresora</strong>: Coloque el nombre de la impresora. Este nombre debe ser único y debe coincidir con el nombre configurado en la aplicación desde la que se intenta enviar documentos a su iompresora</li>
 <li><strong>Modo de Inicio</strong>: Este campo lo puede dejar vacio a menos que un técnico de atención al cliente le solicite cambiarlo</li>
 </ul>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/13a95f63-c712-4550-9709-99d27beafa85" alt="image13" tabindex="0" loading="lazy"><figcaption>image13</figcaption></figure>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/56b151af-17f8-40e1-a621-69c507cedbd7" alt="image14" tabindex="0" loading="lazy"><figcaption>image14</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/print-config.png" alt="Configuración" tabindex="0" loading="lazy"><figcaption>Configuración</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/print-config-2.png" alt="Configuración" tabindex="0" loading="lazy"><figcaption>Configuración</figcaption></figure>
 <p>Al finalizar con la carga de datos presione el botón <strong>Siguiente</strong>, al hacerlo aparecerá un diálogo con los datos que previamente configuró. Simplemente presione aceptar para ir al siguiente formulario.</p>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/ce403528-baac-4a1d-b6d8-8cac88516657" alt="image15" tabindex="0" loading="lazy"><figcaption>image15</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/print-config-3.png" alt="Configuración" tabindex="0" loading="lazy"><figcaption>Configuración</figcaption></figure>
 <p>Después de configurar los datos de la impresora y conexión al servicio de colas de impresión aparecerá un diálogo preguntando si desea reiniciar el equipo.</p>
 <div class="hint-container info">
 <p class="hint-container-title">Nota</p>
 <p>Es importante que acepte para que se reinicie el equipo y todo funcione correctamente.</p>
 </div>
-<figure><img src="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/373edd18-7e0c-4de9-8b42-f2e9051cb241" alt="image16" tabindex="0" loading="lazy"><figcaption>image16</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/restart.png" alt="Reiniciar" tabindex="0" loading="lazy"><figcaption>Reiniciar</figcaption></figure>
 ]]></content:encoded>
-      <enclosure url="https://github.com/Soporte-FuncionalERP/docs/assets/168581711/0887dda2-73a2-42fc-aeb4-1400bcacedb0" type="image/"/>
+      <enclosure url="https://docs-md.erpya.com/assets/img/docs/fiscal-printer/download-page.png" type="image/png"/>
     </item>
     <item>
       <title>1.1.2</title>
@@ -2698,14 +2701,78 @@ Si selecciona Inglés el servicio se llamará "ERP Printing Service"</p>
       <enclosure url="https://github.com/erpcya/docs/assets/9578152/7861fef2-2a3d-4c3e-a8e1-706aadca2411" type="image/"/>
     </item>
     <item>
-      <title>Nosotros</title>
+      <title>Acerca de ERP Consultores y Asociados</title>
       <link>https://docs-md.erpya.com/about/</link>
       <guid>https://docs-md.erpya.com/about/</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">Nosotros</source>
-      <description>Formamos parte de un grupo de empresas integradoras e implementadoras con experiencia de cientos de implementaciones sobre la Plataforma de Negocios ADempiere en empresas latinoamericanas de todo tamaño. Implementamos la plataforma ADempiere de 3 maneras: Servidores propios del cliente. En nube propia del cliente. Modalidad software como servicio (SAAS).</description>
+      <source url="https://docs-md.erpya.com/rss.xml">Acerca de ERP Consultores y Asociados</source>
+      <description>Formamos parte de un grupo de empresas integradoras e implementadoras con experiencia de cientos de implementaciones sobre la Plataforma de Negocios ADempiere en empresas latinoamericanas de todo tamaño. Reseña Histórica La historia de ERP Consultores y Asociados se remonta al año 2012, cuando un grupo de apasionados programadores, liderados por Yamel Senih, Carlos Parada y José Botero, se unieron con el propósito de proporcionar soluciones innovadoras en el ámbito de la consultoría en tecnología de información.</description>
       <category>Nosotros</category>
       <pubDate>Sun, 06 Feb 2022 16:01:38 GMT</pubDate>
       <content:encoded><![CDATA[<p>Formamos parte de un grupo de empresas integradoras e implementadoras con experiencia de cientos de implementaciones sobre la Plataforma de Negocios ADempiere en empresas latinoamericanas de todo tamaño.</p>
+<hr>
+<h2> Reseña Histórica</h2>
+<p>La historia de <strong>ERP Consultores y Asociados</strong> se remonta al año 2012, cuando un grupo de apasionados programadores, liderados por Yamel Senih, Carlos Parada y José Botero, se unieron con el propósito de proporcionar soluciones innovadoras en el ámbito de la consultoría en tecnología de información.</p>
+<p>El impulso inicial surgió de la oportunidad de utilizar ADempiere, una potente herramienta de gestión empresarial de código abierto, para brindar servicios a empresas en la implementación de soluciones ERP. Tras trabajar juntos y compartir una visión común, decidieron formalizar su asociación y fundar oficialmente <strong>ERP Consultores y Asociados</strong> el 31 de marzo de 2012.</p>
+<p>A lo largo de los años, la empresa ha crecido y evolucionado, manteniendo su compromiso con la excelencia y la innovación en cada proyecto. Con un equipo dedicado y una sólida base de valores fundamentales, <strong>ERP Consultores y Asociados</strong> se ha consolidado como un referente en el sector de la consultoría en tecnología de información, destacando por su calidad de servicio, compromiso con los clientes y contribución al desarrollo de soluciones empresariales basadas en tecnologías de fuente abierta.</p>
+<hr>
+<h2> Los Líderes de ERP</h2>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
+<div class="card-container">
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <p class="title-card">Desarrollador / CEO de ERP</p>
+        <p>Yamel Senih</p>
+      </div>
+      <div class="flip-card-back">
+        <p class="title-card">Yamel Senih</p>
+        <img src="https://1.gravatar.com/avatar/996b0aa5fe275000769119b585d618ec56c01216cb1573515f7a8ee5b447e819?size=256" alt="Yamel Senih">
+        <a href="https://github.com/yamelsenih" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <p class="title-card">Desarrollador / Servicios / Director</p>
+        <p>Carlos Parada</p>
+      </div>
+      <div class="flip-card-back">
+        <p class="title-card">Carlos Parada</p>
+        <img src="https://1.gravatar.com/avatar/0c1be84f09dc9bffbc62184a285eb56c43770b9a5cc166b2c9a19a42434e8cfb?size=256" alt="Carlos Parada">
+        <a href="https://github.com/carlosaparadam" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="flip-card">
+    <div class="flip-card-inner">
+      <div class="flip-card-front">
+        <p class="title-card">Finanzas / Comercial</p>
+        <p>José Botero</p>
+      </div>
+      <div class="flip-card-back">
+        <p class="title-card">José Botero</p>
+        <img src="https://avatars.githubusercontent.com/u/33498993?v=4" alt="José Botero">
+        <a href="https://github.com/jabo6311" target="_blank">
+          <i class="fab fa-github"></i>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+<h2> Objetivos Estratégicos</h2>
+<p>Nuestros objetivos estratégicos incluyen proveer soluciones integrales de negocios apoyadas en tecnología de información abierta y de última generación, innovar a través del estudio e investigación de nuevas tecnologías, generar confianza en los clientes mediante una excelente calidad de servicio, apoyar y contribuir a la comunidad de ADempiere, mejorar los servicios de atención al cliente y las visitas para convencer a los usuarios, y mejorar el producto (ADempiere) para que sea más atractivo, amigable y moderno para los clientes.</p>
+<hr>
+<h2> Misión y Visión</h2>
+<p>Nos esforzamos por ofrecer total satisfacción a nuestros clientes mediante servicios basados en los principios de honestidad, responsabilidad, profesionalismo, calidad y eficiencia. Nuestra visión es convertirnos en la líder indiscutible del sector de Consultoría en Tecnología de Información, proporcionando calidad de servicio y contribuyendo activamente al desarrollo de soluciones de negocio de fuentes abiertas.</p>
+<hr>
+<h2> Implementaciones</h2>
 <p>Implementamos la plataforma ADempiere de 3 maneras:</p>
 <ul>
 <li>Servidores propios del cliente.</li>
