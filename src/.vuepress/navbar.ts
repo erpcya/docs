@@ -77,7 +77,7 @@ export const enNavbarConfig = navbar([
         text: "Dispositivos",
         children: [
           "devices/record-weight/",
-          "devices/fiscal-printer",
+          "devices/printers",
         ],
       },
       {

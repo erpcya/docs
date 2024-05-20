@@ -23,10 +23,9 @@ Los clientes para envío de documentos desde las aplicaciones de [E.R.P. Consult
 - [Desarrollo PnP C.A](./pnp/)
   - [Requerimientos](./pnp/requeriments.md)
 
-
 ## Instaladores y Manuales de Instalación
 
-- [Instalador de Cliente de Impresoras](../../../downloads/updates/devices/fiscal-printer)
+- [Instalador de Cliente de Impresoras](https://docs.erpya.com/downloads/updates/devices)
 - [Manual de Instalación de Cliente de Impresoras](printer-client-install.md)
 
 ## Algunos Artículos de Ayuda
