@@ -1,5 +1,5 @@
 ---
-title: Impresora Fiscal
+title: Impresoras
 icon: computer
 category: Dispositivos
 star: 9
@@ -7,19 +7,27 @@ sticky: 9
 tag:
   - Nosotros
   - Servicios
+  - Impresoras
 
 article: false
 ---
 
 Comprende todo lo relacionado con la emisión de documentos a través de un dispositivo fiscal (Impresora), el mismo puede conectarse a ADempiere por medio de un controlador desarrollado por [E.R.P. Consultores y Asociados, C.A.](http://erpya.com)
 
-Actualmente se tiene soporte para las marcas:
+Los clientes para envío de documentos desde las aplicaciones de [E.R.P. Consultores y Asociados, C.A.](http://erpya.com) hacia impresoras son compatibles con impresoras laser, matriz de punto y fiscales en las siguientes marcas:
+
+## Homologadores Compatibles
 
 - [The Factory HKA](./factory-hka/)
   - [Requerimientos](./factory-hka/requeriments.md)
 - [Desarrollo PnP C.A](./pnp/)
   - [Requerimientos](./pnp/requeriments.md)
-- [Hasar](./hasar/)
-- [VMax](./vmax/)
+
+## Instaladores y Manuales de Instalación
+
+- [Instalador de Cliente de Impresoras](https://docs.erpya.com/downloads/updates/devices)
+- [Manual de Instalación de Cliente de Impresoras](printer-client-install.md)
+
+## Algunos Artículos de Ayuda
 
 - [Errores comunes Impresora Fiscal](commons-errors-fiscal-printer.md)
