@@ -123,3 +123,5 @@ Es importante que acepte para que se reinicie el equipo y todo funcione correcta
 :::
 
 ![Reiniciar](/assets/img/docs/fiscal-printer/restart.png)
+
+### Luego de Reiniciar vamos a verificar que el programa se inicie como un servicio
