@@ -6,6 +6,61 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.7.9",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.9.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.7.x/erpya-3.9.4-001-1.7.9.html",
+      "summary": "Fecha de Liberación: 2024-05-21 Novedades Control de Calidad Correccion de Null pointer al Generar orden de distribución Contexto Control de Calidad Detalle Técnico Quality Analysis",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-21</p>\n<h2> Novedades</h2>\n<h3> Control de Calidad</h3>\n<ul>\n<li>Correccion de Null pointer al Generar orden de distribución</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Control de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Quality Analysis</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.7.9\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.7.9</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-05-22T18:14:49.000Z",
+      "date_modified": "2024-05-22T18:14:49.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.8.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.0.html",
+      "summary": "Fecha de Liberación: 2024-05-21 Novedades Reporte de Órdenes de Fletes Se agrega un reporte para ver las órdenes de fletes con criterio de búsqueda en base a los datos de los documentos Imagen 1",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-21</p>\n<h2> Novedades</h2>\n<h3> Reporte de Órdenes de Fletes</h3>\n<ul>\n<li>Se agrega un reporte para ver las órdenes de fletes con criterio de búsqueda en base a los datos de los documentos</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.0-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h3> Balanceo en Contabilidad de Nómina</h3>\n<p>Se corrige problema de balanceo de asiento contable de nómina</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.0-img2.png\" alt=\"Imagen 2\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 2</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Balanceo en Contabilidad de Nómina</li>\n<li>Informe de Órdenes de Fletes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Balancing in Payroll Accounting</li>\n<li>Freight Order Report</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.0\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.0</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/674\" target=\"_blank\" rel=\"noopener noreferrer\">Error de Balanceo en Nómina #674</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/discussions/12\" target=\"_blank\" rel=\"noopener noreferrer\">Discusión</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/43\" target=\"_blank\" rel=\"noopener noreferrer\">Vista para Línea de Flete #43</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.0-img1.png",
+      "date_published": "2024-05-22T18:14:49.000Z",
+      "date_modified": "2024-05-22T18:14:49.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.8.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.1.html",
+      "summary": "Fecha de Liberación: 2024-05-21 Novedades Soporte a Fecha de Fabricación en Instancia de Atributos Se Agrega soporte a Fecha de fabricación en instancia de conjunto de atributos Configuración Columnas Agregadas a la Ventana Conjunto de Atributos",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-21</p>\n<h2> Novedades</h2>\n<h3> Soporte a Fecha de Fabricación en Instancia de Atributos</h3>\n<ul>\n<li>Se Agrega soporte a Fecha de fabricación en instancia de conjunto de atributos</li>\n</ul>\n<h4> Configuración</h4>\n<p>Columnas Agregadas a la Ventana Conjunto de Atributos</p>\n<ul>\n<li>Fecha de Fabricación: Indica si el producto maneja Fecha de Fabricación</li>\n<li>Fecha de Fabricación Obligatoria: Indica si la Fecha de Fabricación es Obligatoria</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.1-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h4> Uso</h4>\n<p>Nueva Instancia de Conjunto de Atributos</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.1-img2.png\" alt=\"Imagen 2\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 2</figcaption></figure>\n<p>Seleccionar una Instancia de Conjunto de Atributos Existente</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.1-img3.png\" alt=\"Imagen 3\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 3</figcaption></figure>\n<h4> Ventana de Busqueda de Producto</h4>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.1-img4.png\" alt=\"Imagen 4\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 4</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Balanceo en Contabilidad de Nómina</li>\n<li>Informe de Órdenes de Fletes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Add Support to Manufacturing Date on Attribute Set Instance</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.1-img1.png",
+      "date_published": "2024-05-22T18:14:49.000Z",
+      "date_modified": "2024-05-22T18:14:49.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.8.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.2.html",
+      "summary": "Fecha de Liberación: 2024-05-22 Novedades Soporte a Sobre-Escribir Fecha de Fabricación al Procesar Acciones de Analisis de Calidad Imagen 1",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-22</p>\n<h2> Novedades</h2>\n<ul>\n<li>Soporte a Sobre-Escribir Fecha de Fabricación al Procesar Acciones de Analisis de Calidad</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.2-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Procesar Acciones de Analisis de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Support for Overwriting Manufacturing Date when Processing Quality Analysis Actions</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.2</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.2-img1.png",
+      "date_published": "2024-05-22T18:14:49.000Z",
+      "date_modified": "2024-05-22T18:14:49.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "Manual de Instalación de Cliente de Impresión",
       "url": "https://docs-md.erpya.com/docs/devices/printers/printer-client-install.html",
       "id": "https://docs-md.erpya.com/docs/devices/printers/printer-client-install.html",
