@@ -14,15 +14,19 @@ tag:
 
 ![Reporte de nómina](/assets/img/docs/fiscal-printer/payroll-report1.png)
 
-**Luego de generar dicho reporte vamos al cuadro de impresión**
+Luego de generar dicho reporte vamos al **cuadro de impresión**
+=======
 
 ![Cuadro de impresión](/assets/img/docs/fiscal-printer/payroll-report.png)
 
-**Del lado derecho vamos a ir donde dice mas opciones de configuración**
+
+Del lado derecho vamos a ir donde dice **mas opciones de configuración**
+=======
 
 ![Más opciones de configuración](/assets/img/docs/fiscal-printer/more-configuration-options.jpg)
 
-**Después que se despliegue la venta iremos donde dice calidad**
+Después que se despliegue la venta iremos donde dice **calidad**
+=======
 
 ![Seleccionar opción "calidad"](/assets/img/docs/fiscal-printer/more-configuration-options-menu.jpg)
 

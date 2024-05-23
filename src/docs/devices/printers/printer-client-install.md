@@ -125,3 +125,47 @@ Es importante que acepte para que se reinicie el equipo y todo funcione correcta
 ![Reiniciar](/assets/img/docs/fiscal-printer/restart.png)
 
 ### Luego de Reiniciar vamos a verificar que el programa se inicie como un servicio
+
+Para ubicar el servicio iremos al buscador de windows y pondremos **servicios**
+
+![Servicios](/assets/img/docs/fiscal-printer/image.png)
+
+Al llegar a la pestaña de servicios ubicamos el **servicio de impresión ERP**
+
+![Servicio de impresión ERP](/assets/img/docs/fiscal-printer/image1.png)
+
+Al llegar a **Servicio de impresión ERP** este debe estar en **en ejecución-automatico**
+
+![En ejecución automatico](/assets/img/docs/fiscal-printer/image2.png)
+
+### Después de verificar que ya el programa esté Funcionando como un servicio, Iremos al visor de Eventos, y así confirmar que no arroje algún error, y este en perfecta funcionalidad para imprimir
+
+De la misma manera iremos al buscador de windows y escribiremos **visor de eventos**
+
+![Visor de eventos](/assets/img/docs/fiscal-printer/image3.png)
+
+Al estar en la pestaña del visor de eventos, en la parte superior izquierda ubicamos **registros de aplicaciones y servicios** y haremos click sobre el mismo
+
+![Registros de aplicaciones y servicios](/assets/img/docs/fiscal-printer/image4.png)
+
+Al llegar al registro de aplicaciones y servicios, daremos click sobre **ERP_Printer_log**
+
+![ERP_Printer_log](/assets/img/docs/fiscal-printer/image5.png)
+
+Se nos abrirán los eventos creados por dicho servicio y aca comprobaremos si tenemos errores o no
+### Nota
+**Uno de los errores más comunes es hacer una mala configuración de los parámetros al momento de la instalación, y como ejemplo nos arrojaría el siguiente error:**
+
+![Error en configuracion](/assets/img/docs/fiscal-printer/image7.png)
+
+**Aquí nos detalla la causa del error**
+
+![Error en configuracion](/assets/img/docs/fiscal-printer/image8.png)
+
+###  Finalizado el ejemplo de dicho error, Mostraremos cómo deberían aparecer los eventos creados por el servicio
+
+De esta manera deben aparecer los eventos creados cada vez que manda información el sistema al servicio
+
+![Evento de manera correcta](/assets/img/docs/fiscal-printer/image6.png)
+
+**Así damos por finalizada la instalación del programa y tenemos la Impresora lista para su uso correcto**
