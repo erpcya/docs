@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 23 May 2024 21:15:33 GMT</pubDate>
-    <lastBuildDate>Thu, 23 May 2024 21:15:33 GMT</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 21:17:43 GMT</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 21:17:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Documentación</category>
@@ -182,11 +182,11 @@
       <pubDate>Thu, 23 May 2024 15:29:30 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Generamos el reporte de nómina</h3>
 <figure><img src="/assets/img/docs/fiscal-printer/payroll-report1.png" alt="Reporte de nómina" tabindex="0" loading="lazy"><figcaption>Reporte de nómina</figcaption></figure>
-<p><strong>Luego de generar dicho reporte vamos al cuadro de impresión</strong></p>
+<h1> Luego de generar dicho reporte vamos al <strong>cuadro de impresión</strong></h1>
 <figure><img src="/assets/img/docs/fiscal-printer/payroll-report.png" alt="Cuadro de impresión" tabindex="0" loading="lazy"><figcaption>Cuadro de impresión</figcaption></figure>
-<p><strong>Del lado derecho vamos a ir donde dice mas opciones de configuración</strong></p>
+<h1> Del lado derecho vamos a ir donde dice <strong>mas opciones de configuración</strong></h1>
 <figure><img src="/assets/img/docs/fiscal-printer/more-configuration-options.jpg" alt="Más opciones de configuración" tabindex="0" loading="lazy"><figcaption>Más opciones de configuración</figcaption></figure>
-<p><strong>Después que se despliegue la venta iremos donde dice calidad</strong></p>
+<h1> Después que se despliegue la venta iremos donde dice <strong>calidad</strong></h1>
 <figure><img src="/assets/img/docs/fiscal-printer/more-configuration-options-menu.jpg" alt="Seleccionar opción &quot;calidad&quot;" tabindex="0" loading="lazy"><figcaption>Seleccionar opción "calidad"</figcaption></figure>
 <p><strong>Acá encontraremos las opciones soportadas</strong></p>
 <figure><img src="/assets/img/docs/fiscal-printer/letter-quality.jpeg" alt="Contaremos con estas tres opciones" tabindex="0" loading="lazy"><figcaption>Contaremos con estas tres opciones</figcaption></figure>
@@ -487,6 +487,29 @@
 </div>
 <figure><img src="/assets/img/docs/fiscal-printer/restart.png" alt="Reiniciar" tabindex="0" loading="lazy"><figcaption>Reiniciar</figcaption></figure>
 <h3> Luego de Reiniciar vamos a verificar que el programa se inicie como un servicio</h3>
+<p>Para ubicar el servicio iremos al buscador de windows y pondremos <strong>servicios</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image.png" alt="Servicios" tabindex="0" loading="lazy"><figcaption>Servicios</figcaption></figure>
+<p>Al llegar a la pestaña de servicios ubicamos el <strong>servicio de impresión ERP</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image1.png" alt="Servicio de impresión ERP" tabindex="0" loading="lazy"><figcaption>Servicio de impresión ERP</figcaption></figure>
+<p>Al llegar a <strong>Servicio de impresión ERP</strong> este debe estar en <strong>en ejecución-automatico</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image2.png" alt="En ejecución automatico" tabindex="0" loading="lazy"><figcaption>En ejecución automatico</figcaption></figure>
+<h3> Después de verificar que ya el programa esté Funcionando como un servicio, Iremos al visor de Eventos, y así confirmar que no arroje algún error, y este en perfecta funcionalidad para imprimir</h3>
+<p>De la misma manera iremos al buscador de windows y escribiremos <strong>visor de eventos</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image3.png" alt="Visor de eventos" tabindex="0" loading="lazy"><figcaption>Visor de eventos</figcaption></figure>
+<p>Al estar en la pestaña del visor de eventos, en la parte superior izquierda ubicamos <strong>registros de aplicaciones y servicios</strong> y haremos click sobre el mismo</p>
+<figure><img src="/assets/img/docs/fiscal-printer/image4.png" alt="Registros de aplicaciones y servicios" tabindex="0" loading="lazy"><figcaption>Registros de aplicaciones y servicios</figcaption></figure>
+<p>Al llegar al registro de aplicaciones y servicios, daremos click sobre <strong>ERP_Printer_log</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image5.png" alt="ERP_Printer_log" tabindex="0" loading="lazy"><figcaption>ERP_Printer_log</figcaption></figure>
+<p>Se nos abrirán los eventos creados por dicho servicio y aca comprobaremos si tenemos errores o no</p>
+<h3> Nota</h3>
+<p><strong>Uno de los errores más comunes es hacer una mala configuración de los parámetros al momento de la instalación, y como ejemplo nos arrojaría el siguiente error:</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image7.png" alt="Error en configuracion" tabindex="0" loading="lazy"><figcaption>Error en configuracion</figcaption></figure>
+<p><strong>Aquí nos detalla la causa del error</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/image8.png" alt="Error en configuracion" tabindex="0" loading="lazy"><figcaption>Error en configuracion</figcaption></figure>
+<h3> Finalizado el ejemplo de dicho error, Mostraremos cómo deberían aparecer los eventos creados por el servicio</h3>
+<p>De esta manera deben aparecer los eventos creados cada vez que manda información el sistema al servicio</p>
+<figure><img src="/assets/img/docs/fiscal-printer/image6.png" alt="Evento de manera correcta" tabindex="0" loading="lazy"><figcaption>Evento de manera correcta</figcaption></figure>
+<p><strong>Así damos por finalizada la instalación del programa y tenemos la Impresora lista para su uso correcto</strong></p>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/docs/fiscal-printer/download-page.png" type="image/png"/>
     </item>
