@@ -68,12 +68,6 @@ export const enNavbarConfig = navbar([
         ],
       },
       {
-        text: "General",
-        children: [
-          "general/configure-report-page.md"
-        ],
-      },
-      {
         text: "Dispositivos",
         children: [
           "devices/record-weight/",
