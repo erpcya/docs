@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-05-23T16:22:29.035Z</updated>
+  <updated>2024-05-23T21:15:19.864Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -22,7 +22,7 @@
     <title type="text">Configuracion de impresión de letra de reporte de nómina en impresora fiscal</title>
     <id>https://docs-md.erpya.com/docs/devices/printers/letter-printing-quality-settings.html</id>
     <link href="https://docs-md.erpya.com/docs/devices/printers/letter-printing-quality-settings.html"/>
-    <updated>2024-05-23T15:29:30.000Z</updated>
+    <updated>2024-05-23T21:07:39.000Z</updated>
     <summary type="html"><![CDATA[<h3> Generamos el reporte de nómina</h3>
 <figure><img src="/assets/img/docs/fiscal-printer/payroll-report1.png" alt="Reporte de nómina" tabindex="0" loading="lazy"><figcaption>Reporte de nómina</figcaption></figure>
 <p><strong>Luego de generar dicho reporte vamos al cuadro de impresión</strong></p>
