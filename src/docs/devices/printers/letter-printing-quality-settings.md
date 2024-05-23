@@ -27,7 +27,7 @@ tag:
 
 
 
-**Luego de generar dicho reporte vamos al cuadro de impresión**
+Luego de generar dicho reporte vamos al **cuadro de impresión**
 
 
 
@@ -37,7 +37,7 @@ tag:
 
 
 
-**Del lado derecho vamos a ir donde dice mas opciones de configuración**
+Del lado derecho vamos a ir donde dice **mas opciones de configuración**
 
 
 
@@ -45,7 +45,7 @@ tag:
 ![Más opciones de configuración](/assets/img/docs/fiscal-printer/more-configuration-options.jpg)
 
 
-**Después que se despliegue la venta iremos donde dice calidad**
+Después que se despliegue la venta iremos donde dice **calidad**
 
 
 
