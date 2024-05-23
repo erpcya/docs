@@ -6,15 +6,41 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 23 May 2024 15:35:21 GMT</pubDate>
-    <lastBuildDate>Thu, 23 May 2024 15:35:21 GMT</lastBuildDate>
+    <pubDate>Thu, 23 May 2024 15:37:12 GMT</pubDate>
+    <lastBuildDate>Thu, 23 May 2024 15:37:12 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Actualizaciones</category>
     <category>Documentación</category>
+    <category>Actualizaciones</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>Configuracion de impresión de letra de reporte de nómina en impresora fiscal</title>
+      <link>https://docs-md.erpya.com/docs/devices/printers/letter-printing-quality-settings.html</link>
+      <guid>https://docs-md.erpya.com/docs/devices/printers/letter-printing-quality-settings.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">Configuracion de impresión de letra de reporte de nómina en impresora fiscal</source>
+      <description>Generamos el reporte de nómina Reporte de nómina Luego de generar dicho reporte vamos al cuadro de impresión</description>
+      <category>Documentación</category>
+      <pubDate>Thu, 23 May 2024 15:29:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h3> Generamos el reporte de nómina</h3>
+<figure><img src="/assets/img/docs/fiscal-printer/payroll-report1.png" alt="Reporte de nómina" tabindex="0" loading="lazy"><figcaption>Reporte de nómina</figcaption></figure>
+<p><strong>Luego de generar dicho reporte vamos al cuadro de impresión</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/payroll-report.png" alt="Cuadro de impresión" tabindex="0" loading="lazy"><figcaption>Cuadro de impresión</figcaption></figure>
+<p><strong>Del lado derecho vamos a ir donde dice mas opciones de configuración</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/more-configuration-options.jpg" alt="Más opciones de configuración" tabindex="0" loading="lazy"><figcaption>Más opciones de configuración</figcaption></figure>
+<p><strong>Después que se despliegue la venta iremos donde dice calidad</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/more-configuration-options-menu.jpg" alt="Seleccionar opción &quot;calidad&quot;" tabindex="0" loading="lazy"><figcaption>Seleccionar opción "calidad"</figcaption></figure>
+<p><strong>Acá encontraremos las opciones soportadas</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/letter-quality.jpeg" alt="Contaremos con estas tres opciones" tabindex="0" loading="lazy"><figcaption>Contaremos con estas tres opciones</figcaption></figure>
+<p><strong>Ahora mostraremos las tres opciones impresas como ejemplo</strong></p>
+<figure><img src="/assets/img/docs/fiscal-printer/quality120x144ppp.jpeg" alt="Calidad 120x144ppp" tabindex="0" loading="lazy"><figcaption>Calidad 120x144ppp</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/quality120x72ppp.jpeg" alt="Calidad 120x72ppp" tabindex="0" loading="lazy"><figcaption>Calidad 120x72ppp</figcaption></figure>
+<figure><img src="/assets/img/docs/fiscal-printer/quality240x144ppp.jpeg" alt="Calidad 240x144ppp" tabindex="0" loading="lazy"><figcaption>Calidad 240x144ppp</figcaption></figure>
+<p><strong>De esta manera, como se muestra en los ejemplos, se puede proceder a configurar dicha calidad, para la mejora de la impresión.</strong></p>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/docs/fiscal-printer/payroll-report1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.8.3</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.3.html</link>
@@ -303,6 +329,7 @@
 <p>Es importante que acepte para que se reinicie el equipo y todo funcione correctamente.</p>
 </div>
 <figure><img src="/assets/img/docs/fiscal-printer/restart.png" alt="Reiniciar" tabindex="0" loading="lazy"><figcaption>Reiniciar</figcaption></figure>
+<h3> Luego de Reiniciar vamos a verificar que el programa se inicie como un servicio</h3>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/docs/fiscal-printer/download-page.png" type="image/png"/>
     </item>
