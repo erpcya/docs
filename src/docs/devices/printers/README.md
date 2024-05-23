@@ -32,3 +32,4 @@ Los clientes para envío de documentos desde las aplicaciones de [E.R.P. Consult
 
 - [Errores comunes Impresora Fiscal](commons-errors-fiscal-printer.md)
 - [Configuración de calidad de letra en reportes de nómina](letter-printing-quality-settings.md)
+- [Configuración de Página para Reporte](./configure-report-page.md)

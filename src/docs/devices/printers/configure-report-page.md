@@ -33,6 +33,8 @@ Ahora bien, crear un nuevo registro con la siguiente configuración personalizad
 
 ![Nuevo Registro](/assets/img/docs/general/new-record.png)
 
+## Configuración
+
 - **Nombre**: Label 42mm x 30 mm
 - **Status**: Activo
 - **Código de Validación**: custom
@@ -53,3 +55,7 @@ Imprimir nuevamente el reporte de **Etiqueta de Producto**
 De esta manera se modifica una página para Reporte en ADempiere.
 
 ---
+
+### Referencias
+
+[Reportes de Gestión de Material](https://docs.erpya.com/docs/material-management/material-management-reports.html)
