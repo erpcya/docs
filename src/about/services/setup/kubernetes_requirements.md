@@ -20,7 +20,7 @@ Sistema Operativo | Minimo | Deseable | Descripción del Equipo | CPU | Memoria 
 [Ubuntu 22.04.2](https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-live-server-amd64.iso?_ga=2.101330882.2107205611.1686582914-1158267313.1681999161) | 1 | 3 | Worker / Aplicaciones | >= 8 | >= 32GB | >= 100GB |
 [Ubuntu 22.04.2](https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-live-server-amd64.iso?_ga=2.101330882.2107205611.1686582914-1158267313.1681999161) | 1 | 3 | Worker / Almacenamiento | >= 8 | >= 32GB | >= 1TB |
 
-Como Resumen se pude ver la siguiente tabla. Esto se muestra por servidor
+Como resumen se pude ver la siguiente tabla. Esto se muestra por servidor
 Sistema Operativo  | Descripción del Equipo | CPU | Memoria RAM | Disco Duro |
 --: |-- | --: | --: | --: |
 [Ubuntu 22.04.2](https://releases.ubuntu.com/22.04.2/ubuntu-22.04.2-live-server-amd64.iso?_ga=2.101330882.2107205611.1686582914-1158267313.1681999161) | Aplicaciones | >= 16 | >= 48GB | >= 300GB |
