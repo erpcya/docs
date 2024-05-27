@@ -82,6 +82,12 @@ export const enNavbarConfig = navbar([
         ],
       },
       {
+        text: "Importación",
+        children: [
+          "data-importation/"
+        ],
+      },
+      {
         text: "Datos Maestros",
         children: [
           "master-data/business-partner",
