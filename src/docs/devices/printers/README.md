@@ -27,6 +27,8 @@ Los clientes para envío de documentos desde las aplicaciones de [E.R.P. Consult
 
 - [Instalador de Cliente de Impresoras](https://docs.erpya.com/downloads/updates/devices)
 - [Manual de Instalación de Cliente de Impresoras](printer-client-install.md)
+- [Instalador de impresora térmica no fiscal y cola de impresión](install-the-non-fiscal-thermal-printer-client-and-print-queue.md)
+- [Registrar Impresora No Fiscal a la Cola de impresión en ADempiere](how-to-register-a-non-Fiscal-printer-to-the-print-queue-in-adempiere.md)
 
 ## Algunos Artículos de Ayuda
 
