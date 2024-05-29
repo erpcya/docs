@@ -6,15 +6,65 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 29 May 2024 10:29:57 GMT</pubDate>
-    <lastBuildDate>Wed, 29 May 2024 10:29:57 GMT</lastBuildDate>
+    <pubDate>Wed, 29 May 2024 18:17:46 GMT</pubDate>
+    <lastBuildDate>Wed, 29 May 2024 18:17:46 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <category>Documentación</category>
     <category>Actualizaciones</category>
+    <category>Documentación</category>
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>1.1.4</title>
+      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.4.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.4.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">1.1.4</source>
+      <description>Fecha de Liberación: 2024-05-29 Novedades Se agrega soporte para arquitectura 64 bits en la construcción del binario de la aplicación Se agrega activo para instalación en plataformas de 64 bits</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 29 May 2024 18:08:55 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega soporte para arquitectura <code>64</code> bits en la construcción del binario de la aplicación</p>
+</li>
+<li>
+<p>Se agrega activo para instalación en plataformas de <code>64</code> bits</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>1.1.5</title>
+      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.5.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.5.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">1.1.5</source>
+      <description>Fecha de Liberación: 2024-05-29 Novedades Se agrega soporte para mostrar mensajes en el Visor de Eventos de Windows Se agrega funcionalidad para enviar a la impresora los documentos PDF</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 29 May 2024 18:08:55 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega soporte para mostrar mensajes en el <strong>Visor de Eventos de Windows</strong></p>
+</li>
+<li>
+<p>Se agrega funcionalidad para enviar a la impresora los documentos <strong>PDF</strong></p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>¿Cómo Registrar Impresora No Fiscal a la Cola de impresión en ADempiere?</title>
       <link>https://docs-md.erpya.com/docs/devices/printers/how-to-register-a-non-Fiscal-printer-to-the-print-queue-in-adempiere.html</link>
