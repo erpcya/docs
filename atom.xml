@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-05-29T18:17:46.811Z</updated>
+  <updated>2024-05-29T19:01:57.992Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -19,10 +19,45 @@
     <name>Waditza Rivas</name>
   </contributor>
   <entry>
+    <title type="text">1.1.6</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.6.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.6.html"/>
+    <updated>2024-05-29T18:54:09.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>
+</li>
+<li>
+<p>Se agrega respuesta con la ruta del documento a imprimir</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>
+</li>
+<li>
+<p>Se agrega respuesta con la ruta del documento a imprimir</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-05-29T18:54:09.000Z</published>
+  </entry>
+  <entry>
     <title type="text">1.1.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.4.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.4.html"/>
-    <updated>2024-05-29T18:08:55.000Z</updated>
+    <updated>2024-05-29T18:54:09.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
 <h2> Novedades</h2>
 <ul>
@@ -45,8 +80,8 @@
 </ul>
 <h2> Enlaces relacionados</h2>
 <ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
@@ -56,7 +91,7 @@
     <title type="text">1.1.5</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.5.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.5.html"/>
-    <updated>2024-05-29T18:08:55.000Z</updated>
+    <updated>2024-05-29T18:54:09.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
 <h2> Novedades</h2>
 <ul>
@@ -79,8 +114,8 @@
 </ul>
 <h2> Enlaces relacionados</h2>
 <ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
@@ -264,7 +299,7 @@
     <title type="text">1.1.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.3.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.3.html"/>
-    <updated>2024-05-28T19:45:41.000Z</updated>
+    <updated>2024-05-29T18:54:09.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-28</p>
 <h2> Novedades</h2>
 <ul>
@@ -287,8 +322,8 @@
 </ul>
 <h2> Enlaces relacionados</h2>
 <ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
@@ -846,7 +881,7 @@
     <title type="text">1.1.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.2.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.2.html"/>
-    <updated>2024-05-18T19:54:24.000Z</updated>
+    <updated>2024-05-29T18:54:09.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-10</p>
 <h2> Novedades</h2>
 <ul>
@@ -865,8 +900,8 @@
 </ul>
 <h2> Enlaces relacionados</h2>
 <ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
