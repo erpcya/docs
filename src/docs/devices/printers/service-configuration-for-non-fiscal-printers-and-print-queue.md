@@ -68,11 +68,3 @@ Nos vamos al lado superior izquierdo de nuevo y tildamos donde dice iniciar el s
 Nos saldrá una ventana donde dira **Windows está intentando iniciar el siguiente servicio en el equipo local...**
 
 Esperamos que cargue y tendremos exitosamente nuestro servicio **Servicio de impresión ERP** Funcionando correctamente.
-
-
-
-
-
-
-
-
