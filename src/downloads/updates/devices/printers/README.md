@@ -13,6 +13,7 @@ article: false
 
 A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-1.1.x**
 
+- [1.1.7](1.1.7.md)
 - [1.1.6](1.1.6.md)
 - [1.1.5](1.1.5.md)
 - [1.1.4](1.1.4.md)
