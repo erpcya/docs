@@ -6,6 +6,34 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.8.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.4.html",
+      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se Agregan los siguientes estados a la Lista Estado del Producto Aceptado (Forzado) En Observación Inmovilizado Se agrega proceso para cambiar el Estado del Producto en el Análisis de Calidad",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se Agregan los siguientes estados a la <strong>Lista Estado del Producto</strong></p>\n</li>\n<li>\n<p>Aceptado (Forzado)</p>\n</li>\n<li>\n<p>En Observación</p>\n</li>\n<li>\n<p>Inmovilizado</p>\n</li>\n</ul>\n<h3> Se agrega proceso para cambiar el Estado del Producto en el Análisis de Calidad</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.4-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.4-img2.png\" alt=\"Imagen 2\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 2</figcaption></figure>\n<h3> Se agrega proceso para cambiar el Estado del Producto en el Lote</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.4-img3.png\" alt=\"Imagen 3\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 3</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.4-img4.png\" alt=\"Imagen 4\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 4</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Análisis de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Quality Analysis Material</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.4\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.4</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.4-img1.png",
+      "date_published": "2024-06-04T14:17:44.000Z",
+      "date_modified": "2024-06-04T14:17:44.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.8.5",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.5.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.5.html",
+      "summary": "Fecha de Liberación: 2024-05-03 Novedades COMPLIANCE Se remueve validación para cambiar el estado procesado del request basado en los documentos agregados al compliance. Análisis de Calidad Se agrega Instancia de Atributos y Referencia de la Linea desde el documento Referenciado:",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-03</p>\n<h2> Novedades</h2>\n<h3> COMPLIANCE</h3>\n<p>Se remueve validación para cambiar el estado procesado del request basado en los documentos agregados al compliance.</p>\n<h3> Análisis de Calidad</h3>\n<p>Se agrega Instancia de Atributos y Referencia de la Linea desde el documento Referenciado:</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.5-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Análisis de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Quality Analysis Material</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.5\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.5</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.5-img1.png",
+      "date_published": "2024-06-04T14:17:44.000Z",
+      "date_modified": "2024-06-04T14:17:44.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "1.1.7",
       "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.7.html",
       "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.7.html",
