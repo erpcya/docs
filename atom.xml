@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-06-06T13:45:18.725Z</updated>
+  <updated>2024-06-07T15:23:28.331Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -18,6 +18,41 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.8.6</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.6.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.6.html"/>
+    <updated>2024-06-07T15:15:28.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-06</p>
+<h2> Novedades</h2>
+<p>Se comenta validación de Estado del Producto en Factura para evaluar funcionalidad</p>
+<h3> Error Actual</h3>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.6-img1.png" alt="Imagen 1." tabindex="0" loading="lazy"><figcaption>Imagen 1.</figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-06</p>
+<h2> Novedades</h2>
+<p>Se comenta validación de Estado del Producto en Factura para evaluar funcionalidad</p>
+<h3> Error Actual</h3>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.6-img1.png" alt="Imagen 1." tabindex="0" loading="lazy"><figcaption>Imagen 1.</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Análisis de Calidad</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Quality Analysis Material</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.6" target="_blank" rel="noopener noreferrer">ERPYA v1.8.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-07T15:15:28.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-1.8.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.4.html</id>

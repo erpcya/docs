@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 06 Jun 2024 13:45:18 GMT</pubDate>
-    <lastBuildDate>Thu, 06 Jun 2024 13:45:18 GMT</lastBuildDate>
+    <pubDate>Fri, 07 Jun 2024 15:23:28 GMT</pubDate>
+    <lastBuildDate>Fri, 07 Jun 2024 15:23:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -15,6 +15,38 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.8.6</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.6.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.6.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.8.6</source>
+      <description>Fecha de Liberación: 2024-05-06 Novedades Se comenta validación de Estado del Producto en Factura para evaluar funcionalidad Error Actual Imagen 1.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 07 Jun 2024 15:15:28 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-06</p>
+<h2> Novedades</h2>
+<p>Se comenta validación de Estado del Producto en Factura para evaluar funcionalidad</p>
+<h3> Error Actual</h3>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.6-img1.png" alt="Imagen 1." tabindex="0" loading="lazy"><figcaption>Imagen 1.</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Análisis de Calidad</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Quality Analysis Material</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.6" target="_blank" rel="noopener noreferrer">ERPYA v1.8.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.6-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.8.4</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.4.html</link>
