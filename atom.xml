@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-06-07T15:23:28.331Z</updated>
+  <updated>2024-06-07T15:47:40.693Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -18,6 +18,67 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">1.1.8</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.8.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.8.html"/>
+    <updated>2024-06-07T15:39:37.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se actualiza la versión base del servicio a la <code>1.0.6</code></li>
+<li>Se define el servicio como un servicio genérico</li>
+<li>Se agrega licencia del producto en <strong>inglés</strong> y <strong>español</strong></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se actualiza la versión base del servicio a la <code>1.0.6</code></li>
+<li>Se define el servicio como un servicio genérico</li>
+<li>Se agrega licencia del producto en <strong>inglés</strong> y <strong>español</strong></li>
+</ul>
+<blockquote>
+<p>[!NOTE]<br>
+Los nombres cambiaron y para que todo funcione correctamente se debe ejecutar el desinstalador de la aplicación antes de instalar esta.</p>
+</blockquote>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-07T15:39:37.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">1.1.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.9.html"/>
+    <updated>2024-06-07T15:39:37.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se elimina compatibilidad hacia atrás con servicio de impresión</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se elimina compatibilidad hacia atrás con servicio de impresión</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-07T15:39:37.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-1.8.6</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.6.html</id>
