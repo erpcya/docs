@@ -21,6 +21,6 @@ Todas las versiones oficiales de [ERPyA](https://erpya.com/) se encuentran a con
 
 A continuación se encuentra una lista de cada versión en los **dispositivos**, tómate tu tiempo para ver cada una de ellas si lo deseas.
 
-- [Impresora Fiscal](./printers/)
+- [Impresora Fiscal](./printers/README.md)
 
-- [PNP](./pnp/README.md)
+- [Registro de Peso](./record-weight/README.md)
