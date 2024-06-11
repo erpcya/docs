@@ -6,13 +6,91 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "1.1.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.2.html",
+      "summary": "Fecha de Liberación: 2024-05-10 Novedades Se agregan parámetros de instalación de impresora Se agregan variables de entorno por defecto al instalar Se agrega el programa de impresión como servicio de windows al instalar Se agrega ejecutable para desinstalar el servicio",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-10</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agregan parámetros de instalación de impresora</li>\n<li>Se agregan variables de entorno por defecto al instalar</li>\n<li>Se agrega el programa de impresión como servicio de windows al instalar</li>\n<li>Se agrega ejecutable para desinstalar el servicio</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.1.3",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.3.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.3.html",
+      "summary": "Fecha de Liberación: 2024-05-28 Novedades Se corrige problema de servicio cuando se instala en directorios con espacios en blancos Se agregan librerías de PnP para 32 y 64 bits dentro del directorio de instalación",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-28</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se corrige problema de servicio cuando se instala en directorios con espacios en blancos</p>\n</li>\n<li>\n<p>Se agregan librerías de PnP para <code>32</code> y <code>64</code> bits dentro del directorio de instalación</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.1.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.4.html",
+      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se agrega soporte para arquitectura 64 bits en la construcción del binario de la aplicación Se agrega activo para instalación en plataformas de 64 bits",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega soporte para arquitectura <code>64</code> bits en la construcción del binario de la aplicación</p>\n</li>\n<li>\n<p>Se agrega activo para instalación en plataformas de <code>64</code> bits</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.1.5",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.5.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.5.html",
+      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se agrega soporte para mostrar mensajes en el Visor de Eventos de Windows Se agrega funcionalidad para enviar a la impresora los documentos PDF",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega soporte para mostrar mensajes en el <strong>Visor de Eventos de Windows</strong></p>\n</li>\n<li>\n<p>Se agrega funcionalidad para enviar a la impresora los documentos <strong>PDF</strong></p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.1.6",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.6.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.6.html",
+      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se agrega mejora para reportar el estado del servicio en el Visor de Eventos de Windows Se agrega respuesta con la ruta del documento a imprimir Enlaces relacionados",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>\n</li>\n<li>\n<p>Se agrega respuesta con la ruta del documento a imprimir</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.1.7",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.7.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.7.html",
+      "summary": "Fecha de Liberación: 2024-06-03 Novedades Se actualiza la versión base del servicio a la 1.0.5 Se agrega opción para configurar el modelo de la impresora en el instalador. Enlaces relacionados",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se actualiza la versión base del servicio a la <strong>1.0.5</strong></p>\n</li>\n<li>\n<p>Se agrega <strong>opción</strong> para configurar el modelo de la impresora en el instalador.</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "1.1.8",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.8.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.8.html",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.8.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.8.html",
       "summary": "Fecha de Liberación: 2024-06-07 Novedades Se actualiza la versión base del servicio a la 1.0.6 Se define el servicio como un servicio genérico Se agrega licencia del producto en inglés y español",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se actualiza la versión base del servicio a la <code>1.0.6</code></li>\n<li>Se define el servicio como un servicio genérico</li>\n<li>Se agrega licencia del producto en <strong>inglés</strong> y <strong>español</strong></li>\n</ul>\n<blockquote>\n<p>[!NOTE]<br>\nLos nombres cambiaron y para que todo funcione correctamente se debe ejecutar el desinstalador de la aplicación antes de instalar esta.</p>\n</blockquote>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-07T15:39:37.000Z",
-      "date_modified": "2024-06-07T15:39:37.000Z",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
@@ -20,12 +98,77 @@
     },
     {
       "title": "1.1.9",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.9.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.9.html",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.9.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.9.html",
       "summary": "Fecha de Liberación: 2024-06-07 Novedades Se elimina compatibilidad hacia atrás con servicio de impresión Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se elimina compatibilidad hacia atrás con servicio de impresión</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-07T15:39:37.000Z",
-      "date_modified": "2024-06-07T15:39:37.000Z",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "rs-6.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/rs-6.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/rs-6.4.html",
+      "summary": "Fecha de Liberación: 2024-05-07 Novedades Se agrega validación para tilde en caracteres del tipo áÁéÉíÍóÓúÚ cambiando a sus equivalentes válidos aAeEiIoOuU Se agrega soporte para permitir los máximos soportados en impresoras fiscales HKA-80 y PF-300-A Se agrega nota de documento larga, ideal para texto al final del documento",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega validación para tilde en caracteres del tipo <code>áÁéÉíÍóÓúÚ</code> cambiando a sus equivalentes válidos <code>aAeEiIoOuU</code></li>\n<li>Se agrega soporte para permitir los máximos soportados en impresoras fiscales <code>HKA-80</code> y <code>PF-300-A</code></li>\n<li>Se agrega nota de documento larga, ideal para texto al final del documento</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x64 bits</a></li>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x86 bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.2.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.0.html",
+      "summary": "Fecha de Liberación: 2024-06-11 Novedades Se agrega licencia en español Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega licencia en español</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "1.2.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.1.html",
+      "summary": "Fecha de Liberación: 2024-06-11 Novedades Se agrega información de contacto a la licencia de software Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega información de contacto a la licencia de software</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "Lectura de Peso 1.0.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.0.html",
+      "summary": "Fecha de Liberación: 2024-06-11 Novedades Se agrega instalador para aplicación de prueba de romana Se agrega archivo de configuración de pruebas Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega instalador para aplicación de prueba de romana</p>\n</li>\n<li>\n<p>Se agrega archivo de configuración de pruebas</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "Lectura de Peso 1.0.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.1.html",
+      "summary": "Fecha de Liberación: 2024-06-11 Novedades Se agrega información de contacto a la licencia de software. Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega información de contacto a la licencia de software.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-06-11T21:19:59.000Z",
+      "date_modified": "2024-06-11T21:19:59.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
@@ -74,19 +217,6 @@
       ]
     },
     {
-      "title": "1.1.7",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.7.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.7.html",
-      "summary": "Fecha de Liberación: 2024-06-03 Novedades Se actualiza la versión base del servicio a la 1.0.5 Se agrega opción para configurar el modelo de la impresora en el instalador. Enlaces relacionados",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se actualiza la versión base del servicio a la <strong>1.0.5</strong></p>\n</li>\n<li>\n<p>Se agrega <strong>opción</strong> para configurar el modelo de la impresora en el instalador.</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-03T19:53:06.000Z",
-      "date_modified": "2024-06-03T19:53:06.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
       "title": "Configuración del servicio para impresoras no fiscales y cola de impresión",
       "url": "https://docs-md.erpya.com/docs/devices/printers/service-configuration-for-non-fiscal-printers-and-print-queue.html",
       "id": "https://docs-md.erpya.com/docs/devices/printers/service-configuration-for-non-fiscal-printers-and-print-queue.html",
@@ -98,45 +228,6 @@
       "authors": [],
       "tags": [
         "Documentación"
-      ]
-    },
-    {
-      "title": "1.1.6",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.6.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.6.html",
-      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se agrega mejora para reportar el estado del servicio en el Visor de Eventos de Windows Se agrega respuesta con la ruta del documento a imprimir Enlaces relacionados",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>\n</li>\n<li>\n<p>Se agrega respuesta con la ruta del documento a imprimir</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-05-29T18:54:09.000Z",
-      "date_modified": "2024-06-03T19:53:06.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "1.1.4",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.4.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.4.html",
-      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se agrega soporte para arquitectura 64 bits en la construcción del binario de la aplicación Se agrega activo para instalación en plataformas de 64 bits",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega soporte para arquitectura <code>64</code> bits en la construcción del binario de la aplicación</p>\n</li>\n<li>\n<p>Se agrega activo para instalación en plataformas de <code>64</code> bits</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-05-29T18:08:55.000Z",
-      "date_modified": "2024-06-03T19:53:06.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "1.1.5",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.5.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.5.html",
-      "summary": "Fecha de Liberación: 2024-05-29 Novedades Se agrega soporte para mostrar mensajes en el Visor de Eventos de Windows Se agrega funcionalidad para enviar a la impresora los documentos PDF",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega soporte para mostrar mensajes en el <strong>Visor de Eventos de Windows</strong></p>\n</li>\n<li>\n<p>Se agrega funcionalidad para enviar a la impresora los documentos <strong>PDF</strong></p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-05-29T18:08:55.000Z",
-      "date_modified": "2024-06-03T19:53:06.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
       ]
     },
     {
@@ -165,19 +256,6 @@
       "authors": [],
       "tags": [
         "Documentación"
-      ]
-    },
-    {
-      "title": "1.1.3",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.3.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.3.html",
-      "summary": "Fecha de Liberación: 2024-05-28 Novedades Se corrige problema de servicio cuando se instala en directorios con espacios en blancos Se agregan librerías de PnP para 32 y 64 bits dentro del directorio de instalación",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-28</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se corrige problema de servicio cuando se instala en directorios con espacios en blancos</p>\n</li>\n<li>\n<p>Se agregan librerías de PnP para <code>32</code> y <code>64</code> bits dentro del directorio de instalación</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.3-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-05-28T19:45:41.000Z",
-      "date_modified": "2024-06-03T19:53:06.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
       ]
     },
     {
@@ -274,32 +352,6 @@
       "authors": [],
       "tags": [
         "Documentación"
-      ]
-    },
-    {
-      "title": "1.1.2",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.2.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.2.html",
-      "summary": "Fecha de Liberación: 2024-05-10 Novedades Se agregan parámetros de instalación de impresora Se agregan variables de entorno por defecto al instalar Se agrega el programa de impresión como servicio de windows al instalar Se agrega ejecutable para desinstalar el servicio",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-10</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agregan parámetros de instalación de impresora</li>\n<li>Se agregan variables de entorno por defecto al instalar</li>\n<li>Se agrega el programa de impresión como servicio de windows al instalar</li>\n<li>Se agrega ejecutable para desinstalar el servicio</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.2-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-05-18T19:54:24.000Z",
-      "date_modified": "2024-06-03T19:53:06.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "rs-6.4",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/rs-6.4.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/rs-6.4.html",
-      "summary": "Fecha de Liberación: 2024-05-07 Novedades Se agrega validación para tilde en caracteres del tipo áÁéÉíÍóÓúÚ cambiando a sus equivalentes válidos aAeEiIoOuU Se agrega soporte para permitir los máximos soportados en impresoras fiscales HKA-80 y PF-300-A Se agrega nota de documento larga, ideal para texto al final del documento",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega validación para tilde en caracteres del tipo <code>áÁéÉíÍóÓúÚ</code> cambiando a sus equivalentes válidos <code>aAeEiIoOuU</code></li>\n<li>Se agrega soporte para permitir los máximos soportados en impresoras fiscales <code>HKA-80</code> y <code>PF-300-A</code></li>\n<li>Se agrega nota de documento larga, ideal para texto al final del documento</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x64 bits</a></li>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x86 bits</a></li>\n</ul>\n",
-      "date_published": "2024-05-18T19:54:24.000Z",
-      "date_modified": "2024-05-18T19:54:24.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
       ]
     },
     {
