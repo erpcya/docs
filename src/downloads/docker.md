@@ -1,7 +1,7 @@
 ---
 title: Docker
 category: Descarga
-icon: docker
+icon: fa-brands fa-docker
 star: 9
 tag:
   - Docker

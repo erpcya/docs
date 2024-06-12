@@ -1,6 +1,6 @@
 ---
 title: Descargas
-icon: install
+icon: download
 category: Descarga
 star: 9
 sticky: 9

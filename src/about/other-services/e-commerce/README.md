@@ -1,6 +1,6 @@
 ---
 title: e-Commerce
-icon: card
+icon: money-check
 category: Otros Servicios
 star: 9
 sticky: 9

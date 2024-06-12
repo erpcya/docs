@@ -1,6 +1,6 @@
 ---
 title: Generar TXT de Banavih
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9

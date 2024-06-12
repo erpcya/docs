@@ -1,6 +1,6 @@
 ---
 title: Procedimientos
-icon: app
+icon: folder-open
 category: Localización Venezuela
 star: 9
 sticky: 9

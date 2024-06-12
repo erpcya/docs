@@ -1,6 +1,6 @@
 ---
 title: Impresoras
-icon: computer
+icon: print
 category: Dispositivos
 star: 9
 sticky: 9

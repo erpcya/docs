@@ -4,7 +4,7 @@ category: Documentación
 star: 9
 sticky: 9
 article: true
-icon: customize
+icon: gears
 tag:
   - Servicios
   - Impresoras

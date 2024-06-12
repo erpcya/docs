@@ -1,6 +1,6 @@
 ---
 title: Cancelación de Pasivo con Intermediarios
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9

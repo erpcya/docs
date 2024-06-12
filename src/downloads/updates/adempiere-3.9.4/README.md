@@ -1,6 +1,6 @@
 ---
 title: ADempiere 3.9.4
-icon: update
+icon: laptop-code
 category: Actualizaciones
 star: 9
 sticky: 9

@@ -1,7 +1,7 @@
 ---
 title: Mejoras de seguridad en ADempiere Cloud
 category: Noticias
-icon: icon-token
+icon: user-lock
 star: 9
 sticky: 9
 author: Jesús Albujas
