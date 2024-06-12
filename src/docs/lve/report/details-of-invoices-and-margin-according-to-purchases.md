@@ -1,6 +1,6 @@
 ---
 title: Detalles de Facturas y Margen (Margen según Compras)
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9

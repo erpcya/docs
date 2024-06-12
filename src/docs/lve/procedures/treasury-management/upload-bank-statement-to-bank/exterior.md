@@ -1,6 +1,6 @@
 ---
 title: Banco Occidental de Descuento
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9

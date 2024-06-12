@@ -1,6 +1,6 @@
 ---
 title: Grupo de Productos
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9

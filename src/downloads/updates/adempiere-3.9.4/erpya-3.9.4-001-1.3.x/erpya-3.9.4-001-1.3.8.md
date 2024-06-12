@@ -1,6 +1,6 @@
 ---
 title: erpya-3.9.4-001-1.3.8
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9

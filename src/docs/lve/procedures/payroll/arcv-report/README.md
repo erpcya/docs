@@ -1,6 +1,6 @@
 ---
 title: Generar Reporte de ARCV en ADempiere
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9
