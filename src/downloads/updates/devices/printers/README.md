@@ -1,6 +1,6 @@
 ---
 title: Lista de Versiones de Impresora
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9

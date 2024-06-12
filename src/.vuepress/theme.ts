@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import { compareDate } from "vuepress-shared";
 import { enNavbarConfig, esNavbarConfig } from "./navbar";
+import { enSidebar } from "./sidebar";
 
 export default hopeTheme({
   hostname: "https://docs-md.erpya.com",
@@ -15,8 +16,7 @@ export default hopeTheme({
   fullscreen: true,
   hotReload: false,
 
-  iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
-  iconPrefix: "iconfont icon-",
+  iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
@@ -30,6 +30,8 @@ export default hopeTheme({
   locales: {
     "/": {
       navbar: enNavbarConfig,
+
+      sidebar: enSidebar,
 
       blog: {
         description: "Documentación Oficial de ERP Consultores y Asociados, CA",

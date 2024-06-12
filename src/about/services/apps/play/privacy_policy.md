@@ -65,7 +65,7 @@ While using Our Application, in order to provide features of Our Application, We
 
 - Information regarding your location
 
-We use this information to provide features of Our Service, to improve and customize Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
+We use this information to provide features of Our Service, to improve and gears Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.
 
 You can enable or disable access to this information at any time, through Your Device settings.
 

@@ -1,6 +1,6 @@
 ---
 title: Lista de Versiones de Lectura de Peso
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9

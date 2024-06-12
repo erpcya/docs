@@ -1,6 +1,6 @@
 ---
 title: Lista de Versiones 31.x
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9

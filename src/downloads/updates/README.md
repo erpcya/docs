@@ -1,6 +1,6 @@
 ---
 title: Versiones de Aplicaciones
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9

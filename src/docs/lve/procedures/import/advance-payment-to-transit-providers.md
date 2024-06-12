@@ -1,6 +1,6 @@
 ---
 title: Anticipo a Proveedores en Tránsito
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9
