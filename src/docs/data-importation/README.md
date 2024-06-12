@@ -1,6 +1,6 @@
 ---
 title: Importación de Datos
-icon: computer
+icon: file-import
 category: Importación
 star: 9
 sticky: 9

@@ -1,7 +1,7 @@
 ---
 title: Documentación Oficial ERPyA
 category: Documentación
-icon: note
+icon: book
 star: 9
 sticky: 9
 article: false

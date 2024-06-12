@@ -4,10 +4,10 @@ export const enNavbarConfig = navbar([
   "/",
   {
     text: "Nosotros",
-    icon: "profile",
+    icon: "id-card-clip",
     prefix: "/about/",
     children: [
-      { text: "Nosotros", icon: "profile", link: "", activeMatch: "^/about/$" },      
+      { text: "Acerca de", icon: "user", link: "", activeMatch: "^/about/$" },      
       {
         text: "Noticias",
         prefix: "news/",
@@ -52,10 +52,10 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Documentación",
-    icon: "creative",
+    icon: "book",
     prefix: "/docs/",
     children: [
-      { text: "ADempiere Estándar", link: "", icon: "note", activeMatch: "^/docs/$" },
+      { text: "ADempiere Estándar", link: "", icon: "book", activeMatch: "^/docs/$" },
       {
         text: "Gestión Básica",
         children: [
@@ -85,6 +85,12 @@ export const enNavbarConfig = navbar([
         text: "Importación",
         children: [
           "data-importation/"
+        ],
+      },
+      {
+        text: "Otros procedimientos",
+        children: [
+          "other-process/"
         ],
       },
       {
@@ -133,12 +139,12 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Comunidad",
-    icon: "group",
+    icon: "users",
     prefix: "/community/",
     children: [
       {
         text: "Comunidad",
-        icon: "group",
+        icon: "people-group",
         link: "",
         activeMatch: "^/community/$",
       },
@@ -150,12 +156,12 @@ export const enNavbarConfig = navbar([
   },
   {
     text: "Descargas",
-    icon: "install",
+    icon: "download",
     prefix: "/downloads/",
     children: [
       {
         text: "Descargas",
-        icon: "install",
+        icon: "download",
         link: "",
         activeMatch: "^/downloads/$",
       },

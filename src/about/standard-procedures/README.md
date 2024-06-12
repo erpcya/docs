@@ -1,7 +1,7 @@
 ---
 title: Procedimientos Estándares
 category: Producto
-icon: define
+icon: circle-check
 star: 9
 sticky: 9
 tag:

@@ -1,6 +1,6 @@
 ---
 title: Lista de Versiones de Impresora Fiscal 1.1.x
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9

@@ -1,6 +1,6 @@
 ---
 title: Dispositivos
-icon: update
+icon: laptop-code
 category: Actualizaciones
 star: 9
 sticky: 9

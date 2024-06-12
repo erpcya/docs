@@ -4,7 +4,7 @@ category: Documentación
 star: 9
 sticky: 9
 article: false
-icon: customize
+icon: gears
 ---
 
 Documentación validada por [**ERPCyA**](https://erpya.com/) para incrementar tamaños de caracteres por línea en la PF-300A

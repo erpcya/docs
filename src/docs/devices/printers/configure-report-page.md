@@ -4,7 +4,7 @@ category: Documentation
 star: 9
 sticky: 9
 article: false
-icon: customize
+icon: gears
 ---
 
 La configuración de página para un reporte es crucial para asegurar que el reporte se vea correctamente y sea fácilmente legible.

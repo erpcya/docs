@@ -1,6 +1,6 @@
 ---
 title: Nómina Anticipo de Prestaciones Sociales
-icon: app
+icon: podcast
 category: Localización Venezuela
 star: 9
 sticky: 9

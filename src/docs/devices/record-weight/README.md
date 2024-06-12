@@ -1,6 +1,6 @@
 ---
 title: Lectura de Peso
-icon: computer
+icon: weight-hanging
 category: Dispositivos
 star: 9
 sticky: 9

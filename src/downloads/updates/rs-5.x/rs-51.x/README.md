@@ -1,6 +1,6 @@
 ---
 title: Lista de Versiones 51.x
-icon: app
+icon: podcast
 category: Actualizaciones
 star: 9
 sticky: 9
