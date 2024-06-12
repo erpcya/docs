@@ -9,6 +9,7 @@ tag:
 
 article: false
 ---
+
 # Definición de Cluster
 
 El siguiente es un ejemplo de lo mínimo requerido para habilitar la infraestructura basada en kubernetes para ADempiere, esto puede variar dependiendo de la cantidad de usuarios, procesos y tareas realizadas. Para un dimensionamiento más específico contacte al equipo técnico de ERP Consultores y Asociados, C.A.
