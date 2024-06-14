@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-06-14T15:41:33.165Z</updated>
+  <updated>2024-06-14T19:06:31.085Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -18,6 +18,156 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">Lista de versiones de Servicio de Lectura de Romana</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/"/>
+    <updated>2024-06-14T19:01:39.000Z</updated>
+    <summary type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>
+<ul>
+<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>
+<ul>
+<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-14T19:01:39.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Lista de Aplicaciones de Probador de Romana</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/"/>
+    <updated>2024-06-14T19:01:39.000Z</updated>
+    <summary type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Es una consola negra que permite probar si se lee la romana correctamente (para uso del técnico).</p>
+<ul>
+<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
+<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Es una consola negra que permite probar si se lee la romana correctamente (para uso del técnico).</p>
+<ul>
+<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
+<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-14T19:01:39.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Servicio de Lectura de Romana 1.0.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html"/>
+    <updated>2024-06-14T19:01:39.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-14</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega lector de romana como servicio de Windows.</p>
+</li>
+<li>
+<p>Se elimina configuración de trama de lectura de romana.</p>
+</li>
+<li>
+<p>Se agrega instalador con parámetros de conexión al puerto de romana.</p>
+</li>
+<li>
+<p>Se agrega soporte a visor de eventos para log de seguimiento de lectura de romana.</p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-14</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega lector de romana como servicio de Windows.</p>
+</li>
+<li>
+<p>Se elimina configuración de trama de lectura de romana.</p>
+</li>
+<li>
+<p>Se agrega instalador con parámetros de conexión al puerto de romana.</p>
+</li>
+<li>
+<p>Se agrega soporte a visor de eventos para log de seguimiento de lectura de romana.</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-14T19:01:39.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Lectura de Peso 1.0.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html"/>
+    <updated>2024-06-14T19:01:39.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega instalador para aplicación de prueba de romana</p>
+</li>
+<li>
+<p>Se agrega archivo de configuración de pruebas</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se agrega instalador para aplicación de prueba de romana</p>
+</li>
+<li>
+<p>Se agrega archivo de configuración de pruebas</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-14T19:01:39.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">Lectura de Peso 1.0.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html"/>
+    <updated>2024-06-14T19:01:39.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega información de contacto a la licencia de software.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega información de contacto a la licencia de software.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-14T19:01:39.000Z</published>
+  </entry>
   <entry>
     <title type="text">1.1.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.2.html</id>
@@ -362,74 +512,6 @@ Los nombres cambiaron y para que todo funcione correctamente se debe ejecutar el
 <ul>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-11T21:19:59.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Lectura de Peso 1.0.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.0.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega instalador para aplicación de prueba de romana</p>
-</li>
-<li>
-<p>Se agrega archivo de configuración de pruebas</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega instalador para aplicación de prueba de romana</p>
-</li>
-<li>
-<p>Se agrega archivo de configuración de pruebas</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-11T21:19:59.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Lectura de Peso 1.0.1</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.1.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/1.1.x/1.0.1.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega información de contacto a la licencia de software.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega información de contacto a la licencia de software.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
