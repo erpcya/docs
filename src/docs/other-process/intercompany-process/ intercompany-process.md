@@ -12,7 +12,7 @@ article: false
 
 ## ¿Cómo realizar los procesos intercompañía?
 
-**Estos procesos los vamos a Dividir en dos etapas, En una primera etapa, tendremos dos Procesos, En el primer proceso vamos a crear una orden de compra desde la orden de venta, Donde en esta llamará los productos pedidos en la orden de venta a otra organización automáticamente a la orden de compra, Luego en el segundo proceso será Generar un movimiento de inventario para llamar mercancía de una organización a la nuestra, En la segunda etapa, Vamos a generar un movimiento de inventario, pero creando una orden de Distribución.**
+**Estos procesos los vamos a Dividir en dos etapas, En una primera etapa, tendremos dos Procesos, En el primer proceso vamos a crear una orden de compra desde la orden de venta, Donde en esta llamará los productos pedidos en la orden de venta a otra organización automáticamente a la orden de compra, Luego en el segundo proceso será Generara un movimiento de inventario para llamar mercancía de una organización a la nuestra, En la segunda etapa, Vamos a generar un movimiento de inventario, pero creando una orden de Distribución.**
 
 ## Requerimientos
 - Realizar órdenes de Venta
