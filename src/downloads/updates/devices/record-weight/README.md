@@ -1,5 +1,5 @@
 ---
-title: Lista de Versiones de Lectura de Peso
+title: Lista de Aplicaciones de Lectura de Peso
 icon: podcast
 category: Actualizaciones
 star: 9
@@ -11,7 +11,8 @@ tag:
 article: false
 ---
 
-A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-1.x.x**
+A continuación se encuentra una lista con las versiones de las aplicaciones:
 
-- [1.0.1](./1.1.x/1.0.1.md)
-- [1.0.0](./1.1.x/1.0.0.md)
+- [Probador de Romana](./romana-tester/README.md)
+
+- [Servicio de Lectura de Romana](./romana-reading-service/README.md)
