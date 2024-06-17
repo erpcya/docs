@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-06-14T19:06:31.085Z</updated>
+  <updated>2024-06-17T14:40:02.207Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -19,16 +19,70 @@
     <name>Waditza Rivas</name>
   </contributor>
   <entry>
+    <title type="text">Servicio de Lectura de Romana 1.0.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html"/>
+    <updated>2024-06-17T14:35:05.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-17</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige error con telemetía</p>
+</li>
+<li>
+<p>Se elimina tiempo de espera innecesario</p>
+</li>
+<li>
+<p>Se valida problema de reconexión</p>
+</li>
+<li>
+<p>Se corrige el nombre del servicio en español</p>
+</li>
+<li>
+<p>Se elimina loop innecesario</p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-17</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Se corrige error con telemetía</p>
+</li>
+<li>
+<p>Se elimina tiempo de espera innecesario</p>
+</li>
+<li>
+<p>Se valida problema de reconexión</p>
+</li>
+<li>
+<p>Se corrige el nombre del servicio en español</p>
+</li>
+<li>
+<p>Se elimina loop innecesario</p>
+</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-06-17T14:35:05.000Z</published>
+  </entry>
+  <entry>
     <title type="text">Lista de versiones de Servicio de Lectura de Romana</title>
     <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/</id>
     <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/"/>
-    <updated>2024-06-14T19:01:39.000Z</updated>
+    <updated>2024-06-17T14:35:05.000Z</updated>
     <summary type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>
 <ul>
+<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html" target="blank">1.0.0</a></li>
 <li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
 </ul>]]></summary>
     <content type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>
 <ul>
+<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html" target="blank">1.0.0</a></li>
 <li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
 </ul>
 ]]></content>
