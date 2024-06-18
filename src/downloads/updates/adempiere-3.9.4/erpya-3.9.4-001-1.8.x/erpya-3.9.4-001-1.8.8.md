@@ -21,6 +21,8 @@ Reporte de Retenciones
 
 - Se agrega proceso para Imprimir Retenciones
 
+![Proceso](/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.8-img1.png)
+
 ## Contexto
 
 - Proceso para Imprimir Retenciones
