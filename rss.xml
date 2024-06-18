@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Mon, 17 Jun 2024 14:40:02 GMT</pubDate>
-    <lastBuildDate>Mon, 17 Jun 2024 14:40:02 GMT</lastBuildDate>
+    <pubDate>Tue, 18 Jun 2024 13:33:36 GMT</pubDate>
+    <lastBuildDate>Tue, 18 Jun 2024 13:33:36 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -15,6 +15,75 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.8.7</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.7.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.7.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.8.7</source>
+      <description>Fecha de Liberación: 2024-06-18 Novedades Corrección de Bug Se revierte funcionalidad de Importación Contexto Bug Detalle Técnico Bug Fix Enlaces relacionados</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 18 Jun 2024 13:28:42 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-18</p>
+<h2> Novedades</h2>
+<p>Corrección de Bug <i class="fa-solid fa-bug"></i></p>
+<p>Se revierte funcionalidad de Importación</p>
+<h2> Contexto</h2>
+<ul>
+<li>Bug</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Bug Fix</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.7" target="_blank" rel="noopener noreferrer">ERPYA v1.8.7</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/698" target="_blank" rel="noopener noreferrer">Factura cuenta por pagar importaciones Austral Genera error Casos Día: 12/06/2024 Cant.1 #698</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-1.8.8</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.8.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.8.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.8.8</source>
+      <description>Fecha de Liberación: 2024-06-18 Novedades Reporte de Retenciones Se agrega proceso para Imprimir Retenciones Proceso</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 18 Jun 2024 13:28:42 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-18</p>
+<h2> Novedades</h2>
+<p>Reporte de Retenciones</p>
+<ul>
+<li>Se agrega proceso para Imprimir Retenciones</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.8-img1.png" alt="Proceso" tabindex="0" loading="lazy"><figcaption>Proceso</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Proceso para Imprimir Retenciones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Process to Print Withholdings</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.8" target="_blank" rel="noopener noreferrer">ERPYA v1.8.8</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.8-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>Servicio de Lectura de Romana 1.0.1</title>
       <link>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html</link>

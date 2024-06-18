@@ -6,6 +6,33 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.8.7",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.7.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.7.html",
+      "summary": "Fecha de Liberación: 2024-06-18 Novedades Corrección de Bug Se revierte funcionalidad de Importación Contexto Bug Detalle Técnico Bug Fix Enlaces relacionados",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-18</p>\n<h2> Novedades</h2>\n<p>Corrección de Bug <i class=\"fa-solid fa-bug\"></i></p>\n<p>Se revierte funcionalidad de Importación</p>\n<h2> Contexto</h2>\n<ul>\n<li>Bug</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Bug Fix</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.7\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.7</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/698\" target=\"_blank\" rel=\"noopener noreferrer\">Factura cuenta por pagar importaciones Austral Genera error Casos Día: 12/06/2024 Cant.1 #698</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-06-18T13:28:42.000Z",
+      "date_modified": "2024-06-18T13:28:42.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.8.8",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.8.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.8.html",
+      "summary": "Fecha de Liberación: 2024-06-18 Novedades Reporte de Retenciones Se agrega proceso para Imprimir Retenciones Proceso",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-18</p>\n<h2> Novedades</h2>\n<p>Reporte de Retenciones</p>\n<ul>\n<li>Se agrega proceso para Imprimir Retenciones</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.8-img1.png\" alt=\"Proceso\" tabindex=\"0\" loading=\"lazy\"><figcaption>Proceso</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Proceso para Imprimir Retenciones</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Process to Print Withholdings</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.8\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.8.8</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.8.8-img1.png",
+      "date_published": "2024-06-18T13:28:42.000Z",
+      "date_modified": "2024-06-18T13:28:42.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "Servicio de Lectura de Romana 1.0.1",
       "url": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html",
       "id": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html",
