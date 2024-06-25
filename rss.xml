@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 18 Jun 2024 13:33:36 GMT</pubDate>
-    <lastBuildDate>Tue, 18 Jun 2024 13:33:36 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Jun 2024 12:56:37 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:56:37 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -15,6 +15,77 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-1.8.9</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.9.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.9.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.8.9</source>
+      <description>Fecha de Liberación: 2024-06-25 Novedades Additional Report Corrección de Envio de Parametros al Reporte Jasper de Generar Retenciones Contexto Corrección de error Detalle Técnico Bug fix Enlaces relacionados</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 25 Jun 2024 12:51:14 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-25</p>
+<h2> Novedades</h2>
+<p>Additional Report</p>
+<p>Corrección de Envio de Parametros al Reporte Jasper de Generar Retenciones</p>
+<h2> Contexto</h2>
+<ul>
+<li>Corrección de error</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Bug fix</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.8.9" target="_blank" rel="noopener noreferrer">ERPYA v1.8.9</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-1.9.0</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.0.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.0.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.9.0</source>
+      <description>Fecha de Liberación: 2024-06-25 Novedades Análisis de Calidad Se agrega configuración en la ventana Tipo de Documento para decidir si se genera automaticamente un analisis de calidad. Quality Analysis</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 25 Jun 2024 12:51:14 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-25</p>
+<h2> Novedades</h2>
+<h3> Análisis de Calidad</h3>
+<p>Se agrega configuración en la ventana <strong>Tipo de Documento</strong> para decidir si se genera automaticamente un <strong>analisis de calidad</strong>.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img1.png" alt="Quality Analysis" tabindex="0" loading="lazy"><figcaption>Quality Analysis</figcaption></figure>
+<h3> Gestión de Materiales</h3>
+<p>Se agrega configuración en la ventana <strong>Tipo de Documento</strong> para decidir el tipo de documento del <strong>Movimiento de inventario</strong> en los documentos Generados desde una <strong>Orden de Distribución</strong>.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img2.png" alt="Material Management" tabindex="0" loading="lazy"><figcaption>Material Management</figcaption></figure>
+<h3> Proceso Generar Orden de Compra en Solicitud para Cotización</h3>
+<p>Se agrega soporte enlazar <strong>Orden de Compra Generada</strong> desde el proceso de <strong>Solicitud para Cotización a Requisición de Compra</strong>, si la <strong>Solicitud para Cotización</strong> fue creada desde la <strong>Requisición</strong>.</p>
+<h2> Contexto</h2>
+<ul>
+<li>Análisis de Calidad</li>
+<li>Gestión de Materiales</li>
+<li>Orden de Compra</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Quality analysis</li>
+<li>Materials Management Improvements</li>
+<li>Purchase order</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.0" target="_blank" rel="noopener noreferrer">ERPYA v1.9.0</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.8.7</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.7.html</link>
