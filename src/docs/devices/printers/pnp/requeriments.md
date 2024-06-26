@@ -15,7 +15,7 @@ Documentación validada por [**ERPCyA**](https://erpya.com/) para incrementar ta
 
 - **RIF / Cédula**: Permite un máximo de **12 Caracteres**
 
-- **Razón Social**: Permite un máximo de **80 Caracteres**
+- **Razón Social**: Permite un máximo de **38 Caracteres**
 
 - **Codigo de Producto e Informacion de Producto**: Permite un máximo de **85 Caracteres**
 
