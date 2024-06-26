@@ -35,4 +35,3 @@ Entre los Reportes de Nómina que se pueden encontrar dentro de ADempiere se enc
 - [Salario Acumulado para Utilidades](accumulated-salary-for-utilities)
 - [Generar TXT de Banavih](generate-banavih-txt)
 - [Porción Mensual Prestaciones Sociales](monthly-portion-social-benefits)
-================
