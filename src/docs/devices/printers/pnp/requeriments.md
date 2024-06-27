@@ -9,8 +9,6 @@ icon: gears
 
 Documentación validada por [**ERPCyA**](https://erpya.com/) para incrementar tamaños de caracteres por línea en la PF-300A
 
-![Descripción](/assets/img/docs/fiscal-printer/pf-300a.png)
-
 ## Detalles de la imagen
 
 - **RIF / Cédula**: Permite un máximo de **12 Caracteres**
