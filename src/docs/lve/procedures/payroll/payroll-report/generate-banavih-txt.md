@@ -40,12 +40,12 @@ Se presenta como ejemplo, un archivo que puede descargar en el enlace [N01050000
 - Al descargar el mismo, se puede visualizar de la siguiente manera.
 
 ~~~
-    V,000000052,EMPLEADO,ESTANDAR ,UNO,,1259500010,19102020,
-    V,00000091,EMPLEADO,ESTANDAR ,UNO,NUEVO ,1259500010,01032020,
-    V,00000055,EMPLEADO,ESTANDAR ,OTRO,NUEVO ,1259500010,01102019,
-    V,00000032,EMPLEADO,ESTANDAR ,DOS,,1259500010,12022019,
-    V,00000054,EMPLEADO,ESTANDAR ,DOS,NUEVO ,1259500010,23012020,
-    V,00000032,EMPLEADO,ESTANDAR ,OTRO,DOS ,1259500010,01022020,
+    V,000000052,Pedro,Jose ,Perez, Duarte,1259500010,19102020,
+    V,00000091,Maria,Jose ,Gonzales,Barrios ,1259500010,01032020,
+    V,00000055,Juana,Antonieta,Ramirez,Perez,1259500010,01102019,
+    V,00000032,Wilfredo,Antonio,Escalona,Del Valle,1259500010,12022019,
+    V,00000054,Jonathan,Jose,Uzcategui,Rodriguez,1259500010,23012020,
+    V,00000032,Jesus,Javier,Escalona,Montilla,1259500010,01022020,
 ~~~
 
 - Adicional a ello, se explica la extructura del mismo:
