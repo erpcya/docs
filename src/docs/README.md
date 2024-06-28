@@ -48,3 +48,7 @@ Tenga en cuenta que todo el ecosistema [ADempiere ERP](https://erpya.com/) se cr
 
 - [Gestión de Asistencia al Agricultor](verticals/fap)
 - [Gestión de Préstamos e Inversiones](verticals/investment-and-loan)
+
+## Localización Venezuela
+
+- [LVE](./lve/)
