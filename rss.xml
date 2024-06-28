@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 27 Jun 2024 14:54:09 GMT</pubDate>
-    <lastBuildDate>Thu, 27 Jun 2024 14:54:09 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Jun 2024 20:00:19 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Jun 2024 20:00:19 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -15,6 +15,26 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>1.2.2</title>
+      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.2.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.2.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">1.2.2</source>
+      <description>Fecha de Liberación: 2024-06-26 Novedades Se corrige problema con nombres mayores a 38 dígitos en impresoras PNP PF-300A Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 28 Jun 2024 19:55:12 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-26</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige problema con nombres mayores a <code>38</code> dígitos en impresoras <strong>PNP PF-300A</strong></li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.2-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
+<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.8.9</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.8.x/erpya-3.9.4-001-1.8.9.html</link>
@@ -458,10 +478,10 @@
 <li>Se define el servicio como un servicio genérico</li>
 <li>Se agrega licencia del producto en <strong>inglés</strong> y <strong>español</strong></li>
 </ul>
-<blockquote>
-<p>[!NOTE]<br>
-Los nombres cambiaron y para que todo funcione correctamente se debe ejecutar el desinstalador de la aplicación antes de instalar esta.</p>
-</blockquote>
+<div class="hint-container info">
+<p class="hint-container-title">Nota:</p>
+<p>Los nombres cambiaron y para que todo funcione correctamente se debe ejecutar el desinstalador de la aplicación antes de instalar esta.</p>
+</div>
 <h2> Enlaces relacionados</h2>
 <ul>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
