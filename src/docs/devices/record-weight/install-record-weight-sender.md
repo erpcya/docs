@@ -1,11 +1,11 @@
 ---
-title: Instalar Cliente de Lectura de Peso
+title: Instalación de servicio de peso romana
 category: Otros Servicios
 star: 9
 sticky: 9
 tag:
-  - Nosotros
-  - Servicios
+ - Nosotros
+ - Servicios
 
 article: false
 ---
@@ -14,86 +14,82 @@ Esta aplicación captura la Lectura de peso proveniente de una balanza conectada
 
 ## Requisitos
 
-- Sistema operativo Windows 10
-- [Dotnet SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) (Instalar la versión que corresponda a la arquitectura del Sistema operativo x86 o x64)
-- Instalador [Record-Weight-Sender-DotNet-x86](https://erpya.ams3.digitaloceanspaces.com/public/Record-Weight-Sender-DotNet-x86-rs-1.8.exe) ó [Record-Weight-Sender-DotNet-x64](https://erpya.ams3.digitaloceanspaces.com/public/Record-Weight-Sender-DotNet-x64-rs-1.8.exe)
-
-Versiones anteriores a la versión rs-1.8 requieren tener instalado [Dotnet SDK 3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1) en su versión x86
+- Sistema operativo Windows 10 o Superior
 
 ## Instalación
 
-Para efectos demostrativos se instala la versión de Record-Weight-Sender-DotNet-x64-rs-1.8, para las versiónes posteriores se deben seguir los mismos pasos.
+Para efectos demostrativos se instala la versión de ERP-Weight-Scale-Service-1.0.2-win-x64.exe para las versiones posteriores se deben seguir los mismos pasos.
 
 Ejecutar el instalador como Administrador.
 
 1. Ejecutar Instalador
 
-![0](/assets/img/about/other-services/devices/weight-sender-start-installer.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility12.png)
 
 Permisos de Instalación
 
 ![0](/assets/img/about/other-services/devices/weight-sender-permisions.png)
 
+Selección de Idioma
+
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility.png)
+
 Ventana de Bienvenida
 
-![0](/assets/img/about/other-services/devices/weight-sender-welcome.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility1.png)
 
 2. Licencia de la aplicación
 
-![0](/assets/img/about/other-services/devices/weight-sender-license.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility2.png)
 
 3. Ruta de Instalación
 
 La aplicación se instala por defecto en la siguiente ubicación:
 
 ~~~
-C:\Users\(Usuario de Windows)\AppData\Local\Record-Weight-Sender-DotNet
+C:\Program Files (x86)\ERP-Weight-Scale-Service
 ~~~
 
-![0](/assets/img/about/other-services/devices/weight-sender-install-path.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility3.png)
 
 4. Progreso Instalación
 
-![0](/assets/img/about/other-services/devices/weight-sender-progress-install.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility4.png)
 
 5. Finalizar Instalación
 
-![0](/assets/img/about/other-services/devices/weight-sender-install-finish.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility5.png)
 
-6. Icono creado en el Escritorio de Windows.
+6. Configurar los parámetros de la romana
 
-![0](/assets/img/about/other-services/devices/weight-sender-desktop-shortcut.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility6.png)
 
-7. Además se creara un Servicio de Windows con el Nombre de **Record Weight EPRCYA**
+7. Confirmar los parámetros de la romana
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service.png)
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility7.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-properties.png)
+8. Reiniciar el equipo para terminar con la configuración
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility13.png)
 
-## Configurar la aplicación para Lectura de peso
+## Visualizar el Servicio creado Con el nombre **ERP Servicio de Romana**
 
-La aplicaión se configura en dos etapas; la primera en el servicio de ADempiere y la segunda comprende actualizar los datos de la apliación instalada, Siendo el orden el que se muestra a continuación:
+Luego del reinicio de La máquina, Nos iremos al buscador de windows, Escribiremos **Servicio**
+y daremos clic
 
-### Problemas luego de instalar
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility8.png)
 
-En caso de que no se cree el icono en el escritorio luego de instalar, se debe verificar si el usuario con el que se realizo la Instalación tiene permisologia de Administrador.
+Y nos dirigirá a la pestaña servicio, Donde ubicamos **ERP Servicio de Romana** para confirmar que la instalación fue exitosa
 
-Se deben seguir los siguientes pasos:
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility9.png)
 
-1. Verificar que este creada la siguiente Ruta: `C:Users(Usuario de Windows)AppDataLocalRecord-Weight-Sender-DotNet` y a su vez en dicha ubicación existan los siguientes directorios:
+## Luego de esto y como último paso de instalación Iremos al visor de eventos
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-structure.png)
+Volveremos al buscador de Windows y escribimos **Visor de eventos** y daremos clic
 
-Debe existir la carpeta `resources` y una carpeta que en su nombre incluya las siguientes siglas **rs- (Ej. rs-1.8-win-x64)**
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility10.png)
 
-2. Verificar lo datos de conexión de la aplicación en el archivo **scale.yaml** en la carpeta **resources**.
+Al abrirnos la pestaña ubicamos Registro de aplicaciones y servicios, y daremos clic, luego daremos clic en ERP_weight_scale_log  y podremos visualizar todos los eventos que envíe nuestro servicio de romana a Adempiere.
 
-3. Si luego de lo anterior el problema persiste, es necesario verificar en el **Visor de Eventos en Windows** cual es la falla.
+![0](/assets/img/about/other-services/devices/roman-weight-service-facility11.png)
 
-![0](/assets/img/about/other-services/devices/weight-sender-folder-service-start-error.png)
-
-Para el caso del ejemplo la aplicacion se instalo sin permisologia de **Administrador**, y por esa razon durante la instalacion no se creo el archivo de configuracion **config_service.yaml** que usa el servicio para iniciar. En este caso la solucion es copiar el archivo a:
-
-~~~
-C:\WINDOWS\system32\
-~~~
+## Con esto damos por finalizado la instalación Del servicio de Romana
