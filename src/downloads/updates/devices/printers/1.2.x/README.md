@@ -13,5 +13,6 @@ article: false
 
 A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-1.2.x**
 
+- [1.2.2](1.2.2.md)
 - [1.2.1](1.2.1.md)
 - [1.2.0](1.2.0.md)
