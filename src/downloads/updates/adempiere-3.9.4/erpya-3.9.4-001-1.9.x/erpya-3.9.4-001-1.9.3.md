@@ -33,6 +33,7 @@ Todo en base al formato de exportación del **Banco del Tesoro** al descargar el
 ## Detalle Técnico
 
 - LVE
+- Bank Statement
 
 ## Enlaces relacionados
 
