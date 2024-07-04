@@ -6,6 +6,59 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.9.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.1.html",
+      "summary": "Fecha de Liberación: 2024-07-03 Novedades Localización Venezuela Se agrega soporte a generación de TXT de Cesta Ticket Se agrega Código de Cliente en la Información de la Organización",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-03</p>\n<h2> Novedades</h2>\n<h3> Localización Venezuela</h3>\n<p>Se agrega soporte a generación de <strong>TXT</strong> de <strong>Cesta Ticket</strong></p>\n<ul>\n<li>Se agrega <strong>Código de Cliente</strong> en la Información de la <strong>Organización</strong></li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.1-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<ul>\n<li>Se agrega <strong>Código de Categoría de Producto</strong>, <strong>Código de Producto</strong> y <strong>Punto de Entrega</strong> al reporte de nómina</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.1-img2.png\" alt=\"Imagen 2\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 2</figcaption></figure>\n<ul>\n<li>Se agrega clase para exportar TXT de Cesta Ticket <code>org.erpya.lve.util.CestaTicket</code></li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Localización Venezuela</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>LVE</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.9.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.1-img1.png",
+      "date_published": "2024-07-04T16:31:08.000Z",
+      "date_modified": "2024-07-04T16:31:08.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.9.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.2.html",
+      "summary": "Fecha de Liberación: 2024-07-03 Novedades Forecast Tools Se corrige las cantidades en Demanda, al Generar el Reabastecimiento desde el Forecast Se corrige el proceso para asignar Unidad de Medida al generar una Orden de Compra.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-03</p>\n<h2> Novedades</h2>\n<h3> Forecast Tools</h3>\n<ul>\n<li>\n<p>Se corrige las cantidades en <strong>Demanda</strong>, al <strong>Generar el Reabastecimiento desde el Forecast</strong></p>\n</li>\n<li>\n<p>Se corrige el proceso para asignar <strong>Unidad de Medida</strong> al generar una <strong>Orden de Compra</strong>.</p>\n</li>\n</ul>\n<h3> Base</h3>\n<ul>\n<li>Se corrige proceso de <strong>Generar Factura desde Orden de Salida para Asociar el Tipo de Documento del Proceso</strong></li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Forecast Tools</li>\n<li>Base</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Forecast Tools</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.9.2</a></li>\n<li><a href=\"https://github.com/erpcya/Control-NATULAC/issues/70\" target=\"_blank\" rel=\"noopener noreferrer\">Error en Reporte Forecast #70</a></li>\n<li><a href=\"https://github.com/erpcya/Control-NATULAC/issues/71\" target=\"_blank\" rel=\"noopener noreferrer\">Orden de Compra con Unidad de Medida Unidad #71</a></li>\n<li><a href=\"https://github.com/erpcya/Control-NATULAC/issues/68\" target=\"_blank\" rel=\"noopener noreferrer\">Soporte a Generar Factura desde Orden para Tipo de Documento por #68</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-07-04T16:31:08.000Z",
+      "date_modified": "2024-07-04T16:31:08.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.9.3",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.3.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.3.html",
+      "summary": "Fecha de Liberación: 2024-07-04 Novedades Localización Venezuela Se agrega cargador de extracto bancario para el Banco del Tesoro para los formatos: Tsv: org.erpya.lve.bank.imp.Tesoro_Loader_Tsv Csv: org.erpya.lve.bank.imp.Tesoro_Loader_Csv",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-04</p>\n<h2> Novedades</h2>\n<h3> Localización Venezuela</h3>\n<p>Se agrega cargador de extracto bancario para el Banco del Tesoro para los formatos:</p>\n<ul>\n<li><strong>Tsv</strong>: <code>org.erpya.lve.bank.imp.Tesoro_Loader_Tsv</code></li>\n<li><strong>Csv</strong>: <code>org.erpya.lve.bank.imp.Tesoro_Loader_Csv</code></li>\n</ul>\n<p>Todo en base al formato de exportación del <strong>Banco del Tesoro</strong> al descargar el estado de cuentas.</p>\n<h2> Contexto</h2>\n<ul>\n<li>Extracto Bancario</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>LVE</li>\n<li>Bank Statement</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.3\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.9.3</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-07-04T16:31:08.000Z",
+      "date_modified": "2024-07-04T16:31:08.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "Servicio de Lectura de Romana 1.0.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.2.html",
+      "summary": "Fecha de Liberación: 2024-07-04 Novedades Se corrige problema con datos en lectura de puerto Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-04</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se corrige problema con datos en lectura de puerto</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.2-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.2-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
+      "date_published": "2024-07-04T16:31:08.000Z",
+      "date_modified": "2024-07-04T16:31:08.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "1.2.2",
       "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.2.html",
       "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.2.html",
@@ -89,10 +142,10 @@
       "title": "Lista de versiones de Servicio de Lectura de Romana",
       "url": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/",
       "id": "https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/",
-      "summary": "A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal. 1.0.0 1.0.0",
-      "content_html": "<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>\n<ul>\n<li><a href=\"/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html\" target=\"blank\">1.0.0</a></li>\n<li><a href=\"/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html\" target=\"blank\">1.0.0</a></li>\n</ul>\n",
+      "summary": "A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal. 1.0.2 1.0.1 1.0.0",
+      "content_html": "<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>\n<ul>\n<li><a href=\"/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.2.html\" target=\"blank\">1.0.2</a></li>\n<li><a href=\"/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html\" target=\"blank\">1.0.1</a></li>\n<li><a href=\"/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html\" target=\"blank\">1.0.0</a></li>\n</ul>\n",
       "date_published": "2024-06-14T19:01:39.000Z",
-      "date_modified": "2024-06-17T14:35:05.000Z",
+      "date_modified": "2024-07-04T16:31:08.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
