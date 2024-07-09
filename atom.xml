@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-07-04T19:57:57.478Z</updated>
+  <updated>2024-07-09T13:35:28.203Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -18,6 +18,73 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.9.4</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.4.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.4.html"/>
+    <updated>2024-07-09T13:30:24.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-05</p>
+<h2> Novedades</h2>
+<h3> Localización Venezuela</h3>
+<p>Se agrega soporte a carga de extracto bancario para los bancos:</p>
+<ul>
+<li>
+<p><strong>Banco del Tesoro</strong></p>
+<ul>
+<li>Archivo Separado por Comas (CSV): <code>org.erpya.lve.bank.imp.Tesoro_Loader_Csv</code></li>
+<li>Archivo Separado por Tabuladores (TSV): <code>org.erpya.lve.bank.imp.Tesoro_Loader_Tsv</code></li>
+<li>Archivo Separado por Pipe (PSV): org.erpya.<code>lve.bank.imp.Tesoro_Loader_Psv</code></li>
+<li>Archivo Separado por Punto y Coma (SSV): <code>org.erpya.lve.bank.imp.Tesoro_Loader_Ssv</code></li>
+</ul>
+</li>
+<li>
+<p><strong>Banco de Venezuela</strong></p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-05</p>
+<h2> Novedades</h2>
+<h3> Localización Venezuela</h3>
+<p>Se agrega soporte a carga de extracto bancario para los bancos:</p>
+<ul>
+<li>
+<p><strong>Banco del Tesoro</strong></p>
+<ul>
+<li>Archivo Separado por Comas (CSV): <code>org.erpya.lve.bank.imp.Tesoro_Loader_Csv</code></li>
+<li>Archivo Separado por Tabuladores (TSV): <code>org.erpya.lve.bank.imp.Tesoro_Loader_Tsv</code></li>
+<li>Archivo Separado por Pipe (PSV): org.erpya.<code>lve.bank.imp.Tesoro_Loader_Psv</code></li>
+<li>Archivo Separado por Punto y Coma (SSV): <code>org.erpya.lve.bank.imp.Tesoro_Loader_Ssv</code></li>
+</ul>
+</li>
+<li>
+<p><strong>Banco de Venezuela</strong></p>
+</li>
+</ul>
+<p>Archivo Personalizado de Venezuela Separado por tres (3) o más espacios en blanco (TXT): <code>org.erpya.lve.bank.imp.Venezuela_Loader_v1</code></p>
+<h3> Base</h3>
+<p>Se corrige proceso Generar Factura desde Linea de la Orden para que tome el tipo de documento desde el parametro del reporte</p>
+<h2> Contexto</h2>
+<ul>
+<li>Extracto Bancario</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>LVE</li>
+<li>Bank Statement</li>
+</ul>
+<h2> Referencia</h2>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/75" target="_blank" rel="noopener noreferrer">Generar Factura desde Línea de la Orden #75</a></p>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.4" target="_blank" rel="noopener noreferrer">ERPYA v1.9.4</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-09T13:30:24.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-1.9.1</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.1.html</id>
