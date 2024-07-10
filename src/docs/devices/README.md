@@ -18,3 +18,5 @@ article: false
 - [Impresoras](./printers)
 
 - [Lectura de Peso desde Romanas](./record-weight)
+
+- [Control de Asistencia](./attendance-control/)
