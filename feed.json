@@ -6,6 +6,32 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-1.9.5",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.5.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.5.html",
+      "summary": "Fecha de Liberación: 2024-07-12 Novedades ADempiere Base Se corrige proceso para Generar Factura desde Linea de la Orden Contexto ADempiere Base Detalle Técnico Factura Referencia",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-12</p>\n<h2> Novedades</h2>\n<h3> ADempiere Base</h3>\n<p>Se corrige proceso para <strong>Generar Factura desde Linea de la Orden</strong></p>\n<h2> Contexto</h2>\n<ul>\n<li>ADempiere Base</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Factura</li>\n</ul>\n<h2> Referencia</h2>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/75\" target=\"_blank\" rel=\"noopener noreferrer\">Generar Factura desde Línea de la Orden #75</a></p>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.5\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.9.5</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-07-12T15:59:15.000Z",
+      "date_modified": "2024-07-12T15:59:15.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-1.9.6",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.6.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.6.html",
+      "summary": "Fecha de Liberación: 2024-07-12 Novedades Localización Venezuela Se agrega importador para extracto bancario del Banco Nacional de Crédito (BNC), este toma como referencia el archivo txt generado por el banco y que es separado por tabuladores org.erpya.lve.bank.imp.BNC_Loader_Tsv",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-12</p>\n<h2> Novedades</h2>\n<h3> Localización Venezuela</h3>\n<p>Se agrega importador para extracto bancario del <strong>Banco Nacional de Crédito (BNC)</strong>, este toma como referencia el archivo txt generado por el banco y que es separado por tabuladores <code>org.erpya.lve.bank.imp.BNC_Loader_Tsv</code></p>\n<h3> Reabastecimiento</h3>\n<ul>\n<li>Se corrige error al generar orden de compra desde el reporte de reabastecimiento. El mismo generaba las lineas con la unidad de medida <strong>Unidad</strong> en lugar de utilizar la unidad de medida del producto.</li>\n</ul>\n<h3> Intercompañía</h3>\n<p>Se corrige problema con redondeo de precio al generar la orden de venta intercompañía de manera automática desde una orden de compra configurada como contra-documento.</p>\n<h2> Contexto</h2>\n<ul>\n<li>LVE</li>\n<li>Reabastecimiento</li>\n<li>Intercompañía</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Factura</li>\n</ul>\n<h2> Referencia</h2>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/679\" target=\"_blank\" rel=\"noopener noreferrer\">Extracto: Banco Nacional de Crédito #679</a></p>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/66\" target=\"_blank\" rel=\"noopener noreferrer\">[Bug Report] Error con unidad de medida de Reabastecimiento #66</a></p>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/67\" target=\"_blank\" rel=\"noopener noreferrer\">[Bug Report] Diferencia en lista de precios (Intercompañía) #67</a></p>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/742\" target=\"_blank\" rel=\"noopener noreferrer\">Diferencia en lista de precios Intercompañia Casos Día: 04/07/2024 Cant. 1 #742</a></p>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.6\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.9.6</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/discussions/14\" target=\"_blank\" rel=\"noopener noreferrer\">Referencia de Discusión: #14</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-07-12T15:59:15.000Z",
+      "date_modified": "2024-07-12T15:59:15.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "Control de Asistencia",
       "url": "https://docs-md.erpya.com/docs/devices/attendance-control/",
       "id": "https://docs-md.erpya.com/docs/devices/attendance-control/",
