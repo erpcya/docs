@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 16 Jul 2024 19:12:21 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jul 2024 19:12:21 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Jul 2024 22:29:41 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Jul 2024 22:29:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,6 +16,39 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-2.0.1</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.0.1</source>
+      <description>Fecha de Liberación: 2024-07-16 Novedades Complementos para clientes de ADempiere Se agrega proceso para generar retenciones con parámetro Acción de Documento para los casos de IGTF Fiscales. Contexto</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 16 Jul 2024 22:24:27 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-16</p>
+<h2> Novedades</h2>
+<h3> Complementos para clientes de ADempiere</h3>
+<ul>
+<li>Se agrega proceso para generar retenciones con parámetro <strong>Acción de Documento</strong> para los casos de <strong>IGTF Fiscales</strong>.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>IGTF</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Adempiere Customer Addons</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.1" target="_blank" rel="noopener noreferrer">ERPYA v2.0.1</a></li>
+</ul>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/67" target="_blank" rel="noopener noreferrer">Soporte a Generar Retención para Tipo de Documento #67</a></p>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-1.5.7</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html</link>
@@ -1881,7 +1914,7 @@
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
     </item>

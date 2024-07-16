@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-07-16T19:12:21.817Z</updated>
+  <updated>2024-07-16T22:29:41.597Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -19,6 +19,45 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.0.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html"/>
+    <updated>2024-07-16T22:24:27.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-16</p>
+<h2> Novedades</h2>
+<h3> Complementos para clientes de ADempiere</h3>
+<ul>
+<li>Se agrega proceso para generar retenciones con parámetro <strong>Acción de Documento</strong> para los casos de <strong>IGTF Fiscales</strong>.</li>
+</ul>
+<h2> Contexto</h2>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-16</p>
+<h2> Novedades</h2>
+<h3> Complementos para clientes de ADempiere</h3>
+<ul>
+<li>Se agrega proceso para generar retenciones con parámetro <strong>Acción de Documento</strong> para los casos de <strong>IGTF Fiscales</strong>.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>IGTF</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Adempiere Customer Addons</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.1" target="_blank" rel="noopener noreferrer">ERPYA v2.0.1</a></li>
+</ul>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/67" target="_blank" rel="noopener noreferrer">Soporte a Generar Retención para Tipo de Documento #67</a></p>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-16T22:24:27.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-1.5.7</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html</id>
@@ -2178,7 +2217,7 @@
     <title type="text">erpya-3.9.4-001-2.0.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.0.html"/>
-    <updated>2024-07-16T13:27:07.000Z</updated>
+    <updated>2024-07-16T22:24:27.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-15</p>
 <h2> Novedades</h2>
 <h3> Gestión de la Fuerza de Ventas</h3>
@@ -2232,7 +2271,7 @@
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
