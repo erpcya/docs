@@ -54,4 +54,4 @@ article: true
 
 ## Requerimientos
 
-- No se requieren procesos adicionales por aplicar.
+- Se requieren procesos adicionales por aplicar.
