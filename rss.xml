@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 16 Jul 2024 22:29:41 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jul 2024 22:29:41 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Jul 2024 15:57:53 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Jul 2024 15:57:53 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,6 +16,84 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-2.0.2</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.2.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.2.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.0.2</source>
+      <description>Fecha de Liberación: 2024-07-18 Novedades Validación de Stock en Orden de Venta Se agrega configuración para Validar Disponibilidad al Completar quedando el Tilde de validar disponibilidad al guardar la linea con el tilde Validar Disponibilidad y al Completar con el tilde Validar Disponibilidad al Completar, para las Ordenes de Venta tipo Propuesta la validación se ejecuta en el Evento Preparar.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Thu, 18 Jul 2024 15:52:32 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-18</p>
+<h2> Novedades</h2>
+<h3> Validación de Stock en Orden de Venta</h3>
+<ul>
+<li>Se agrega configuración para Validar Disponibilidad al Completar quedando el Tilde de validar disponibilidad al guardar la linea con el tilde <code>Validar Disponibilidad</code> y al Completar con el tilde <code>Validar Disponibilidad al Completar</code>, para las Ordenes de Venta tipo Propuesta la validación se ejecuta en el Evento <code>Preparar</code>.</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.2-img1.png" alt="Imagen 1" tabindex="0" loading="lazy"><figcaption>Imagen 1</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Stock en Orden de Venta</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Orden de Venta</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.2" target="_blank" rel="noopener noreferrer">ERPYA v2.0.2</a></li>
+</ul>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/83" target="_blank" rel="noopener noreferrer">Validación en Acción Preparar #83</a></p>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.2-img1.png" type="image/png"/>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-2.0.3</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.3.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.3.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.0.3</source>
+      <description>Fecha de Liberación: 2024-07-18 Novedades Mejoras en la gestión de materiales Configuracion de Tipo de Documento para los Movimientos de Inventario en Transito Configuración: Imagen 1</description>
+      <category>Actualizaciones</category>
+      <pubDate>Thu, 18 Jul 2024 15:52:32 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-18</p>
+<h2> Novedades</h2>
+<h3> Mejoras en la gestión de materiales</h3>
+<ul>
+<li>Configuracion de Tipo de Documento para los Movimientos de Inventario en Transito</li>
+</ul>
+<p>Configuración:</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.3-img1.png" alt="Imagen 1" tabindex="0" loading="lazy"><figcaption>Imagen 1</figcaption></figure>
+<h3> Mejora del sistema de gestión de almacenes</h3>
+<ul>
+<li>Corrección en proceso de <code>Generar Orden de Salida desde las Ordenes de Venta</code></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Gestión de Materiales</li>
+<li>Sistema de Gestión de Almacenes</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Materials Management Improvements</li>
+<li>Warehouse Management System Improvement</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.3" target="_blank" rel="noopener noreferrer">ERPYA v2.0.3</a></li>
+</ul>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/84" target="_blank" rel="noopener noreferrer">Movimientos de Inventario #84</a></p>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/85" target="_blank" rel="noopener noreferrer">Error en Orden de Salida Automática #85</a></p>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.3-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.0.1</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html</link>
