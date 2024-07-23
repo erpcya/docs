@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-07-18T15:57:53.847Z</updated>
+  <updated>2024-07-23T21:02:20.445Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -19,6 +19,106 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.0.4</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.4.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.4.html"/>
+    <updated>2024-07-23T20:56:41.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-23</p>
+<h2> Novedades</h2>
+<h3> Comisiones</h3>
+<ul>
+<li>Se agrega una nueva funcionalidad para permitir customizar las comisiones al nivel de cliente</li>
+</ul>
+<h3> Mejora del sistema de gestión de almacenes</h3>
+<ul>
+<li>Corrección en proceso de <code>Generar Orden de Salida desde las Ordenes de Venta</code></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-23</p>
+<h2> Novedades</h2>
+<h3> Comisiones</h3>
+<ul>
+<li>Se agrega una nueva funcionalidad para permitir customizar las comisiones al nivel de cliente</li>
+</ul>
+<h3> Mejora del sistema de gestión de almacenes</h3>
+<ul>
+<li>Corrección en proceso de <code>Generar Orden de Salida desde las Ordenes de Venta</code></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Comisiones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Commissions</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.4" target="_blank" rel="noopener noreferrer">ERPYA v2.0.4</a></li>
+</ul>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/27" target="_blank" rel="noopener noreferrer">Desarrollo de Comisiones #27</a><br>
+<a href="https://github.com/erpcya/Control-NATULAC/issues/82" target="_blank" rel="noopener noreferrer">Activación: Cuando es la Primera Venta #82</a><br>
+<a href="https://github.com/erpcya/Control-NATULAC/issues/78" target="_blank" rel="noopener noreferrer">Total Cobranza: Incluye Parciales #78</a><br>
+<a href="https://github.com/erpcya/Control-NATULAC/issues/79" target="_blank" rel="noopener noreferrer">Cobranza Efectiva: Total Cobranza #79</a><br>
+<a href="https://github.com/erpcya/Control-NATULAC/issues/80" target="_blank" rel="noopener noreferrer">Volumen: Forecast Vs Ventas #80</a><br>
+<a href="https://github.com/erpcya/Control-NATULAC/issues/81" target="_blank" rel="noopener noreferrer">Impulsar Producto: % Simple #81</a></p>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-23T20:56:41.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.0.5</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.5.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.5.html"/>
+    <updated>2024-07-23T20:56:41.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-23</p>
+<h2> Novedades</h2>
+<h3> Complementos del Cliente</h3>
+<ul>
+<li>Se remueve soporte a establecer el campo manual dependiendo de la acción del Documento</li>
+</ul>
+<h3> Retención de Impuestos a Grandes Transacciones</h3>
+<ul>
+<li>Se agrega soporte a que siempre la pre-retención sea manual</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-23</p>
+<h2> Novedades</h2>
+<h3> Complementos del Cliente</h3>
+<ul>
+<li>Se remueve soporte a establecer el campo manual dependiendo de la acción del Documento</li>
+</ul>
+<h3> Retención de Impuestos a Grandes Transacciones</h3>
+<ul>
+<li>Se agrega soporte a que siempre la pre-retención sea manual</li>
+</ul>
+<h4> Version de la logica</h4>
+<ul>
+<li><code>org.spin.lve.at.util.TBTT_Withholding_v2</code></li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Comisiones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Commissions</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.5" target="_blank" rel="noopener noreferrer">ERPYA v2.0.5</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-23T20:56:41.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.0.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.2.html</id>
