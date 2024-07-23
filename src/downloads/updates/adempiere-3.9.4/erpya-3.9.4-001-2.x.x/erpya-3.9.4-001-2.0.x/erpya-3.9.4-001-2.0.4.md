@@ -21,10 +21,6 @@ article: true
 
 - Se agrega una nueva funcionalidad para permitir customizar las comisiones al nivel de cliente
 
-Configuración:
-
-![Imagen 1](/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.4-img1.png)
-
 ### Mejora del sistema de gestión de almacenes
 
 - Corrección en proceso de `Generar Orden de Salida desde las Ordenes de Venta`
