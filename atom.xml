@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-07-23T21:02:20.445Z</updated>
+  <updated>2024-07-25T15:19:10.345Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -19,6 +19,66 @@
   <contributor>
     <name>Waditza Rivas</name>
   </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.0.6</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.6.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.6.html"/>
+    <updated>2024-07-25T15:13:42.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-25</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega cálculo basado en <a href="https://github.com/erpcya/Control-NATULAC/issues/82" target="_blank" rel="noopener noreferrer">Activación: Clientes Atendidos vs Asignados</a></li>
+<li>Se agrega cálculo basado en <a href="https://github.com/erpcya/Control-NATULAC/issues/79" target="_blank" rel="noopener noreferrer">Cobranza Efectiva: Total Cobranza</a></li>
+<li>Se agrega cálculo basado en <a href="https://github.com/erpcya/Control-NATULAC/issues/80" target="_blank" rel="noopener noreferrer">Volumen: Forecast Vs Ventas</a></li>
+<li>Se agrega funcionalidad para permitir jerarquías entre puestos de trabajo (referencia <code>legacy</code> de adempiere en el usuario)</li>
+<li>Se agrega funcionalidad para cálculo de comisiones sobre jefes, directivos entre otros</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-25</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega cálculo basado en <a href="https://github.com/erpcya/Control-NATULAC/issues/82" target="_blank" rel="noopener noreferrer">Activación: Clientes Atendidos vs Asignados</a></li>
+<li>Se agrega cálculo basado en <a href="https://github.com/erpcya/Control-NATULAC/issues/79" target="_blank" rel="noopener noreferrer">Cobranza Efectiva: Total Cobranza</a></li>
+<li>Se agrega cálculo basado en <a href="https://github.com/erpcya/Control-NATULAC/issues/80" target="_blank" rel="noopener noreferrer">Volumen: Forecast Vs Ventas</a></li>
+<li>Se agrega funcionalidad para permitir jerarquías entre puestos de trabajo (referencia <code>legacy</code> de adempiere en el usuario)</li>
+<li>Se agrega funcionalidad para cálculo de comisiones sobre jefes, directivos entre otros</li>
+</ul>
+<h3> ¿Cómo se Configura la Jerarquía?</h3>
+<p>La jerarquía se encuentra por <strong>Posición</strong>, para agregar la <strong>Posición</strong> simplemente lo puede asignar en el usuario desde la ventana <strong>Socio de Negocio</strong></p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img1.png" alt="Configurar Jerarquía" tabindex="0" loading="lazy"><figcaption>Configurar Jerarquía</figcaption></figure>
+<hr>
+<p>La jerarquía define los niveles que se encuentran entre los vendedores y sus supervisores, realmente son puestos de trabajos y la relación entre ellos es a través de un campo que se llama <strong>Supervisor</strong>.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img2.png" alt="Supervisor" tabindex="0" loading="lazy"><figcaption>Supervisor</figcaption></figure>
+<hr>
+<h3> ¿Dónde se define el Monto del Vendedor?</h3>
+<p>Hay dos maneras de hacerlo:</p>
+<ul>
+<li>Por Vendedor en las comisiones: Esto únicamente aplicará para la comisión a la que se asigna</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img3.png" alt="Vendedor" tabindex="0" loading="lazy"><figcaption>Vendedor</figcaption></figure>
+<ul>
+<li>Por Posición: Esto aplica para todas las comisiones a las que se asigne el vendedor y lo sobrescribe el monto por comisión si existe</li>
+</ul>
+<p>El valor del <strong>monto</strong> se expresa en la moneda de la comisión que se está ejecutando</p>
+<h2> Contexto</h2>
+<ul>
+<li>Comisiones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Commissions</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.6" target="_blank" rel="noopener noreferrer">ERPYA v2.0.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-25T15:13:42.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.0.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.4.html</id>
