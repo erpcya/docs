@@ -6,6 +6,47 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-2.0.7",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.7.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.7.html",
+      "summary": "Fecha de Liberación: 2024-07-29 Novedades Mejoras en la gestión de almacenes Se agrega soporte a anular las ordenes de salida al momento de reactivar una Orden de Venta que genera una Orden de Salida de manera automatica Se agrega acercador entre Orden de Venta y Orden de Salida",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-29</p>\n<h2> Novedades</h2>\n<h3> Mejoras en la gestión de almacenes</h3>\n<ul>\n<li>\n<p>Se agrega soporte a anular las ordenes de salida al momento de reactivar una Orden de Venta que genera una Orden de Salida de manera automatica</p>\n</li>\n<li>\n<p>Se agrega acercador entre Orden de Venta y Orden de Salida</p>\n</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.7-img1.png\" alt=\"Acercador\" tabindex=\"0\" loading=\"lazy\"><figcaption>Acercador</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Almacenes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Warehouse Management</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.7\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.7</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.7-img1.png",
+      "date_published": "2024-07-29T16:04:48.000Z",
+      "date_modified": "2024-07-29T16:04:48.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.0.8",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.8.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.8.html",
+      "summary": "Fecha de Liberación: 2024-07-29 Novedades Sistema de Administración de Inventario Corrección en proceso de Anulación de Orden de Salida al Reactivar Orden de Venta. Contexto Gestión de Almacenes Detalle Técnico",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-29</p>\n<h2> Novedades</h2>\n<h3> Sistema de Administración de Inventario</h3>\n<ul>\n<li>Corrección en proceso de Anulación de Orden de Salida al Reactivar Orden de Venta.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Almacenes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Warehouse Management</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.8\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.8</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/85\" target=\"_blank\" rel=\"noopener noreferrer\">Error en Orden de Salida Automática #85</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-07-29T16:04:48.000Z",
+      "date_modified": "2024-07-29T16:04:48.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.0.9",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.9.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.9.html",
+      "summary": "Fecha de Liberación: 2024-07-29 Novedades Operador Logístico (Personalizado) Se agrega TXT para reporte de Detalle de Orden de Distribución. Criterio El almacén lo toma del almacén asociado a la ubicación de la linea de orden de distribución M_Locator_ID El precio lo toma de la lista de precio asociada al socio de negocio, si el socio de negocio no tiene lista de precio toma la lista de precio predereminada de venta y si no tiene da un error La condición de pago quedó hardcodeada con la palabra CONTADO",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-29</p>\n<h2> Novedades</h2>\n<h2> Operador Logístico (Personalizado)</h2>\n<ul>\n<li>Se agrega <strong>TXT</strong> para reporte de <strong>Detalle de Orden de Distribución</strong>.</li>\n</ul>\n<h3> Criterio</h3>\n<ul>\n<li>\n<p>El almacén lo toma del almacén asociado a la ubicación de la linea de orden de distribución <code>M_Locator_ID</code></p>\n</li>\n<li>\n<p>El precio lo toma de la lista de precio asociada al socio de negocio, si el socio de negocio no tiene lista de precio toma la lista de precio predereminada de venta y si no tiene da un error</p>\n</li>\n<li>\n<p>La condición de pago quedó hardcodeada con la palabra <code>CONTADO</code></p>\n</li>\n</ul>\n<h3> ¿Dónde se exporta el TXT?</h3>\n<p>En el reporte <strong>Detalle de Orden de Distribución</strong>.</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img1.png\" alt=\"Reporte\" tabindex=\"0\" loading=\"lazy\"><figcaption>Reporte</figcaption></figure>\n<h3> ¿Cómo se debería ver el formato como compañía?</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img2.png\" alt=\"Reporte\" tabindex=\"0\" loading=\"lazy\"><figcaption>Reporte</figcaption></figure>\n<h2> Gestion Avanzada de Almacenes</h2>\n<p>Se agrega Consulta Inteligente para Generar Entrega y Factura desde una Orden de Saida</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img3.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img4.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Almacenes</li>\n<li>Detalle de Orden de Distribución</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Warehouse Management</li>\n<li>Distribution Order Detail</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.9\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.9</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/87\" target=\"_blank\" rel=\"noopener noreferrer\">TXT de Orden de Distribución #87</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere-customer-addons/releases/tag/1.0.6\" target=\"_blank\" rel=\"noopener noreferrer\">Customer Addons v1.0.6</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/68\" target=\"_blank\" rel=\"noopener noreferrer\">Add Browse for Generate Shipment / Invoice from OutBound Order #68</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img1.png",
+      "date_published": "2024-07-29T16:04:48.000Z",
+      "date_modified": "2024-07-29T16:04:48.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.0.6",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.6.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.6.html",
