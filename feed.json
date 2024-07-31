@@ -6,6 +6,20 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-2.1.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.0.html",
+      "summary": "Fecha de Liberación: 2024-07-31 Novedades Comisiones Se corrige cálculo de comisiones en base a cobranza vs pronóstico Mejoras en el sistema de gestión de almacenes Se agrega accion para que al crear una orden de salida la cantidad escogida se establezca basad en la cantidad movida",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-31</p>\n<h2> Novedades</h2>\n<h3> Comisiones</h3>\n<ul>\n<li>Se corrige cálculo de comisiones en base a cobranza vs pronóstico</li>\n</ul>\n<h3> Mejoras en el sistema de gestión de almacenes</h3>\n<ul>\n<li>Se agrega accion para que al crear una orden de salida la cantidad escogida se establezca basad en la cantidad movida</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.1.0-img1.png\" alt=\"Warehouse\" tabindex=\"0\" loading=\"lazy\"><figcaption>Warehouse</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Almacenes</li>\n<li>Comisiones</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Improvements Warehouse Management System</li>\n<li>Commission</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.1.0\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.1.0</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/27\" target=\"_blank\" rel=\"noopener noreferrer\">Desarrollo de Comisiones #27</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/82\" target=\"_blank\" rel=\"noopener noreferrer\">Activación: Cuando es la Primera Venta #82</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/78\" target=\"_blank\" rel=\"noopener noreferrer\">Total Cobranza: Incluye Parciales #78</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/79\" target=\"_blank\" rel=\"noopener noreferrer\">Cobranza Efectiva: Total Cobranza #79</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/80\" target=\"_blank\" rel=\"noopener noreferrer\">Volumen: Forecast Vs Ventas #80</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/81\" target=\"_blank\" rel=\"noopener noreferrer\">Impulsar Producto: % Simple #81</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.1.0-img1.png",
+      "date_published": "2024-07-31T15:29:54.000Z",
+      "date_modified": "2024-07-31T15:29:54.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.0.7",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.7.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.7.html",
