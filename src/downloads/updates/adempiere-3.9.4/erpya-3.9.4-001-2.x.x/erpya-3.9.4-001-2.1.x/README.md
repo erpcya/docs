@@ -7,10 +7,11 @@ sticky: 9
 tag:
   - Actualizaciones
   - Versiones
-  - rs-2.0.x
+  - rs-2.1.x
 article: false
 ---
 
-A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-2.0.x**
+A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-2.1.x**
 
+- [erpya-3.9.4-001-2.1.1](erpya-3.9.4-001-2.1.1.md)
 - [erpya-3.9.4-001-2.1.0](erpya-3.9.4-001-2.1.0.md)
