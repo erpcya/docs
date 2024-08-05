@@ -6,6 +6,32 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-2.1.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.2.html",
+      "summary": "Fecha de Liberación: 2024-08-02 Novedades Personalizaciones de Clientes Se cambia el codigo del Representante de Ventas por el Código del Socio del Negocio Asociado al Usuario Se corrigen las cantidades en los TXT de Operador Logistico de Orden de Venta y Distribución.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-08-02</p>\n<h2> Novedades</h2>\n<h3> Personalizaciones de Clientes</h3>\n<ul>\n<li>Se cambia el codigo del Representante de Ventas por el Código del Socio del Negocio Asociado al Usuario</li>\n<li>Se corrigen las cantidades en los <code>TXT</code> de <strong>Operador Logistico de Orden de Venta y Distribución</strong>.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Personalizaciones de Clientes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Customer Customizations</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.1.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.1.2</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/89\" target=\"_blank\" rel=\"noopener noreferrer\">Error en TXT Operador Logístico Caracas(Ordenes) #89</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-08-05T12:16:10.000Z",
+      "date_modified": "2024-08-05T12:16:10.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.1.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.1.html",
+      "summary": "Fecha de Liberación: 2024-08-01 Novedades Formulario Generar Orden de Salida Parche de Formulario de Generar Orden de Salida desde pull request adempiere/adempiere#4221",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-08-01</p>\n<h2> Novedades</h2>\n<h3> Formulario Generar Orden de Salida</h3>\n<p>Parche de <strong>Formulario de Generar Orden de Salida</strong> desde pull request <a href=\"https://github.com/adempiere/adempiere/pull/4221\" target=\"_blank\" rel=\"noopener noreferrer\">adempiere/adempiere#4221</a></p>\n<h3> Proceso de Importación de Inventario</h3>\n<ul>\n<li>Corrección de clave unica al importar inventario de prodcutos con instancia de atributos</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Formulario</li>\n<li>Inventario</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Generate Output Order Form</li>\n<li>Inventory Import Process</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.1.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.1.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2024-08-01T13:09:13.000Z",
+      "date_modified": "2024-08-01T13:09:13.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.1.0",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.0.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.0.html",

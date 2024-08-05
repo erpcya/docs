@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 31 Jul 2024 15:39:31 GMT</pubDate>
-    <lastBuildDate>Wed, 31 Jul 2024 15:39:31 GMT</lastBuildDate>
+    <pubDate>Mon, 05 Aug 2024 12:21:43 GMT</pubDate>
+    <lastBuildDate>Mon, 05 Aug 2024 12:21:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,6 +16,80 @@
     <category>Noticias</category>
     <category>Documentation</category>
     <category>Nosotros</category>
+    <item>
+      <title>erpya-3.9.4-001-2.1.2</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.2.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.2.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.1.2</source>
+      <description>Fecha de Liberación: 2024-08-02 Novedades Personalizaciones de Clientes Se cambia el codigo del Representante de Ventas por el Código del Socio del Negocio Asociado al Usuario Se corrigen las cantidades en los TXT de Operador Logistico de Orden de Venta y Distribución.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Mon, 05 Aug 2024 12:16:10 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-02</p>
+<h2> Novedades</h2>
+<h3> Personalizaciones de Clientes</h3>
+<ul>
+<li>Se cambia el codigo del Representante de Ventas por el Código del Socio del Negocio Asociado al Usuario</li>
+<li>Se corrigen las cantidades en los <code>TXT</code> de <strong>Operador Logistico de Orden de Venta y Distribución</strong>.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Personalizaciones de Clientes</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Customer Customizations</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.1.2" target="_blank" rel="noopener noreferrer">ERPYA v2.1.2</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/89" target="_blank" rel="noopener noreferrer">Error en TXT Operador Logístico Caracas(Ordenes) #89</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-2.1.1</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.1.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.1.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.1.1</source>
+      <description>Fecha de Liberación: 2024-08-01 Novedades Formulario Generar Orden de Salida Parche de Formulario de Generar Orden de Salida desde pull request adempiere/adempiere#4221</description>
+      <category>Actualizaciones</category>
+      <pubDate>Thu, 01 Aug 2024 13:09:13 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-01</p>
+<h2> Novedades</h2>
+<h3> Formulario Generar Orden de Salida</h3>
+<p>Parche de <strong>Formulario de Generar Orden de Salida</strong> desde pull request <a href="https://github.com/adempiere/adempiere/pull/4221" target="_blank" rel="noopener noreferrer">adempiere/adempiere#4221</a></p>
+<h3> Proceso de Importación de Inventario</h3>
+<ul>
+<li>Corrección de clave unica al importar inventario de prodcutos con instancia de atributos</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Formulario</li>
+<li>Inventario</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Generate Output Order Form</li>
+<li>Inventory Import Process</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.1.1" target="_blank" rel="noopener noreferrer">ERPYA v2.1.1</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.1.0</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.1.x/erpya-3.9.4-001-2.1.0.html</link>
