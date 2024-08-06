@@ -72,6 +72,7 @@ export const enNavbarConfig = navbar([
         children: [
           "devices/record-weight/",
           "devices/printers",
+          "devices/attendance-control",
         ],
       },
       {

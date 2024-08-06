@@ -52,7 +52,7 @@ La fecha en la que fue realizado el registro de la orden de compra, es visualiza
 
 Imagen 6. Campo F. Documento de la Pestaña Conversión de Moneda de la Orden de Compra
 
-En el campo **Moneda**, se puede visualizar la modena de la negociación de la orden de compra.
+En el campo **Moneda**, se puede visualizar la moneda de la negociación de la orden de compra.
 
 ![Campo](/assets/img/docs/purchase-management/pum-purchase-image94.png)
 

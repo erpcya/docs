@@ -1,5 +1,5 @@
 ---
-title: ADempiere 3.9.4
+title: Versiones de ADempiere erpya-3.9.4-001-2.x.x
 icon: laptop-code
 category: Actualizaciones
 star: 9
@@ -21,5 +21,5 @@ Todas las versiones oficiales de [ERPyA](https://erpya.com/) se encuentran a con
 
 A continuación se encuentra una lista de cada **macro versión**, tómate tu tiempo para ver cada una de ellas si lo deseas.
 
-- [erpya-3.9.4-001-2.x.x](./erpya-3.9.4-001-2.x.x/)
-- [erpya-3.9.4-001-1.x.x](./erpya-3.9.4-001-1.x.x/)
+- [erpya-3.9.4-001-2.1.x](./erpya-3.9.4-001-2.1.x/)
+- [erpya-3.9.4-001-2.0.x](./erpya-3.9.4-001-2.0.x/)
