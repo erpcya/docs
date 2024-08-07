@@ -16,7 +16,7 @@ La descarga de cada estado de cuenta bancario va a variar según el banco que es
 
 ### Extracto Bancario Provincial
 
-Para poder hacer la descarga del extracto bancario del [BBVA Provincial](https://www.provincial.com/) debe iniciar sesión en el banco, una vez ingrese al banco siga las siguientes instrucciones indicadas bajo la plataforma Web del banco [BBVA Provincial](https://www.provincial.com/) en la opción del [NetCash](https://www.provincial.com/empresas/servicios-digitales/provincial-net-cash.html#menu-1-7) donde se describe el paso a paso de como realizar la descarga de archivos o movimientos bancarios; el estado de cuenta bancario a descargar de este banco debe ser en el formato **.csv**, el cual es el formato que aceptará ADempiere al momento de realizar la importación del extracto bancario.
+Para poder hacer la descarga del extracto bancario del [BBVA Provincial](https://www.provincial.com/) debe iniciar sesión en el banco, una vez ingrese al banco siga las siguientes instrucciones indicadas bajo la plataforma Web del banco [BBVA Provincial](https://www.provincial.com/) en la opción del [NetCash](https://www.provincial.com/empresas/servicios-digitales/provincial-net-cash.html#menu-1-7), una vez estando allí vaya a menú **Utilidades->Zona de Descarga-> Mapeador de Exportación -> Exportación**, Luego seleccione(CSV/MT940), el cual es el formato que aceptará ADempiere al momento de realizar la importación del extracto bancario.
 
 ::: note
 
