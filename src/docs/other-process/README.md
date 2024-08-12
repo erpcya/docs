@@ -17,3 +17,5 @@ En esta sección, encontrarás información sobre la configuración y uso de mó
 Explora esta nueva sección para descubrir cómo puedes mejorar la eficiencia y efectividad de tus operaciones a través de procedimientos avanzados y funcionalidades extendidas.
 
 - [Proceso Intercompañía](./intercompany-process/)
+- [Tamaño de hoja de impresora](./printer-sheet-size/README.md)
+
