@@ -3,20 +3,145 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-08-21T16:20:48.214Z</updated>
+  <updated>2024-08-21T17:01:59.449Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Dispositivos"/>
   <category term="Documentación"/>
-  <category term="Noticias"/>
-  <contributor>
-    <name>Jesús Albujas</name>
-  </contributor>
-  <contributor>
-    <name>Waditza Rivas</name>
-  </contributor>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.2.8</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.8.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.8.html"/>
+    <updated>2024-08-21T16:56:04.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-21</p>
+<h2> Novedades</h2>
+<h3> Correccion en Vista de Reporte</h3>
+<ul>
+<li>Corrección de NPE en Busqueda en Visor de Reportes</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.2.8.gif" alt="2.2.8" tabindex="0" loading="lazy"><figcaption>2.2.8</figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-21</p>
+<h2> Novedades</h2>
+<h3> Correccion en Vista de Reporte</h3>
+<ul>
+<li>Corrección de NPE en Busqueda en Visor de Reportes</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.2.8.gif" alt="2.2.8" tabindex="0" loading="lazy"><figcaption>2.2.8</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Vista de Reporte</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Fix Report View</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.2.8" target="_blank" rel="noopener noreferrer">ERPYA v2.2.8</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/adempiere/issues/73" target="_blank" rel="noopener noreferrer">When one window tab is inactive the search in report viewer dont work #73</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-21T16:56:04.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.2.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.9.html"/>
+    <updated>2024-08-21T16:56:04.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-21</p>
+<h2> Novedades</h2>
+<ul>
+<li>Correccion de NPE en Callout de la Orden</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.2.9.gif" alt="2.2.9" tabindex="0" loading="lazy"><figcaption>2.2.9</figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-21</p>
+<h2> Novedades</h2>
+<ul>
+<li>Correccion de NPE en Callout de la Orden</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.2.9.gif" alt="2.2.9" tabindex="0" loading="lazy"><figcaption>2.2.9</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Vista de Reporte</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Fix Report View</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.2.9" target="_blank" rel="noopener noreferrer">ERPYA v2.2.9</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/adempiere/issues/74" target="_blank" rel="noopener noreferrer">Fix Null pointer Exception on Callout Order #74</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-21T16:56:04.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.3.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.0.html"/>
+    <updated>2024-08-21T16:56:04.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-21</p>
+<h2> Novedades</h2>
+<h3> Reportes de Retenciones</h3>
+<ul>
+<li>Se agrega caché para el manejo de imágenes en reportes con muchas páginas que usan el logo de la empresa o cualquier otro recurso que, dada la cantidad de descargas del mismo se hace muy lento al momento de ejecutar el reporte.</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-21</p>
+<h2> Novedades</h2>
+<h3> Reportes de Retenciones</h3>
+<ul>
+<li>Se agrega caché para el manejo de imágenes en reportes con muchas páginas que usan el logo de la empresa o cualquier otro recurso que, dada la cantidad de descargas del mismo se hace muy lento al momento de ejecutar el reporte.</li>
+</ul>
+<div class="hint-container note">
+<p class="hint-container-title">Nota</p>
+<p>Esto afecta directamente a todos los reportes de iReport</p>
+</div>
+<h2> Contexto</h2>
+<ul>
+<li>Lentitud al generar reporte en lote.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Slowness when generating batch reports.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.0" target="_blank" rel="noopener noreferrer">ERPYA v2.3.0</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-ERPYA/issues/1012" target="_blank" rel="noopener noreferrer">Lentitud en reportes de Retenciones al cargar logo #1012</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-21T16:56:04.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.2.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.3.html</id>
@@ -4680,448 +4805,5 @@ Saldrá un panel donde nos indique que windows está deteniendo un servicio loca
 ]]></content>
     <category term="Documentación"/>
     <published>2024-05-18T19:54:24.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Mejoras de seguridad en ADempiere Cloud</title>
-    <id>https://docs-md.erpya.com/about/news/security-improvements-in-adempiere-cloud.html</id>
-    <link href="https://docs-md.erpya.com/about/news/security-improvements-in-adempiere-cloud.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<figure><img src="/assets/img/about/news/keycloak-is-here.png" alt="Keycloak is Here!" tabindex="0" loading="lazy"><figcaption>Keycloak is Here!</figcaption></figure>
-<h3> Introducción</h3>
-<p>Nos complace anunciar la incorporación de importantes mejoras de seguridad en ADempiere Cloud, diseñadas para proteger mejor sus datos y su infraestructura. Estas mejoras incluyen:</p>]]></summary>
-    <content type="html"><![CDATA[<figure><img src="/assets/img/about/news/keycloak-is-here.png" alt="Keycloak is Here!" tabindex="0" loading="lazy"><figcaption>Keycloak is Here!</figcaption></figure>
-<h3> Introducción</h3>
-<p>Nos complace anunciar la incorporación de importantes mejoras de seguridad en ADempiere Cloud, diseñadas para proteger mejor sus datos y su infraestructura. Estas mejoras incluyen:</p>
-<ul>
-<li>Autenticación de dos factores (2FA)</li>
-<li>Integración con Keycloak</li>
-<li>Uso de HTTPS como protocolo seguro</li>
-</ul>
-<h2> Beneficios de las mejoras de seguridad</h2>
-<h3> Autenticación de dos factores (2FA)</h3>
-<ul>
-<li><strong>Mayor seguridad:</strong> La 2FA agrega una capa adicional de seguridad al requerir un segundo factor de autenticación, como un código de un solo uso, además de su contraseña. Esto dificulta que los piratas informáticos accedan a su cuenta, incluso si tienen su contraseña.</li>
-<li><strong>Protección contra ataques de relleno de credenciales:</strong> La 2FA ayuda a proteger contra ataques de relleno de credenciales, en los que los piratas informáticos obtienen una lista de nombres de usuario y contraseñas robadas y las prueban en diferentes sitios web.</li>
-<li><strong>Mayor tranquilidad:</strong> La 2FA le brinda la tranquilidad de saber que su cuenta está mejor protegida contra accesos no autorizados.</li>
-</ul>
-<h3> Integración con Keycloak</h3>
-<ul>
-<li><strong>Gestión de identidades y accesos centralizada:</strong> Keycloak es un proveedor de identidad y gestión de accesos (IAM) que le permite centralizar la gestión de usuarios y permisos en ADempiere Cloud.</li>
-<li><strong>Mayor flexibilidad:</strong> Keycloak le permite utilizar una variedad de métodos de autenticación, incluidos SAML, OpenID Connect y LDAP.</li>
-<li><strong>Mejora de la seguridad</strong>: Keycloak puede ayudar a mejorar la seguridad al reducir la cantidad de contraseñas que necesitan los usuarios y al proporcionar un control más granular sobre los permisos de acceso.</li>
-</ul>
-<p><strong>Uso de HTTPS como protocolo seguro</strong></p>
-<p><strong>Comunicación segura</strong>:</p>
-<p>HTTPS cifra la comunicación entre su navegador y ADempiere Cloud, protegiendo sus datos de miradas indiscretas.</p>
-<ul>
-<li>Protección contra ataques de intermediario: HTTPS ayuda a proteger contra ataques de intermediario, donde un pirata informático intercepta la comunicación entre su navegador y ADempiere Cloud.</li>
-<li>Mayor confianza: El uso de HTTPS contribuye a crear confianza en los usuarios al garantizar la seguridad de sus datos.</li>
-</ul>
-<p><strong>Riesgos de seguridad sin 2FA o Keycloak</strong>:</p>
-<ul>
-<li>Robo de contraseñas: Las contraseñas pueden ser robadas mediante ataques de phishing, malware o ingeniería social.</li>
-<li>Ataques de fuerza bruta: Los atacantes pueden utilizar herramientas automatizadas para adivinar la contraseña del usuario.</li>
-<li>Acceso no autorizado: Los usuarios con permisos elevados pueden acceder a información confidencial sin autorización.</li>
-<li>Suplantación de identidad: Los atacantes pueden suplantar la identidad de un usuario legítimo para acceder a la cuenta.</li>
-</ul>
-<h3> Conclusión</h3>
-<p>La 2FA y Keycloak son herramientas fundamentales para mejorar la seguridad informática de las organizaciones. La 2FA añade una capa adicional de seguridad al proceso de autenticación, mientras que Keycloak facilita la gestión de usuarios, roles y permisos. La omisión de estas medidas, junto con la falta de protocolo HTTPS, puede exponer a las organizaciones a un alto riesgo de ataques informáticos.</p>
-<p><strong>Compatibilidad con métodos de autenticación tradicionales</strong></p>
-<p>Los métodos de autenticación tradicionales, como el uso de un nombre de usuario y contraseña, se mantendrán hasta el <strong>31/12/2024</strong>. A partir de esa fecha, se requerirá el uso de 2FA y/o Keycloak para acceder a ADempiere Cloud.</p>
-<p><strong>Disclaimer</strong></p>
-<p>El uso de las nuevas funcionalidades de seguridad es opcional. Sin embargo, le recomendamos encarecidamente que las utilice para proteger mejor sus datos y su infraestructura. Si decide no utilizar estas funcionalidades, será responsable de los riesgos de seguridad que puedan surgir.</p>
-<h3> Para más información</h3>
-<p>Para obtener más información sobre las mejoras de seguridad en ADempiere Cloud, consulte la siguiente documentación:</p>
-<ul>
-<li>Documentación de ADempiere Cloud: <a href="https://docs.erpya.com/" target="_blank" rel="noopener noreferrer">https://docs.erpya.com/</a></li>
-</ul>
-<p><strong>Recursos adicionales</strong>:</p>
-<ul>
-<li><a href="https://support.microsoft.com/es-es/topic/qu%C3%A9-es-autenticaci%C3%B3n-multifactor-e5e39437-121c-be60-d123-eda06bddf661" target="_blank" rel="noopener noreferrer">https://support.microsoft.com/es-es/topic/qué-es-autenticación-multifactor-e5e39437-121c-be60-d123-eda06bddf661</a></li>
-<li><a href="https://www.keycloak.org/:" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/:</a> <a href="https://www.keycloak.org/" target="_blank" rel="noopener noreferrer">https://www.keycloak.org/</a></li>
-<li><a href="https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:" target="_blank" rel="noopener noreferrer">https://www.cloudflare.com/es-es/learning/ssl/what-is-https/:</a></li>
-<li><a href="https://es.wikipedia.org/wiki/HTTPS" target="_blank" rel="noopener noreferrer">https://es.wikipedia.org/wiki/HTTPS</a></li>
-</ul>
-<p><strong>Nota</strong>: Este documento es una guía general y no sustituye la necesidad de realizar una evaluación de riesgos específica para cada organización.</p>
-<h3> Contacto</h3>
-<p>Si tiene alguna pregunta sobre las mejoras de seguridad en ADempiere Cloud, no dude en contactarnos a través de nuestro <strong>Soporte ADempiere ERP</strong></p>
-<h3> Detalles</h3>
-<ul>
-<li>
-<p>Esto se encuentra disponible a partir de la versión: <a href="https://docs.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.3.x/erpya-3.9.4-001-1.3.4.html#novedades" target="_blank" rel="noopener noreferrer">erpya-3.9.4-001-1.3.4</a></p>
-</li>
-<li>
-<p>Para realizar las debidas configuraciones puede ver los siguientes artículos:</p>
-<ul>
-<li><a href="https://docs.erpya.com/docs/basic-rules/login-keycloak.html" target="_blank" rel="noopener noreferrer">Acceso Seguro con Keycloak</a></li>
-<li><a href="https://docs.erpya.com/docs/basic-rules/login-2fa.html" target="_blank" rel="noopener noreferrer">Keycloak 2FA</a></li>
-</ul>
-</li>
-</ul>
-]]></content>
-    <author>
-      <name>Jesús Albujas</name>
-    </author>
-    <category term="Noticias"/>
-    <contributor>
-      <name>Jesús Albujas</name>
-    </contributor>
-    <published>2024-04-04T15:18:12.000Z</published>
-    <rights>Copyright by Jesús Albujas</rights>
-  </entry>
-  <entry>
-    <title type="text">Privacy Policy</title>
-    <id>https://docs-md.erpya.com/about/services/apps/play/privacy_policy.html</id>
-    <link href="https://docs-md.erpya.com/about/services/apps/play/privacy_policy.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<h1> Privacy Policy</h1>
-<p>Last updated: June 24, 2023</p>
-<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank" rel="noopener noreferrer">Free Privacy Policy Generator</a>.</p>]]></summary>
-    <content type="html"><![CDATA[<h1> Privacy Policy</h1>
-<p>Last updated: June 24, 2023</p>
-<p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
-<p>We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the <a href="https://www.freeprivacypolicy.com/free-privacy-policy-generator/" target="_blank" rel="noopener noreferrer">Free Privacy Policy Generator</a>.</p>
-<h1> Interpretation and Definitions</h1>
-<h2> Interpretation</h2>
-<p>The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.</p>
-<h2> Definitions</h2>
-<p>For the purposes of this Privacy Policy:</p>
-<ul>
-<li>
-<p><strong>Account</strong> means a unique account created for You to access our Service or parts of our Service.</p>
-</li>
-<li>
-<p><strong>Affiliate</strong> means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.</p>
-</li>
-<li>
-<p><strong>Application</strong> refers to Play, the software program provided by the Company.</p>
-</li>
-<li>
-<p><strong>Company</strong> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to ERP Consultores y Asociados, CC Buenaventura Araure Portuguesa.</p>
-</li>
-<li>
-<p><strong>Country</strong> refers to:  Venezuela</p>
-</li>
-<li>
-<p><strong>Device</strong> means any device that can access the Service such as a computer, a cellphone or a digital tablet.</p>
-</li>
-<li>
-<p><strong>Personal Data</strong> is any information that relates to an identified or identifiable individual.</p>
-</li>
-<li>
-<p><strong>Service</strong> refers to the Application.</p>
-</li>
-<li>
-<p><strong>Service Provider</strong> means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.</p>
-</li>
-<li>
-<p><strong>Usage Data</strong> refers to data collected automatically, either generated by the use of the Service or from the Service infrastructure itself (for example, the duration of a page visit).</p>
-</li>
-<li>
-<p><strong>You</strong> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.</p>
-</li>
-</ul>
-<h1> Collecting and Using Your Personal Data</h1>
-<h2> Types of Data Collected</h2>
-<h3> Personal Data</h3>
-<p>While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:</p>
-<ul>
-<li>
-<p>Email address</p>
-</li>
-<li>
-<p>Usage Data</p>
-</li>
-</ul>
-<h3> Usage Data</h3>
-<p>Usage Data is collected automatically when using the Service.</p>
-<p>Usage Data may include information such as Your Device's Internet Protocol address (e.g. IP address), browser type, browser version, the pages of our Service that You visit, the time and date of Your visit, the time spent on those pages, unique device identifiers and other diagnostic data.</p>
-<p>When You access the Service by or through a mobile device, We may collect certain information automatically, including, but not limited to, the type of mobile device You use, Your mobile device unique ID, the IP address of Your mobile device, Your mobile operating system, the type of mobile Internet browser You use, unique device identifiers and other diagnostic data.</p>
-<p>We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.</p>
-<h3> Information Collected while Using the Application</h3>
-<p>While using Our Application, in order to provide features of Our Application, We may collect, with Your prior permission:</p>
-<ul>
-<li>Information regarding your location</li>
-</ul>
-<p>We use this information to provide features of Our Service, to improve and gears Our Service. The information may be uploaded to the Company's servers and/or a Service Provider's server or it may be simply stored on Your device.</p>
-<p>You can enable or disable access to this information at any time, through Your Device settings.</p>
-<h2> Use of Your Personal Data</h2>
-<p>The Company may use Personal Data for the following purposes:</p>
-<ul>
-<li>
-<p><strong>To provide and maintain our Service</strong>, including to monitor the usage of our Service.</p>
-</li>
-<li>
-<p><strong>To manage Your Account:</strong> to manage Your registration as a user of the Service. The Personal Data You provide can give You access to different functionalities of the Service that are available to You as a registered user.</p>
-</li>
-<li>
-<p><strong>For the performance of a contract:</strong> the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.</p>
-</li>
-<li>
-<p><strong>To contact You:</strong> To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.</p>
-</li>
-<li>
-<p><strong>To provide You</strong> with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.</p>
-</li>
-<li>
-<p><strong>To manage Your requests:</strong> To attend and manage Your requests to Us.</p>
-</li>
-<li>
-<p><strong>For business transfers:</strong> We may use Your information to evaluate or conduct a merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of Our assets, whether as a going concern or as part of bankruptcy, liquidation, or similar proceeding, in which Personal Data held by Us about our Service users is among the assets transferred.</p>
-</li>
-<li>
-<p><strong>For other purposes</strong>: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.</p>
-</li>
-</ul>
-<p>We may share Your personal information in the following situations:</p>
-<ul>
-<li><strong>With Service Providers:</strong> We may share Your personal information with Service Providers to monitor and analyze the use of our Service,  to contact You.</li>
-<li><strong>For business transfers:</strong> We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.</li>
-<li><strong>With Affiliates:</strong> We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.</li>
-<li><strong>With business partners:</strong> We may share Your information with Our business partners to offer You certain products, services or promotions.</li>
-<li><strong>With other users:</strong> when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.</li>
-<li><strong>With Your consent</strong>: We may disclose Your personal information for any other purpose with Your consent.</li>
-</ul>
-<h2> Retention of Your Personal Data</h2>
-<p>The Company will retain Your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use Your Personal Data to the extent necessary to comply with our legal obligations (for example, if we are required to retain your data to comply with applicable laws), resolve disputes, and enforce our legal agreements and policies.</p>
-<p>The Company will also retain Usage Data for internal analysis purposes. Usage Data is generally retained for a shorter period of time, except when this data is used to strengthen the security or to improve the functionality of Our Service, or We are legally obligated to retain this data for longer time periods.</p>
-<h2> Transfer of Your Personal Data</h2>
-<p>Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to — and maintained on — computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.</p>
-<p>Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.</p>
-<p>The Company will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.</p>
-<h2> Delete Your Personal Data</h2>
-<p>You have the right to delete or request that We assist in deleting the Personal Data that We have collected about You.</p>
-<p>Our Service may give You the ability to delete certain information about You from within the Service.</p>
-<p>You may update, amend, or delete Your information at any time by signing in to Your Account, if you have one, and visiting the account settings section that allows you to manage Your personal information. You may also contact Us to request access to, correct, or delete any personal information that You have provided to Us.</p>
-<p>Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.</p>
-<h2> Disclosure of Your Personal Data</h2>
-<h3> Business Transactions</h3>
-<p>If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.</p>
-<h3> Law enforcement</h3>
-<p>Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).</p>
-<h3> Other legal requirements</h3>
-<p>The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:</p>
-<ul>
-<li>Comply with a legal obligation</li>
-<li>Protect and defend the rights or property of the Company</li>
-<li>Prevent or investigate possible wrongdoing in connection with the Service</li>
-<li>Protect the personal safety of Users of the Service or the public</li>
-<li>Protect against legal liability</li>
-</ul>
-<h2> Security of Your Personal Data</h2>
-<p>The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</p>
-<h1> Children's Privacy</h1>
-<p>Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.</p>
-<p>If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.</p>
-<h1> Links to Other Websites</h1>
-<p>Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.</p>
-<p>We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites or services.</p>
-<h1> Changes to this Privacy Policy</h1>
-<p>We may update Our Privacy Policy from time to time. We will notify You of any changes by posting the new Privacy Policy on this page.</p>
-<p>We will let You know via email and/or a prominent notice on Our Service, prior to the change becoming effective and update the "Last updated" date at the top of this Privacy Policy.</p>
-<p>You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.</p>
-<h1> Contact Us</h1>
-<p>If you have any questions about this Privacy Policy, You can contact us:</p>
-<ul>
-<li>By email: <a href="mailto:info@erpya.com">info@erpya.com</a></li>
-</ul>
-]]></content>
-    <published>2023-07-26T18:17:54.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Liberación de ADempiere 3.9.4</title>
-    <id>https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html</id>
-    <link href="https://docs-md.erpya.com/about/news/2023-01-01-adempiere-394.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>ERPyA</strong> trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>]]></summary>
-    <content type="html"><![CDATA[<p><strong>ERPyA</strong> trabaja arduamente para mejorar las soluciones que ofrecemos a nuestros estimados clientes, y más aún para satisfacer las necesidades tan versatiles de nuestros usuarios. Como estamos tan orgullosos del producto que estamos construyendo, nos sentimos gustosos de compartir las noticias sobre las actualizaciones con nuestros clientes.</p>
-<figure><img src="https://github.com/erpcya/docs/assets/9578152/705393e9-cd46-4e25-89c5-dc9918f3c253" alt="Copia de Blue Futuristic Illustration Modern Technology innovation Flyer" tabindex="0" loading="lazy"><figcaption>Copia de Blue Futuristic Illustration Modern Technology innovation Flyer</figcaption></figure>
-<h1> ¡Bienvenidos a nuestra nueva Versión 3.9.4!</h1>
-<p>Nos complace ofrecerle una serie de mejoras que ofrecen una nueva experiencia con <strong>ADempiere</strong>. Esta nueva publicación incluye mejoras sobre la funcionalidad del <strong>Punto de Venta</strong> y <strong>ZK</strong>.</p>
-<p>¡Veamos las novedades que nos ofrece <strong>ERPyA</strong>!</p>
-<h2> Punto de Venta</h2>
-<h3> Mejora en Gestión de Cambio de Precio</h3>
-<p>En respuesta a sus comentarios, hemos mejorado nuestro producto para permitirle cambiar el precio en sus ventas dependiendo de su permisología sin que este genere descuentos.</p>
-<h3> Actualizar Tipo de Contribuyente y Correo Electrónico a Cliente</h3>
-<p>Ahora puedes desde el Punto de Venta actualizar los datos de tus clientes sin tener que hacer cambios incómodos de interfaz o molestas esperas.</p>
-<h3> Referencia de Pago,Devoluciones, Cierres de Cajas, y Retenciones ahora con la organización correcta</h3>
-<p>¡Sabemos las ocupaciones que tienes!, para tí que gestionas más de una sucursal, queremos evitarte las molestias e incomodidades que se ocasionan cuando registras las operaciones y la Aplicación toma la organización con la que iniciaste sesión,y justo ahí te das cuenta que... ¡Ups! no era esa la sucursal con la que debiste ingresar. Así es, justo para ti es este cambio:</p>
-<ol>
-<li>Registro de Retención con Organización del Terminal
-<ol>
-<li>IGTF</li>
-<li>IVA</li>
-</ol>
-</li>
-<li>Registro de Devolución con Organización del Terminal
-<ol>
-<li>Nota de Crédito</li>
-<li>Devolución</li>
-<li>Egresos de Dinero</li>
-</ol>
-</li>
-<li>Cierre de Caja con Organización del Terminal
-<ol>
-<li>Cierre de Caja</li>
-<li>Depósito o Transferencias a Cajas de Cierres</li>
-<li>Egresos de Dinero</li>
-</ol>
-</li>
-</ol>
-<h3> Registro de Pago Móvil de Manera Eficiente y Segura</h3>
-<p>Sabemos ágil que debe ser un registro de un cobro, y los datos que conlleva este registro, es por eso que nos aseguramos que el margen de error sea mínimo, es por eso que para resguardar tus registros hemos eliminado la opción de selección de caja en registro de un Pago móvil.</p>
-<p>De igual modo, este registro debe contener los datos necesarios para la validación del área financiera:</p>
-<ol>
-<li>Banco Receptor</li>
-<li>Banco Emisor</li>
-<li>Selección de Cuenta de Cliente Existente</li>
-<li>Actualización de Datos del Cliente</li>
-<li>No Referencia</li>
-</ol>
-<h3> Validación de Disponibilidad en Almacén del Terminal</h3>
-<p>Hemos mejorado para ti, decidimos activar la validación de la disponibilidad del almacén del terminal, en pro de validar y asegurar que exista disponibilidad de inventario en el almacén de la tienda gestora y así evitar ventas de productos no disponibles.</p>
-<h3> Ajuste a la factura por Diferencal Cambiario</h3>
-<p>Hace algunos meses hemos tenido reportes de nuestros clientes de documentos abiertos a causa del décimas por diferencial cambiario, ante esto la gestión se volvía un tanto molesta al tener que dar de baja a estos documentos administrativamente, para estos usuarios hemos decidido incorporar una funcionalidad que permita ajustar estas diferencias naturales de un proceso multimoneda.</p>
-<h3> Gestión de Campaña del Pedido</h3>
-<p>Se incorpora una gestión más ágil para el usuario referente a la campaña de venta, lo que proporciona una integración para el análisis detallado de ventas en reportes a nivel administrativo.</p>
-<ol>
-<li>Visualización de Campaña en Terminal</li>
-<li>Actualización de Líneas del Pedido con Campaña</li>
-</ol>
-<h3> De la Gestión Tributaria</h3>
-<p>Hemos prestado especial atención a perfeccionar la experiencia del usuario que gestiona el área fiscal y tributario</p>
-<ol>
-<li>El pre-cálculo del IGTF se genera de forma automática</li>
-<li>Se activa nuevamente la opción para registro de comprobante de IVA</li>
-<li>Se corrige la duplicidad del Pre-cálculo de Retención</li>
-<li>Ahora puedes establecer la factura a la retención de IVA</li>
-<li>Ahora puedes establecer la fecha de emisión a la retención de IVA</li>
-</ol>
-<h3> Autorización por PIN a diversas Funciones</h3>
-<p>Con la nueva configuración para autorización por PIN de supervisores en eventos, ahora puedes clasificar cómo y cuando cambiar atributos de tus registros</p>
-<ol>
-<li>Autorización a Cambio de Almacén con PIN</li>
-<li>Autorización a Cambio de Lista de Precios con PIN</li>
-<li>Autorización a Cambio de Tipo de Documento con PIN</li>
-</ol>
-<h3> Agregado de Opciones de Búsqueda</h3>
-<p>Nos complace presentar las nuevas pestañas para consultas que permiten una gestión más agíl, facíl y eficiente dentro del Terminal.</p>
-<ol>
-<li>Por Facturar</li>
-<li>Ventas de Pasillo</li>
-<li>A Crédito</li>
-<li>Solo Completas</li>
-<li>Propuestas</li>
-<li>Anuladas</li>
-<li>Cerradas</li>
-<li>Devoluciones</li>
-</ol>
-<h3> Consultas de Productos</h3>
-<p>Para garantizar una experiencia de usuario más enfocada y simplificada para la gestión de atención al cliente, hemos implementado una formulario de consulta de productos:</p>
-<ol>
-<li>Información de Conversión y unidad de Medida Base</li>
-<li>Información de Precios Base en Moneda Origen</li>
-<li>Información de Existencia por Almacenes</li>
-<li>Información de Precio Multimoneda</li>
-<li>Detalle del Producto</li>
-</ol>
-<h3> Diálogo para Confirmación de Operaciones</h3>
-<p>Hemos introducido para ti un nueva forma de confirmación dentro de la aplicación que brinda una sensación de seguridad al saber que su operación fue o no exitosa de manera más acertada.</p>
-<ol>
-<li>Diálogo al Completar la Venta</li>
-<li>Diálogo al Completar una Devolución</li>
-<li>Diálogo al Completar una Cobranza</li>
-<li>Diálogo al Completar una apertura de Caja</li>
-<li>Diálogo al Cerrar una Caja</li>
-</ol>
-<h3> Impresión de Documentos</h3>
-<p>Porque sabemos que es muy importante para tí y para mejorar la interfaz hemos incorporado la pre-visualización  de los siguientes documentos:</p>
-<ol>
-<li>Documento por Cobrar no fiscal</li>
-<li>Nota de Entrega</li>
-<li>Factura Forma Libre</li>
-</ol>
-<h3> Devolución Parcial</h3>
-<p>La nueva funcionalidad de devolución parcial ofrece varios beneficios clave para los clientes, incluidos agilidad en proceso, homogeneidad de datos y  gestión eficiente en operaciones diarias:</p>
-<ol>
-<li>Devolución Fraccionada de Productos de una venta del mismo día o días atrás.</li>
-<li>Crear Nueva Orden desde Devolución.</li>
-<li>Asignación del crédito del cliente en la nueva venta.</li>
-<li>Generación de ingreso de mercancía cuando existe entrega.</li>
-<li>Integridad en precios en devolución.</li>
-<li>Bloqueo para edición de Cantidades y precio en nueva factura desde devolución.</li>
-<li>Velocidad en Procesar una Devolución.</li>
-</ol>
-<h3> Tolerancia de Ajuste de Factura con Autorización por nivel de aprobación</h3>
-<p>Estas mejoras sin duda contribuirán a que el proceso de gestión sea más seguro e íntegro en la operativa diaria:</p>
-<ol>
-<li>Control de Ajuste por Tolerancia porcentual con niveles de aprobación de supervisor</li>
-<li>Control de Ajuste por Tolerancia en monto con niveles de aprobación de supervisor</li>
-</ol>
-<h3> Cierre de Caja Detallado</h3>
-<p>Hemos reestructurado la Consolidación de todos los registros diarios de ventas para un arqueo de caja ideal dentro del punto de venta que ofrezca un detalle preciso:</p>
-<ol>
-<li>Detalle de Ingresos</li>
-<li>Detalle de Egresos</li>
-</ol>
-<h3> Operaciones a Crédito</h3>
-<p>La operación a crédito dentro de grandes y medianas empresas es habitual e importante, por este motivo, hemos mejorado la funcionalidad incorporando una opción que permite cerrar una venta a crédito y posteriormente ir abonando pagos a la factura hasta cerrarla completamente.</p>
-<h3> Copiar Pedido</h3>
-<p>Además, hemos incorporado mejoras que facilitarán y agilizarán la operación, como es el caso de copiar las propuestas o cotizaciones, y a su vez en pro de minimizar el margen de errores actualizamos los precios a la lista de precios actual.</p>
-<h3> Integración con Gestión Financiera Administrativa</h3>
-<p>Dado que las operaciones se realizan en tiempo real en ADempiere a medida que agregamos ingresos o requerimos hacer egresos digitales, se hace necesaria la intervención del área financiera para validar la existencia de pagos en la banca o para la realización de reembolsos a un cliente, es por esto que se ha agregado las siguientes bondades:</p>
-<ol>
-<li>Validación y confirmación de pagos digitales</li>
-<li>Bloqueo de impresión hasta Obtener la confirmación en el área financiera</li>
-<li>Autorización para reembolsos en el área financiera</li>
-<li>Creación de egresos bancarios desde el área financiera</li>
-</ol>
-<h2> Mejoras y Correcciones</h2>
-<p>Nuestro equipo ha realizado mejoras cruciales, como abordar las correcciones de errores dentro de la aplicación que incomodan la operación de los usuarios:</p>
-<ol>
-<li>Se incorpora una Validación para evitar agregar cobros en 0.</li>
-<li>Se incorpora una Validación para evitar completar Facturas sin Cobro.</li>
-<li>Se corrige la recarga de cantidades al realizar una entrega.</li>
-<li>Se corrige la actualización de vendedores en pedidos de otras tiendas.</li>
-<li>Se incorpora una Validación para evitar la impresión Doble/Triple de factura por intermitencia de conectividad y múltiples peticiones.</li>
-<li>Se incorpora una Validación para evitar la facturación de Propuestas.</li>
-</ol>
-<figure><img src="https://github.com/erpcya/docs/assets/9578152/8bdcf8d0-7959-4ebb-abf7-b98a4991d7f4" alt="Blue Futuristic Illustration Modern Technology innovation Flyer (1)" tabindex="0" loading="lazy"><figcaption>Blue Futuristic Illustration Modern Technology innovation Flyer (1)</figcaption></figure>
-<h3> Integración Directa para Reembolsos y Validación de Pago Móvil con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a></h3>
-<p>Nos complace anunciar una nueva opción de proveedor de pago para nuestros clientes. Ahora puedes integrar con <a href="https://sitefdevenezuela.com/" target="_blank" rel="noopener noreferrer">Sitef</a> como su pasarela de pago preferida y comience a aceptar pagos sin problemas y a validar sus pagos directamente desde el punto de venta con la activación del servicio, esta funcionalidad ofrece las siguientes opciones de Bancos:</p>
-<ol>
-<li>Provincial</li>
-<li>Mercantil</li>
-<li>Bancaribe</li>
-<li>Activo</li>
-<li>Plaza</li>
-<li>Bancrecer</li>
-<li>Exterior</li>
-<li>Bancamiga</li>
-<li>Venezuela</li>
-<li>Tesoro</li>
-<li>Banplus</li>
-</ol>
-<h2> Administrativo</h2>
-<h2> Mejoras y Correcciones</h2>
-<p>Hemos mejorado la versión administrativa de ADempiere para tí que lo necesitas:</p>
-<ol>
-<li>Consolidar Ordenes de Ventas en una Factura de Ventas</li>
-<li>Secuencia incorrecta al crear orden de compra desde línea de la requisición</li>
-<li>Organización de Contexto en Cierre de Caja y Estado de Cuentas Bancarias</li>
-<li>Crear recepción con organización de linea de la orden de Compra</li>
-<li>Agregado de Impuestos en Requisición</li>
-</ol>
-]]></content>
-    <author>
-      <name>Waditza Rivas</name>
-    </author>
-    <category term="Noticias"/>
-    <contributor>
-      <name>Waditza Rivas</name>
-    </contributor>
-    <published>2023-05-03T19:30:21.000Z</published>
-    <rights>Copyright by Waditza Rivas</rights>
   </entry>
 </feed>
