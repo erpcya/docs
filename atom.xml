@@ -3,13 +3,65 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-08-21T17:01:59.449Z</updated>
+  <updated>2024-08-22T20:51:21.820Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Dispositivos"/>
   <category term="Documentación"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.3.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.1.html"/>
+    <updated>2024-08-22T20:45:22.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-22</p>
+<h2> Novedades</h2>
+<h3> Manejo de Comisiones Bancarias</h3>
+<ul>
+<li>Se agrega una funcionalidad para manejar los cargos bancarios y los débitos por concepto de I.S.L.R, esto es muy útil ya que hay bancos que hacen el descuento de manera automática dentro del monto de depósito y se hace complicado verificar la coincidencia con los movimientos de ADempiere.</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-22</p>
+<h2> Novedades</h2>
+<h3> Manejo de Comisiones Bancarias</h3>
+<ul>
+<li>Se agrega una funcionalidad para manejar los cargos bancarios y los débitos por concepto de I.S.L.R, esto es muy útil ya que hay bancos que hacen el descuento de manera automática dentro del monto de depósito y se hace complicado verificar la coincidencia con los movimientos de ADempiere.</li>
+</ul>
+<p>Esta funcionalidad permite agregar en la cuenta bancaria los productos relacionados a la misma, cada producto puede definir si maneja <strong>% de Comisión</strong> o <strong>% de Interés</strong> así como el monto y la referencia para realizar la búsqueda.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.1-img1.png" alt="2.3.1" tabindex="0" loading="lazy"><figcaption>2.3.1</figcaption></figure>
+<h3> Manejo de Fletes</h3>
+<p>Se corrigen las <strong>Referencias</strong> de la <strong>Orden de Venta</strong> y <strong>Orden de Salida</strong> en Proceso para <strong>Crear Orden de Flete desde Orden de Salida</strong> o <strong>Desde Linea desde Orden de Salida</strong></p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.1-img2.png" alt="2.3.1" tabindex="0" loading="lazy"><figcaption>2.3.1</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Comisiones</li>
+<li>Manejo de Fletes</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Commission</li>
+<li>Freight Management</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.1" target="_blank" rel="noopener noreferrer">ERPYA v2.3.1</a></li>
+</ul>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/630" target="_blank" rel="noopener noreferrer">Conciliaciones automáticas #630</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/682" target="_blank" rel="noopener noreferrer">Algoritmo: Banco de Venezuela #682</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/683" target="_blank" rel="noopener noreferrer">Algoritmo: Banco Provincial #683</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/684" target="_blank" rel="noopener noreferrer">Algoritmo: Banco Nacional de Crédito #684</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/685" target="_blank" rel="noopener noreferrer">Algoritmo: Banco del Tesoro #685</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/686" target="_blank" rel="noopener noreferrer">Algoritmo: Banco del Caribe #686</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/688" target="_blank" rel="noopener noreferrer">Algoritmo: Banesco #688</a><br>
+<a href="https://github.com/erpcya/Control-PROSEIN/issues/738" target="_blank" rel="noopener noreferrer">Algoritmo: Banco del Mercantil #738</a></p>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-22T20:45:22.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.2.8</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.8.html</id>
@@ -4695,115 +4747,5 @@ Saldrá un panel donde nos indique que windows está deteniendo un servicio loca
 ]]></content>
     <category term="Documentación"/>
     <published>2024-05-23T15:29:30.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Manual de Instalación de Cliente de Impresión</title>
-    <id>https://docs-md.erpya.com/docs/devices/printers/printer-client-install.html</id>
-    <link href="https://docs-md.erpya.com/docs/devices/printers/printer-client-install.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<h2> Requerimientos</h2>
-<p>Para instalar el cliente de impresión se debe tener como mínimo lo siguiente:</p>
-<ul>
-<li>Windows 10 64 bits o superior</li>
-<li>Instalador de <a href="../../../downloads/updates/devices/printers">cliente de impresión</a></li>
-</ul>
-<h2> Pasos de Instalación</h2>
-<h3> Descarga del Instalador</h3>]]></summary>
-    <content type="html"><![CDATA[<h2> Requerimientos</h2>
-<p>Para instalar el cliente de impresión se debe tener como mínimo lo siguiente:</p>
-<ul>
-<li>Windows 10 64 bits o superior</li>
-<li>Instalador de <a href="../../../downloads/updates/devices/printers">cliente de impresión</a></li>
-</ul>
-<h2> Pasos de Instalación</h2>
-<h3> Descarga del Instalador</h3>
-<p>Para descargar el <strong>Archivo</strong> a instalar, puedes usar el siguiente <a href="../../../downloads/updates/devices/printers">link</a></p>
-<figure><img src="/assets/img/docs/fiscal-printer/download-page.png" alt="Página de Descarga" tabindex="0" loading="lazy"><figcaption>Página de Descarga</figcaption></figure>
-<p>Una vez descargado dicho <strong>Archivo</strong> procedemos a la <strong>Instalación</strong></p>
-<p>Ubica el archivo previamente descargado</p>
-<figure><img src="/assets/img/docs/fiscal-printer/previously-downloaded-file.png" alt="Archivo" tabindex="0" loading="lazy"><figcaption>Archivo</figcaption></figure>
-<h3> Ejecutando el Instalador</h3>
-<p>Al intentar ejecutar el instalador te solicitará la ejecución en modo administrador, debes aceptar para continuar la instalación.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/setup.png" alt="Instalación" tabindex="0" loading="lazy"><figcaption>Instalación</figcaption></figure>
-<h3> Seleccionando el Idioma</h3>
-<p>Seleccione el idioma con el cual desea continuar la instalación.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Nota</p>
-<p>El idioma seleccionado determinará el nombre del servicio a instalar.</p>
-<ul>
-<li>Si selecciona Español el servicio se llamará "Servicio de Impresión ERP"</li>
-<li>Si selecciona Inglés el servicio se llamará "ERP Printing Service"</li>
-</ul>
-</div>
-<figure><img src="/assets/img/docs/fiscal-printer/select-language.png" alt="Selección de Lenguaje" tabindex="0" loading="lazy"><figcaption>Selección de Lenguaje</figcaption></figure>
-<p>Luego de seleccionar el idioma de instalación se presiona <strong>Siguiente</strong> para ir al siguiente formulario.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/setup-2.png" alt="Formulario" tabindex="0" loading="lazy"><figcaption>Formulario</figcaption></figure>
-<h3> Aceptando los Términos y Condiciones</h3>
-<p>Es importante que lea bien los términos y condiciones del contrato de instalación, al aceptarlo estará de acuerdo con todo lo que establece nuestro contrato de instalación.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/terms-and-conditions.png" alt="Acuerdo de Licencia" tabindex="0" loading="lazy"><figcaption>Acuerdo de Licencia</figcaption></figure>
-<h3> Seleccionando la Ruta de Instalación</h3>
-<p>La ruta de instalación es el lugar donde estarán los archivos necesarios para que la aplicación funcione correctamente, de igual manera se usará en adelante para aplicar las actualizaciones o desinstalar la aplicación.</p>
-<p>Trate de usar una ruta que no contenga caracteres especiales como <code>()*#$+</code></p>
-<figure><img src="/assets/img/docs/fiscal-printer/path.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
-<p>Para efectos de este ejemplo usaremos la ruta <code>C:\Users\ERP-Printing-Service</code></p>
-<figure><img src="/assets/img/docs/fiscal-printer/path-2.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/path-3.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/path-4.png" alt="Ruta" tabindex="0" loading="lazy"><figcaption>Ruta</figcaption></figure>
-<p>Al seleccionar la ruta presionamos el botón <strong>Instalar</strong> para que se inicie el proceso de instalación</p>
-<figure><img src="/assets/img/docs/fiscal-printer/install.png" alt="Instalar" tabindex="0" loading="lazy"><figcaption>Instalar</figcaption></figure>
-<h3> Configurando la Impresora</h3>
-<p>Al terminar la instalación aparecerá un diálogo preguntando si desea configurar la impresora. Presione la opción <strong>Si</strong> para configurarla.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Nota</p>
-<p>La opción para configurar impresora puede ser ignorada si ya se encuentra instalado y configurado y únicamente está actualizando la aplicación</p>
-</div>
-<figure><img src="/assets/img/docs/fiscal-printer/installation.png" alt="Instalar" tabindex="0" loading="lazy"><figcaption>Instalar</figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/question.png" alt="Instalar" tabindex="0" loading="lazy"><figcaption>Instalar</figcaption></figure>
-<hr>
-<p>Configure los datos necesarios para que la impresora pueda ser administrada desde las aplicaciones de <a href="http://erpya.com" target="_blank" rel="noopener noreferrer">E.R.P. Consultores y Asociados, C.A.</a>. Si tiene alguna duda con respecto a este punto puede solicitar los datos a nuestro servicio de atención al cliente.</p>
-<ul>
-<li><strong>Servidor</strong>: Coloque aquí la dirección del servidor de colas de impresión donde se conectará su dispositivo, tome en cuenta que la dirección puede variar si su instalación es cloud o es On Premise</li>
-<li><strong>Puerto</strong>: Defina el puerto de conexión para el servicio de colas de impresión</li>
-<li><strong>Tiempo de Espera</strong>: Este valor se puede dejar por defecto y únicamente deberá ser cambiado si algún técnico de atención al cliente lo solicita</li>
-<li><strong>Nombre de Impresora</strong>: Coloque el nombre de la impresora. Este nombre debe ser único y debe coincidir con el nombre configurado en la aplicación desde la que se intenta enviar documentos a su iompresora</li>
-<li><strong>Modo de Inicio</strong>: Este campo lo puede dejar vacio a menos que un técnico de atención al cliente le solicite cambiarlo</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/print-config.png" alt="Configuración" tabindex="0" loading="lazy"><figcaption>Configuración</figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-config-2.png" alt="Configuración" tabindex="0" loading="lazy"><figcaption>Configuración</figcaption></figure>
-<p>Al finalizar con la carga de datos presione el botón <strong>Siguiente</strong>, al hacerlo aparecerá un diálogo con los datos que previamente configuró. Simplemente presione aceptar para ir al siguiente formulario.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-config-3.png" alt="Configuración" tabindex="0" loading="lazy"><figcaption>Configuración</figcaption></figure>
-<p>Después de configurar los datos de la impresora y conexión al servicio de colas de impresión aparecerá un diálogo preguntando si desea reiniciar el equipo.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Nota</p>
-<p>Es importante que acepte para que se reinicie el equipo y todo funcione correctamente.</p>
-</div>
-<figure><img src="/assets/img/docs/fiscal-printer/restart.png" alt="Reiniciar" tabindex="0" loading="lazy"><figcaption>Reiniciar</figcaption></figure>
-<h3> Luego de Reiniciar vamos a verificar que el programa se inicie como un servicio</h3>
-<p>Para ubicar el servicio iremos al buscador de windows y pondremos <strong>servicios</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image.png" alt="Servicios" tabindex="0" loading="lazy"><figcaption>Servicios</figcaption></figure>
-<p>Al llegar a la pestaña de servicios ubicamos el <strong>servicio de impresión ERP</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image1.png" alt="Servicio de impresión ERP" tabindex="0" loading="lazy"><figcaption>Servicio de impresión ERP</figcaption></figure>
-<p>Al llegar a <strong>Servicio de impresión ERP</strong> este debe estar en <strong>en ejecución-automatico</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image2.png" alt="En ejecución automatico" tabindex="0" loading="lazy"><figcaption>En ejecución automatico</figcaption></figure>
-<h3> Después de verificar que ya el programa esté Funcionando como un servicio, Iremos al visor de Eventos, y así confirmar que no arroje algún error, y este en perfecta funcionalidad para imprimir</h3>
-<p>De la misma manera iremos al buscador de windows y escribiremos <strong>visor de eventos</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image3.png" alt="Visor de eventos" tabindex="0" loading="lazy"><figcaption>Visor de eventos</figcaption></figure>
-<p>Al estar en la pestaña del visor de eventos, en la parte superior izquierda ubicamos <strong>registros de aplicaciones y servicios</strong> y haremos click sobre el mismo</p>
-<figure><img src="/assets/img/docs/fiscal-printer/image4.png" alt="Registros de aplicaciones y servicios" tabindex="0" loading="lazy"><figcaption>Registros de aplicaciones y servicios</figcaption></figure>
-<p>Al llegar al registro de aplicaciones y servicios, daremos click sobre <strong>ERP_Printer_log</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image5.png" alt="ERP_Printer_log" tabindex="0" loading="lazy"><figcaption>ERP_Printer_log</figcaption></figure>
-<p>Se nos abrirán los eventos creados por dicho servicio y aca comprobaremos si tenemos errores o no</p>
-<h3> Nota</h3>
-<p><strong>Uno de los errores más comunes es hacer una mala configuración de los parámetros al momento de la instalación, y como ejemplo nos arrojaría el siguiente error:</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image7.png" alt="Error en configuracion" tabindex="0" loading="lazy"><figcaption>Error en configuracion</figcaption></figure>
-<p><strong>Aquí nos detalla la causa del error</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/image8.png" alt="Error en configuracion" tabindex="0" loading="lazy"><figcaption>Error en configuracion</figcaption></figure>
-<h3> Finalizado el ejemplo de dicho error, Mostraremos cómo deberían aparecer los eventos creados por el servicio</h3>
-<p>De esta manera deben aparecer los eventos creados cada vez que manda información el sistema al servicio</p>
-<figure><img src="/assets/img/docs/fiscal-printer/image6.png" alt="Evento de manera correcta" tabindex="0" loading="lazy"><figcaption>Evento de manera correcta</figcaption></figure>
-<p><strong>Así damos por finalizada la instalación del programa y tenemos la Impresora lista para su uso correcto</strong></p>
-]]></content>
-    <category term="Documentación"/>
-    <published>2024-05-18T19:54:24.000Z</published>
   </entry>
 </feed>
