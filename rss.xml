@@ -6,13 +6,43 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 22 Aug 2024 20:51:21 GMT</pubDate>
-    <lastBuildDate>Thu, 22 Aug 2024 20:51:21 GMT</lastBuildDate>
+    <pubDate>Fri, 23 Aug 2024 20:31:33 GMT</pubDate>
+    <lastBuildDate>Fri, 23 Aug 2024 20:31:33 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Dispositivos</category>
     <category>Documentación</category>
+    <item>
+      <title>erpya-3.9.4-001-2.3.2</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.2.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.2.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.3.2</source>
+      <description>Fecha de Liberación: 2024-08-22 Novedades Comisiones Bancarias Se agrega mejora para que la búsqueda de documentos de comisiones bancarias se haga incluyendo los últimos 4 dígitos del número de pago y no la totalidad de dígitos. Hay bancos que tienen dígitos muy largos como este 1742502503164 y el usuario puede confundirse al crear el mismo, por esa razón es preferible cargar los últimos 4 dígitos como este 3164 y dejar que el algoritmo se encargue de verificar el mismo.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 23 Aug 2024 20:25:27 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-22</p>
+<h2> Novedades</h2>
+<h3> Comisiones Bancarias</h3>
+<p>Se agrega mejora para que la búsqueda de documentos de comisiones bancarias se haga incluyendo los últimos 4 dígitos del número de pago y no la totalidad de dígitos. Hay bancos que tienen dígitos muy largos como este <code>1742502503164</code> y el usuario puede confundirse al crear el mismo, por esa razón es preferible cargar los últimos 4 dígitos como este <code>3164</code> y dejar que el algoritmo se encargue de verificar el mismo.</p>
+<h2> Contexto</h2>
+<ul>
+<li>Comisiones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Commission</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.2" target="_blank" rel="noopener noreferrer">ERPYA v2.3.2</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.3.1</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.1.html</link>
@@ -3905,32 +3935,6 @@ Saldrá un panel donde nos indique que windows está deteniendo un servicio loca
 <figure><img src="/assets/img/docs/fiscal-printer/print-spooler33.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/docs/fiscal-printer/print-spooler1.1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Configuracion de impresión de letra de reporte de nómina en impresora fiscal</title>
-      <link>https://docs-md.erpya.com/docs/devices/printers/letter-printing-quality-settings.html</link>
-      <guid>https://docs-md.erpya.com/docs/devices/printers/letter-printing-quality-settings.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">Configuracion de impresión de letra de reporte de nómina en impresora fiscal</source>
-      <description>Generamos el reporte de nómina Reporte de nómina Luego de generar dicho reporte vamos al cuadro de impresión</description>
-      <category>Documentación</category>
-      <pubDate>Thu, 23 May 2024 15:29:30 GMT</pubDate>
-      <content:encoded><![CDATA[<h3> Generamos el reporte de nómina</h3>
-<figure><img src="/assets/img/docs/fiscal-printer/payroll-report1.png" alt="Reporte de nómina" tabindex="0" loading="lazy"><figcaption>Reporte de nómina</figcaption></figure>
-<h1> Luego de generar dicho reporte vamos al <strong>cuadro de impresión</strong></h1>
-<figure><img src="/assets/img/docs/fiscal-printer/payroll-report.png" alt="Cuadro de impresión" tabindex="0" loading="lazy"><figcaption>Cuadro de impresión</figcaption></figure>
-<h1> Del lado derecho vamos a ir donde dice <strong>mas opciones de configuración</strong></h1>
-<figure><img src="/assets/img/docs/fiscal-printer/more-configuration-options.jpg" alt="Más opciones de configuración" tabindex="0" loading="lazy"><figcaption>Más opciones de configuración</figcaption></figure>
-<h1> Después que se despliegue la venta iremos donde dice <strong>calidad</strong></h1>
-<figure><img src="/assets/img/docs/fiscal-printer/more-configuration-options-menu.jpg" alt="Seleccionar opción &quot;calidad&quot;" tabindex="0" loading="lazy"><figcaption>Seleccionar opción "calidad"</figcaption></figure>
-<p><strong>Acá encontraremos las opciones soportadas</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/letter-quality.jpeg" alt="Contaremos con estas tres opciones" tabindex="0" loading="lazy"><figcaption>Contaremos con estas tres opciones</figcaption></figure>
-<p><strong>Ahora mostraremos las tres opciones impresas como ejemplo</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/quality120x144ppp.jpeg" alt="Calidad 120x144ppp" tabindex="0" loading="lazy"><figcaption>Calidad 120x144ppp</figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/quality120x72ppp.jpeg" alt="Calidad 120x72ppp" tabindex="0" loading="lazy"><figcaption>Calidad 120x72ppp</figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/quality240x144ppp.jpeg" alt="Calidad 240x144ppp" tabindex="0" loading="lazy"><figcaption>Calidad 240x144ppp</figcaption></figure>
-<p><strong>De esta manera, como se muestra en los ejemplos, se puede proceder a configurar dicha calidad, para la mejora de la impresión.</strong></p>
-]]></content:encoded>
-      <enclosure url="https://docs-md.erpya.com/assets/img/docs/fiscal-printer/payroll-report1.png" type="image/png"/>
     </item>
   </channel>
 </rss>
