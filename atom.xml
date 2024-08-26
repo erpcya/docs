@@ -3,13 +3,157 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-08-23T21:06:17.376Z</updated>
+  <updated>2024-08-26T12:43:19.409Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Dispositivos"/>
   <category term="Documentación"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.3.3</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.3.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.3.html"/>
+    <updated>2024-08-26T12:36:56.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-24</p>
+<h2> Novedades</h2>
+<h3> Comisiones Bancarias</h3>
+<p>Se agrega mejora para identificar ingresos provenientes de puntos de venta mercantil, ahora la búsqueda de los movimientos de ingreso lo hace sin importar dónde se encuentran ubicados los dígitos del pago dentro del extracto bancario.</p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-24</p>
+<h2> Novedades</h2>
+<h3> Comisiones Bancarias</h3>
+<p>Se agrega mejora para identificar ingresos provenientes de puntos de venta mercantil, ahora la búsqueda de los movimientos de ingreso lo hace sin importar dónde se encuentran ubicados los dígitos del pago dentro del extracto bancario.</p>
+<h3> Flujo de Producción</h3>
+<p>Se ha añadido una nueva funcionalidad que permite gestionar un flujo completo, comenzando desde una orden de venta, pasando por la orden de producción, y finalizando con la producción. Esta característica, muy solicitada por nuestros clientes, facilita un control más eficiente de las órdenes de producción y su seguimiento diario.</p>
+<h4> ¿Qué tiene de nuevo la funcionalidad?</h4>
+<ul>
+<li>Generación de Orden de Producción</li>
+</ul>
+<p>Ya se puede tener una configuración en el tipo de documento de <strong>Orden de Venta</strong> para que se generen de manera automática las órdenes de producción decesarias dependiendo de los productos que tenga la orden de venta y si los mismos tienen listas de materiales válidas.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img1.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<p>Esto es ideal para empresas que realizan maquila o que venden productos antes de su producción. La orden de producción se genera en estado de borrador, delegando la responsabilidad del proceso siguiente al encargado de producción.</p>
+<ul>
+<li>Explosión de Órdenes Multi-Niveles</li>
+</ul>
+<p>En el proceso productivo siempre se tienen niveles de producción, esto permite tener productos en proceso y tambien definir listas de materiales a distintos niveles. Ejemplo:</p>
+<ul>
+<li>Bulto de Pasta (Nivel 1)
+<ul>
+<li>Mezcla para Pasta (Nivel 2)</li>
+<li>Sémola de Trigo (Nivel 3)</li>
+</ul>
+</li>
+</ul>
+<p>Anteriormente, si alguien necesitaba generar una orden de producción para bultos de pasta, tenía que crear manualmente una orden para cada nivel: primero para el nivel 1, luego para el nivel 2 y así sucesivamente.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img2.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<p>Ahora es posible definir un atributo en el tipo de documento que determina si una orden de producción puede generar automáticamente las órdenes de producción necesarias para satisfacer la demanda inicial. Además, se valida si parte de las cantidades requeridas están disponibles en el inventario, lo que permite generar la orden de producción total o parcialmente según sea necesario.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img3.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<p>Además de los cambios realizados, ahora es posible ver la referencia a la orden de producción original, lo que permite una navegación más intuitiva. El número de documento de las órdenes hijas se compone del número de documento de la orden padre más el número de la orden hija, facilitando así la localización de cualquier orden de producción.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img4.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<h3> Reporte de Explosión de LDM de Orden de Producción</h3>
+<p>Este reporte permite visualizar de manera integral los insumos necesarios para cumplir con una orden de producción. Está diseñado para manejar múltiples niveles y desglosa todos los LDM (Lista de Materiales) asociados a la orden de producción y sus niveles inferiores.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img5.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img6.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<h3> Reporte de Seguimiento de Producción</h3>
+<p>Este reporte permite verificar cómo se generan las producciones a partir de la orden inicial hasta completar la cantidad requerida. Ofrece un mejor control al planificador y es capaz de manejar múltiples niveles.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img7.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<h3> Consideraciones Importantes</h3>
+<p>Para asegurar el correcto funcionamiento, es crucial que los productos con <strong>Lista de Materiales</strong> (LDM) cumplan con lo siguiente:</p>
+<ul>
+<li><strong>Validación de LDM</strong>: La Lista de Materiales debe estar validada.</li>
+<li><strong>Fecha Válido Desde</strong>: La fecha "Válido Desde" en la Lista de Materiales y en cada línea de la LDM debe ser menor o igual a la fecha del pedido o de la orden de producción.</li>
+<li><strong>Ubicación Asociada</strong>: Los productos deben tener una ubicación asociada para determinar dónde se llevará a cabo la producción.</li>
+</ul>
+<h3> Reporte de Lista de Selección</h3>
+<p>Se ha modificado el comportamiento del reporte para que no esté estrictamente condicionado a que la <strong>Lista de Materiales</strong> (LDM) tenga el mismo código que el producto. Ahora es posible generar una explosión simulada de <strong>LDM</strong> sin problemas, ofreciendo mayor flexibilidad en el uso del reporte.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img8.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.3-img9.png" alt="2.3.3" tabindex="0" loading="lazy"><figcaption>2.3.3</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Esta actualización optimiza la gestión de ingresos por comisiones bancarias y automatiza procesos en el flujo de producción, especialmente en la generación y manejo de órdenes de producción multi-niveles.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Mejora en la búsqueda de movimientos de ingresos para las comisiones bancarias.</li>
+<li>Implementación de atributos en documentos para la automatización de órdenes de producción.</li>
+<li>Ajustes en informes para manejar múltiples niveles en la explosión de listas de materiales.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.3" target="_blank" rel="noopener noreferrer">ERPYA v2.3.3</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/630" target="_blank" rel="noopener noreferrer">Conciliaciones automáticas #630</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/682" target="_blank" rel="noopener noreferrer">Algoritmo: Banco de Venezuela #682</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/683" target="_blank" rel="noopener noreferrer">Algoritmo: Banco Provincial #683</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/684" target="_blank" rel="noopener noreferrer">Algoritmo: Banco Nacional de Crédito #684</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/685" target="_blank" rel="noopener noreferrer">Algoritmo: Banco del Tesoro #685</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/686" target="_blank" rel="noopener noreferrer">Algoritmo: Banco del Caribe #686</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/688" target="_blank" rel="noopener noreferrer">Algoritmo: Banesco #688</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/738" target="_blank" rel="noopener noreferrer">Algoritmo: Banco del Mercantil #738</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-26T12:36:56.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.3.4</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.4.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.4.html"/>
+    <updated>2024-08-26T12:36:56.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega reporte <strong>Detalle de Transacciones (Analitico)</strong></li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.4-img1.png" alt="2.3.4" tabindex="0" loading="lazy"><figcaption>2.3.4</figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se agrega reporte <strong>Detalle de Transacciones (Analitico)</strong></li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.4-img1.png" alt="2.3.4" tabindex="0" loading="lazy"><figcaption>2.3.4</figcaption></figure>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.4-img2.png" alt="2.3.4" tabindex="0" loading="lazy"><figcaption>2.3.4</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Reporte</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Detalles de Transacciones</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.4" target="_blank" rel="noopener noreferrer">ERPYA v2.3.4</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-26T12:36:56.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.3.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.2.html</id>
@@ -323,7 +467,7 @@
     <title type="text">erpya-3.9.4-001-2.2.5</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.5.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.2.x/erpya-3.9.4-001-2.2.5.html"/>
-    <updated>2024-08-20T16:35:20.000Z</updated>
+    <updated>2024-08-26T12:36:56.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-20</p>
 <h2> Novedades</h2>
 <ul>
@@ -360,7 +504,7 @@
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar</li>
+<li>Se requieren procesos adicionales por aplicar</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
@@ -4579,179 +4723,5 @@ Saldrá un panel donde nos indique que windows está deteniendo un servicio loca
 ]]></content>
     <category term="Documentación"/>
     <published>2024-05-29T22:46:10.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">¿Cómo Registrar Impresora No Fiscal a la Cola de impresión en ADempiere?</title>
-    <id>https://docs-md.erpya.com/docs/devices/printers/how-to-register-a-non-Fiscal-printer-to-the-print-queue-in-adempiere.html</id>
-    <link href="https://docs-md.erpya.com/docs/devices/printers/how-to-register-a-non-Fiscal-printer-to-the-print-queue-in-adempiere.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p>Para el registro de la Cola de Impresión para Impresora no Fiscal en ADempiere tendremos que seguir los siguientes pasos:</p>
-<ul>
-<li>
-<p>Ingresar ADempiere e iniciar sesión con su respectivo usuario y clave.</p>
-</li>
-<li>
-<p>Una vez ingresado al sistema llegando a la ventana Registro de Aplicación.</p>
-</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p>Para el registro de la Cola de Impresión para Impresora no Fiscal en ADempiere tendremos que seguir los siguientes pasos:</p>
-<ul>
-<li>
-<p>Ingresar ADempiere e iniciar sesión con su respectivo usuario y clave.</p>
-</li>
-<li>
-<p>Una vez ingresado al sistema llegando a la ventana Registro de Aplicación.</p>
-</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<ul>
-<li>Una vez posicionado en la ventana Registro de <strong>Aplicación</strong> seleccione la opción <strong>Regristro Nuevo</strong>.</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<ul>
-<li>Llenar los Campos Correspondiente para el Registro.</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<ul>
-<li>Los parámetros usados ​​para la configuración son los siguientes:</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<ul>
-<li>
-<p>Una vez realizado el registro proceder a posicionarse en la pestaña <strong>Parámetros</strong> para configurar los parametros correspondientes a la impresora:</p>
-<ul>
-<li>El primer parámetro a configurar es el <strong>QUEUE_NAME</strong>:</li>
-</ul>
-</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere5.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere6.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<ul>
-<li>El Segundo Parámetro a configurar es <strong>PORT_NAME</strong></li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/registration-in-adempiere8.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content>
-    <category term="Documentación"/>
-    <published>2024-05-29T10:22:12.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">¿Cómo instalar el cliente de impresoras térmica no fiscal y cola de impresión?</title>
-    <id>https://docs-md.erpya.com/docs/devices/printers/install-the-non-fiscal-thermal-printer-client-and-print-queue.html</id>
-    <link href="https://docs-md.erpya.com/docs/devices/printers/install-the-non-fiscal-thermal-printer-client-and-print-queue.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<h2> Instalar Impresora Térmica no Fiscal</h2>
-<p>Requerimientos para instalar el cliente de cola de impresión</p>
-<p><strong>Software:</strong></p>
-<p><strong>Driver instalados en la PC de la Impresora a Configurar:</strong></p>
-<p><strong>Para la configuración en cada estación con Windows donde se emplee la impresora fiscal</strong>:</p>]]></summary>
-    <content type="html"><![CDATA[<h2> Instalar Impresora Térmica no Fiscal</h2>
-<p>Requerimientos para instalar el cliente de cola de impresión</p>
-<p><strong>Software:</strong></p>
-<p><strong>Driver instalados en la PC de la Impresora a Configurar:</strong></p>
-<p><strong>Para la configuración en cada estación con Windows donde se emplee la impresora fiscal</strong>:</p>
-<ul>
-<li>
-<p>Instalar el&nbsp;archivos de PDF <em><strong>FOXIT PDF READER.</strong></em> El cual puedes descargar en el siguiente Link:</p>
-<p><a href="https://www.foxit.com/es-la/downloads/" target="_blank" rel="noopener noreferrer">https://www.foxit.com/es-la/downloads/</a></p>
-</li>
-<li>
-<p>Configurar la impresora como Impresora Predeterminada esto lo realizamos de la siguiente manera:</p>
-<p><strong>Tecla “Win” ó Tecla “Inicio” + I.</strong></p>
-<p>Este atajo nos llevara al <strong>Panel de Control</strong> de Windows y ubicamos la opción <strong>Dispositivos.</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler1.1.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</li>
-</ul>
-<p>Una vez desplegada la ventana <strong>Dispositivos</strong> ubicamos y seleccionamos la Opción <strong>Dispositivos e impresoras.</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler2.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Al presionar esta opción se nos despliega una ventana en la cual pueden observarse los diferentes dispositivos instalados en la Pc, ubicamos el dispositivo que deseamos configurar como Predeterminado.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler3.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Al posicionarse en el dispositivo presionamos click derecho y seleccionamos <strong>Establecer como impresora predeterminada.</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler4.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Una vez realizado el paso anterior en el dispositivo quedara seleccionado con un Check color Verde, el cual nos indica que la configuración ha sido correcta.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler5.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p><strong>Descargar la versión adecuada del instalador del cliente de cola de impresión dependiendo del sistema operativo empleado:</strong></p>
-<p>Para el sistema operativo Windows 10:</p>
-<ul>
-<li>
-<p>Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe para equipos de 32 bits</p>
-</li>
-<li>
-<p>Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe para equipos de 64 bits</p>
-</li>
-</ul>
-<p>Dicho programa puedes descargarlo en el siguiente link:</p>
-<p><a href="https://docs.erpya.com/downloads/updates/devices/printers/rs-6.4.html" target="_blank" rel="noopener noreferrer">https://docs.erpya.com/downloads/updates/devices/printers/rs-6.4.html</a></p>
-<p>Para conocer qué versión de sistema operativo de Windows tiene instalado la PC Instalada presionamos:</p>
-<p><strong>Tecla “Win” ó Tecla “Inicio” + Tecla Pausa.</strong></p>
-<p>Una vez presionadas las teclas te enviará a una pantalla donde podrás observar la versión de Windows Instalada en el ordenador.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler6.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>En caso de cumplir lo anteriormente descrito y una vez conectada la Impresora al Pc, además teniendo a disposición el dominio hacia el que va apuntar el cliente de cola de impresión es necesario conocer los siguientes valores.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler7.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Una vez que cumplas los requerimientos descrito anteriormente procedemos al registro de la impresora por ADempiere y la instalación del programa de LocalPrinting.</p>
-<p><strong>Para realizar el Registro de la Impresora no Fiscal a la Cola de Impresión en ADempiere puedes visitar el siguiente Link:</strong><br>
-<a href="https://docs.erpya.com/docs/devices/printers/how-to-register-a-non-Fiscal-printer-to-the-print-queue-in-adempiere.md" target="_blank" rel="noopener noreferrer">https://docs.erpya.com/docs/devices/printers/how-to-register-a-non-Fiscal-printer-to-the-print-queue-in-adempiere.md</a></p>
-<p><strong>Luego del registro de la impresora por ADempiere Ejecutamos Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe con privilegios de Administrador:</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler8.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler9.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler10.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler11.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2> <strong>Nota:</strong></h2>
-<p>Cambiar el Directorio de Instalación preferiblemente por el siguiente:</p>
-<ul>
-<li><strong>C:\Program Files (x86)\Local-Printing-All-In-One-DotNet</strong></li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler12.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler13.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler14.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2> <strong>Nota:</strong></h2>
-<ul>
-<li>Luego de aplicar el instalador en el escritorio de Windows se creará un acceso directo&nbsp;<strong>Local-Printing-All-In-One-DotNet</strong>, el cual permite iniciar el cliente de cola de impresión al ejecutarlo, pero antes de realizar la ejecución debemos realizar el cambio de ruta de Destino y Cambio del Icono de este Acceso Directo, por lo cual presionamos click derecho en el acceso y nos posicionamos en Propiedades.</li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler15.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler16.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Reemplazar el Campo Destino por lo siguiente:</p>
-<ul>
-<li><strong>C:\Program Files (x86)\Local-Printing-All-In-One-DotNet\rs-6.4-win-x86\StartPrintService.bat</strong></li>
-</ul>
-<p>Para el Cambio de Icono de la Aplicación nos dirigimos a Cambiar Icono en la misma ventana de propiedades:</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler17.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler18.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler19.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<h2> <strong>Ubicación del Icono:</strong></h2>
-<ul>
-<li><strong>C:\Program Files (x86)\Local-Printing-All-In-One-DotNet\resources</strong></li>
-</ul>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler20.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler21.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler22.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Una vez realizado todo el procedimiento anteriormente descrito ubicamos el Archivo <strong>printer.ymal.</strong> el cual se le realizarán unas modificaciones de configuración este archivo se encuentra ubicado en la siguiente ruta:</p>
-<ul>
-<li><strong>C:\Program Files (x86)\Local-Printing-All-In-One-DotNet\resources</strong></li>
-</ul>
-<p>Para realizar las modificaciones correspondientes debemos iniciar el Bloc de Notas en modo Administrador, para luego ubicar y abrir el archivo (printer.ymal) descrito anteriormente:</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler23.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler24.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler25.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Nos posicionamos en <strong>Documentos de texto(*.txt)</strong> y seleccionamos <strong>Todos los archivos.</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler26.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Seleccionamos el Documento printer y presionamos Abrir.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler27.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler28.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Líneas Editables para la configuración de impresora fiscal en el archivo printer.yaml</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler29.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<p>Al realizar las configuraciones anteriormente descritas procedemos a ejecutar el programa el cual al momento de su ejecución debe ser con privilegio de Administrador.</p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler30.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler31.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<ul>
-<li><strong>Obtener Estado Actual de Impresora Fiscal</strong>:</li>
-</ul>
-<p>Ingresando en&nbsp;<strong>ADempiere</strong>&nbsp;como compañía ubicar el proceso&nbsp;<strong>Registro de Aplicación</strong> buscar Cola de Impresión Registrada al iniciar y posicionarse en <strong>Proceso</strong> (Botón del Engranaje) y seleccionar <strong>Test Connection:</strong></p>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler32.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-<figure><img src="/assets/img/docs/fiscal-printer/print-spooler33.png" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-]]></content>
-    <category term="Documentación"/>
-    <published>2024-05-29T10:22:12.000Z</published>
   </entry>
 </feed>
