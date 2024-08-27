@@ -15,8 +15,17 @@
 
 <style>
 .search-box input {
-  width: 200px; /* Puedes ajustar el tamaño según tus necesidades */
+  width: 50%; /* Puedes ajustar el tamaño según tus necesidades */
 }
+
+.vp-toggle-navbar-button {
+  margin-right: 10%;
+}
+
+.outlook-button {
+  margin-right: 10%;
+}
+
 </style>
 
 <script>
