@@ -3,12 +3,89 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-08-26T20:41:43.117Z</updated>
+  <updated>2024-08-27T14:08:05.071Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Dispositivos"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.3.6</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html"/>
+    <updated>2024-08-27T14:01:51.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>
+<h2> Novedades</h2>
+<h3> Envío de Notificacion</h3>
+<p>Se corrige NPE al obtener el texto de Notificacion de EMail</p>
+<h2> Contexto</h2>
+<ul>
+<li>Envío de Notificación</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Envío de Notificación</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>
+<h2> Novedades</h2>
+<h3> Envío de Notificacion</h3>
+<p>Se corrige NPE al obtener el texto de Notificacion de EMail</p>
+<h2> Contexto</h2>
+<ul>
+<li>Envío de Notificación</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Envío de Notificación</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.6" target="_blank" rel="noopener noreferrer">ERPYA v2.3.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-27T14:01:51.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.3.7</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.7.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.7.html"/>
+    <updated>2024-08-27T14:01:51.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>
+<h2> Novedades</h2>
+<h3> Flujo de Producción</h3>
+<p>Se agrega Smart Browser para surtir orden de producción, este proceso es muy util para hacer movimientos de inventario desde donde se encuentran los productos o insumos de producción hasta el almacén de producción.</p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>
+<h2> Novedades</h2>
+<h3> Flujo de Producción</h3>
+<p>Se agrega Smart Browser para surtir orden de producción, este proceso es muy util para hacer movimientos de inventario desde donde se encuentran los productos o insumos de producción hasta el almacén de producción.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img1.png" alt="2.3.7" tabindex="0" loading="lazy"><figcaption>2.3.7</figcaption></figure>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img2.png" alt="2.3.7" tabindex="0" loading="lazy"><figcaption>2.3.7</figcaption></figure>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img3.png" alt="2.3.7" tabindex="0" loading="lazy"><figcaption>2.3.7</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Flujo de Producción</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Smart Browser</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.7" target="_blank" rel="noopener noreferrer">ERPYA v2.3.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-08-27T14:01:51.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.3.5</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.5.html</id>
@@ -4635,64 +4712,6 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 <ul>
 <li><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
 <li><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-11T21:19:59.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">1.2.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.0.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega licencia en español</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega licencia en español</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-11T21:19:59.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">1.2.1</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.1.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.1.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega información de contacto a la licencia de software</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega información de contacto a la licencia de software</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>

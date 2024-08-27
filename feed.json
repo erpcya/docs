@@ -6,6 +6,33 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-2.3.6",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html",
+      "summary": "Fecha de Liberación: 2024-08-26 Novedades Envío de Notificacion Se corrige NPE al obtener el texto de Notificacion de EMail Contexto Envío de Notificación Detalle Técnico Envío de Notificación",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>\n<h2> Novedades</h2>\n<h3> Envío de Notificacion</h3>\n<p>Se corrige NPE al obtener el texto de Notificacion de EMail</p>\n<h2> Contexto</h2>\n<ul>\n<li>Envío de Notificación</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Envío de Notificación</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.6\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.3.6</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
+      "date_published": "2024-08-27T14:01:51.000Z",
+      "date_modified": "2024-08-27T14:01:51.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.3.7",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.7.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.7.html",
+      "summary": "Fecha de Liberación: 2024-08-26 Novedades Flujo de Producción Se agrega Smart Browser para surtir orden de producción, este proceso es muy util para hacer movimientos de inventario desde donde se encuentran los productos o insumos de producción hasta el almacén de producción.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>\n<h2> Novedades</h2>\n<h3> Flujo de Producción</h3>\n<p>Se agrega Smart Browser para surtir orden de producción, este proceso es muy util para hacer movimientos de inventario desde donde se encuentran los productos o insumos de producción hasta el almacén de producción.</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img1.png\" alt=\"2.3.7\" tabindex=\"0\" loading=\"lazy\"><figcaption>2.3.7</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img2.png\" alt=\"2.3.7\" tabindex=\"0\" loading=\"lazy\"><figcaption>2.3.7</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img3.png\" alt=\"2.3.7\" tabindex=\"0\" loading=\"lazy\"><figcaption>2.3.7</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Flujo de Producción</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Smart Browser</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.7\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.3.6</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.7-img1.png",
+      "date_published": "2024-08-27T14:01:51.000Z",
+      "date_modified": "2024-08-27T14:01:51.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.3.5",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.5.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.5.html",
@@ -1302,32 +1329,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/rs-6.4.html",
       "summary": "Fecha de Liberación: 2024-05-07 Novedades Se agrega validación para tilde en caracteres del tipo áÁéÉíÍóÓúÚ cambiando a sus equivalentes válidos aAeEiIoOuU Se agrega soporte para permitir los máximos soportados en impresoras fiscales HKA-80 y PF-300-A Se agrega nota de documento larga, ideal para texto al final del documento",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega validación para tilde en caracteres del tipo <code>áÁéÉíÍóÓúÚ</code> cambiando a sus equivalentes válidos <code>aAeEiIoOuU</code></li>\n<li>Se agrega soporte para permitir los máximos soportados en impresoras fiscales <code>HKA-80</code> y <code>PF-300-A</code></li>\n<li>Se agrega nota de documento larga, ideal para texto al final del documento</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x64 bits</a></li>\n<li><a href=\"https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para x86 bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-11T21:19:59.000Z",
-      "date_modified": "2024-06-12T20:17:53.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "1.2.0",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.0.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.0.html",
-      "summary": "Fecha de Liberación: 2024-06-11 Novedades Se agrega licencia en español Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega licencia en español</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.0-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-11T21:19:59.000Z",
-      "date_modified": "2024-06-12T20:17:53.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "1.2.1",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.1.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.1.html",
-      "summary": "Fecha de Liberación: 2024-06-11 Novedades Se agrega información de contacto a la licencia de software Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega información de contacto a la licencia de software</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.1-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
       "date_published": "2024-06-11T21:19:59.000Z",
       "date_modified": "2024-06-12T20:17:53.000Z",
       "authors": [],
