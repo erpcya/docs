@@ -19,7 +19,11 @@ article: true
 
 ### Envío de Notificacion
 
-Se corrige NPE al obtener el texto de Notificacion de EMail
+Se corrige NPE al obtener el texto de Notificacion de EMail.
+
+Esto ocurría cuando el texto del cuerpo del correo no tenía nada, con frecuencia cuando se envían teportes de manera automática no llevan texto si no se les coloca una plantilla de correo.
+
+A partir de este cambio no dará problema ese tipo de envío.
 
 ## Contexto
 
