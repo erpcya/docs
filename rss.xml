@@ -6,12 +6,44 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 28 Aug 2024 13:02:30 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Aug 2024 13:02:30 GMT</lastBuildDate>
+    <pubDate>Wed, 28 Aug 2024 17:55:52 GMT</pubDate>
+    <lastBuildDate>Wed, 28 Aug 2024 17:55:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Dispositivos</category>
+    <item>
+      <title>erpya-3.9.4-001-2.3.8</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.8.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.8.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.3.8</source>
+      <description>Fecha de Liberación: 2024-08-27 Novedades Flujo de Producción Se agrega funcionalidad para permitir generar Órdenes de Distribución desde el Visor para Surtir Orden de Producción, anteriormente sólo se podía generar Movimientos de Inventario.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 28 Aug 2024 17:49:14 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-27</p>
+<h2> Novedades</h2>
+<h3> Flujo de Producción</h3>
+<p>Se agrega funcionalidad para permitir generar <strong>Órdenes de Distribución</strong> desde el Visor para <strong>Surtir Orden de Producción</strong>, anteriormente sólo se podía generar <strong>Movimientos de Inventario</strong>.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.8-img1.png" alt="2.3.8" tabindex="0" loading="lazy"><figcaption>2.3.8</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Flujo de Producción</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Nueva funcionalidad</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.8" target="_blank" rel="noopener noreferrer">ERPYA v2.3.6</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.8-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.3.6</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html</link>
@@ -3885,28 +3917,6 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 <ul>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>rs-6.4</title>
-      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/rs-6.4.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/rs-6.4.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">rs-6.4</source>
-      <description>Fecha de Liberación: 2024-05-07 Novedades Se agrega validación para tilde en caracteres del tipo áÁéÉíÍóÓúÚ cambiando a sus equivalentes válidos aAeEiIoOuU Se agrega soporte para permitir los máximos soportados en impresoras fiscales HKA-80 y PF-300-A Se agrega nota de documento larga, ideal para texto al final del documento</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 11 Jun 2024 21:19:59 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-07</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se agrega validación para tilde en caracteres del tipo <code>áÁéÉíÍóÓúÚ</code> cambiando a sus equivalentes válidos <code>aAeEiIoOuU</code></li>
-<li>Se agrega soporte para permitir los máximos soportados en impresoras fiscales <code>HKA-80</code> y <code>PF-300-A</code></li>
-<li>Se agrega nota de documento larga, ideal para texto al final del documento</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x64-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x64 bits</a></li>
-<li><a href="https://erpya.ams3.digitaloceanspaces.com/public/Local-Printing-All-In-One-DotNet-x86-rs-6.4.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para x86 bits</a></li>
 </ul>
 ]]></content:encoded>
     </item>
