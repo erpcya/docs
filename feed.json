@@ -9,10 +9,10 @@
       "title": "erpya-3.9.4-001-2.3.6",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.6.html",
-      "summary": "Fecha de Liberación: 2024-08-26 Novedades Envío de Notificacion Se corrige NPE al obtener el texto de Notificacion de EMail Contexto Envío de Notificación Detalle Técnico Envío de Notificación",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>\n<h2> Novedades</h2>\n<h3> Envío de Notificacion</h3>\n<p>Se corrige NPE al obtener el texto de Notificacion de EMail</p>\n<h2> Contexto</h2>\n<ul>\n<li>Envío de Notificación</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Envío de Notificación</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.6\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.3.6</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
+      "summary": "Fecha de Liberación: 2024-08-26 Novedades Envío de Notificacion Se corrige NPE al obtener el texto de Notificacion de EMail. Esto ocurría cuando el texto del cuerpo del correo no tenía nada, con frecuencia cuando se envían teportes de manera automática no llevan texto si no se les coloca una plantilla de correo.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-08-26</p>\n<h2> Novedades</h2>\n<h3> Envío de Notificacion</h3>\n<p>Se corrige NPE al obtener el texto de Notificacion de EMail.</p>\n<p>Esto ocurría cuando el texto del cuerpo del correo no tenía nada, con frecuencia cuando se envían teportes de manera automática no llevan texto si no se les coloca una plantilla de correo.</p>\n<p>A partir de este cambio no dará problema ese tipo de envío.</p>\n<h2> Contexto</h2>\n<ul>\n<li>Envío de Notificación</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Envío de Notificación</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.6\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.3.6</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
       "date_published": "2024-08-27T14:01:51.000Z",
-      "date_modified": "2024-08-27T14:01:51.000Z",
+      "date_modified": "2024-08-28T12:55:50.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
