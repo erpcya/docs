@@ -6,12 +6,71 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 28 Aug 2024 17:55:52 GMT</pubDate>
-    <lastBuildDate>Wed, 28 Aug 2024 17:55:52 GMT</lastBuildDate>
+    <pubDate>Fri, 30 Aug 2024 17:17:34 GMT</pubDate>
+    <lastBuildDate>Fri, 30 Aug 2024 17:17:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Dispositivos</category>
+    <item>
+      <title>erpya-3.9.4-001-2.3.9</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.9.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.9.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.3.9</source>
+      <description>Fecha de Liberación: 2024-08-30 Novedades Reportes Financieros Se agrega funcionalidad para crear las líneas de informes financieros desde el elemento contable. Esto es muy útil al momento de importar un elemento contable personalizado. 2.3.9</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 30 Aug 2024 17:11:21 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-08-30</p>
+<h2> Novedades</h2>
+<h3> Reportes Financieros</h3>
+<p>Se agrega funcionalidad para crear las líneas de informes financieros desde el elemento contable. Esto es muy útil al momento de importar un elemento contable personalizado.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img1.png" alt="2.3.9" tabindex="0" loading="lazy"><figcaption>2.3.9</figcaption></figure>
+<p>La funcionalidad inicial implementada es el reporte <strong>Balance de Comprobación</strong> haciendo coincidencia por los tipos de cuentas dentro del elemento contable.</p>
+<p>Para lograr esto se agregaron dos columnas nuevas a las <strong>Líneas de Informe</strong></p>
+<ul>
+<li><strong>Tipo de Cuenta</strong>: Determina el tipo de cuenta, Activo, Pasivo, Capital entre otros</li>
+<li><strong>Tipo de Cuenta Hija</strong>: Determina en detalle a qué pertenece el tipo, ejemplo: Dentro de <strong>Ingresos</strong> se tiene <strong>Otros Ingresos</strong>.</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img2.png" alt="2.3.9" tabindex="0" loading="lazy"><figcaption>2.3.9</figcaption></figure>
+<p>Para hacer la búsqueda dentro del elemento contable se toman en cuenta las columnas nuevas dentro del mismo.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img3.png" alt="2.3.9" tabindex="0" loading="lazy"><figcaption>2.3.9</figcaption></figure>
+<p>Para generar el fuente de cada linea del informe se toma como criterio lo siguiente:</p>
+<ul>
+<li>
+<p>El <strong>Tipo de Cuenta</strong> de la línea del informe debe coincidir con el <strong>Tipo de Cuenta</strong> del <strong>Elemento Contable</strong></p>
+</li>
+<li>
+<p>Si la linea de informe no tiene nada en el <strong>Tipo de Cuenta Hija</strong> entonces sólo buscará los elementos contables que coincidan con el <strong>Tipo de Cuenta</strong> y que no tengan padre asociado, es decir, que estén en el primer nivel del arbol.</p>
+</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img4.png" alt="2.3.9" tabindex="0" loading="lazy"><figcaption>2.3.9</figcaption></figure>
+<ul>
+<li>Si la linea de informe tiene asociado un <strong>Tipo de Cuenta Hija</strong> entonces hará coincidencia con el tipo de cuenta hija también sin importar si tiene o no tiene padre relacionado en el elemento contable.</li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img5.png" alt="2.3.9" tabindex="0" loading="lazy"><figcaption>2.3.9</figcaption></figure>
+<ul>
+<li>Adicional a lo anterior es obligatorio que el elemento a tomar esté marcado como <strong>Entidad Acumulada</strong></li>
+</ul>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img6.png" alt="2.3.9" tabindex="0" loading="lazy"><figcaption>2.3.9</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>La nueva función permite crear líneas de informes financieros desde elementos contables, facilitando la importación de reportes como el <strong>Balance de Comprobación</strong>.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Se agregan las columnas <strong>Tipo de Cuenta y Tipo de Cuenta Hija</strong> en las líneas de informe, utilizando estos datos para coincidir con elementos contables y marcando entidades acumuladas.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.3.9" target="_blank" rel="noopener noreferrer">ERPYA v2.3.9</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.3.9-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.3.8</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.8.html</link>
@@ -3897,26 +3956,6 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 <ul>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>1.1.9</title>
-      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.9.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.9.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">1.1.9</source>
-      <description>Fecha de Liberación: 2024-06-07 Novedades Se elimina compatibilidad hacia atrás con servicio de impresión Enlaces relacionados Descargue aquí la aplicación para x64 bits Descargue aquí la aplicación para x86 bits</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 11 Jun 2024 21:19:59 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se elimina compatibilidad hacia atrás con servicio de impresión</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.9-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content:encoded>
     </item>
