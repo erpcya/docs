@@ -6,12 +6,90 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 30 Aug 2024 17:17:34 GMT</pubDate>
-    <lastBuildDate>Fri, 30 Aug 2024 17:17:34 GMT</lastBuildDate>
+    <pubDate>Mon, 02 Sep 2024 14:11:24 GMT</pubDate>
+    <lastBuildDate>Mon, 02 Sep 2024 14:11:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Dispositivos</category>
+    <item>
+      <title>erpya-3.9.4-001-2.4.0</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.0.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.0.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.4.0</source>
+      <description>Fecha de Liberación: 2024-09-02 Novedades Se corrige Proceso Mantenimiento de Almacén. Contexto Mantenimiento de Almacén. Detalle Técnico Corrección. Enlaces relacionados</description>
+      <category>Actualizaciones</category>
+      <pubDate>Mon, 02 Sep 2024 14:04:53 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-02</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige <strong>Proceso Mantenimiento de Almacén</strong>.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Mantenimiento de Almacén.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Corrección.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.0" target="_blank" rel="noopener noreferrer">ERPYA v2.4.0</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-MG/issues/60" target="_blank" rel="noopener noreferrer">Error al Generar Mantenimiento de Almacen con dos productos ubicados en la misma orden. #60</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-2.4.1</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.1.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.1.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.4.1</source>
+      <description>Fecha de Liberación: 2024-09-02 Novedades Documento de Importacion / Exportacion Ajuste en el método de obtención de documentos para utilizar correctamente la caché, evitando tomar una transacción innecesaria en la base de datos. Proceso de Facturacion y Entrega desde Orden de Salida</description>
+      <category>Actualizaciones</category>
+      <pubDate>Mon, 02 Sep 2024 14:04:53 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-02</p>
+<h2> Novedades</h2>
+<h3> Documento de Importacion / Exportacion</h3>
+<ul>
+<li>Ajuste en el método de obtención de documentos para utilizar correctamente la caché, evitando tomar una transacción innecesaria en la base de datos.</li>
+</ul>
+<h3> Proceso de Facturacion y Entrega desde Orden de Salida</h3>
+<ul>
+<li>Se elimina la opción de pregunta de impresión en los procesos de generación de factura y entrega desde la orden de salida.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>
+<p>Documento de Importacion / Exportacion</p>
+</li>
+<li>
+<p>Proceso de Facturacion y Entrega desde Orden de Salida</p>
+</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Corrección.</li>
+<li>Se elimina opción</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.1" target="_blank" rel="noopener noreferrer">ERPYA v2.4.1</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.3.9</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.9.html</link>
@@ -3905,57 +3983,6 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 <ul>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>1.1.7</title>
-      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.7.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.7.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">1.1.7</source>
-      <description>Fecha de Liberación: 2024-06-03 Novedades Se actualiza la versión base del servicio a la 1.0.5 Se agrega opción para configurar el modelo de la impresora en el instalador. Enlaces relacionados</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 11 Jun 2024 21:19:59 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-03</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se actualiza la versión base del servicio a la <strong>1.0.5</strong></p>
-</li>
-<li>
-<p>Se agrega <strong>opción</strong> para configurar el modelo de la impresora en el instalador.</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>1.1.8</title>
-      <link>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.8.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.8.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">1.1.8</source>
-      <description>Fecha de Liberación: 2024-06-07 Novedades Se actualiza la versión base del servicio a la 1.0.6 Se define el servicio como un servicio genérico Se agrega licencia del producto en inglés y español</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 11 Jun 2024 21:19:59 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se actualiza la versión base del servicio a la <code>1.0.6</code></li>
-<li>Se define el servicio como un servicio genérico</li>
-<li>Se agrega licencia del producto en <strong>inglés</strong> y <strong>español</strong></li>
-</ul>
-<div class="hint-container info">
-<p class="hint-container-title">Nota:</p>
-<p>Los nombres cambiaron y para que todo funcione correctamente se debe ejecutar el desinstalador de la aplicación antes de instalar esta.</p>
-</div>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content:encoded>
     </item>

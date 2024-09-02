@@ -6,6 +6,32 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-2.4.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.0.html",
+      "summary": "Fecha de Liberación: 2024-09-02 Novedades Se corrige Proceso Mantenimiento de Almacén. Contexto Mantenimiento de Almacén. Detalle Técnico Corrección. Enlaces relacionados",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-09-02</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se corrige <strong>Proceso Mantenimiento de Almacén</strong>.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Mantenimiento de Almacén.</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Corrección.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.0\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.4.0</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-MG/issues/60\" target=\"_blank\" rel=\"noopener noreferrer\">Error al Generar Mantenimiento de Almacen con dos productos ubicados en la misma orden. #60</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
+      "date_published": "2024-09-02T14:04:53.000Z",
+      "date_modified": "2024-09-02T14:04:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.4.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.1.html",
+      "summary": "Fecha de Liberación: 2024-09-02 Novedades Documento de Importacion / Exportacion Ajuste en el método de obtención de documentos para utilizar correctamente la caché, evitando tomar una transacción innecesaria en la base de datos. Proceso de Facturacion y Entrega desde Orden de Salida",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-09-02</p>\n<h2> Novedades</h2>\n<h3> Documento de Importacion / Exportacion</h3>\n<ul>\n<li>Ajuste en el método de obtención de documentos para utilizar correctamente la caché, evitando tomar una transacción innecesaria en la base de datos.</li>\n</ul>\n<h3> Proceso de Facturacion y Entrega desde Orden de Salida</h3>\n<ul>\n<li>Se elimina la opción de pregunta de impresión en los procesos de generación de factura y entrega desde la orden de salida.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>\n<p>Documento de Importacion / Exportacion</p>\n</li>\n<li>\n<p>Proceso de Facturacion y Entrega desde Orden de Salida</p>\n</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Corrección.</li>\n<li>Se elimina opción</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.4.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
+      "date_published": "2024-09-02T14:04:53.000Z",
+      "date_modified": "2024-09-02T14:04:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.3.9",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.9.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.3.x/erpya-3.9.4-001-2.3.9.html",
@@ -1307,32 +1333,6 @@
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>\n</li>\n<li>\n<p>Se agrega respuesta con la ruta del documento a imprimir</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
       "date_published": "2024-06-11T21:19:59.000Z",
       "date_modified": "2024-06-12T20:17:53.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "1.1.7",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.7.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.7.html",
-      "summary": "Fecha de Liberación: 2024-06-03 Novedades Se actualiza la versión base del servicio a la 1.0.5 Se agrega opción para configurar el modelo de la impresora en el instalador. Enlaces relacionados",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Se actualiza la versión base del servicio a la <strong>1.0.5</strong></p>\n</li>\n<li>\n<p>Se agrega <strong>opción</strong> para configurar el modelo de la impresora en el instalador.</p>\n</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.7-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-11T21:19:59.000Z",
-      "date_modified": "2024-06-12T20:17:53.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "1.1.8",
-      "url": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.8.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.8.html",
-      "summary": "Fecha de Liberación: 2024-06-07 Novedades Se actualiza la versión base del servicio a la 1.0.6 Se define el servicio como un servicio genérico Se agrega licencia del producto en inglés y español",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-06-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se actualiza la versión base del servicio a la <code>1.0.6</code></li>\n<li>Se define el servicio como un servicio genérico</li>\n<li>Se agrega licencia del producto en <strong>inglés</strong> y <strong>español</strong></li>\n</ul>\n<div class=\"hint-container info\">\n<p class=\"hint-container-title\">Nota:</p>\n<p>Los nombres cambiaron y para que todo funcione correctamente se debe ejecutar el desinstalador de la aplicación antes de instalar esta.</p>\n</div>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x64.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x64</code> bits</a></li>\n<li><a href=\"https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.1.8-win-x86.exe\" target=\"_blank\" rel=\"noopener noreferrer\">Descargue aquí la aplicación para <code>x86</code> bits</a></li>\n</ul>\n",
-      "date_published": "2024-06-11T21:19:59.000Z",
-      "date_modified": "2024-06-28T19:55:12.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
