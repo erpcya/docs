@@ -34,3 +34,5 @@ article: false
 - [Importación de Datos de Listas de Precio](price-list-data.md)
 
 - [Importación de Datos de Inventario y Costo](orders-data.md)
+
+- [Importación de Datos de Saldos de Nómina](payroll-importation/README.md)
