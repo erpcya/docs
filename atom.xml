@@ -3,12 +3,113 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-09-02T14:11:24.672Z</updated>
+  <updated>2024-09-09T16:03:47.523Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
+  <category term="Importación"/>
   <category term="Actualizaciones"/>
   <category term="Dispositivos"/>
+  <entry>
+    <title type="text">Importaciones de Saldo de Nómina</title>
+    <id>https://docs-md.erpya.com/docs/data-importation/payroll-importation/</id>
+    <link href="https://docs-md.erpya.com/docs/data-importation/payroll-importation/"/>
+    <updated>2024-09-09T15:56:48.000Z</updated>
+    <summary type="html"><![CDATA[<ul>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/accumulated-profits/" target="blank">Acumulado de Utilidades</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/advance-of-social-benefits/" target="blank">Anticipo de Prestaciones Sociales</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/advance-vacation-days/" target="blank">Días Anticipo de Vacaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/total-payroll-days/" target="blank">Días Totales de la Nómina</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/previous-earnings-date/" target="blank">Fecha de Utilidades Anteriores</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/previous-vacation-date/" target="blank">Fecha de Vacaciones Anteriores</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-for-seniority-benefits/" target="blank">Provisión Antigüedad de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-for-seniority-benefits/" target="blank">Provisión Antigüedad de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-of-benefit-guarantee/" target="blank">Provisión Garantía de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-interest-seniority-of-benefits/" target="blank">Provisión Intereses Antigüedad de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-for-interest-guaranteed-benefits/" target="blank">Provisión Intereses Garantía de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/comprehensive-salary/" target="blank">Salario Integral</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/normal-salary/" target="blank">Salario Normal</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/normal-monthly-salary/" target="blank">Salario Normal Mensual</a></p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<ul>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/accumulated-profits/" target="blank">Acumulado de Utilidades</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/advance-of-social-benefits/" target="blank">Anticipo de Prestaciones Sociales</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/advance-vacation-days/" target="blank">Días Anticipo de Vacaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/total-payroll-days/" target="blank">Días Totales de la Nómina</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/previous-earnings-date/" target="blank">Fecha de Utilidades Anteriores</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/previous-vacation-date/" target="blank">Fecha de Vacaciones Anteriores</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-for-seniority-benefits/" target="blank">Provisión Antigüedad de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-for-seniority-benefits/" target="blank">Provisión Antigüedad de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-of-benefit-guarantee/" target="blank">Provisión Garantía de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-interest-seniority-of-benefits/" target="blank">Provisión Intereses Antigüedad de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/provision-for-interest-guaranteed-benefits/" target="blank">Provisión Intereses Garantía de Prestaciones</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/comprehensive-salary/" target="blank">Salario Integral</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/normal-salary/" target="blank">Salario Normal</a></p>
+</li>
+<li>
+<p><a href="/docs/data-importation/payroll-importation/normal-monthly-salary/" target="blank">Salario Normal Mensual</a></p>
+</li>
+</ul>
+<hr>
+<h2> Packout</h2>
+<p>El packout con los formatos de importación se puede <a href="/assets/img/docs/data-importation/payroll/HR_S_Saldo_de_Nomina.zip">descargar aquí</a></p>
+]]></content>
+    <category term="Importación"/>
+    <published>2024-09-09T15:56:48.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.4.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.0.html</id>
@@ -4707,75 +4808,6 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 <ul>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
 <li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.4-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-11T21:19:59.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">1.1.5</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.5.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.5.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega soporte para mostrar mensajes en el <strong>Visor de Eventos de Windows</strong></p>
-</li>
-<li>
-<p>Se agrega funcionalidad para enviar a la impresora los documentos <strong>PDF</strong></p>
-</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega soporte para mostrar mensajes en el <strong>Visor de Eventos de Windows</strong></p>
-</li>
-<li>
-<p>Se agrega funcionalidad para enviar a la impresora los documentos <strong>PDF</strong></p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.5-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-11T21:19:59.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">1.1.6</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.6.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.1.x/1.1.6.html"/>
-    <updated>2024-06-12T20:17:53.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>
-</li>
-<li>
-<p>Se agrega respuesta con la ruta del documento a imprimir</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-05-29</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega mejora para reportar el estado del servicio en el <strong>Visor de Eventos de Windows</strong></p>
-</li>
-<li>
-<p>Se agrega respuesta con la ruta del documento a imprimir</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Printing-Service-1.1.6-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
