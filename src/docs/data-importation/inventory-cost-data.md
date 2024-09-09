@@ -1,5 +1,5 @@
 ---
-title: Datos de órdenes
+title: Datos de Inventario y Costo
 icon: newspaper
 category: Importación
 star: 9
@@ -15,4 +15,4 @@ article: false
 
 Estos datos serán usados para importarlos en la aplicación.
 
-[La plantilla para importar las órdenes se puede descargar aquí](/assets/files/Orden.xlsx)
+[La plantilla para importar los inventarios y costos se puede descargar aquí](/assets/files/Inventario_y_Costo.xlsx)
