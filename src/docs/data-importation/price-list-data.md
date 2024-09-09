@@ -15,4 +15,4 @@ article: false
 
 Esta es la información de las listas de precio a importar.
 
-[La plantilla para importar los puestos de trabajos se puede descargar aquí](/assets/files/Lista_de_Precio.xlsx)
+[La plantilla para importar las listas de precios se puede descargar aquí](/assets/files/Lista_de_Precio.xlsx)
