@@ -36,3 +36,7 @@ article: false
 - [Importación de Datos de Inventario y Costo](inventory-cost-data.md)
 
 - [Importación de Datos de Saldos de Nómina](payroll-importation/README.md)
+
+- [Importación de Datos de Órdenes de Compra](purchase-order-importation/README.md)
+
+- [Importación de Datos de Órdenes de Ventas](sales-order-importation/README.md)
