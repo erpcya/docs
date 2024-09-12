@@ -3,13 +3,81 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-09-09T21:10:13.551Z</updated>
+  <updated>2024-09-12T12:46:31.558Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
-  <category term="Importación"/>
   <category term="Actualizaciones"/>
+  <category term="Importación"/>
   <category term="Dispositivos"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.4.4</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.4.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.4.html"/>
+    <updated>2024-09-12T12:39:10.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-10</p>
+<h2> Novedades</h2>
+<h3> Notificación de Retenciones</h3>
+<p>Se agrega soporte a envío a la cola de notificación de retenciones.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.4.4-img1.png" alt="Imagen 1" tabindex="0" loading="lazy"><figcaption>Imagen 1</figcaption></figure>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-10</p>
+<h2> Novedades</h2>
+<h3> Notificación de Retenciones</h3>
+<p>Se agrega soporte a envío a la cola de notificación de retenciones.</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.4.4-img1.png" alt="Imagen 1" tabindex="0" loading="lazy"><figcaption>Imagen 1</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Retenciones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Notificación</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.4" target="_blank" rel="noopener noreferrer">ERPYA v2.4.4</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-09-12T12:39:10.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.4.5</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.5.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.5.html"/>
+    <updated>2024-09-12T12:39:10.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-10</p>
+<h2> Novedades</h2>
+<h3> Envío de Retenciones</h3>
+<p>Se corrige proceso de envio de retenciones para que no muestre un preview de la retencion Generada, el error se introdujo en el release <a href="/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.4.html" target="blank">2.4.4</a></p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-10</p>
+<h2> Novedades</h2>
+<h3> Envío de Retenciones</h3>
+<p>Se corrige proceso de envio de retenciones para que no muestre un preview de la retencion Generada, el error se introdujo en el release <a href="/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.4.html" target="blank">2.4.4</a></p>
+<h2> Contexto</h2>
+<ul>
+<li>Retenciones</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Notificación</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.5" target="_blank" rel="noopener noreferrer">ERPYA v2.4.5</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-09-12T12:39:10.000Z</published>
+  </entry>
   <entry>
     <title type="text">Importaciones de Órdenes de Compra</title>
     <id>https://docs-md.erpya.com/docs/data-importation/purchase-order-importation/</id>
@@ -4762,91 +4830,6 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 <ul>
 <li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
 <li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-14T19:01:39.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Servicio de Lectura de Romana 1.0.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html"/>
-    <updated>2024-06-14T19:01:39.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-14</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega lector de romana como servicio de Windows.</p>
-</li>
-<li>
-<p>Se elimina configuración de trama de lectura de romana.</p>
-</li>
-<li>
-<p>Se agrega instalador con parámetros de conexión al puerto de romana.</p>
-</li>
-<li>
-<p>Se agrega soporte a visor de eventos para log de seguimiento de lectura de romana.</p>
-</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-14</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega lector de romana como servicio de Windows.</p>
-</li>
-<li>
-<p>Se elimina configuración de trama de lectura de romana.</p>
-</li>
-<li>
-<p>Se agrega instalador con parámetros de conexión al puerto de romana.</p>
-</li>
-<li>
-<p>Se agrega soporte a visor de eventos para log de seguimiento de lectura de romana.</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Service-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-14T19:01:39.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Lectura de Peso 1.0.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html"/>
-    <updated>2024-06-14T19:01:39.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega instalador para aplicación de prueba de romana</p>
-</li>
-<li>
-<p>Se agrega archivo de configuración de pruebas</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-11</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Se agrega instalador para aplicación de prueba de romana</p>
-</li>
-<li>
-<p>Se agrega archivo de configuración de pruebas</p>
-</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-Weight-Scale-Tester-1.0.0-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
