@@ -40,3 +40,5 @@ article: false
 - [Importación de Datos de Órdenes de Compra](purchase-order-importation/README.md)
 
 - [Importación de Datos de Órdenes de Ventas](sales-order-importation/README.md)
+
+- [Importación de Datos de Plan de Cuentas](chart-of-accounts.md)
