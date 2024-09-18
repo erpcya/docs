@@ -3,13 +3,116 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-09-12T12:46:31.558Z</updated>
+  <updated>2024-09-18T19:39:50.593Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Importación"/>
   <category term="Dispositivos"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.4.6</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.6.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.6.html"/>
+    <updated>2024-09-18T19:32:37.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-16</p>
+<h2> Novedades</h2>
+<h3> Nómina</h3>
+<ul>
+<li>Se agrega soporte a Cálculo de Descanso Legal basado en turnos rotativos.</li>
+<li>Se agrega soporte a Bono Nocturno sin horas extras.</li>
+<li>Se agregan métodos de ayuda para el salario normal, salario normal parcial, promedio de salario normal y promedio de salario normal parcial.</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-16</p>
+<h2> Novedades</h2>
+<h3> Nómina</h3>
+<ul>
+<li>Se agrega soporte a Cálculo de Descanso Legal basado en turnos rotativos.</li>
+<li>Se agrega soporte a Bono Nocturno sin horas extras.</li>
+<li>Se agregan métodos de ayuda para el salario normal, salario normal parcial, promedio de salario normal y promedio de salario normal parcial.</li>
+</ul>
+<h3> Reporte Saldo en Banco a la Fecha</h3>
+<ul>
+<li>Se corrige movimientos de pagos conciliados sin identificar.</li>
+</ul>
+<h3> Procesos Generar y Recibir Movimientos de Inventario desde Orden de Distribución</h3>
+<ul>
+<li>Se corrige transacción activa de Base de Datos al Generar Movimiento de Inventario.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Nómina</li>
+<li>Reportes</li>
+<li>Procesos</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Correcciones</li>
+<li>Soporte a Nómina</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.6" target="_blank" rel="noopener noreferrer">ERPYA v2.4.6</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/101" target="_blank" rel="noopener noreferrer">Caso de Cobro sin Identificar #101</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-09-18T19:32:37.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.4.7</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.7.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.7.html"/>
+    <updated>2024-09-18T19:32:37.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-18</p>
+<h2> Novedades</h2>
+<h3> Procesamiento en Smart-Browse</h3>
+<ul>
+<li>Se agrega validación para no permitir multiple procesamiento en Smart Browse</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Bug</li>
+<li>Procesos</li>
+</ul>
+<h2> Detalle Técnico</h2>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-18</p>
+<h2> Novedades</h2>
+<h3> Procesamiento en Smart-Browse</h3>
+<ul>
+<li>Se agrega validación para no permitir multiple procesamiento en Smart Browse</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Bug</li>
+<li>Procesos</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Correcciones.</li>
+<li>Validación para evitiar multiple procesamiento.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.7" target="_blank" rel="noopener noreferrer">ERPYA v2.4.7</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-09-18T19:32:37.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.4.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.4.html</id>
@@ -4794,45 +4897,5 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 ]]></content>
     <category term="Actualizaciones"/>
     <published>2024-06-17T14:35:05.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Lista de versiones de Servicio de Lectura de Romana</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-reading-service/"/>
-    <updated>2024-07-04T16:31:08.000Z</updated>
-    <summary type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>
-<ul>
-<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.2.html" target="blank">1.0.2</a></li>
-<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
-<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Este es el servicio final similar al de la impresora fiscal pero para lectura de peso y es para uso del cliente fiscal.</p>
-<ul>
-<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.2.html" target="blank">1.0.2</a></li>
-<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
-<li><a href="/downloads/updates/devices/record-weight/romana-reading-service/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-14T19:01:39.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">Lista de Aplicaciones de Probador de Romana</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/record-weight/romana-tester/"/>
-    <updated>2024-06-14T19:01:39.000Z</updated>
-    <summary type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Es una consola negra que permite probar si se lee la romana correctamente (para uso del técnico).</p>
-<ul>
-<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
-<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p>A continuación se encuentra una lista con las versiones relacionadas. Es una consola negra que permite probar si se lee la romana correctamente (para uso del técnico).</p>
-<ul>
-<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.1.html" target="blank">1.0.1</a></li>
-<li><a href="/downloads/updates/devices/record-weight/romana-tester/1.1.x/1.0.0.html" target="blank">1.0.0</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-14T19:01:39.000Z</published>
   </entry>
 </feed>
