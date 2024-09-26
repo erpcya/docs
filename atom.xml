@@ -3,13 +3,60 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-09-19T14:07:54.833Z</updated>
+  <updated>2024-09-26T14:52:33.907Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Importación"/>
   <category term="Dispositivos"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.4.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.9.html"/>
+    <updated>2024-09-26T14:45:09.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-25</p>
+<h2> Novedades</h2>
+<h3> Resumen de Cambios</h3>
+<ul>
+<li>Se corrige error con la carga de extracto bancario de Bancaribe, cargaba todos los movimientos como débitos.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Carga de Extracto Bancario</li>
+</ul>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-09-25</p>
+<h2> Novedades</h2>
+<h3> Resumen de Cambios</h3>
+<ul>
+<li>Se corrige error con la carga de extracto bancario de Bancaribe, cargaba todos los movimientos como débitos.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Carga de Extracto Bancario</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Correcciones.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.9" target="_blank" rel="noopener noreferrer">ERPYA v2.4.9</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/681" target="_blank" rel="noopener noreferrer">Extracto: Banco del Caribe #681</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-09-26T14:45:09.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.4.8</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.8.html</id>
@@ -2463,6 +2510,159 @@
     <published>2024-07-16T22:24:27.000Z</published>
   </entry>
   <entry>
+    <title type="text">erpya-3.9.4-001-1.5.7</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html"/>
+    <updated>2024-07-16T13:27:07.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
+<h2> Novedades</h2>
+<ul>
+<li>Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela.</li>
+</ul>
+<p>Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.</p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
+<h2> Novedades</h2>
+<ul>
+<li>Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela.</li>
+</ul>
+<p>Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.</p>
+<p>En promedio, para un cliente con 296 empleados el tiempo de procesamiendo se encuentra entre 35 y 45 minutos. Después de aplicar el procesamiento paralelo se reduce a 1 minuto</p>
+<p><code>ParallelEngine.run: Calculation for createParallelMovements # Time elapsed: 01:04.576</code></p>
+<h2> Contexto</h2>
+<ul>
+<li>Nómina</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>With this release, payroll execution time is considerably reduced to just minutes.</li>
+</ul>
+<h2> Enlaces Relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.7" target="_blank" rel="noopener noreferrer">ERPYA v1.5.7</a></li>
+</ul>
+<h2> Requerimientos</h2>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-16T13:27:07.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.5.8</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.8.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.8.html"/>
+    <updated>2024-07-16T13:27:07.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
+<h2> Novedades</h2>
+<ul>
+<li>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su <strong>cédula</strong> o <strong>rif</strong>.</li>
+</ul>
+<p>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif.</p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
+<h2> Novedades</h2>
+<ul>
+<li>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su <strong>cédula</strong> o <strong>rif</strong>.</li>
+</ul>
+<p>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif.</p>
+<h3> Valores Permitidos</h3>
+<ul>
+<li>J: Jurídico</li>
+<li>V: Venezolano</li>
+<li>E: Extranjero</li>
+<li>G: Gobierno</li>
+<li>X: Aplica para Extranjeros sin documento venezolado (para importar)</li>
+<li>El tamaño máximo del texto debe ser 10 dígitos incluyendo la primera letra</li>
+</ul>
+<h3> Dónde se encuentra la validación?</h3>
+<p>Ésta validación se dispara cuando se está creando un socio de negocio o cuando se está modificando el campo Cédula(Value) o RIF(TaxID)</p>
+<p>Si los datos que se intentan colocar no cumplen con los requisitos mínimos el usuario recibirá el siguiente mensaje:</p>
+<p>Inglés:</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Español</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> Contexto</h2>
+<ul>
+<li>Se agrega validación al momento de crear socios de negocio</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Validation is added when creating business partners</li>
+</ul>
+<h2> Enlaces Relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/600" target="_blank" rel="noopener noreferrer">Configuración del campo Número de Identificación para que sólo reciba caracteres números (9 caracteres XXX.XXX.XXX) #600</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.8" target="_blank" rel="noopener noreferrer">ERPYA v1.5.8</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requiere aplicar proceso.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-16T13:27:07.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-1.5.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.9.html"/>
+    <updated>2024-07-16T13:27:07.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-17</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Ahora al agregar un bloqueo por acceso a datos de rol en un almacen al ingresar en ADempiere en la ventana de login va a filtrar por los almacenes que el rol o el usuario tienen permiso.</p>
+</li>
+<li>
+<p>Fórmula Alemana para cálculo de prestamos al Completar un prestamo o en el simulador de prestamos</p>
+</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-17</p>
+<h2> Novedades</h2>
+<ul>
+<li>
+<p>Ahora al agregar un bloqueo por acceso a datos de rol en un almacen al ingresar en ADempiere en la ventana de login va a filtrar por los almacenes que el rol o el usuario tienen permiso.</p>
+</li>
+<li>
+<p>Fórmula Alemana para cálculo de prestamos al Completar un prestamo o en el simulador de prestamos</p>
+</li>
+</ul>
+<h3> ¿Dónde se encuentra la validación?</h3>
+<ul>
+<li>En la ventana del login si existe permiso a datos de rol por almacen configurados</li>
+<li>Al completar un prestamo.</li>
+<li>Al simular un prestamo.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Se Agrega soporte a Filtro de Acceso a Datos de Rol en la Seleccion de Almacen al hacer login</li>
+<li>Se Agrega soporte a calculo de prestamo con el Metodo Aleman</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Added support for Role Data Access Filter in Warehouse Selection when logging in</li>
+<li>Added support for loan calculation with the German Method</li>
+</ul>
+<h2> Enlaces Relacionados</h2>
+<ul>
+<li>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/35" target="_blank" rel="noopener noreferrer">Soporte a Bloqueo de Almacén #35</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpcya/Control-NATULAC/issues/17" target="_blank" rel="noopener noreferrer">Revalorización de Pagaré #17</a></p>
+</li>
+<li>
+<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.9" target="_blank" rel="noopener noreferrer">ERPYA v1.5.9</a></p>
+</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requiere aplicar proceso.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-07-16T13:27:07.000Z</published>
+  </entry>
+  <entry>
     <title type="text">erpya-3.9.4-001-1.6.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.0.html"/>
@@ -2983,159 +3183,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-07-16T13:27:07.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-1.5.7</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html"/>
-    <updated>2024-07-16T13:27:07.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
-<h2> Novedades</h2>
-<ul>
-<li>Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela.</li>
-</ul>
-<p>Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.</p>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
-<h2> Novedades</h2>
-<ul>
-<li>Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela.</li>
-</ul>
-<p>Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.</p>
-<p>En promedio, para un cliente con 296 empleados el tiempo de procesamiendo se encuentra entre 35 y 45 minutos. Después de aplicar el procesamiento paralelo se reduce a 1 minuto</p>
-<p><code>ParallelEngine.run: Calculation for createParallelMovements # Time elapsed: 01:04.576</code></p>
-<h2> Contexto</h2>
-<ul>
-<li>Nómina</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>With this release, payroll execution time is considerably reduced to just minutes.</li>
-</ul>
-<h2> Enlaces Relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.7" target="_blank" rel="noopener noreferrer">ERPYA v1.5.7</a></li>
-</ul>
-<h2> Requerimientos</h2>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-07-16T13:27:07.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-1.5.8</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.8.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.8.html"/>
-    <updated>2024-07-16T13:27:07.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
-<h2> Novedades</h2>
-<ul>
-<li>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su <strong>cédula</strong> o <strong>rif</strong>.</li>
-</ul>
-<p>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif.</p>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>
-<h2> Novedades</h2>
-<ul>
-<li>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su <strong>cédula</strong> o <strong>rif</strong>.</li>
-</ul>
-<p>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif.</p>
-<h3> Valores Permitidos</h3>
-<ul>
-<li>J: Jurídico</li>
-<li>V: Venezolano</li>
-<li>E: Extranjero</li>
-<li>G: Gobierno</li>
-<li>X: Aplica para Extranjeros sin documento venezolado (para importar)</li>
-<li>El tamaño máximo del texto debe ser 10 dígitos incluyendo la primera letra</li>
-</ul>
-<h3> Dónde se encuentra la validación?</h3>
-<p>Ésta validación se dispara cuando se está creando un socio de negocio o cuando se está modificando el campo Cédula(Value) o RIF(TaxID)</p>
-<p>Si los datos que se intentan colocar no cumplen con los requisitos mínimos el usuario recibirá el siguiente mensaje:</p>
-<p>Inglés:</p>
-<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Español</p>
-<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> Contexto</h2>
-<ul>
-<li>Se agrega validación al momento de crear socios de negocio</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Validation is added when creating business partners</li>
-</ul>
-<h2> Enlaces Relacionados</h2>
-<ul>
-<li>
-<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/600" target="_blank" rel="noopener noreferrer">Configuración del campo Número de Identificación para que sólo reciba caracteres números (9 caracteres XXX.XXX.XXX) #600</a></p>
-</li>
-<li>
-<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.8" target="_blank" rel="noopener noreferrer">ERPYA v1.5.8</a></p>
-</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requiere aplicar proceso.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-07-16T13:27:07.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-1.5.9</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.9.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.9.html"/>
-    <updated>2024-07-16T13:27:07.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-17</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Ahora al agregar un bloqueo por acceso a datos de rol en un almacen al ingresar en ADempiere en la ventana de login va a filtrar por los almacenes que el rol o el usuario tienen permiso.</p>
-</li>
-<li>
-<p>Fórmula Alemana para cálculo de prestamos al Completar un prestamo o en el simulador de prestamos</p>
-</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-04-17</p>
-<h2> Novedades</h2>
-<ul>
-<li>
-<p>Ahora al agregar un bloqueo por acceso a datos de rol en un almacen al ingresar en ADempiere en la ventana de login va a filtrar por los almacenes que el rol o el usuario tienen permiso.</p>
-</li>
-<li>
-<p>Fórmula Alemana para cálculo de prestamos al Completar un prestamo o en el simulador de prestamos</p>
-</li>
-</ul>
-<h3> ¿Dónde se encuentra la validación?</h3>
-<ul>
-<li>En la ventana del login si existe permiso a datos de rol por almacen configurados</li>
-<li>Al completar un prestamo.</li>
-<li>Al simular un prestamo.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se Agrega soporte a Filtro de Acceso a Datos de Rol en la Seleccion de Almacen al hacer login</li>
-<li>Se Agrega soporte a calculo de prestamo con el Metodo Aleman</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Added support for Role Data Access Filter in Warehouse Selection when logging in</li>
-<li>Added support for loan calculation with the German Method</li>
-</ul>
-<h2> Enlaces Relacionados</h2>
-<ul>
-<li>
-<p><a href="https://github.com/erpcya/Control-NATULAC/issues/35" target="_blank" rel="noopener noreferrer">Soporte a Bloqueo de Almacén #35</a></p>
-</li>
-<li>
-<p><a href="https://github.com/erpcya/Control-NATULAC/issues/17" target="_blank" rel="noopener noreferrer">Revalorización de Pagaré #17</a></p>
-</li>
-<li>
-<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.9" target="_blank" rel="noopener noreferrer">ERPYA v1.5.9</a></p>
-</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requiere aplicar proceso.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
@@ -4859,34 +4906,5 @@ el dispositivo no podrá conectarse con el servidor en la nube. Siga los pasos a
 ]]></content>
     <category term="Actualizaciones"/>
     <published>2024-07-04T16:31:08.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">1.2.2</title>
-    <id>https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.2.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/devices/printers/1.2.x/1.2.2.html"/>
-    <updated>2024-06-28T19:55:12.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-26</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se corrige problema con nombres mayores a <code>38</code> dígitos en impresoras <strong>PNP PF-300A</strong></li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.2-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-26</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se corrige problema con nombres mayores a <code>38</code> dígitos en impresoras <strong>PNP PF-300A</strong></li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.2-win-x64.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x64</code> bits</a></li>
-<li><a href="https://ams3.digitaloceanspaces.com/erpya/public/downloads/ERP-App-Service-1.2.2-win-x86.exe" target="_blank" rel="noopener noreferrer">Descargue aquí la aplicación para <code>x86</code> bits</a></li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-06-28T19:55:12.000Z</published>
   </entry>
 </feed>
