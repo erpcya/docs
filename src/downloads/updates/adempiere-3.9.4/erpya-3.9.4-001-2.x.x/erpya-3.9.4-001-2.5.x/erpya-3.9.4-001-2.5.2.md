@@ -17,15 +17,17 @@ article: true
 
 ## Novedades
 
-- Actualización de versión base
+### Contabilidad de Producción
+
+- Se agrega nro de documento a la descripcion de la contabilidad de la producción.
 
 ## Contexto
 
-- Versión Base.
+- Contabilidad de Producción.
 
 ## Detalle Técnico
 
-- Upgrade Base version.
+- Adición de Número de Documento en Contabilidad de Producción
 
 ## Enlaces relacionados
 
