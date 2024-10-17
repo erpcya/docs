@@ -6,12 +6,49 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Mon, 07 Oct 2024 12:45:10 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Oct 2024 12:45:10 GMT</lastBuildDate>
+    <pubDate>Thu, 17 Oct 2024 16:04:00 GMT</pubDate>
+    <lastBuildDate>Thu, 17 Oct 2024 16:04:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Importación</category>
+    <item>
+      <title>erpya-3.9.4-001-2.5.7</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.7.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.7.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.5.7</source>
+      <description>Fecha de Liberación: 2024-10-11 Novedades Validación en Pago Se agrega validacion para no permitir reversar un pago que este en una conciliacion en Borrador. Base Se agrega soporte a no copiar columna ProcessedOn al copiar registro.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Thu, 17 Oct 2024 15:56:21 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-11</p>
+<h2> Novedades</h2>
+<h3> Validación en Pago</h3>
+<ul>
+<li>Se agrega validacion para no permitir reversar un pago que este en una conciliacion en <strong>Borrador</strong>.</li>
+</ul>
+<h3> Base</h3>
+<ul>
+<li>Se agrega soporte a no copiar columna <code>ProcessedOn</code> al copiar registro.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Se ha identificado la necesidad de prevenir errores en el manejo de pagos durante el proceso de conciliación, específicamente para aquellos pagos que se encuentran en estado de <strong>Borrador</strong>.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Se implementó una validación que impide la reversión de pagos si estos están asociados a una conciliación en estado <strong>Borrador</strong>, garantizando así la integridad del proceso de conciliación.</li>
+<li>Se añadió soporte para evitar que la columna <code>ProcessedOn</code> sea copiada al realizar un registro, lo que mejora la eficiencia en el manejo de datos y evita inconsistencias.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.7" target="_blank" rel="noopener noreferrer">ERPYA v2.5.7</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.5.3</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.3.html</link>
@@ -4001,54 +4038,6 @@
 <h2> Enlaces relacionados</h2>
 <ul>
 <li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.5" target="_blank" rel="noopener noreferrer">ERPYA v1.9.5</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-1.9.6</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.6.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.6.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.9.6</source>
-      <description>Fecha de Liberación: 2024-07-12 Novedades Localización Venezuela Se agrega importador para extracto bancario del Banco Nacional de Crédito (BNC), este toma como referencia el archivo txt generado por el banco y que es separado por tabuladores org.erpya.lve.bank.imp.BNC_Loader_Tsv</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 16 Jul 2024 13:27:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-12</p>
-<h2> Novedades</h2>
-<h3> Localización Venezuela</h3>
-<p>Se agrega importador para extracto bancario del <strong>Banco Nacional de Crédito (BNC)</strong>, este toma como referencia el archivo txt generado por el banco y que es separado por tabuladores <code>org.erpya.lve.bank.imp.BNC_Loader_Tsv</code></p>
-<h3> Reabastecimiento</h3>
-<ul>
-<li>Se corrige error al generar orden de compra desde el reporte de reabastecimiento. El mismo generaba las lineas con la unidad de medida <strong>Unidad</strong> en lugar de utilizar la unidad de medida del producto.</li>
-</ul>
-<h3> Intercompañía</h3>
-<p>Se corrige problema con redondeo de precio al generar la orden de venta intercompañía de manera automática desde una orden de compra configurada como contra-documento.</p>
-<h2> Contexto</h2>
-<ul>
-<li>LVE</li>
-<li>Reabastecimiento</li>
-<li>Intercompañía</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Factura</li>
-</ul>
-<h2> Referencia</h2>
-<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/679" target="_blank" rel="noopener noreferrer">Extracto: Banco Nacional de Crédito #679</a></p>
-<p><a href="https://github.com/erpcya/adempiere/issues/66" target="_blank" rel="noopener noreferrer">[Bug Report] Error con unidad de medida de Reabastecimiento #66</a></p>
-<p><a href="https://github.com/erpcya/adempiere/issues/67" target="_blank" rel="noopener noreferrer">[Bug Report] Diferencia en lista de precios (Intercompañía) #67</a></p>
-<p><a href="https://github.com/erpcya/Control-PROSEIN/issues/742" target="_blank" rel="noopener noreferrer">Diferencia en lista de precios Intercompañia Casos Día: 04/07/2024 Cant. 1 #742</a></p>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li>
-<p><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.6" target="_blank" rel="noopener noreferrer">ERPYA v1.9.6</a></p>
-</li>
-<li>
-<p><a href="https://github.com/erpya/adempiere_patch_zk/discussions/14" target="_blank" rel="noopener noreferrer">Referencia de Discusión: #14</a></p>
-</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
