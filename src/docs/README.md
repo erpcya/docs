@@ -28,7 +28,6 @@ Tenga en cuenta que todo el ecosistema [ADempiere ERP](https://erpya.com/) se cr
 - [Accesos Rápidos](basic-rules/quick-access)
 - [Utilería](basic-rules/props)
 
-
 ### Datos Maestros
 
 - [Socio del Negocio](master-data/business-partner)
@@ -36,13 +35,39 @@ Tenga en cuenta que todo el ecosistema [ADempiere ERP](https://erpya.com/) se cr
 - [Almacén](master-data/warehouse)
 - [Reportes de Maestros](master-data/reports)
 
-### Gestión de Materiales
+### Aplicaciones
 
-- [Movimiento de Inventario](material-management/inventory-move)
-- [Inventario de Uso Interno](material-management/internal-use-inventory)
-- [Inventario Físico](material-management/physical-inventory)
-- [Lista de Materiales](material-management/ldm)
-- [Reabastecimiento](material-management/replenishment)
+- [Lectura de Peso](devices/record-weight/)
+- [Impresoras](devices/printers/)
+- [Control de Asistencia](devices/attendance-control/)
+
+### Inicio de Sesión con Keycloak
+
+- [Acceso Seguro con Keycloak](basic-rules/login-keycloak.md)
+- [Keycloak con Autenticación 2FA](basic-rules/login-2fa.md)
+
+### Importaciones
+
+- [Importación de Datos](data-importation/)
+
+### Otros procedimientos
+
+- [Otros Procedimientos](other-process/)
+
+### Gestiones
+
+- [Gestión de Materiales](material-management/)
+- [Gestión de Producción](production-management/)
+- [Gestión de Distribución](distribution-management/)
+- [Gestión de Distribución](sales-management/)
+- [Gestión de Relaciones con Clientes](customer-relationship-management/)
+- [Gestión PDV](pdv-management/)
+- [Gestión de Compras](purchase-management/)
+- [Gestión de Devoluciones](return-management/)
+- [Gestión de Saldos Pendientes](balance-management/)
+- [Gestión de Recursos Humanos](human-management/)
+- [Gestión de Activos](asset-management/)
+- [Gestión Contable](accounting-management/)
 
 ### Verticales de Negocio
 

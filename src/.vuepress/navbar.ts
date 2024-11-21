@@ -68,7 +68,16 @@ export const enNavbarConfig = navbar([
         ],
       },
       {
-        text: "Dispositivos",
+        text: "Datos Maestros",
+        children: [
+          "master-data/business-partner",
+          "master-data/product",
+          "master-data/warehouse",
+          "master-data/reports"
+        ],
+      },
+      {
+        text: "Aplicaciones",
         children: [
           "devices/record-weight/",
           "devices/printers",
@@ -92,15 +101,6 @@ export const enNavbarConfig = navbar([
         text: "Otros procedimientos",
         children: [
           "other-process/"
-        ],
-      },
-      {
-        text: "Datos Maestros",
-        children: [
-          "master-data/business-partner",
-          "master-data/product",
-          "master-data/warehouse",
-          "master-data/reports"
         ],
       },
       {
