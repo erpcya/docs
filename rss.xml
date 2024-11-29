@@ -6,12 +6,44 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 Nov 2024 19:12:25 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Nov 2024 19:12:25 GMT</lastBuildDate>
+    <pubDate>Fri, 29 Nov 2024 16:25:35 GMT</pubDate>
+    <lastBuildDate>Fri, 29 Nov 2024 16:25:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Importación</category>
+    <item>
+      <title>erpya-3.9.4-001-2.6.2</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.2.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.2.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.6.2</source>
+      <description>Fecha de Liberación: 2024-11-27 Novedades Validación en Pagos sin Identificar Se agrega validación para no permitir identificar un pago/cobro si no esta conciliado Pago/Cobro sin Identificar</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 29 Nov 2024 16:17:42 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-11-27</p>
+<h2> Novedades</h2>
+<h3> Validación en Pagos sin Identificar</h3>
+<p>Se agrega validación para no permitir identificar un pago/cobro si no esta conciliado</p>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.6.2-img1.png" alt="Pago/Cobro sin Identificar" tabindex="0" loading="lazy"><figcaption>Pago/Cobro sin Identificar</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Pago/Cobro</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Validación</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.6.2" target="_blank" rel="noopener noreferrer">ERPYA v2.6.2</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.6.2-img1.png" type="image/png"/>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.5.8</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.8.html</link>
@@ -3961,48 +3993,6 @@
 </ul>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-1.9.1</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.1.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.1.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-1.9.1</source>
-      <description>Fecha de Liberación: 2024-07-03 Novedades Localización Venezuela Se agrega soporte a generación de TXT de Cesta Ticket Se agrega Código de Cliente en la Información de la Organización</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 16 Jul 2024 13:27:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-03</p>
-<h2> Novedades</h2>
-<h3> Localización Venezuela</h3>
-<p>Se agrega soporte a generación de <strong>TXT</strong> de <strong>Cesta Ticket</strong></p>
-<ul>
-<li>Se agrega <strong>Código de Cliente</strong> en la Información de la <strong>Organización</strong></li>
-</ul>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.1-img1.png" alt="Imagen 1" tabindex="0" loading="lazy"><figcaption>Imagen 1</figcaption></figure>
-<ul>
-<li>Se agrega <strong>Código de Categoría de Producto</strong>, <strong>Código de Producto</strong> y <strong>Punto de Entrega</strong> al reporte de nómina</li>
-</ul>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.1-img2.png" alt="Imagen 2" tabindex="0" loading="lazy"><figcaption>Imagen 2</figcaption></figure>
-<ul>
-<li>Se agrega clase para exportar TXT de Cesta Ticket <code>org.erpya.lve.util.CestaTicket</code></li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Localización Venezuela</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>LVE</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.1" target="_blank" rel="noopener noreferrer">ERPYA v1.9.1</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.1-img1.png" type="image/png"/>
     </item>
   </channel>
 </rss>
