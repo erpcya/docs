@@ -8,7 +8,7 @@ tag:
   - "Actualizaciones"
   - "Versiones"
   - "erpya-3.9.4-001-2.6.1"
-  - "2024-10-31"
+  - "2024-11-21"
   - "Noticias"
 article: true
 ---
