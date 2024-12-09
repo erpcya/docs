@@ -3,12 +3,66 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2024-12-05T16:04:22.208Z</updated>
+  <updated>2024-12-09T14:30:45.876Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <category term="Importación"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.6.3</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.3.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.3.html"/>
+    <updated>2024-12-09T14:22:27.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-06</p>
+<h2> Novedades</h2>
+<h3> ADempiere Base</h3>
+<ul>
+<li>Corrección de Vista Para crear Factura desde Orden de Compra</li>
+</ul>
+<h3> Gestion de Distribución</h3>
+<ul>
+<li>Se agregan los procesos:</li>
+<li><code>ECA26_M_Movement Generate Movement</code></li>
+<li><code>ECA26_M_Movement Material Receipt</code></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-06</p>
+<h2> Novedades</h2>
+<h3> ADempiere Base</h3>
+<ul>
+<li>Corrección de Vista Para crear Factura desde Orden de Compra</li>
+</ul>
+<h3> Gestion de Distribución</h3>
+<ul>
+<li>Se agregan los procesos:</li>
+<li><code>ECA26_M_Movement Generate Movement</code></li>
+<li><code>ECA26_M_Movement Material Receipt</code></li>
+</ul>
+<div class="hint-container info">
+<p class="hint-container-title">Nota:</p>
+<p>Para usar estos procesos se debe crear un ASP que sobreescriba los siguientes Smart Browse, apuntando a los nuevos procesos.</p>
+</div>
+<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.6.3-img1.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
+<h2> Contexto</h2>
+<ul>
+<li>Gestión de Distribución &amp; ADempiere Base</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Correción de Vistas. Procesos nuevos.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.6.3" target="_blank" rel="noopener noreferrer">ERPYA v2.6.3</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-12-09T14:22:27.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-2.6.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.2.html</id>
@@ -4730,50 +4784,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-07-16T13:27:07.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-1.9.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.9.x/erpya-3.9.4-001-1.9.0.html"/>
-    <updated>2024-07-16T13:27:07.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-25</p>
-<h2> Novedades</h2>
-<h3> Análisis de Calidad</h3>
-<p>Se agrega configuración en la ventana <strong>Tipo de Documento</strong> para decidir si se genera automaticamente un <strong>analisis de calidad</strong>.</p>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img1.png" alt="Quality Analysis" tabindex="0" loading="lazy"><figcaption>Quality Analysis</figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-06-25</p>
-<h2> Novedades</h2>
-<h3> Análisis de Calidad</h3>
-<p>Se agrega configuración en la ventana <strong>Tipo de Documento</strong> para decidir si se genera automaticamente un <strong>analisis de calidad</strong>.</p>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img1.png" alt="Quality Analysis" tabindex="0" loading="lazy"><figcaption>Quality Analysis</figcaption></figure>
-<h3> Gestión de Materiales</h3>
-<p>Se agrega configuración en la ventana <strong>Tipo de Documento</strong> para decidir el tipo de documento del <strong>Movimiento de inventario</strong> en los documentos Generados desde una <strong>Orden de Distribución</strong>.</p>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-1.9.0-img2.png" alt="Material Management" tabindex="0" loading="lazy"><figcaption>Material Management</figcaption></figure>
-<h3> Proceso Generar Orden de Compra en Solicitud para Cotización</h3>
-<p>Se agrega soporte enlazar <strong>Orden de Compra Generada</strong> desde el proceso de <strong>Solicitud para Cotización a Requisición de Compra</strong>, si la <strong>Solicitud para Cotización</strong> fue creada desde la <strong>Requisición</strong>.</p>
-<h2> Contexto</h2>
-<ul>
-<li>Análisis de Calidad</li>
-<li>Gestión de Materiales</li>
-<li>Orden de Compra</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Quality analysis</li>
-<li>Materials Management Improvements</li>
-<li>Purchase order</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/1.9.0" target="_blank" rel="noopener noreferrer">ERPYA v1.9.0</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
