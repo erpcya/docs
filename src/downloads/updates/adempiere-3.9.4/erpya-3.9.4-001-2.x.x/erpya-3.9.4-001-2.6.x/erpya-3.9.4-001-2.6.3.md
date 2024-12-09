@@ -30,8 +30,9 @@ article: true
 ::: info Nota:
 
 Para usar estos procesos se debe crear un ASP que sobreescriba los siguientes Smart Browse, apuntando a los nuevos procesos.
-
 :::
+
+![Smart Browser](/assets/img/downloads/updates/resources/adempiere-patch-zk-2.6.3-img1.png)
 
 ## Contexto
 
@@ -39,7 +40,7 @@ Para usar estos procesos se debe crear un ASP que sobreescriba los siguientes Sm
 
 ## Detalle Técnico
 
-- Correción de Vistas, Procesos nuevos.
+- Correción de Vistas. Procesos nuevos.
 
 ## Enlaces relacionados
 
