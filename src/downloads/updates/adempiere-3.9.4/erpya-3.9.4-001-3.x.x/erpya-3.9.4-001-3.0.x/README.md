@@ -1,5 +1,5 @@
 ---
-title: Lista de Versiones ERPya-3.9.4-001-2.0.x
+title: Lista de Versiones ERPya-3.9.4-001-3.0.x
 icon: podcast
 category: Actualizaciones
 star: 9
@@ -7,11 +7,11 @@ sticky: 9
 tag:
   - Actualizaciones
   - Versiones
-  - rs-2.0.x
+  - rs-3.0.x
 article: false
 ---
 
-A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-2.0.x**
+A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-3.0.x**
 
 - [erpya-3.9.4-001-3.0.4](erpya-3.9.4-001-3.0.4.md)
 - [erpya-3.9.4-001-3.0.3](erpya-3.9.4-001-3.0.3.md)
