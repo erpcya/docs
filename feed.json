@@ -6,6 +6,189 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-2.9.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.1.html",
+      "summary": "Fecha de Liberación: 2025-03-17 Novedades Mejoras en Ordenes de Venta Contexto Se corrige fecha de linea de la orden en Proceso Copiar Cotización Enlaces relacionados Discord",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-03-17</p>\n<h2> Novedades</h2>\n<ul>\n<li>Mejoras en Ordenes de Venta</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige fecha de linea de la orden en Proceso Copiar Cotización</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1334262288667901982\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.2.html",
+      "summary": "Fecha de Liberación: 2025-03-18 Novedades Personalizacion de Proceso de Entrega Contexto Se agrega proceso para Generar Entregas desde Orden de Salida en Cortes Smart Browser",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-03-18</p>\n<h2> Novedades</h2>\n<ul>\n<li>Personalizacion de Proceso de Entrega</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega proceso para Generar Entregas desde Orden de Salida en Cortes</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.9.2-img1.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.9.2-img1.png",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.3",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.3.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.3.html",
+      "summary": "Fecha de Liberación: 2025-03-18 Novedades Personalizacion de Cliente Contexto Se cambia evento de validador de modelo de Inventario en Transito para Despues de Completar Entrega / Movimiento de Inventario. Enlaces relacionados",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-03-18</p>\n<h2> Novedades</h2>\n<ul>\n<li>Personalizacion de Cliente</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se cambia evento de validador de modelo de Inventario en Transito para Despues de Completar Entrega / Movimiento de Inventario.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1334262288667901982\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.4.html",
+      "summary": "Fecha de Liberación: 2025-03-21 Novedades Adempiere Base Contexto Se corrige bug en Contabilidad de Asignacion de Pagos. Enlaces relacionados Discord",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-03-21</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige bug en Contabilidad de Asignacion de Pagos.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1344749968119828544\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.5",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.5.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.5.html",
+      "summary": "Fecha de Liberación: 2025-03-24 Novedades Adempiere Base Contexto Se corrige bug reportado en contabilidad de la asignación de pago. Enlaces relacionados Discord",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-03-24</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige bug reportado en contabilidad de la asignación de pago.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1353758697289154571\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.6",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.6.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.6.html",
+      "summary": "Fecha de Liberación: 2025-03-25 Novedades Adempiere Base Contexto Se corrige NPE en contabilización. Enlaces relacionados Discord",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-03-25</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige NPE en contabilización.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1353758697289154571\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.7",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.7.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.7.html",
+      "summary": "Fecha de Liberación: 2025-04-13 Novedades Adempiere Base Contexto Se corrige Logica contable de Asignacion de Pagos en metodo de generar Ganancia / Perdida en cambio. Enlaces relacionados Discord",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-13</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige Logica contable de Asignacion de Pagos en metodo de generar Ganancia / Perdida en cambio.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1354116459864916099\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.8",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.8.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.8.html",
+      "summary": "Fecha de Liberación: 2025-04-13 Novedades Tipo de conversion Automatico Contexto Se da soporte a expandir la fecha Valido Desde en tasa de cambio a la fecha del documento -100 años atras. Enlaces relacionados",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-13</p>\n<h2> Novedades</h2>\n<ul>\n<li>Tipo de conversion Automatico</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se da soporte a expandir la fecha Valido Desde en tasa de cambio a la fecha del documento -100 años atras.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1354116459864916099\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.9.9",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.9.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.9.html",
+      "summary": "Fecha de Liberación: 2025-04-13 Novedades Personalización de Clientes Contexto Se corrige funcionalidad de Generar Factura desde Orden de Salida con variable para Generar Facturas en Cortes de X Lineas. Se corrige funcionalidad de Generar Factura desde Orden de Salida con variable para Generar Entregas en Cortes de X Lineas.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-13</p>\n<h2> Novedades</h2>\n<ul>\n<li>Personalización de Clientes</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige funcionalidad de Generar Factura desde Orden de Salida con variable para Generar Facturas en Cortes de X Lineas.</li>\n<li>Se corrige funcionalidad de Generar Factura desde Orden de Salida con variable para Generar Entregas en Cortes de X Lineas.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.0.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.0.html",
+      "summary": "Fecha de Liberación: 2025-04-14 Novedades Analisis de Calidad Contexto Se remueve filtro de permisologia en busqueda de especificaciones de calidad. Enlaces relacionados Fallo en proceso de análisis de calidad",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-14</p>\n<h2> Novedades</h2>\n<ul>\n<li>Analisis de Calidad</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se remueve filtro de permisologia en busqueda de especificaciones de calidad.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpcya/Control-NATULAC/issues/121\" target=\"_blank\" rel=\"noopener noreferrer\">Fallo en proceso de análisis de calidad</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.0.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.1.html",
+      "summary": "Fecha de Liberación: 2025-04-16 Novedades Adempiere Base Contexto Se corrgie NPE en logica contable del documento por Pagar con Costos Adicionales Aplicados Requerimientos No se requieren procesos adicionales por aplicar.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-16</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrgie NPE en logica contable del documento por Pagar con Costos Adicionales Aplicados</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.0.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.2.html",
+      "summary": "Fecha de Liberación: 2025-04-16 Novedades Personalizacion de Cliente Contexto Se corrige NPE en Validador de Modelo de Orden de Salida Enlaces relacionados Discord",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-16</p>\n<h2> Novedades</h2>\n<ul>\n<li>Personalizacion de Cliente</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige NPE en Validador de Modelo de Orden de Salida</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1356261746377228348\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.0.3",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.3.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.3.html",
+      "summary": "Fecha de Liberación: 2025-04-28 Novedades Adempiere Base Nomina Contexto Se agrega soporte a escribir la organización de la transacción en la linea dependiendo de lo que tenga configurado el empleado. Se agrega filtro por organización al procesar la Nomina.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-04-28</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base Nomina</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega soporte a escribir la organización de la transacción en la linea dependiendo de lo que tenga configurado el empleado.</li>\n<li>Se agrega filtro por organización al procesar la Nomina.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<p><a href=\"https://github.com/erpcya/Control-ERPYA/issues/1016\" target=\"_blank\" rel=\"noopener noreferrer\">Soporte a Escribir Organización Trx y filtro de org #1016</a></p>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.0.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.4.html",
+      "summary": "Fecha de Liberación: 2025-05-06 Novedades Personalizacion de Cliente Contexto Se corrige forma de creacion de lineas de factura y entrega en los procesos de generacion desde orden de salida. Se cambia el formato de Generación de Txt para Operadocr logistico para los tipos de documento de Ordenes de Distribución.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-05-06</p>\n<h2> Novedades</h2>\n<ul>\n<li>Personalizacion de Cliente</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige forma de creacion de lineas de factura y entrega en los procesos de generacion desde orden de salida.</li>\n<li>Se cambia el formato de Generación de Txt para Operadocr logistico para los tipos de documento de Ordenes de Distribución.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://discord.com/channels/882964599874420796/1367948629767098543\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n<li><a href=\"https://discord.com/channels/882964599874420796/1362079202886684673\" target=\"_blank\" rel=\"noopener noreferrer\">Discord</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-05-08T14:34:53.000Z",
+      "date_modified": "2025-05-08T14:34:53.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.8.2",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.8.x/erpya-3.9.4-001-2.8.2.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.8.x/erpya-3.9.4-001-2.8.2.html",
@@ -1133,194 +1316,6 @@
       "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.7-img1.png",
       "date_published": "2024-07-29T16:04:48.000Z",
       "date_modified": "2024-07-29T16:04:48.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.8",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.8.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.8.html",
-      "summary": "Fecha de Liberación: 2024-07-29 Novedades Sistema de Administración de Inventario Corrección en proceso de Anulación de Orden de Salida al Reactivar Orden de Venta. Contexto Gestión de Almacenes Detalle Técnico",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-29</p>\n<h2> Novedades</h2>\n<h3> Sistema de Administración de Inventario</h3>\n<ul>\n<li>Corrección en proceso de Anulación de Orden de Salida al Reactivar Orden de Venta.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Almacenes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Warehouse Management</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.8\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.8</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/85\" target=\"_blank\" rel=\"noopener noreferrer\">Error en Orden de Salida Automática #85</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2024-07-29T16:04:48.000Z",
-      "date_modified": "2024-07-29T16:04:48.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.9",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.9.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.9.html",
-      "summary": "Fecha de Liberación: 2024-07-29 Novedades Operador Logístico (Personalizado) Se agrega TXT para reporte de Detalle de Orden de Distribución. Criterio El almacén lo toma del almacén asociado a la ubicación de la linea de orden de distribución M_Locator_ID El precio lo toma de la lista de precio asociada al socio de negocio, si el socio de negocio no tiene lista de precio toma la lista de precio predereminada de venta y si no tiene da un error La condición de pago quedó hardcodeada con la palabra CONTADO",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-29</p>\n<h2> Novedades</h2>\n<h2> Operador Logístico (Personalizado)</h2>\n<ul>\n<li>Se agrega <strong>TXT</strong> para reporte de <strong>Detalle de Orden de Distribución</strong>.</li>\n</ul>\n<h3> Criterio</h3>\n<ul>\n<li>\n<p>El almacén lo toma del almacén asociado a la ubicación de la linea de orden de distribución <code>M_Locator_ID</code></p>\n</li>\n<li>\n<p>El precio lo toma de la lista de precio asociada al socio de negocio, si el socio de negocio no tiene lista de precio toma la lista de precio predereminada de venta y si no tiene da un error</p>\n</li>\n<li>\n<p>La condición de pago quedó hardcodeada con la palabra <code>CONTADO</code></p>\n</li>\n</ul>\n<h3> ¿Dónde se exporta el TXT?</h3>\n<p>En el reporte <strong>Detalle de Orden de Distribución</strong>.</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img1.png\" alt=\"Reporte\" tabindex=\"0\" loading=\"lazy\"><figcaption>Reporte</figcaption></figure>\n<h3> ¿Cómo se debería ver el formato como compañía?</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img2.png\" alt=\"Reporte\" tabindex=\"0\" loading=\"lazy\"><figcaption>Reporte</figcaption></figure>\n<h2> Gestion Avanzada de Almacenes</h2>\n<p>Se agrega Consulta Inteligente para Generar Entrega y Factura desde una Orden de Saida</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img3.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img4.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Almacenes</li>\n<li>Detalle de Orden de Distribución</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Warehouse Management</li>\n<li>Distribution Order Detail</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.9\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.9</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/87\" target=\"_blank\" rel=\"noopener noreferrer\">TXT de Orden de Distribución #87</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere-customer-addons/releases/tag/1.0.6\" target=\"_blank\" rel=\"noopener noreferrer\">Customer Addons v1.0.6</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/68\" target=\"_blank\" rel=\"noopener noreferrer\">Add Browse for Generate Shipment / Invoice from OutBound Order #68</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.9-img1.png",
-      "date_published": "2024-07-29T16:04:48.000Z",
-      "date_modified": "2024-07-29T16:04:48.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.6",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.6.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.6.html",
-      "summary": "Fecha de Liberación: 2024-07-25 Novedades Se agrega cálculo basado en Activación: Clientes Atendidos vs Asignados Se agrega cálculo basado en Cobranza Efectiva: Total Cobranza Se agrega cálculo basado en Volumen: Forecast Vs Ventas Se agrega funcionalidad para permitir jerarquías entre puestos de trabajo (referencia legacy de adempiere en el usuario) Se agrega funcionalidad para cálculo de comisiones sobre jefes, directivos entre otros",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-25</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se agrega cálculo basado en <a href=\"https://github.com/erpcya/Control-NATULAC/issues/82\" target=\"_blank\" rel=\"noopener noreferrer\">Activación: Clientes Atendidos vs Asignados</a></li>\n<li>Se agrega cálculo basado en <a href=\"https://github.com/erpcya/Control-NATULAC/issues/79\" target=\"_blank\" rel=\"noopener noreferrer\">Cobranza Efectiva: Total Cobranza</a></li>\n<li>Se agrega cálculo basado en <a href=\"https://github.com/erpcya/Control-NATULAC/issues/80\" target=\"_blank\" rel=\"noopener noreferrer\">Volumen: Forecast Vs Ventas</a></li>\n<li>Se agrega funcionalidad para permitir jerarquías entre puestos de trabajo (referencia <code>legacy</code> de adempiere en el usuario)</li>\n<li>Se agrega funcionalidad para cálculo de comisiones sobre jefes, directivos entre otros</li>\n</ul>\n<h3> ¿Cómo se Configura la Jerarquía?</h3>\n<p>La jerarquía se encuentra por <strong>Posición</strong>, para agregar la <strong>Posición</strong> simplemente lo puede asignar en el usuario desde la ventana <strong>Socio de Negocio</strong></p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img1.png\" alt=\"Configurar Jerarquía\" tabindex=\"0\" loading=\"lazy\"><figcaption>Configurar Jerarquía</figcaption></figure>\n<hr>\n<p>La jerarquía define los niveles que se encuentran entre los vendedores y sus supervisores, realmente son puestos de trabajos y la relación entre ellos es a través de un campo que se llama <strong>Supervisor</strong>.</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img2.png\" alt=\"Supervisor\" tabindex=\"0\" loading=\"lazy\"><figcaption>Supervisor</figcaption></figure>\n<hr>\n<h3> ¿Dónde se define el Monto del Vendedor?</h3>\n<p>Hay dos maneras de hacerlo:</p>\n<ul>\n<li>Por Vendedor en las comisiones: Esto únicamente aplicará para la comisión a la que se asigna</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img3.png\" alt=\"Vendedor\" tabindex=\"0\" loading=\"lazy\"><figcaption>Vendedor</figcaption></figure>\n<ul>\n<li>Por Posición: Esto aplica para todas las comisiones a las que se asigne el vendedor y lo sobrescribe el monto por comisión si existe</li>\n</ul>\n<p>El valor del <strong>monto</strong> se expresa en la moneda de la comisión que se está ejecutando</p>\n<h2> Contexto</h2>\n<ul>\n<li>Comisiones</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Commissions</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.6\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.6</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.6-img1.png",
-      "date_published": "2024-07-25T15:13:42.000Z",
-      "date_modified": "2024-07-25T15:13:42.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.4",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.4.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.4.html",
-      "summary": "Fecha de Liberación: 2024-07-23 Novedades Comisiones Se agrega una nueva funcionalidad para permitir customizar las comisiones al nivel de cliente Mejora del sistema de gestión de almacenes Corrección en proceso de Generar Orden de Salida desde las Ordenes de Venta",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-23</p>\n<h2> Novedades</h2>\n<h3> Comisiones</h3>\n<ul>\n<li>Se agrega una nueva funcionalidad para permitir customizar las comisiones al nivel de cliente</li>\n</ul>\n<h3> Mejora del sistema de gestión de almacenes</h3>\n<ul>\n<li>Corrección en proceso de <code>Generar Orden de Salida desde las Ordenes de Venta</code></li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Comisiones</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Commissions</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.4\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.4</a></li>\n</ul>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/27\" target=\"_blank\" rel=\"noopener noreferrer\">Desarrollo de Comisiones #27</a><br>\n<a href=\"https://github.com/erpcya/Control-NATULAC/issues/82\" target=\"_blank\" rel=\"noopener noreferrer\">Activación: Cuando es la Primera Venta #82</a><br>\n<a href=\"https://github.com/erpcya/Control-NATULAC/issues/78\" target=\"_blank\" rel=\"noopener noreferrer\">Total Cobranza: Incluye Parciales #78</a><br>\n<a href=\"https://github.com/erpcya/Control-NATULAC/issues/79\" target=\"_blank\" rel=\"noopener noreferrer\">Cobranza Efectiva: Total Cobranza #79</a><br>\n<a href=\"https://github.com/erpcya/Control-NATULAC/issues/80\" target=\"_blank\" rel=\"noopener noreferrer\">Volumen: Forecast Vs Ventas #80</a><br>\n<a href=\"https://github.com/erpcya/Control-NATULAC/issues/81\" target=\"_blank\" rel=\"noopener noreferrer\">Impulsar Producto: % Simple #81</a></p>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2024-07-23T20:56:41.000Z",
-      "date_modified": "2024-07-23T20:56:41.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.5",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.5.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.5.html",
-      "summary": "Fecha de Liberación: 2024-07-23 Novedades Complementos del Cliente Se remueve soporte a establecer el campo manual dependiendo de la acción del Documento Retención de Impuestos a Grandes Transacciones Se agrega soporte a que siempre la pre-retención sea manual",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-23</p>\n<h2> Novedades</h2>\n<h3> Complementos del Cliente</h3>\n<ul>\n<li>Se remueve soporte a establecer el campo manual dependiendo de la acción del Documento</li>\n</ul>\n<h3> Retención de Impuestos a Grandes Transacciones</h3>\n<ul>\n<li>Se agrega soporte a que siempre la pre-retención sea manual</li>\n</ul>\n<h4> Version de la logica</h4>\n<ul>\n<li><code>org.spin.lve.at.util.TBTT_Withholding_v2</code></li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Comisiones</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Commissions</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.5\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.5</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2024-07-23T20:56:41.000Z",
-      "date_modified": "2024-07-23T20:56:41.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.2",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.2.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.2.html",
-      "summary": "Fecha de Liberación: 2024-07-18 Novedades Validación de Stock en Orden de Venta Se agrega configuración para Validar Disponibilidad al Completar quedando el Tilde de validar disponibilidad al guardar la linea con el tilde Validar Disponibilidad y al Completar con el tilde Validar Disponibilidad al Completar, para las Ordenes de Venta tipo Propuesta la validación se ejecuta en el Evento Preparar.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-18</p>\n<h2> Novedades</h2>\n<h3> Validación de Stock en Orden de Venta</h3>\n<ul>\n<li>Se agrega configuración para Validar Disponibilidad al Completar quedando el Tilde de validar disponibilidad al guardar la linea con el tilde <code>Validar Disponibilidad</code> y al Completar con el tilde <code>Validar Disponibilidad al Completar</code>, para las Ordenes de Venta tipo Propuesta la validación se ejecuta en el Evento <code>Preparar</code>.</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.2-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Stock en Orden de Venta</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Orden de Venta</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.2</a></li>\n</ul>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/83\" target=\"_blank\" rel=\"noopener noreferrer\">Validación en Acción Preparar #83</a></p>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.2-img1.png",
-      "date_published": "2024-07-18T15:52:32.000Z",
-      "date_modified": "2024-07-18T15:52:32.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.3",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.3.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.3.html",
-      "summary": "Fecha de Liberación: 2024-07-18 Novedades Mejoras en la gestión de materiales Configuracion de Tipo de Documento para los Movimientos de Inventario en Transito Configuración: Imagen 1",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-18</p>\n<h2> Novedades</h2>\n<h3> Mejoras en la gestión de materiales</h3>\n<ul>\n<li>Configuracion de Tipo de Documento para los Movimientos de Inventario en Transito</li>\n</ul>\n<p>Configuración:</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.3-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h3> Mejora del sistema de gestión de almacenes</h3>\n<ul>\n<li>Corrección en proceso de <code>Generar Orden de Salida desde las Ordenes de Venta</code></li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Gestión de Materiales</li>\n<li>Sistema de Gestión de Almacenes</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Materials Management Improvements</li>\n<li>Warehouse Management System Improvement</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.3\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.3</a></li>\n</ul>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/84\" target=\"_blank\" rel=\"noopener noreferrer\">Movimientos de Inventario #84</a></p>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/85\" target=\"_blank\" rel=\"noopener noreferrer\">Error en Orden de Salida Automática #85</a></p>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.3-img1.png",
-      "date_published": "2024-07-18T15:52:32.000Z",
-      "date_modified": "2024-07-18T15:52:32.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.0.1",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.1.html",
-      "summary": "Fecha de Liberación: 2024-07-16 Novedades Complementos para clientes de ADempiere Se agrega proceso para generar retenciones con parámetro Acción de Documento para los casos de IGTF Fiscales. Contexto",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-07-16</p>\n<h2> Novedades</h2>\n<h3> Complementos para clientes de ADempiere</h3>\n<ul>\n<li>Se agrega proceso para generar retenciones con parámetro <strong>Acción de Documento</strong> para los casos de <strong>IGTF Fiscales</strong>.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>IGTF</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Adempiere Customer Addons</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.0.1</a></li>\n</ul>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/67\" target=\"_blank\" rel=\"noopener noreferrer\">Soporte a Generar Retención para Tipo de Documento #67</a></p>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2024-07-16T22:24:27.000Z",
-      "date_modified": "2024-07-16T22:24:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-1.5.7",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.7.html",
-      "summary": "Fecha de Liberación: 2024-04-15 Novedades Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela. Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>\n<h2> Novedades</h2>\n<ul>\n<li>Este release implementa el procesamiento paralelo de nómina por empleado así como la persistencia de conceptos de manera paralela.</li>\n</ul>\n<p>Sumado a las validaciones que permiten que la ejecución de un empleado se detenga si no cumple con las validaciones de nómina.</p>\n<p>En promedio, para un cliente con 296 empleados el tiempo de procesamiendo se encuentra entre 35 y 45 minutos. Después de aplicar el procesamiento paralelo se reduce a 1 minuto</p>\n<p><code>ParallelEngine.run: Calculation for createParallelMovements # Time elapsed: 01:04.576</code></p>\n<h2> Contexto</h2>\n<ul>\n<li>Nómina</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>With this release, payroll execution time is considerably reduced to just minutes.</li>\n</ul>\n<h2> Enlaces Relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.7\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.5.7</a></li>\n</ul>\n<h2> Requerimientos</h2>\n",
-      "date_published": "2024-07-16T13:27:07.000Z",
-      "date_modified": "2024-07-16T13:27:07.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-1.5.8",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.8.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.8.html",
-      "summary": "Fecha de Liberación: 2024-04-15 Novedades Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif. Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-15</p>\n<h2> Novedades</h2>\n<ul>\n<li>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su <strong>cédula</strong> o <strong>rif</strong>.</li>\n</ul>\n<p>Con este cambio se agrega una funcionalidad que permite validar la Cédula y RIF al momento de crear o actualizar un socio de negocio, específicamente su cédula o rif.</p>\n<h3> Valores Permitidos</h3>\n<ul>\n<li>J: Jurídico</li>\n<li>V: Venezolano</li>\n<li>E: Extranjero</li>\n<li>G: Gobierno</li>\n<li>X: Aplica para Extranjeros sin documento venezolado (para importar)</li>\n<li>El tamaño máximo del texto debe ser 10 dígitos incluyendo la primera letra</li>\n</ul>\n<h3> Dónde se encuentra la validación?</h3>\n<p>Ésta validación se dispara cuando se está creando un socio de negocio o cuando se está modificando el campo Cédula(Value) o RIF(TaxID)</p>\n<p>Si los datos que se intentan colocar no cumplen con los requisitos mínimos el usuario recibirá el siguiente mensaje:</p>\n<p>Inglés:</p>\n<div class=\"language-text line-numbers-mode\" data-ext=\"text\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>Español</p>\n<div class=\"language-text line-numbers-mode\" data-ext=\"text\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h2> Contexto</h2>\n<ul>\n<li>Se agrega validación al momento de crear socios de negocio</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Validation is added when creating business partners</li>\n</ul>\n<h2> Enlaces Relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-PROSEIN/issues/600\" target=\"_blank\" rel=\"noopener noreferrer\">Configuración del campo Número de Identificación para que sólo reciba caracteres números (9 caracteres XXX.XXX.XXX) #600</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.8\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.5.8</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requiere aplicar proceso.</li>\n</ul>\n",
-      "date_published": "2024-07-16T13:27:07.000Z",
-      "date_modified": "2024-07-16T13:27:07.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-1.5.9",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.9.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.5.x/erpya-3.9.4-001-1.5.9.html",
-      "summary": "Fecha de Liberación: 2024-04-17 Novedades Ahora al agregar un bloqueo por acceso a datos de rol en un almacen al ingresar en ADempiere en la ventana de login va a filtrar por los almacenes que el rol o el usuario tienen permiso. Fórmula Alemana para cálculo de prestamos al Completar un prestamo o en el simulador de prestamos",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-17</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Ahora al agregar un bloqueo por acceso a datos de rol en un almacen al ingresar en ADempiere en la ventana de login va a filtrar por los almacenes que el rol o el usuario tienen permiso.</p>\n</li>\n<li>\n<p>Fórmula Alemana para cálculo de prestamos al Completar un prestamo o en el simulador de prestamos</p>\n</li>\n</ul>\n<h3> ¿Dónde se encuentra la validación?</h3>\n<ul>\n<li>En la ventana del login si existe permiso a datos de rol por almacen configurados</li>\n<li>Al completar un prestamo.</li>\n<li>Al simular un prestamo.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se Agrega soporte a Filtro de Acceso a Datos de Rol en la Seleccion de Almacen al hacer login</li>\n<li>Se Agrega soporte a calculo de prestamo con el Metodo Aleman</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Added support for Role Data Access Filter in Warehouse Selection when logging in</li>\n<li>Added support for loan calculation with the German Method</li>\n</ul>\n<h2> Enlaces Relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/35\" target=\"_blank\" rel=\"noopener noreferrer\">Soporte a Bloqueo de Almacén #35</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/17\" target=\"_blank\" rel=\"noopener noreferrer\">Revalorización de Pagaré #17</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.5.9\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.5.9</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requiere aplicar proceso.</li>\n</ul>\n",
-      "date_published": "2024-07-16T13:27:07.000Z",
-      "date_modified": "2024-07-16T13:27:07.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-1.6.0",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.0.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.0.html",
-      "summary": "Fecha de Liberación: 2024-04-18 Novedades Para realizar ésta validación se agregó en el Tipo de Documento una bandera llamada Permitir Sobregirar Factura a Asignar (LVE_AllowOverdraftReference) con el valor predeterminado como verdadero para mantener la compatibilidad hacia atrás. Con este cambio es posible validar documentos por cobrar para que no permitan ser sobregirados a través de una Nota de Crédito",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-18</p>\n<h2> Novedades</h2>\n<ul>\n<li>\n<p>Para realizar ésta validación se agregó en el <code>Tipo de Documento</code> una bandera llamada <strong>Permitir Sobregirar Factura a Asignar</strong> (<code>LVE_AllowOverdraftReference</code>) con el valor predeterminado como verdadero para mantener la compatibilidad hacia atrás.</p>\n</li>\n<li>\n<p>Con este cambio es posible validar documentos por cobrar para que no permitan ser sobregirados a través de una Nota de Crédito</p>\n</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega validación para que no permita sobregirar Facturas de Cuentas por Cobrar si son fiscales a través de notas de crédito</li>\n<li>Se agrega soporte a Acceso a Datos de Rol en Ventana de informacion de Productos.</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Validation is added so that it does not allow overdrawing Accounts Receivable Invoices if they are fiscal through credit notes</li>\n<li>Added support for Access to Role Data in Product Information Window</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.0\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.6.0</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requiere aplicar proceso.</li>\n</ul>\n<h3> ¿Cómo se ve el mensaje de error?</h3>\n<p>Cuando hay un error de validación por sobregiro se ve de la siguiente manera:</p>\n<div class=\"video-container\">\n    <video width=\"640\" height=\"480\" controls=\"\">\n        <source src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.0-video1.mp4\" type=\"video/mp4\">\n    </video>\n</div>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.0-img2.png\" alt=\"Mensaje de Error\" tabindex=\"0\" loading=\"lazy\"><figcaption>Mensaje de Error</figcaption></figure>\n<ul>\n<li>Inglés:</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><ul>\n<li>Español:</li>\n</ul>\n<div class=\"language-bash line-numbers-mode\" data-ext=\"sh\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.0-img2.png",
-      "date_published": "2024-07-16T13:27:07.000Z",
-      "date_modified": "2024-07-16T13:27:07.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-1.6.1",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.1.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.1.html",
-      "summary": "Fecha de Liberación: 2024-04-25 Novedades Con este cambio ya es posible personalizar la firma de correos enviados desde ADempiere. Uso Después de aplicar los cambios y las configuraciones necesarias, por defecto se enviará una firma como la que se ve a continuación",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-25</p>\n<h2> Novedades</h2>\n<ul>\n<li>Con este cambio ya es posible personalizar la firma de correos enviados desde ADempiere.</li>\n</ul>\n<h2> Uso</h2>\n<p>Después de aplicar los cambios y las configuraciones necesarias, por defecto se enviará una firma como la que se ve a continuación</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img1.png\" alt=\"adempiere-patch-zk-1.6.1-img1\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img1</figcaption></figure>\n<p>Como opciones válidas se puede configurar la firma personalizada en la información de compañía y se sobrescribe con la información de la organización</p>\n<p>En orden de prioridades, la firma será tomada de la siguiente manera:</p>\n<h3> Por Usuario</h3>\n<p>Toma la firma del usuario si la tiene configurada</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img2.png\" alt=\"adempiere-patch-zk-1.6.1-img2\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img2</figcaption></figure>\n<h3> Por Organización</h3>\n<p>Toma la firma de la organización si la tiene configurada</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img3.png\" alt=\"adempiere-patch-zk-1.6.1-img3\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img3</figcaption></figure>\n<h3> Por Compañía</h3>\n<p>Toma la firma de la compañía si la tiene configurada</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img4.png\" alt=\"adempiere-patch-zk-1.6.1-img4\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img4</figcaption></figure>\n<hr>\n<p>Si no tiene configurada ninguna firma configurada tomará por defecto el siguiente mensaje:</p>\n<p>En Inglés:</p>\n<div class=\"language-text line-numbers-mode\" data-ext=\"text\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><p>En Español:</p>\n<div class=\"language-text line-numbers-mode\" data-ext=\"text\"><div class=\"line-numbers\" aria-hidden=\"true\"><div class=\"line-number\"></div></div></div><h2> Corrección de Parámetros en Reportes</h2>\n<p>Se corrige problema con los valores a visualizar en los parámetros de reportes ejecutados desde un programador de procesos, esto se encuentra reportado en la sección <a href=\"https://docs.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.1.html#enlaces-relacionados\" target=\"_blank\" rel=\"noopener noreferrer\"><strong>Enlaces relacionados</strong></a></p>\n<h2> Corrección de Lógica contable de diferencias contables inter-compañia</h2>\n<p>En la contabilidad de la asignacion de pagos cuando existe una diferencia contable intercompañia los montos que asienta intercompañia son distintos a los originales</p>\n<ul>\n<li>Muestra actual</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img5.jpeg\" alt=\"adempiere-patch-zk-1.6.1-img5\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img5</figcaption></figure>\n<ul>\n<li>Muestra corregida</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img6.jpeg\" alt=\"adempiere-patch-zk-1.6.1-img6\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img6</figcaption></figure>\n<h2> Se agrega soporte a Sobreescribir Instancia de Atributos en Acción de Análisis de Calidad</h2>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img7.png\" alt=\"adempiere-patch-zk-1.6.1-img7\" tabindex=\"0\" loading=\"lazy\"><figcaption>adempiere-patch-zk-1.6.1-img7</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Se Agrega firma de correos basado en notificaciones de ERPYA.</li>\n<li>Corrección de parámetros en reportes.</li>\n<li>Corrección de Lógica contable de diferencias contables inter-compañia</li>\n<li>Se agrega soporte a Sobreescribir Instancia de Atributos en Acción de Análisis de Calidad</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Custom Email Signature</li>\n<li>Parameter Correction in Reports</li>\n<li>Correction of accounting logic for inter-company accounting differences</li>\n<li>Added support for Overriding Attribute Instance in Quality Analysis Action</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/60\" target=\"_blank\" rel=\"noopener noreferrer\">(Bug Report) Reportes ejecutados desde el Programador de Procesos no muestran los valores de parámetros #60</a></p>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.6.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requiere aplicar contenido.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-1.6.1-img1.png",
-      "date_published": "2024-07-16T13:27:07.000Z",
-      "date_modified": "2024-07-16T13:27:07.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-1.6.2",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.2.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-1.x.x/erpya-3.9.4-001-1.6.x/erpya-3.9.4-001-1.6.2.html",
-      "summary": "Fecha de Liberación: 2024-04-25 Novedades Esta actualización no supone un cambio de funcionalidad, forma o vista; Simplemente se trata de un cambio netamente técnico de actualización de una librería. A partir de este cambio se separan los reportes de Jasper del repositorio de Additional-Reports lo cual hace mas eficiente la construcción de la imagen para el despliegue de los reportes de ERPYA sin interdependencia entre eso y los cambios de java del repositorio Additional-Reports",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-04-25</p>\n<h2> Novedades</h2>\n<ul>\n<li>Esta actualización no supone un cambio de funcionalidad, forma o vista; Simplemente se trata de un cambio netamente técnico de actualización de una librería.</li>\n</ul>\n<p>A partir de este cambio se separan los reportes de Jasper del repositorio de Additional-Reports lo cual hace mas eficiente la construcción de la imagen para el despliegue de los reportes de ERPYA sin interdependencia entre eso y los cambios de java del repositorio Additional-Reports</p>\n<h2> Contexto</h2>\n<ul>\n<li>Se actualiza el repositorio Additional-Reports con las nuevas políticas de desarrollo de ERPYA</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>The Additional-Reports repository is updated with the new ERPYA development policies</li>\n<li>Minor Repository Change</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/60\" target=\"_blank\" rel=\"noopener noreferrer\">(Bug Report) Reportes ejecutados desde el Programador de Procesos no muestran los valores de parámetros #60</a></p>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/1.6.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v1.6.2</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2024-07-16T13:27:07.000Z",
-      "date_modified": "2024-07-16T13:27:07.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
