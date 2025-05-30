@@ -52,7 +52,7 @@ Para la presentación del caso, se generó la orden de salida **OSE-3452**
 
 Para generar la lista de selección para la entrega (Picking List), se debe ubicar en el menú de ADempiere la carpeta **Gestión Avanzada de Almacenes**, luego se debe seleccionar la carpeta **Operaciones de Salida**, para finalmente seleccionar el smart browser **Generar Lista de Selección para Entrega (Picking List)**.
 
-![Menú de ADempiere Picking List](menu-picking-list.png)
+![Menú de ADempiere Picking List](https://github.com/user-attachments/assets/dab5e852-2ac3-4aa6-9228-e9d70d3f1907)
 
 Estando en el smart browser se podran visualizar diferentes campos que permiten filtrar la información en base al requerimiento del usuario.
 
@@ -109,13 +109,15 @@ Luego de tener en ADempiere la **Lista de Selección para Entrega (Picking List)
 
 Estos documentos se pueden realizar ejecutando los siguientes procesos:
 
-1. [Generar Entregas desde Orden de Salida](https://docs.erpya.com/docs/sales-management/delivery.html#generar-entregas-desde-orden-de-salida).
+1. [Generar Entrega / Factura desde Orden de Salida](https://docs.erpya.com/docs/distribution-management/generate-invoice-and-delivery-from-outgoing-order.html)
+
+2. [Generar Entregas desde Orden de Salida](https://docs.erpya.com/docs/sales-management/delivery.html#generar-entregas-desde-orden-de-salida).
+
+3. [Generar Factura desde Orden de Salida](https://docs.erpya.com/docs/sales-management/bill.html).
 
 Para la presentación del caso, fue generada la entrega **EN-21290**.
 
 ![encabezado entrega desde os](encabezado-entrega-desde-os.png)
-
-2. [Generar Factura desde Orden de Salida](https://docs.erpya.com/docs/sales-management/bill.html).
 
 Para la presentación del caso, fue generada la factura **217764**.
 
