@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2025-05-29T21:32:10.222Z</updated>
+  <updated>2025-05-30T14:25:18.875Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -1300,6 +1300,80 @@
     <published>2025-01-17T13:25:31.000Z</published>
   </entry>
   <entry>
+    <title type="text">erpya-3.9.4-001-2.7.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html"/>
+    <updated>2025-01-08T19:51:44.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Correcciones técnicas.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.0" target="_blank" rel="noopener noreferrer">ERPYA v2.7.0</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2025-01-08T19:51:44.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.7.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html"/>
+    <updated>2025-01-08T19:51:44.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>
+<h2> Novedades</h2>
+<ul>
+<li>Actualización de versión</li>
+</ul>
+<h2> Contexto</h2>
+<h2> Detalle Técnico</h2>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1" target="_blank" rel="noopener noreferrer">ERPYA v2.7.1</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>
+<h2> Novedades</h2>
+<ul>
+<li>Actualización de versión</li>
+</ul>
+<h2> Contexto</h2>
+<h2> Detalle Técnico</h2>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1" target="_blank" rel="noopener noreferrer">ERPYA v2.7.1</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2025-01-08T19:51:44.000Z</published>
+  </entry>
+  <entry>
     <title type="text">erpya-3.9.4-001-2.6.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.4.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.4.html"/>
@@ -1525,80 +1599,6 @@
     <published>2025-01-08T19:51:44.000Z</published>
   </entry>
   <entry>
-    <title type="text">erpya-3.9.4-001-2.7.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html"/>
-    <updated>2025-01-08T19:51:44.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Correcciones técnicas.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.0" target="_blank" rel="noopener noreferrer">ERPYA v2.7.0</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-01-08T19:51:44.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-2.7.1</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html"/>
-    <updated>2025-01-08T19:51:44.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>
-<h2> Novedades</h2>
-<ul>
-<li>Actualización de versión</li>
-</ul>
-<h2> Contexto</h2>
-<h2> Detalle Técnico</h2>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1" target="_blank" rel="noopener noreferrer">ERPYA v2.7.1</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>
-<h2> Novedades</h2>
-<ul>
-<li>Actualización de versión</li>
-</ul>
-<h2> Contexto</h2>
-<h2> Detalle Técnico</h2>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1" target="_blank" rel="noopener noreferrer">ERPYA v2.7.1</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-01-08T19:51:44.000Z</published>
-  </entry>
-  <entry>
     <title type="text">erpya-3.9.4-001-2.6.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.3.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.3.html"/>
@@ -1688,6 +1688,84 @@
     <published>2024-11-29T16:17:42.000Z</published>
   </entry>
   <entry>
+    <title type="text">erpya-3.9.4-001-2.5.8</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.8.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.8.html"/>
+    <updated>2024-11-21T13:07:27.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-22</p>
+<h2> Novedades</h2>
+<h2> Contexto</h2>
+<ul>
+<li>Actualización.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Actualización.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.8" target="_blank" rel="noopener noreferrer">ERPYA v2.5.8</a></li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-22</p>
+<h2> Novedades</h2>
+<h2> Contexto</h2>
+<ul>
+<li>Actualización.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Actualización.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.8" target="_blank" rel="noopener noreferrer">ERPYA v2.5.8</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-11-21T13:07:27.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">erpya-3.9.4-001-2.5.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.9.html"/>
+    <updated>2024-11-21T13:07:27.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-28</p>
+<h2> Novedades</h2>
+<h3> Manejo Avanzado de Almacen</h3>
+<ul>
+<li>Se agrega soporte a Unidad de Medida Base del Producto en Orden de Salida Generada Automaticamente desde la Orden de Venta</li>
+</ul>
+<h2> Contexto</h2>
+<p>Manejo avanzado de Almacén.</p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-28</p>
+<h2> Novedades</h2>
+<h3> Manejo Avanzado de Almacen</h3>
+<ul>
+<li>Se agrega soporte a Unidad de Medida Base del Producto en Orden de Salida Generada Automaticamente desde la Orden de Venta</li>
+</ul>
+<h2> Contexto</h2>
+<p>Manejo avanzado de Almacén.</p>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Se incorpora la Unidad de Medida Base del Producto en la Orden de Salida generada automáticamente desde la Orden de Venta.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.9" target="_blank" rel="noopener noreferrer">ERPYA v2.5.9</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2024-11-21T13:07:27.000Z</published>
+  </entry>
+  <entry>
     <title type="text">erpya-3.9.4-001-2.6.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.0.html"/>
@@ -1761,84 +1839,6 @@
 <h2> Enlaces relacionados</h2>
 <ul>
 <li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.6.1" target="_blank" rel="noopener noreferrer">ERPYA v2.6.1</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-11-21T13:07:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-2.5.8</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.8.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.8.html"/>
-    <updated>2024-11-21T13:07:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-22</p>
-<h2> Novedades</h2>
-<h2> Contexto</h2>
-<ul>
-<li>Actualización.</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Actualización.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.8" target="_blank" rel="noopener noreferrer">ERPYA v2.5.8</a></li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-22</p>
-<h2> Novedades</h2>
-<h2> Contexto</h2>
-<ul>
-<li>Actualización.</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Actualización.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.8" target="_blank" rel="noopener noreferrer">ERPYA v2.5.8</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2024-11-21T13:07:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-2.5.9</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.9.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.5.x/erpya-3.9.4-001-2.5.9.html"/>
-    <updated>2024-11-21T13:07:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-28</p>
-<h2> Novedades</h2>
-<h3> Manejo Avanzado de Almacen</h3>
-<ul>
-<li>Se agrega soporte a Unidad de Medida Base del Producto en Orden de Salida Generada Automaticamente desde la Orden de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<p>Manejo avanzado de Almacén.</p>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-10-28</p>
-<h2> Novedades</h2>
-<h3> Manejo Avanzado de Almacen</h3>
-<ul>
-<li>Se agrega soporte a Unidad de Medida Base del Producto en Orden de Salida Generada Automaticamente desde la Orden de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<p>Manejo avanzado de Almacén.</p>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Se incorpora la Unidad de Medida Base del Producto en la Orden de Salida generada automáticamente desde la Orden de Venta.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.5.9" target="_blank" rel="noopener noreferrer">ERPYA v2.5.9</a></li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
