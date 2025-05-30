@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 30 May 2025 14:25:18 GMT</pubDate>
-    <lastBuildDate>Fri, 30 May 2025 14:25:18 GMT</lastBuildDate>
+    <pubDate>Fri, 30 May 2025 19:49:27 GMT</pubDate>
+    <lastBuildDate>Fri, 30 May 2025 19:49:27 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -979,62 +979,6 @@
       <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.7.2-img1.png" type="image/png"/>
     </item>
     <item>
-      <title>erpya-3.9.4-001-2.7.0</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.7.0</source>
-      <description>Fecha de Liberación: 2024-12-27 Novedades Se corrige NPE en Validador de Modelo de Producción Contexto Resuelve el Null Pointer Exception en el proceso de validación del modelo de producción.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Wed, 08 Jan 2025 19:51:44 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>
-<h2> Novedades</h2>
-<ul>
-<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Correcciones técnicas.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.0" target="_blank" rel="noopener noreferrer">ERPYA v2.7.0</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-2.7.1</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.7.1</source>
-      <description>Fecha de Liberación: 2025-01-08 Novedades Actualización de versión Contexto Detalle Técnico Enlaces relacionados ERPYA v2.7.1</description>
-      <category>Actualizaciones</category>
-      <pubDate>Wed, 08 Jan 2025 19:51:44 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>
-<h2> Novedades</h2>
-<ul>
-<li>Actualización de versión</li>
-</ul>
-<h2> Contexto</h2>
-<h2> Detalle Técnico</h2>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1" target="_blank" rel="noopener noreferrer">ERPYA v2.7.1</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>erpya-3.9.4-001-2.6.4</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.4.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.4.html</guid>
@@ -1215,6 +1159,62 @@
 <h2> Enlaces relacionados</h2>
 <ul>
 <li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.6.9" target="_blank" rel="noopener noreferrer">ERPYA v2.6.9</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-2.7.0</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.7.0</source>
+      <description>Fecha de Liberación: 2024-12-27 Novedades Se corrige NPE en Validador de Modelo de Producción Contexto Resuelve el Null Pointer Exception en el proceso de validación del modelo de producción.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 08 Jan 2025 19:51:44 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>
+<h2> Novedades</h2>
+<ul>
+<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>
+</ul>
+<h2> Detalle Técnico</h2>
+<ul>
+<li>Correcciones técnicas.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.0" target="_blank" rel="noopener noreferrer">ERPYA v2.7.0</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>erpya-3.9.4-001-2.7.1</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.7.1</source>
+      <description>Fecha de Liberación: 2025-01-08 Novedades Actualización de versión Contexto Detalle Técnico Enlaces relacionados ERPYA v2.7.1</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 08 Jan 2025 19:51:44 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>
+<h2> Novedades</h2>
+<ul>
+<li>Actualización de versión</li>
+</ul>
+<h2> Contexto</h2>
+<h2> Detalle Técnico</h2>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1" target="_blank" rel="noopener noreferrer">ERPYA v2.7.1</a></li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
