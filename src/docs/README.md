@@ -59,7 +59,7 @@ Tenga en cuenta que todo el ecosistema [ADempiere ERP](https://erpya.com/) se cr
 - [Gestión de Materiales](material-management/)
 - [Gestión de Producción](production-management/)
 - [Gestión de Distribución](distribution-management/)
-- [Gestión de Distribución](sales-management/)
+- [Gestión de Ventas](sales-management/)
 - [Gestión de Relaciones con Clientes](customer-relationship-management/)
 - [Gestión PDV](pdv-management/)
 - [Gestión de Compras](purchase-management/)
