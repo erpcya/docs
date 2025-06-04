@@ -14,6 +14,224 @@ Con la orden de venta y la orden de salida ya cargadas en ADempiere, se procede 
 
 Finalmente, se procede a realizar el proceso de entrega y facturación de los productos.
 
+# Configuración de la Gestión Avanzada de Almacenes
+
+Para el correcto funcionamiento del proceso, es necesario que se realicen las siguientes configuraciones, tomando como ejemplo el caso en el que se tiene un almacén determinado para las ventas y el mismo posee diferentes ubicaciones.
+
+Para la presentación del caso, se tiene el siguiente ejemplo: 
+
+**Almacén**: CENTRO DE DISTRIBUCIÓN GUACARA
+  - **Ubicación 1**: CDG
+  - **Ubicación 2**: R1
+  - **Ubicación 3**: R2
+  - **Ubicación 4**: R3
+  - **Ubicación 5**: R4
+
+## Tipo de Area del Almacén
+
+Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Tipo de Area del Almacén**.
+
+![menu tipo de area del almacen](https://github.com/user-attachments/assets/659d4509-fdd1-4cd0-925e-c0b16def1534)
+
+En la presente ventana se configuran las diferentes areas con las que se quiere a segmentar el almacén.
+
+Para la presentación del caso, se configuró una sola area, la cual lleva por nombre **WMS**.
+
+![ventana tipo de area del almacén](https://github.com/user-attachments/assets/e6eecaf5-0e46-40c7-bfea-5040f547499a)
+
+## Tipo de Sección del Almacén
+
+Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Tipo de Sección del Almacén**
+
+![menu tipo de seccion del almacen](https://github.com/user-attachments/assets/19585346-f240-41dc-a290-129b6b80218e)
+
+En la presente ventana se configuran las secciones que van a tener las areas del almacén. Dicha area es la previamente configurada.
+
+Para la presentación del caso, se tienen las siguientes secciones de area en el almacén.
+
+**Patio de Entrada**
+
+![patio de entrada](https://github.com/user-attachments/assets/9efd566a-54d3-4d07-865a-7ad5b5d763cc)
+
+**Patio de Salida**
+
+![patio de salida](https://github.com/user-attachments/assets/45b2964a-d24d-4a36-a0d2-27e496ea016b)
+
+## Estructura del Almacén
+
+Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Estructura del Almacén**
+
+![menu estructura del almacen](https://github.com/user-attachments/assets/20aaf7dc-d154-4107-81ce-60f9a28391c3)
+
+En la presente ventana se realiza la configuración de los diferentes almacenes a los que se requiera aplicar la funcionalidad, asociando a los mismos, las diferentes areas con las que se necesitar segmentar el almacén, sus respectivas secciones por area y ubicaciones por secciones, siguiendo la siguiente estructura:
+
+- Estructura del Almacén:
+  - Almacén
+    - Area del Almacén
+      - Sección del Almacén
+        - Detalle de las Secciones del Almacén (Ubicaciones)
+      - Sección del Almacén
+        - Detalle de las Secciones del Almacén (Ubicaciones)
+
+Un almacén tiene establecida una ubicación por defecto, la misma no debe ser ingresada en el **Detalle de las Secciones** ya que esa ubicación es la que se va a configurar en la **Defición de Entradas / Salidas**, para que al momento de la ejecución del proceso (la venta), se llama el almacén configurado y este a su vez toma la ubicación (por defecto del almacén) previamente configurada en la **Definición de Entradas / Salidas**, validando en el **Picking List**, la existencia de los productos en las diferentes ubicaciones establecidas en la **Estructura del Almacén**.
+
+Para la presentación del caso, se configura el almacén **CENTRO DE DISTRIBUCIÓN GUACARA**, partiendo de la información inicial del almacén:
+
+**Almacén**: CENTRO DE DISTRIBUCIÓN GUACARA
+  - **Ubicación 1**: CDG
+  - **Ubicación 2**: R1
+  - **Ubicación 3**: R2
+  - **Ubicación 4**: R3
+  - **Ubicación 5**: R4
+
+Donde la ubicación 1 (CDG) es la ubicación por defecto del almacén, ubicación que tomara la transacción (la venta) al momento de llamar el almacén en la misma.
+
+Adicionalmente, se tiene que por ejemplo la ubicación 4 (R3), debe ser una ubicación respetada por el proceso, lo que quiere decir que al momento de la ejecución de la funcionalidad, el proceso no debe afectar las cantidades de los productos que se encuentran en la misma. 
+
+Por lo que en el **Detalle de las Secciones de Almacenes**, se establecen las ubicaciones que se necesita que tome la funcionalidad al momento de la ejecución del proceso, lo que quiere decir que si por ejemplo se tienen 5 ubicaciones en un almacén (CDG, R1, R2, R3 Y R4) de las cuales una es la ubicación por defecto del almacén (CDG), y se necesita que la funcionalidad me valide por la existencia de solo 3 de las 5 ubicaciones, entonces en el **Detalle de las Secciones de Almacenes** se deben establer las 3 ubicaciones (ejemplo: R1, R2, R4).
+
+En base al ejemplo expuesto anteriormente, se procede a configurar un almacén con un area, dos secciones y las diferentes ubicaciones que la funcionalidad va a controlar y/o afectar, quedando de la siguiente manera:
+
+**Almacén**: CENTRO DE DISTRIBUCIÓN GUACARA
+  - **Area del Almacén**: WMS
+    - **Sección**: Patio de Entrada
+        - **Ubicación 1**: R1
+        - **Ubicación 2**: R2
+        - **Ubicación 3**: R4
+    - **Sección**: Patio de Salida
+        - **Ubicación 1**: R1
+        - **Ubicación 2**: R2
+        - **Ubicación 3**: R4
+
+::: info Nota
+
+Es importante resaltar que en el ejemplo no se esta incluyendo en la configuración de la **Estructura del Almacén**, las ubicaciones:
+
+  - **Ubicación 1**: CDG
+  - **Ubicación 4**: R3
+
+:::
+
+**Pestaña Almacén de la Ventana Estructura del Almacén**
+
+![pestaña almacen de la estructura del almacen](https://github.com/user-attachments/assets/1eb17d1e-532c-482a-b491-9e0b0efe4290)
+
+**Pestaña Área de Almacén de la Ventana Estructura del Almacén**
+
+![pestaña area de almacen de la estructura del almacen](https://github.com/user-attachments/assets/ec6de420-cee3-42ee-ba44-9faafdd2a123)
+
+**Pestaña Sección del Almacén (PATIO DE ENTRADA "PUT AWAY") de la Ventana Estructura del Almacén**
+
+![pestaña seccion del almacen entrada de la estructura del almacen](https://github.com/user-attachments/assets/0ef62922-07a8-4d1b-8eac-4a781f857193)
+
+**Pestaña Detalle de las Secciones del Almacén (PATIO DE ENTRADA "PUT AWAY") de la Ventana Estructura del Almacén**
+
+![ubicaciones de las secciones](https://github.com/user-attachments/assets/91724a95-f7e6-4247-860b-d5cd7ad4204f)
+
+**Pestaña Sección del Almacén (PATIO DE SALIDA "PICKING LIST") de la Ventana Estructura del Almacén**
+
+![pestaña seccion del almacen salida de la estructura del almacen](https://github.com/user-attachments/assets/afa6662f-a4f4-4770-896a-4d70c8bd1ce2)
+
+**Pestaña Detalle de las Secciones del Almacén (PATIO DE SALIDA "PICKING LIST") de la Ventana Estructura del Almacén**
+
+![ubicaciones de las secciones](https://github.com/user-attachments/assets/91724a95-f7e6-4247-860b-d5cd7ad4204f)
+
+## Reglas de Entradas / Salidas
+
+Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Reglas de Entradas / Salidas**
+
+![menu reglas de entradas salidas](https://github.com/user-attachments/assets/778cb6e8-5d4a-469b-a70f-f242699bb9ce)
+
+En la presente ventana se configuran las reglas de entrada y salida de la mercancía, donde los valores para la regla de entrada deben ser:
+
+- **Organización**: Organización Principal (La organización del almacén que estamos configurando)
+- **Nombre**: Regla de Entrada de Mercancia 
+- **Regla de Entrada y Salida**: Custum Interface
+- **Tipo Entrada y Salida**: Operación de Entrada
+- **Inbound Outbound Class**: WMSRule_PutAway
+
+![regla de entrada de mercancia](https://github.com/user-attachments/assets/4d434b26-03df-4711-93a7-df7d856cea6e)
+
+Así mismo, los valores para la regla de salida deben ser:
+
+- **Organización**: Organización Principal (La organización del almacén que estamos configurando)
+- **Nombre**: Regla de Salida de Mercancia 
+- **Regla de Entrada y Salida**: Custum Interface
+- **Tipo Entrada y Salida**: Operación de Salida
+- **Inbound Outbound Class**: FEFO_NotDue_ProductAccepted
+
+![regla de salida de mercancia](https://github.com/user-attachments/assets/2b63667e-bd04-4a56-affe-d3e380c51810)
+
+## Estrategia de Entradas / Salidas
+
+Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Estrategia de Entradas / Salidas**
+
+![menu estrategias de entradas salidas](https://github.com/user-attachments/assets/cbe0abb2-5d17-4bc5-9c64-d50780bad36e)
+
+En la presente ventana se configuran las estrategias de entrada y salida de la mercancía, donde los valores para la estrategia de entrada deben ser:
+
+- **Organización**: Organización Principal (La organización del almacén que estamos configurando)
+- **Nombre**: Estrategia de Entrada
+- **Almacén**: CENTRO DE DISTRIBUCIÓN GUACARA
+- **Tipo Entrada y Salida**: Operación de Entrada
+
+![estrategia de entrada](https://github.com/user-attachments/assets/1310c058-8f4b-42f8-bb77-bba820845ef9)
+
+Luego, en la pestaña **Detalle de la Estrategia de las Entradas / Salidas** se debe establecer las reglas de entradas previamente creadas, las cuales será aplicadas con la estrategia de entrada.
+
+![detalle de la estrategia de entrada](https://github.com/user-attachments/assets/0e5017d0-5723-48a7-83e0-9b5dc07b9bc5)
+
+Así mismo, los valores para la estrategia de salida deben ser:
+
+- **Organización**: Organización Principal (La organización del almacén que estamos configurando)
+- **Nombre**: Estrategia de Salida
+- **Almacén**: CENTRO DE DISTRIBUCIÓN GUACARA
+- **Tipo Entrada y Salida**: Operación de Salida
+
+![estrategia de salida](https://github.com/user-attachments/assets/632247d5-ec53-472f-90ed-7f95fee1356b)
+
+Luego, en la pestaña **Detalle de la Estrategia de las Entradas / Salidas** se debe establecer las reglas de salidas previamente creadas, las cuales será aplicadas con la estrategia de salida.
+
+![detalle de la estrategia de salida](https://github.com/user-attachments/assets/3a6b7803-c500-4e24-96ee-191efafb847b)
+
+## Definición de Entradas / Salidas
+
+Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Definición de Entradas / Salidas**
+
+![menu definicion de entradas salidas](https://github.com/user-attachments/assets/59198a07-4a53-4702-8dc7-c502aad20855)
+
+En esta ventana se configura el comportamiento que se va a aplicar al momento de la ejecución de los procesos de entrada o salida de la mercancía. 
+
+Para los casos de entrada de mercancía al almacén, se configura el **Put Away**, en el que se establecen los siguientes valores:
+
+**Pestaña Definición de Entradas / Salidas**
+
+- **Organización**: Organización Principal (La organización del almacén que estamos configurando)
+- **Nombre**: Put Away
+- **Estrategia de Entrada del Almacén**: Estrategia de Entrada
+- **Tipo de Área del Almacén**: WMS
+- **Tipo de Sección del Almacén**: PATIO DE ENTRADA
+- **Ubicación**: CDG (La ubicación por defecto del almacén que estamos configurando)
+
+![definicion de entrada](https://github.com/user-attachments/assets/a2bb9a0c-c154-470b-9ed2-2eeae7bb62fa)
+
+Para los casos de salida de mercancía del almacén, se configura el **Picking List**, en el que se establecen los siguientes valores:
+
+**Pestaña Definición de Entradas / Salidas**
+
+- **Organización**: Organización Principal (La organización del almacén que estamos configurando)
+- **Nombre**: Picking List
+- **Estrategia de Entrada del Almacén**: Estrategia de Salida
+- **Tipo de Área del Almacén**: WMS
+- **Tipo de Sección del Almacén**: PATIO DE SALIDA
+- **Ubicación**: CDG (La ubicación por defecto del almacén que estamos configurando)
+
+![definicion de salida](https://github.com/user-attachments/assets/13b5e118-4c64-471f-b09c-a57f282ddf91)
+
+# Ejecución en ADempiere
+
+El procedimiento a realizar, que garantiza el correcto funcionamiento de la gestión avanzada de almacenes es el siguiente
+
 ## Generar Orden de Venta o Pedido
 
 Se debe crear una orden de venta al cliente de manera regular, si desconoce el procedimiento para la elaboración de la misma, puede consultar el documento [Orden de Venta](https://docs.erpya.com/docs/sales-management/order.html).
@@ -101,7 +319,6 @@ En la pestaña **Línea de Orden de Salida** de dicha ventana puede verificar la
 Adicionalmente puede ver el reporte del Picking List, regresando a la pestaña principal **Documento Seleccionado (Gestión de Almacén)** y luego seleccionando el icono **Informe**.
 
 ![Reporte de Picking List](reporte-picking-list-generado.png)
-
 
 ## Generar Entrega y Factura 
 
