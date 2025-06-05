@@ -14,7 +14,7 @@ Con la orden de venta y la orden de salida ya cargadas en ADempiere, se procede 
 
 Finalmente, se procede a realizar el proceso de entrega y facturación de los productos.
 
-# Configuración de la Gestión Avanzada de Almacenes
+## **Configuración de la Gestión Avanzada de Almacenes**
 
 Para el correcto funcionamiento del proceso, es necesario que se realicen las siguientes configuraciones, tomando como ejemplo el caso en el que se tiene un almacén determinado para las ventas y el mismo posee diferentes ubicaciones.
 
@@ -27,7 +27,7 @@ Para la presentación del caso, se tiene el siguiente ejemplo:
   - **Ubicación 4**: R3
   - **Ubicación 5**: R4
 
-## Tipo de Area del Almacén
+### **Tipo de Area del Almacén**
 
 Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Tipo de Area del Almacén**.
 
@@ -39,7 +39,7 @@ Para la presentación del caso, se configuró una sola area, la cual lleva por n
 
 ![ventana tipo de area del almacén](https://github.com/user-attachments/assets/e6eecaf5-0e46-40c7-bfea-5040f547499a)
 
-## Tipo de Sección del Almacén
+### **Tipo de Sección del Almacén**
 
 Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Tipo de Sección del Almacén**
 
@@ -57,7 +57,7 @@ Para la presentación del caso, se tienen las siguientes secciones de area en el
 
 ![patio de salida](https://github.com/user-attachments/assets/45b2964a-d24d-4a36-a0d2-27e496ea016b)
 
-## Estructura del Almacén
+### **Estructura del Almacén**
 
 Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Estructura del Almacén**
 
@@ -136,7 +136,7 @@ Es importante resaltar que en el ejemplo no se esta incluyendo en la configuraci
 
 ![ubicaciones de las secciones](https://github.com/user-attachments/assets/91724a95-f7e6-4247-860b-d5cd7ad4204f)
 
-## Reglas de Entradas / Salidas
+### **Reglas de Entradas / Salidas**
 
 Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Reglas de Entradas / Salidas**
 
@@ -162,7 +162,7 @@ Así mismo, los valores para la regla de salida deben ser:
 
 ![regla de salida de mercancia](https://github.com/user-attachments/assets/2b63667e-bd04-4a56-affe-d3e380c51810)
 
-## Estrategia de Entradas / Salidas
+### **Estrategia de Entradas / Salidas**
 
 Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Estrategia de Entradas / Salidas**
 
@@ -194,7 +194,7 @@ Luego, en la pestaña **Detalle de la Estrategia de las Entradas / Salidas** se 
 
 ![detalle de la estrategia de salida](https://github.com/user-attachments/assets/3a6b7803-c500-4e24-96ee-191efafb847b)
 
-## Definición de Entradas / Salidas
+### **Definición de Entradas / Salidas**
 
 Ubique en el menú de ADempiere la carpeta **Gestión Avanzada de Almacén**, luego seleccione la carpeta **Configuración de Gestión Avanzada de Almacén**, finalmente seleccione la ventana **Definición de Entradas / Salidas**
 
@@ -228,11 +228,70 @@ Para los casos de salida de mercancía del almacén, se configura el **Picking L
 
 ![definicion de salida](https://github.com/user-attachments/assets/13b5e118-4c64-471f-b09c-a57f282ddf91)
 
-# Ejecución en ADempiere
+## **Ejecución de Entradas de la Gestión Avanzada de Almacenes**
 
-El procedimiento a realizar, que garantiza el correcto funcionamiento de la gestión avanzada de almacenes es el siguiente
+Para el correcto funcionamiento del proceso de entradas, debe existir una previa configuración de la [Gestión Avanzada de Almacenes](http://localhost:8080/docs/material-management/advanced-warehouse-management.html#configuracion-de-la-gestion-avanzada-de-almacenes). Así mismo, debe existir una previa configuración del producto, donde se especifique:
 
-## Generar Orden de Venta o Pedido
+- **Unidades por Paquete**: Unidades del producto que componen el paquete/caja/bulto del producto.
+- **Unidades por Tarima**: Unidades del producto que componen la paleta/estante/tarima.
+
+Dicha información es necesaria porque al momento de darle entrada a los productos, ADempiere evalua la existencia del producto en las ubicaciones configuradas para almacenarlo en las mismas según los valores configurados en el producto (unidades por paquete y unidades por tarima).
+
+Para la presentación del caso, se tiene como ejemplo el producto **PRODUCTO DE PRUEBA**
+
+Cuando se tengan listas las configuraciones necesarias, se puede proceder a realizar las transacciones que ejecutan la funcionalidad. Para ello, el procedimiento a seguir es el siguiente:
+
+### **Orden de Distribución**
+
+Se debe crear una orden de distribución, donde se especifique el producto, la ubicación donde se encuentra actualmente el producto (desde la cual se va mover) y la ubicación a la cual será movilizado el producto. Si desconoce el procedimiento para la elaboración de la misma, puede consultar el documento [Orden de Distribución](https://docs.erpya.com/docs/distribution-management/distribution-order.html). 
+
+Al completar el registro, se aplica la funcionalidad en base a la configuración realizada en la ventana **Estructura del Almacén**, ejecutando lo siguiente:
+
+- Se lleva las cantidades de los campos **Cantidad** y **Cantidad Ordenada** a cero (o), en la línea creada donde se esta solicitando mover a la ubicación por defecto **CDG**.
+- Se crea de manera automática una línea con los valores de la línea que tiene la ubicación por defecto **CDG**, incluyendo las cantidades de los campos **Cantidad** y **Cantidad Ordenada** antes de ser llevadas a cero (o), pero reemplazando la ubicación **CDG** por alguna de las ubicaciones configuradas en la ventana **Estructura del Almacén**. 
+
+::: info Nota
+
+El tipo de documento de orden de distribución puede ser configurado para que al completar el registro, se generen de manera automática los movimientos de inventario (Desde la ubicación origen a transito y desde transito a la ubicación destino).
+
+:::
+
+Para la presentación del caso, se generó la orden de distribución **OD-327**, en la cual se establece que se necesita mover el producto **PP-010101_PRODUCTO DE PRUEBA**, desde la ubicación **CUARENTENA** hasta la ubicación **CDG** del almacén **CENTRO DE DISTRIBUCIÓN GUACARA**. Por lo que al completar el documento, ADempiere ejecuta la funcionalidad del WMS aplicando la configuración establecida anteriormente, generando de manera automatica los movimientos de inventario
+
+- Movimiento de Inventario **MMI- 5260** desde la ubicación **CUARENTENA** hasta la ubicación **Transito WMS**
+- Movimiento de Inventario **MMI- 5262** desde la ubicación **Transito WMS** hasta la ubicación **R2**
+
+**Encabezado de la Orden de Distribución**
+
+![encabezado de orden de distribucion](https://github.com/user-attachments/assets/a19f04c9-7ebb-47dc-91c5-65bfd5ef137c)
+
+**Líneas de la Orden de Distribución**
+
+![linea creada manual en la orden de distribucion](https://github.com/user-attachments/assets/8cea59c1-79bf-43e6-bbb5-5dd3eddf28dd)
+
+![linea creada automatico en orden de distribucion](https://github.com/user-attachments/assets/bbcc8d66-3800-4b54-aaac-7c64393d7cc9)
+
+**Encabezado del Movimiento de Inventario MMI- 5260**
+
+![encabezado de movimiento mmi-5260](https://github.com/user-attachments/assets/29edf627-ac5a-4ed6-b8ce-041972e9d8aa)
+
+**Línea del Movimiento de Inventario MMI- 5260**
+
+![linea de movimiento mmi-5260](https://github.com/user-attachments/assets/d2518fde-bb0c-41dc-a65f-0c5e3b8e99bd)
+
+**Encabezado del Movimiento de Inventario MMI- 5262**
+
+![encabezado de movimiento mmi-5262](https://github.com/user-attachments/assets/c27941cb-4814-4312-8319-622ea49cd0b5)
+
+**Línea del Movimiento de Inventario MMI- 5262**
+
+![linea de movimiento mmi-5262](https://github.com/user-attachments/assets/b2f66b1f-3ce0-41a3-b806-f66f6800500d)
+
+## **Ejecución de Salidas de la Gestión Avanzada de Almacenes**
+
+El procedimiento a realizar, que garantiza el correcto funcionamiento de las salidas de la gestión avanzada de almacenes es el siguiente
+
+### **Generar Orden de Venta o Pedido**
 
 Se debe crear una orden de venta al cliente de manera regular, si desconoce el procedimiento para la elaboración de la misma, puede consultar el documento [Orden de Venta](https://docs.erpya.com/docs/sales-management/order.html).
 
@@ -246,7 +305,7 @@ Para la presentación del caso, se elaboró la orden de venta **OVN-20906**
 
 ![Línea de la Orden de Venta OVN-20906](linea-orden-ovn-20906.png)
 
-## Generar Orden de Salida
+### **Generar Orden de Salida**
 
 Se debe crear la orden de salida desde la orden de venta, este documento se puede generar de dos maneras:
 
@@ -266,7 +325,7 @@ Para la presentación del caso, se generó la orden de salida **OSE-3452**
 
 ![Línea de la Orden de Salida OSE-3452](linea-orden-ose-3452.png)
 
-## Generar Lista de Selección para Entrega (Picking List)
+### **Generar Lista de Selección para Entrega (Picking List)**
 
 Para generar la lista de selección para la entrega (Picking List), se debe ubicar en el menú de ADempiere la carpeta **Gestión Avanzada de Almacenes**, luego se debe seleccionar la carpeta **Operaciones de Salida**, para finalmente seleccionar el smart browser **Generar Lista de Selección para Entrega (Picking List)**.
 
@@ -320,7 +379,7 @@ Adicionalmente puede ver el reporte del Picking List, regresando a la pestaña p
 
 ![Reporte de Picking List](reporte-picking-list-generado.png)
 
-## Generar Entrega y Factura 
+### **Generar Entrega y Factura**
 
 Luego de tener en ADempiere la **Lista de Selección para Entrega (Picking List)**, se procede a generar la entrega y la factura de los productos. 
 
