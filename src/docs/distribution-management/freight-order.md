@@ -1,5 +1,5 @@
 ---
-title: Crear Orden de Flete desde Línea de La Orden
+title: Crear Orden de Flete desde Líneas de Órdenes de Salida
 category: Documentation
 star: 9
 sticky: 9
