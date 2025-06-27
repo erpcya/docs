@@ -27,7 +27,6 @@ article: true
 
 - [Fallo en proceso de análisis de calidad](https://github.com/erpcya/Control-NATULAC/issues/121)
 
-
 ## Requerimientos
 
 - No se requieren procesos adicionales por aplicar.

@@ -17,6 +17,7 @@ article: true
 
 ## Novedades
 
+- Adempiere Base
 - Adempiere Base.
 - Procesamiento Paralelo en Nomina.
 
@@ -31,6 +32,17 @@ article: true
 
 - [Discord](https://discord.com/channels/882964599874420796/1367884804208459936)
 - [Discord](https://discord.com/channels/882964599874420796/1365423606674362429)
+
+## Novedades
+
+- Procesamiento Paralelo en Nomina.
+
+## Contexto
+
+- Se agrega filtro de busqueda por Organización al Procesar la Nomina.
+
+## Enlaces relacionados
+
 - [Discord](https://discord.com/channels/882964599874420796/1333804993118994433)
 
 ## Requerimientos
