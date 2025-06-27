@@ -6,12 +6,44 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 27 Jun 2025 21:17:55 GMT</pubDate>
-    <lastBuildDate>Fri, 27 Jun 2025 21:17:55 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Jun 2025 21:18:34 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Jun 2025 21:18:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
     <category>Importación</category>
+    <item>
+      <title>erpya-3.9.4-001-3.0.5</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.5.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.5.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.0.5</source>
+      <description>Fecha de Liberación: 2025-05-09 Novedades Adempiere Base. Procesamiento Paralelo en Nomina. Contexto Se corrige logica contable de Estado de Cuentas Bancario. Se agrega logica contable de pago para considerar los que los pagos identificados contabilicen a la misma tasa del pago sin identificar. Se agrega filtro de busqueda por Organización al Procesar la Nomina.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 27 Jun 2025 21:07:47 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-09</p>
+<h2> Novedades</h2>
+<ul>
+<li>Adempiere Base.</li>
+<li>Procesamiento Paralelo en Nomina.</li>
+</ul>
+<h2> Contexto</h2>
+<ul>
+<li>Se corrige logica contable de Estado de Cuentas Bancario.</li>
+<li>Se agrega logica contable de pago para considerar los que los pagos identificados contabilicen a la misma tasa del pago sin identificar.</li>
+<li>Se agrega filtro de busqueda por Organización al Procesar la Nomina.</li>
+</ul>
+<h2> Enlaces relacionados</h2>
+<ul>
+<li><a href="https://discord.com/channels/882964599874420796/1367884804208459936" target="_blank" rel="noopener noreferrer">Discord</a></li>
+<li><a href="https://discord.com/channels/882964599874420796/1365423606674362429" target="_blank" rel="noopener noreferrer">Discord</a></li>
+<li><a href="https://discord.com/channels/882964599874420796/1333804993118994433" target="_blank" rel="noopener noreferrer">Discord</a></li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-2.9.1</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.9.x/erpya-3.9.4-001-2.9.1.html</link>
@@ -3409,45 +3441,6 @@
 </ul>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.1.0-img1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-2.0.7</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.7.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.0.x/erpya-3.9.4-001-2.0.7.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-2.0.7</source>
-      <description>Fecha de Liberación: 2024-07-29 Novedades Mejoras en la gestión de almacenes Se agrega soporte a anular las ordenes de salida al momento de reactivar una Orden de Venta que genera una Orden de Salida de manera automatica Se agrega acercador entre Orden de Venta y Orden de Salida</description>
-      <category>Actualizaciones</category>
-      <pubDate>Mon, 29 Jul 2024 16:04:48 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2024-07-29</p>
-<h2> Novedades</h2>
-<h3> Mejoras en la gestión de almacenes</h3>
-<ul>
-<li>
-<p>Se agrega soporte a anular las ordenes de salida al momento de reactivar una Orden de Venta que genera una Orden de Salida de manera automatica</p>
-</li>
-<li>
-<p>Se agrega acercador entre Orden de Venta y Orden de Salida</p>
-</li>
-</ul>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.7-img1.png" alt="Acercador" tabindex="0" loading="lazy"><figcaption>Acercador</figcaption></figure>
-<h2> Contexto</h2>
-<ul>
-<li>Gestión de Almacenes</li>
-</ul>
-<h2> Detalle Técnico</h2>
-<ul>
-<li>Warehouse Management</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://github.com/erpya/adempiere_patch_zk/releases/tag/2.0.7" target="_blank" rel="noopener noreferrer">ERPYA v2.0.7</a></li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.0.7-img1.png" type="image/png"/>
     </item>
   </channel>
 </rss>
