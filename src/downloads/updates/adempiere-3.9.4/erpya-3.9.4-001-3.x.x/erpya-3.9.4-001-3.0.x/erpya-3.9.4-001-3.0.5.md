@@ -18,11 +18,13 @@ article: true
 ## Novedades
 
 - Adempiere Base
+- Procesamiento Paralelo en Nomina.
 
 ## Contexto
 
 - Se corrige logica contable de Estado de Cuentas Bancario.
 - Se agrega logica contable de pago para considerar los que los pagos identificados contabilicen a la misma tasa del pago sin identificar.
+- Se agrega filtro de busqueda por Organización al Procesar la Nomina.
 
 
 ## Enlaces relacionados
