@@ -18,7 +18,6 @@ article: true
 ## Novedades
 
 - Adempiere Base
-- Adempiere Base.
 - Procesamiento Paralelo en Nomina.
 
 ## Contexto
