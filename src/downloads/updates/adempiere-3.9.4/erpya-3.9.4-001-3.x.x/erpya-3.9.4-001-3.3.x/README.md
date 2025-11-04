@@ -13,6 +13,8 @@ article: false
 
 A continuación se encuentra una listas con las versiones relacionadas a la **macro versión** **rs-3.3.x**
 
+- [erpya-3.9.4-001-3.3.9](erpya-3.9.4-001-3.3.9.md)
+- [erpya-3.9.4-001-3.3.8](erpya-3.9.4-001-3.3.8.md)
 - [erpya-3.9.4-001-3.3.7](erpya-3.9.4-001-3.3.7.md)
 - [erpya-3.9.4-001-3.3.6](erpya-3.9.4-001-3.3.6.md)
 - [erpya-3.9.4-001-3.3.5](erpya-3.9.4-001-3.3.5.md)

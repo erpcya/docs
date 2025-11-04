@@ -1,5 +1,5 @@
 ---
-title: erpya-3.9.4-001-3.3.7
+title: erpya-3.9.4-001-3.3.8
 icon: podcast
 category: Actualizaciones
 star: 9
@@ -7,22 +7,21 @@ sticky: 9
 tag:
   - "Actualizaciones"
   - "Versiones"
-  - "erpya-3.9.4-001-3.3.7"
-  - "2025-10-21"
+  - "erpya-3.9.4-001-3.3.8"
+  - "2025-10-22"
   - "Noticias"
 article: true
 ---
 
-**Fecha de Liberación:** 2025-10-21
+**Fecha de Liberación:** 2025-10-22
 
 ## Novedades
 
-- Flujo de Trabajo de Producción
 - Customer Addons
 
 ## Contexto
 
-- Añadir soporte para configurar el almacén desde la Orden de Salida
+- Se agrega proceso custom para importar Forescast
 
 ## Requerimientos
 
