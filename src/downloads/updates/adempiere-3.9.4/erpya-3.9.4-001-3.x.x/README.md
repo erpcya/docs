@@ -22,3 +22,6 @@ Todas las versiones oficiales de [ERPyA](https://erpya.com/) se encuentran a con
 A continuación se encuentra una lista de cada **macro versión**, tómate tu tiempo para ver cada una de ellas si lo deseas.
 
 - [erpya-3.9.4-001-3.0.x](./erpya-3.9.4-001-3.0.x/)
+- [erpya-3.9.4-001-3.1.x](./erpya-3.9.4-001-3.1.x/)
+- [erpya-3.9.4-001-3.2.x](./erpya-3.9.4-001-3.2.x/)
+- [erpya-3.9.4-001-3.3.x](./erpya-3.9.4-001-3.3.x/)
