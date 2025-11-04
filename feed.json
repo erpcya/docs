@@ -6,6 +6,71 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-3.3.8",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.8.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.8.html",
+      "summary": "Fecha de Liberación: 2025-10-22 Novedades Customer Addons Contexto Se agrega proceso custom para importar Forescast Requerimientos Se requieren procesos adicionales por aplicar.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-22</p>\n<h2> Novedades</h2>\n<ul>\n<li>Customer Addons</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega proceso custom para importar Forescast</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-11-04T17:57:59.000Z",
+      "date_modified": "2025-11-04T17:57:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.3.8",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.9.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.9.html",
+      "summary": "Fecha de Liberación: 2025-10-28 Novedades Programa de Asistencia a Agricultores Contexto Permitir anular Recibo/Entrega de Material y validar correctamente la anulación de Órdenes vinculadas al Registro de Peso. Requerimientos",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-28</p>\n<h2> Novedades</h2>\n<ul>\n<li>Programa de Asistencia a Agricultores</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Permitir anular Recibo/Entrega de Material y validar correctamente la anulación de Órdenes vinculadas al Registro de Peso.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-11-04T17:57:59.000Z",
+      "date_modified": "2025-11-04T17:57:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.4.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.0.html",
+      "summary": "Fecha de Liberación: 2025-10-30 Novedades Análisis de Calidad Contexto Corrección de la validación lógica del análisis de calidad por la omisión de notas de crédito en las facturas de venta. Requerimientos",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-30</p>\n<h2> Novedades</h2>\n<ul>\n<li>Análisis de Calidad</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Corrección de la validación lógica del análisis de calidad por la omisión de notas de crédito en las facturas de venta.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-11-04T17:57:59.000Z",
+      "date_modified": "2025-11-04T17:57:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.4.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.1.html",
+      "summary": "Fecha de Liberación: 2025-10-31 Novedades Reportes Adicionales Contexto Se agrega proceso genérico para el formato de impresión: a través del Tipo de Documento, buscará el formato de impresión y luego el Reporte Jasper.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-31</p>\n<h2> Novedades</h2>\n<ul>\n<li>Reportes Adicionales</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega proceso genérico para el formato de impresión: a través del Tipo de Documento, buscará el formato de impresión y luego el Reporte Jasper.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-11-04T17:57:59.000Z",
+      "date_modified": "2025-11-04T17:57:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-3.4.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.2.html",
+      "summary": "Fecha de Liberación: 2025-11-03 Novedades Customizaciones de Pago Contexto Añadir compatibilidad para exportar archivos bancarios desde la vista personalizada. Creación y Configuración de Vista para Exportación de Pagos en ADempiere.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-11-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Customizaciones de Pago</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Añadir compatibilidad para exportar archivos bancarios desde la vista personalizada.</li>\n<li>Creación y Configuración de Vista para Exportación de Pagos en ADempiere.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-11-04T17:57:59.000Z",
+      "date_modified": "2025-11-04T17:57:59.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-3.1.6",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.6.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.6.html",
@@ -284,10 +349,10 @@
       "title": "erpya-3.9.4-001-3.3.7",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.7.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.7.html",
-      "summary": "Fecha de Liberación: 2025-10-10 Novedades Actualización LVE – Cumplimiento SENIAT 2025 Contexto Esta versión incorpora las actualizaciones requeridas por el SENIAT para garantizar el cumplimiento normativo en los procesos fiscales de la Localización Venezolana (LVE).",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-10</p>\n<h2> Novedades</h2>\n<ul>\n<li>Actualización LVE – Cumplimiento SENIAT 2025</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Esta versión incorpora las actualizaciones requeridas por el SENIAT para garantizar el cumplimiento normativo en los procesos fiscales de la Localización Venezolana (LVE).</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "summary": "Fecha de Liberación: 2025-10-21 Novedades Flujo de Trabajo de Producción Customer Addons Contexto Añadir soporte para configurar el almacén desde la Orden de Salida Requerimientos Se requieren procesos adicionales por aplicar.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-21</p>\n<h2> Novedades</h2>\n<ul>\n<li>Flujo de Trabajo de Producción</li>\n<li>Customer Addons</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Añadir soporte para configurar el almacén desde la Orden de Salida</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
+      "date_modified": "2025-11-04T17:57:59.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
@@ -881,6 +946,32 @@
       ]
     },
     {
+      "title": "erpya-3.9.4-001-2.7.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html",
+      "summary": "Fecha de Liberación: 2024-12-27 Novedades Se corrige NPE en Validador de Modelo de Producción Contexto Resuelve el Null Pointer Exception en el proceso de validación del modelo de producción.",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Correcciones técnicas.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.0\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.7.0</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-01-08T19:51:44.000Z",
+      "date_modified": "2025-01-08T19:51:44.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
+      "title": "erpya-3.9.4-001-2.7.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html",
+      "summary": "Fecha de Liberación: 2025-01-08 Novedades Actualización de versión Contexto Detalle Técnico Enlaces relacionados ERPYA v2.7.1",
+      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>\n<h2> Novedades</h2>\n<ul>\n<li>Actualización de versión</li>\n</ul>\n<h2> Contexto</h2>\n<h2> Detalle Técnico</h2>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.7.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2025-01-08T19:51:44.000Z",
+      "date_modified": "2025-01-08T19:51:44.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-2.6.4",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.4.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.4.html",
@@ -954,32 +1045,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.6.x/erpya-3.9.4-001-2.6.9.html",
       "summary": "Fecha de Liberación: 2024-12-27 Novedades Se modifica el evento de las validaciones de produccion para que se ejecuten solo al modificar y al completar una producción Contexto Ajusta el momento en que se ejecutan las validaciones, limitándolas a cuando se modifica o completa una producción.",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se modifica el evento de las validaciones de produccion para que se ejecuten solo al modificar y al completar una producción</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Ajusta el momento en que se ejecutan las validaciones, limitándolas a cuando se modifica o completa una producción.</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Mejoras en Producción.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.6.9\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.6.9</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-01-08T19:51:44.000Z",
-      "date_modified": "2025-01-08T19:51:44.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.7.0",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.0.html",
-      "summary": "Fecha de Liberación: 2024-12-27 Novedades Se corrige NPE en Validador de Modelo de Producción Contexto Resuelve el Null Pointer Exception en el proceso de validación del modelo de producción.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-12-27</p>\n<h2> Novedades</h2>\n<ul>\n<li>Se corrige <strong>NPE</strong> en Validador de Modelo de Producción</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Resuelve el <strong>Null Pointer Exception</strong> en el proceso de validación del modelo de producción.</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Correcciones técnicas.</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.0\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.7.0</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-01-08T19:51:44.000Z",
-      "date_modified": "2025-01-08T19:51:44.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.7.1",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.7.x/erpya-3.9.4-001-2.7.1.html",
-      "summary": "Fecha de Liberación: 2025-01-08 Novedades Actualización de versión Contexto Detalle Técnico Enlaces relacionados ERPYA v2.7.1",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-01-08</p>\n<h2> Novedades</h2>\n<ul>\n<li>Actualización de versión</li>\n</ul>\n<h2> Contexto</h2>\n<h2> Detalle Técnico</h2>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.7.1\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.7.1</a></li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-01-08T19:51:44.000Z",
       "date_modified": "2025-01-08T19:51:44.000Z",
       "authors": [],
@@ -1258,59 +1323,6 @@
       "content_html": "<h2> Órdenes de Compra (VES)</h2>\n<p>Estos datos serán usados para importarlos en la aplicación.</p>\n<p><a href=\"/assets/files/Orden_Compra_VES.xlsx\">La plantilla para importar las Órdenes de Compra (VES) se puede descargar aquí</a></p>\n<hr>\n<h2> Órdenes de Compra (USD)</h2>\n<p>Estos datos serán usados para importarlos en la aplicación.</p>\n<p><a href=\"/assets/files/Orden_Compra_USD.xlsx\">La plantilla para importar las Órdenes de Compra (USD) se puede descargar aquí</a></p>\n",
       "date_published": "2024-09-09T21:02:43.000Z",
       "date_modified": "2024-09-09T21:02:43.000Z",
-      "authors": [],
-      "tags": [
-        "Importación"
-      ]
-    },
-    {
-      "title": "Importaciones de Órdenes de Venta",
-      "url": "https://docs-md.erpya.com/docs/data-importation/sales-order-importation/",
-      "id": "https://docs-md.erpya.com/docs/data-importation/sales-order-importation/",
-      "summary": "Órdenes de Venta (VES) Estos datos serán usados para importarlos en la aplicación. La plantilla para importar las Órdenes de Venta (VES) se puede descargar aquí Órdenes de Venta (USD) Estos datos serán usados para importarlos en la aplicación.",
-      "content_html": "<h2> Órdenes de Venta (VES)</h2>\n<p>Estos datos serán usados para importarlos en la aplicación.</p>\n<p><a href=\"/assets/files/Orden_Venta_VES.xlsx\">La plantilla para importar las Órdenes de Venta (VES) se puede descargar aquí</a></p>\n<hr>\n<h2> Órdenes de Venta (USD)</h2>\n<p>Estos datos serán usados para importarlos en la aplicación.</p>\n<p><a href=\"/assets/files/Orden_Venta_USD.xlsx\">La plantilla para importar las Órdenes de Venta (USD) se puede descargar aquí</a></p>\n",
-      "date_published": "2024-09-09T21:02:43.000Z",
-      "date_modified": "2024-09-09T21:02:43.000Z",
-      "authors": [],
-      "tags": [
-        "Importación"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.4.2",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.2.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.2.html",
-      "summary": "Fecha de Liberación: 2024-09-04 Novedades Adempiere Base Se remueve validacion por cantidad No Reservada en callout de Orden de Venta. Se Corrige NPE en Ventana de Selección de Cuenta Contable.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-09-04</p>\n<h2> Novedades</h2>\n<h3> Adempiere Base</h3>\n<ul>\n<li>\n<p>Se remueve validacion por cantidad <code>No Reservada</code> en callout de Orden de Venta.</p>\n</li>\n<li>\n<p>Se Corrige <code>NPE</code> en Ventana de Selección de Cuenta Contable.</p>\n</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>ADempiere Base</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Callout</li>\n<li>Bugfix</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.2\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.4.2</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/75\" target=\"_blank\" rel=\"noopener noreferrer\">NullPointerException on Accounting Selection #75</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
-      "date_published": "2024-09-09T21:02:43.000Z",
-      "date_modified": "2024-09-09T21:02:43.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-2.4.3",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.3.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-2.x.x/erpya-3.9.4-001-2.4.x/erpya-3.9.4-001-2.4.3.html",
-      "summary": "Fecha de Liberación: 2024-09-09 Novedades Compras Se corrige error con validación de lista de precios al agregar una orden de compras con al menos una linea que no se encuentra en la lista de precios. Imagen 1",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2024-09-09</p>\n<h2> Novedades</h2>\n<h3> Compras</h3>\n<ul>\n<li>Se corrige error con validación de lista de precios al agregar una orden de compras con al menos una linea que no se encuentra en la lista de precios.</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.4.3-img1.png\" alt=\"Imagen 1\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 1</figcaption></figure>\n<h3> Solicitud para Cotización</h3>\n<ul>\n<li>Se corrige referencia de orden de compra en requisiciones generadas desde <strong>Solicitud para Cotizacion</strong>.</li>\n</ul>\n<h3> Selección de Pago</h3>\n<ul>\n<li>Se corrige <strong>Generación de Selección de pagos</strong> con mas de una <strong>Orden de Compra</strong> a un mismo socio del negocio</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.4.3-1.gif\" alt=\"Imagen 2\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 2</figcaption></figure>\n<ul>\n<li>Se corrige <strong>Generación de Pagos</strong> de una selección de pagos con el mismo socio de negocio y mismo cargo en varias lineas.</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-2.4.3-2.gif\" alt=\"Imagen 3\" tabindex=\"0\" loading=\"lazy\"><figcaption>Imagen 3</figcaption></figure>\n<h2> Contexto</h2>\n<ul>\n<li>Compras</li>\n<li>Solicitud para Cotización</li>\n<li>Selección de Pago</li>\n</ul>\n<h2> Detalle Técnico</h2>\n<ul>\n<li>Bugfix</li>\n<li>Generación de Pagos</li>\n</ul>\n<h2> Enlaces relacionados</h2>\n<ul>\n<li>\n<p><a href=\"https://github.com/erpya/adempiere_patch_zk/releases/tag/2.4.3\" target=\"_blank\" rel=\"noopener noreferrer\">ERPYA v2.4.3</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-ERPYA/issues/1014\" target=\"_blank\" rel=\"noopener noreferrer\">Error: Validación de Lista de Precio en Orden de Compra #1014</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/Control-NATULAC/issues/51\" target=\"_blank\" rel=\"noopener noreferrer\">Orden de Compra desde Solicitud de Cotización (Creada desde Requisición) No se lleva el Centro de Costos #51</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/76\" target=\"_blank\" rel=\"noopener noreferrer\">Payment Selection Purchase Order #76</a></p>\n</li>\n<li>\n<p><a href=\"https://github.com/erpcya/adempiere/issues/77\" target=\"_blank\" rel=\"noopener noreferrer\">Payment Selection with the same Charge an Business Patner #77</a></p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-2.4.3-img1.png",
-      "date_published": "2024-09-09T21:02:43.000Z",
-      "date_modified": "2024-09-09T21:02:43.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "Importaciones de Saldo de Nómina",
-      "url": "https://docs-md.erpya.com/docs/data-importation/payroll-importation/",
-      "id": "https://docs-md.erpya.com/docs/data-importation/payroll-importation/",
-      "summary": "Acumulado de Utilidades Anticipo de Prestaciones Sociales Días Anticipo de Vacaciones Días Totales de la Nómina Fecha de Utilidades Anteriores Fecha de Vacaciones Anteriores Provisión Antigüedad de Prestaciones Provisión Antigüedad de Prestaciones Provisión Garantía de Prestaciones Provisión Intereses Antigüedad de Prestaciones Provisión Intereses Garantía de Prestaciones Salario Integral Salario Normal Salario Normal Mensual",
-      "content_html": "<ul>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/accumulated-profits/\" target=\"blank\">Acumulado de Utilidades</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/advance-of-social-benefits/\" target=\"blank\">Anticipo de Prestaciones Sociales</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/advance-vacation-days/\" target=\"blank\">Días Anticipo de Vacaciones</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/total-payroll-days/\" target=\"blank\">Días Totales de la Nómina</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/previous-earnings-date/\" target=\"blank\">Fecha de Utilidades Anteriores</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/previous-vacation-date/\" target=\"blank\">Fecha de Vacaciones Anteriores</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/provision-for-seniority-benefits/\" target=\"blank\">Provisión Antigüedad de Prestaciones</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/provision-for-seniority-benefits/\" target=\"blank\">Provisión Antigüedad de Prestaciones</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/provision-of-benefit-guarantee/\" target=\"blank\">Provisión Garantía de Prestaciones</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/provision-interest-seniority-of-benefits/\" target=\"blank\">Provisión Intereses Antigüedad de Prestaciones</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/provision-for-interest-guaranteed-benefits/\" target=\"blank\">Provisión Intereses Garantía de Prestaciones</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/comprehensive-salary/\" target=\"blank\">Salario Integral</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/normal-salary/\" target=\"blank\">Salario Normal</a></p>\n</li>\n<li>\n<p><a href=\"/docs/data-importation/payroll-importation/normal-monthly-salary/\" target=\"blank\">Salario Normal Mensual</a></p>\n</li>\n</ul>\n<hr>\n<h2> Packout</h2>\n<p>El packout con los formatos de importación se puede <a href=\"/assets/img/docs/data-importation/payroll/HR_S_Saldo_de_Nomina.zip\">descargar aquí</a></p>\n",
-      "date_published": "2024-09-09T15:56:48.000Z",
-      "date_modified": "2024-09-09T15:56:48.000Z",
       "authors": [],
       "tags": [
         "Importación"
