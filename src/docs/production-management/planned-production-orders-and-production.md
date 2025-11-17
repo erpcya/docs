@@ -61,7 +61,7 @@ Imagen 5. Parámetros del Proceso Generar Ordenes de Producción desde LDM (Brow
 
 **NOTA:**
 
-    El proceso te permite mandar a generar producir los semielaborados ya sea que tengan existencia o no. 
+  El proceso te permite mandar a generar producir los semielaborados ya sea que tengan existencia o no. 
 
 Cuando se selecciona la opción **Comenzar Búsqueda** en el proceso **Generar Ordenes de Producción desde LDM (Browser)**, se muestran todas las listas de materiales asociados a los productos subproductos o semielaborados que se encuentran incluidos dentro de la lista de materiales del producto terminado previamente seleccionado en la orden de producción.
 
@@ -73,7 +73,7 @@ Para el ejemplo se selecciona el producto **SM1200002_SM CREMA DE MANZANA** con 
 
 Imagen 6. Líneas del Proceso Generar Ordenes de Producción desde LDM (Browser)
 
-**Ejemplo de Orden de Producción Planeada (Subproducto o Semielaborado**
+**Ejemplo de Orden de Producción Planeada (Subproducto o Semielaborado)**
 
 La ejecución del proceso anterior genera las ordenes de producción planeadas de los subproductos o semielaborados. Para el ejemplo fue generada la orden de producción planeada (subproducto o semielaborado) **OPP-3239.10.SM1200002** con dicho producto, asociada a dicha lista de materiales. 
 
@@ -115,7 +115,7 @@ Imagen 10. Surtir Orden de Producción con Orden de Distribución
 
   Al ejecutar el proceso se genera el registro asociado a la orden de producción, por lo que se puede visualizar desde el acercador de la orden de producción.
 
-### Reportar Producciones de Subproductos o Semielaborados**
+### Reportar Producciones de Subproductos o Semielaborados
 
 **Consideraciones** 
 
