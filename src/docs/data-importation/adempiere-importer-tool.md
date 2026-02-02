@@ -105,14 +105,19 @@ CLI-002,Tecnología Global C.A.,Grandes Clientes,Venezuela,Y,Y
 
 ## ¿Cómo se usa en el Sistema?
 
-1.  **Preparar el Archivo**: Crea tu archivo CSV o Excel (guardado como CSV/TSV) siguiendo la sintaxis explicada.
-2.  **Proceso de Importación**:
-    *   Navega a la ventana de proceso **"Importar Archivo"** (o el nombre asignado en tu instancia).
-    *   Referencia el **Tab (Pestaña)** destino donde quieres cargar los datos (Ej: *Socio de Negocio*).
+1.  **Configuración (Plantilla de Importación)**:
+    *   Ingresa a la ventana **Plantilla de Importación**.
+    *   Crea un nuevo registro para definir tu carga.
+    *   En el campo **Cabecera CSV**, debes colocar los nombres de las columnas tal cual vendrán en tu archivo (separados por coma).
+        *   *Nota: Esto es útil si quieres validar la estructura o si el archivo no trae cabeceras, aunque la herramienta puede detectar las cabeceras automáticamente del archivo si se deja en blanco.*
+2.  **Preparar el Archivo**: Crea tu archivo CSV o Excel (guardado como CSV/TSV) siguiendo la sintaxis explicada.
+3.  **Ejecutar el Proceso**:
+    *   Navega a la ventana de proceso correspondiente (generalmente lanzada desde la misma Plantilla o un botón asignado).
+    *   Selecciona tu registro de **Plantilla de Importación**.
     *   Selecciona tu archivo.
     *   Selecciona el modo: **Insertar** (para nuevos) o **Actualizar** (para modificar existentes).
-3.  **Ejecutar**: El sistema procesará línea por línea.
-    *   Si hay errores (ej: no encuentra el Grupo "Clientes Standard"), el proceso se detendrá o reportará el error, asegurando la integridad de los datos.
+4.  **Resultado**: El sistema procesará línea por línea.
+    *   Si hay errores (ej: no encuentra el Grupo "Clientes Standard"), el proceso se detendrá o reportará el error.
 
 ## Recomendaciones Finales
 
