@@ -7,7 +7,7 @@ export const enNavbarConfig = navbar([
     icon: "id-card-clip",
     prefix: "/about/",
     children: [
-      { text: "Acerca de", icon: "user", link: "", activeMatch: "^/about/$" },      
+      { text: "Acerca de", icon: "user", link: "", activeMatch: "^/about/$" },
       {
         text: "Noticias",
         prefix: "news/",
@@ -38,7 +38,7 @@ export const enNavbarConfig = navbar([
     icon: "box",
     prefix: "/product/",
     children: [
-      { text: "Producto", link: "", icon: "box", activeMatch: "^/product/$" },      
+      { text: "Producto", link: "", icon: "box", activeMatch: "^/product/$" },
       {
         text: "Tecnología",
         children: [
@@ -94,6 +94,7 @@ export const enNavbarConfig = navbar([
       {
         text: "Importación",
         children: [
+          "data-importation/adempiere-importer-tool",
           "data-importation/"
         ],
       },
@@ -175,7 +176,7 @@ export const enNavbarConfig = navbar([
         children: [
           "updates/",
           "updates/adempiere-3.9.4",
-          "updates/rs-5.x", 
+          "updates/rs-5.x",
           "updates/rs-4.x",
           "updates/rs-3.x",
           "updates/rs-2.x",
