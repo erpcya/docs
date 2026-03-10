@@ -72,6 +72,44 @@ Puedes usar palabras clave especiales para fechas, lo cual es muy útil para cam
 | `now` | Fecha y hora actual del sistema. |
 | `today` | Fecha actual (sin hora). |
 
+### 5. Tablas Relacionadas (hijas) con `>`
+
+También puedes trabajar con tablas relacionadas sin cambiar el diccionario (ventanas/pestañas).
+
+- **Idea básica**: en el encabezado, encadenas tablas con `>` hasta llegar a la columna final.
+- El proceso resolverá las dependencias y creará/actualizará los registros en el orden correcto.
+
+**Ejemplos de paths**:
+
+- `C_BPartner_Location>Name` → Columna `Name` de la tabla `C_BPartner_Location`.
+- `C_BPartner_Location>C_Location>Address1` → Columna `Address1` en la tabla `C_Location`, enlazada a `C_BPartner_Location`.
+- `C_BPartner_Location>C_BPartner_ID[Value]` → El `C_BPartner_ID` se resuelve buscando el socio por su `Value`.
+
+La herramienta es recursiva:
+
+- Si encuentra una tabla hija que depende de otra por columna `_ID`, primero crea la dependencia.
+- Luego asigna el ID en la tabla que lo referencia.
+
+### 6. Modo "Tabla raíz desde el encabezado"
+
+Cuando seleccionas una ventana/pestaña en la **Plantilla de Importación**, normalmente esa pestaña define la tabla "raíz" (por ejemplo, `C_BPartner`).
+
+Sin embargo, hay casos donde quieres **usar esa pestaña solo como “contexto”** y realmente insertar en una tabla hija (por ejemplo, solo direcciones).
+
+El proceso soporta esto:
+
+- Si en la tabla raíz (ej. `C_BPartner`) **no hay ninguna columna marcada con `/K`** en el encabezado.
+- Y **sí hay columnas que apuntan a tablas hijas** (`C_BPartner_Location`, `C_Location`, etc.).
+- Entonces la herramienta:
+  - **No inserta ni actualiza registros en la tabla raíz**.
+  - Trata a las tablas hijas como “raíz lógica” y crea/actualiza ahí.
+
+Esto permite, por ejemplo:
+
+- Ventana: **Socio de Negocios**.
+- Pestaña: la pestaña normal de `C_BPartner`.
+- Archivo: solo define campos de `C_BPartner_Location` y `C_Location`, usando el socio (`C_BPartner_ID[Value]`) como lookup.
+
 ## Ejemplo Real: Creando un Socio de Negocio
 
 Vamos a crear un archivo CSV para importar un nuevo **Socio de Negocio (Cliente)**.
@@ -103,6 +141,46 @@ CLI-002,Tecnología Global C.A.,Grandes Clientes,Venezuela,Y,Y
     *   Tomará el ID de ese registro y lo guardará en `C_BP_Group_ID`.
 4.  **`C_Country_ID[Name]`**: similar al anterior, busca el país "Venezuela" en la tabla `C_Country`.
 
+## Ejemplo: Importar solo direcciones de un Socio de Negocio
+
+Escenario típico:
+
+- Ya existen los socios de negocio (clientes) en `C_BPartner`.
+- Quieres cargar **solo nuevas direcciones** (`C_BPartner_Location` + `C_Location`) sin tocar la cabecera del socio.
+- Sigues usando la ventana **Socio de Negocios** y la pestaña principal de `C_BPartner`.
+
+### Encabezado de ejemplo (CSV)
+
+```csv
+Value,C_BPartner_Location>C_BPartner_ID[Value],C_BPartner_Location>Name/K,C_BPartner_Location>C_Location>Address1,C_BPartner_Location>C_Location>City,C_BPartner_Location>C_Location>C_Country_ID[Name],C_BPartner_Location>IsShipTo,C_BPartner_Location>IsBillTo
+```
+
+Explicación rápida:
+
+- `Value`: código del socio (no lleva `/K` a nivel raíz).
+- `C_BPartner_Location>C_BPartner_ID[Value]`: resuelve el `C_BPartner_ID` buscando por `Value`.
+- `C_BPartner_Location>Name/K`: nombre de la localización y además **llave** para detectar si ya existe esa dirección para ese socio.
+- `C_BPartner_Location>C_Location>Address1`, `...>City`, `...>C_Country_ID[Name]`: datos de la ubicación física.
+- `IsShipTo` / `IsBillTo`: flags de envío y facturación.
+
+### Datos de ejemplo
+
+```csv
+Value,C_BPartner_Location>C_BPartner_ID[Value],C_BPartner_Location>Name/K,C_BPartner_Location>C_Location>Address1,C_BPartner_Location>C_Location>City,C_BPartner_Location>C_Location>C_Country_ID[Name],C_BPartner_Location>IsShipTo,C_BPartner_Location>IsBillTo
+V008117663,V008117663,DIR-TEST-1,CALLE PRUEBA 123,CARACAS,Venezuela,Y,Y
+J403381860,J403381860,DIR-TEST-2,AV. DEMO 456,VALENCIA,Venezuela,Y,N
+```
+
+Qué hace la herramienta:
+
+1. **No inserta ni actualiza `C_BPartner`** (no hay `/K` en la raíz).
+2. Para cada fila:
+   - Busca el socio por `Value` (`V008117663`, `J403381860`).
+   - Crea (o actualiza) el `C_Location` correspondiente.
+   - Crea (o actualiza) la `C_BPartner_Location` enlazada al socio y a la ubicación.
+
+Así puedes trabajar **exactamente como iDempiere** cuando en la ventana seleccionas Socio de Negocios, pero el proceso termina insertando en la pestaña de Localización.
+
 ## ¿Cómo se usa en el Sistema?
 
 1.  **Configuración (Plantilla de Importación)**:
@@ -111,16 +189,47 @@ CLI-002,Tecnología Global C.A.,Grandes Clientes,Venezuela,Y,Y
     *   En el campo **Cabecera CSV**, debes colocar los nombres de las columnas tal cual vendrán en tu archivo (separados por coma).
         *   *Nota: Esto es útil si quieres validar la estructura o si el archivo no trae cabeceras, aunque la herramienta puede detectar las cabeceras automáticamente del archivo si se deja en blanco.*
 2.  **Preparar el Archivo**: Crea tu archivo CSV o Excel (guardado como CSV/TSV) siguiendo la sintaxis explicada.
-3.  **Ejecutar el Proceso**:
+3.  **Formato de Archivo (CSV / TSV)**:
+    - El proceso **detecta automáticamente** el separador usando la primera línea:
+      - Si encuentra `;` → usa `;`.
+      - Si no, si encuentra tabulador (`\t`) → usa tabulador (TSV).
+      - En caso contrario → usa coma `,` (CSV).
+    - El archivo puede ser `.csv` o `.tsv`, lo importante es el contenido.
+4.  **Ejecutar el Proceso**:
     *   Navega a la ventana de proceso correspondiente (generalmente lanzada desde la misma Plantilla o un botón asignado).
     *   Selecciona tu registro de **Plantilla de Importación**.
     *   Selecciona tu archivo.
     *   Selecciona el modo: **Insertar** (para nuevos) o **Actualizar** (para modificar existentes).
-4.  **Resultado**: El sistema procesará línea por línea.
+5.  **Resultado**: El sistema procesará línea por línea.
     *   Si hay errores (ej: no encuentra el Grupo "Clientes Standard"), el proceso se detendrá o reportará el error.
 
 ## Recomendaciones Finales
 
-- **Columnas de Sistema**: No necesitas incluir `AD_Client_ID` ni `AD_Org_ID` a menos que quieras forzar un valor diferente al de tu contexto actual. La herramienta los llena automáticamente.
-- **Auditoría**: Los campos `Created`, `CreatedBy`, `Updated`, `UpdatedBy` son mantenidos automáticamente por el sistema.
-- **Seguridad**: La herramienta valida que las columnas y tablas existan en el diccionario de datos de ADempiere, protegiendo contra inyecciones SQL.
+## Comportamiento de Cliente, Organización y Auditoría
+
+- **AD_Client_ID**:
+  - Si el archivo **no lo trae**, el proceso usa **siempre** el cliente de contexto de la plantilla / sesión.
+  - Solo necesitas incluirlo si quieres forzar un cliente específico.
+
+- **AD_Org_ID**:
+  - Para **registros nuevos (INSERT)**:
+    - Si el archivo **no trae `AD_Org_ID`**, se usará la organización de la sesión (`#AD_Org_ID`, por ejemplo `0` si estás en `*`).
+    - Si el archivo **sí trae `AD_Org_ID`**, se usa exactamente ese valor.
+  - Para **registros existentes (UPDATE)**:
+    - Si el archivo **no trae `AD_Org_ID`**, el proceso **no modifica** la organización del registro.
+    - Si el archivo **sí trae `AD_Org_ID`**, se actualiza a ese valor.
+
+- **Auditoría (`Created`, `CreatedBy`, `Updated`, `UpdatedBy`)**:
+  - No necesitas incluirlos en el archivo.
+  - ADempiere los mantiene automáticamente al hacer `save()`:
+    - Usa el usuario actual de la sesión (`#AD_User_ID`).
+    - Registra la fecha y hora del cambio.
+
+- **Duplicados y `/K`**:
+  - Las columnas marcadas con `/K` se validan para que **no se repitan en el mismo archivo**.
+  - Si una columna **no** tiene `/K`, puede repetirse libremente.
+  - En modo actualización, las columnas `/K` se usan para construir el `WHERE` y encontrar el registro que se debe modificar.
+
+- **Seguridad**:
+  - La herramienta valida que las columnas y tablas existan en el diccionario de datos de ADempiere.
+  - Todos los accesos a base de datos se hacen a través del framework, aplicando las mismas reglas de seguridad que el resto del sistema.
