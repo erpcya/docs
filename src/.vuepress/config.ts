@@ -23,10 +23,17 @@ export default defineUserConfig({
           ...(config.externals as object || {}),
           velocityjs: 'commonjs velocityjs',
           'dustjs-linkedin': 'commonjs dustjs-linkedin',
+          teacup: 'commonjs teacup',
+          pug: 'commonjs pug',
+          ejs: 'commonjs ejs',
+          handlebars: 'commonjs handlebars',
+          slm: 'commonjs slm',
+          hamljs: 'commonjs hamljs',
         };
         return config;
       },
     },
+
   },
 
   alias: {
