@@ -5,19 +5,30 @@ import { path } from "@vuepress/utils";
 
 export default defineUserConfig({
   bundlerConfig: {
+    // Para builds de Vite
     viteOptions: {
       css: {
         preprocessorOptions: {
           scss: {
-            // Silencia Deprecation Warnings de mixed-decls provenientes
-            // de node_modules (vuepress-theme-hope, vuepress-shared)
             quietDeps: true,
             silenceDeprecations: ["mixed-decls"],
           },
         },
       },
     },
+    // Para builds de Webpack (el que falla en GitHub)
+    vuepressWebpackOptions: {
+      configureWebpack: (config) => {
+        config.externals = {
+          ...(config.externals as object || {}),
+          velocityjs: 'commonjs velocityjs',
+          'dustjs-linkedin': 'commonjs dustjs-linkedin',
+        };
+        return config;
+      },
+    },
   },
+
   alias: {
     "@Releases": path.resolve(__dirname, "components/Releases.vue"),
   },
