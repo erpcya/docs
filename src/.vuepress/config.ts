@@ -4,6 +4,20 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { path } from "@vuepress/utils";
 
 export default defineUserConfig({
+  bundlerConfig: {
+    viteOptions: {
+      css: {
+        preprocessorOptions: {
+          scss: {
+            // Silencia Deprecation Warnings de mixed-decls provenientes
+            // de node_modules (vuepress-theme-hope, vuepress-shared)
+            quietDeps: true,
+            silenceDeprecations: ["mixed-decls"],
+          },
+        },
+      },
+    },
+  },
   alias: {
     "@Releases": path.resolve(__dirname, "components/Releases.vue"),
   },
