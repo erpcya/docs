@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[85575],{85575:(e,t,n)=>{n.d(t,{updatePageview:()=>s});const s=async()=>{try{const{pageviewCount:e}=await Promise.resolve().then(n.bind(n,16568));return e({serverURL:"https://<to-be-defined>"})}catch{return void console.error("@waline/client is not installed!")}}}}]);
