@@ -4,41 +4,10 @@ import { searchPlugin } from '@vuepress/plugin-search'
 import { path } from "@vuepress/utils";
 
 export default defineUserConfig({
-  bundlerConfig: {
-    // Para builds de Vite
-    viteOptions: {
-      css: {
-        preprocessorOptions: {
-          scss: {
-            quietDeps: true,
-            silenceDeprecations: ["mixed-decls"],
-          },
-        },
-      },
-    },
-    // Para builds de Webpack (el que falla en GitHub)
-    vuepressWebpackOptions: {
-      configureWebpack: (config) => {
-        config.externals = {
-          ...(config.externals as object || {}),
-          velocityjs: 'commonjs velocityjs',
-          'dustjs-linkedin': 'commonjs dustjs-linkedin',
-          teacup: 'commonjs teacup',
-          pug: 'commonjs pug',
-          ejs: 'commonjs ejs',
-          handlebars: 'commonjs handlebars',
-          slm: 'commonjs slm',
-          hamljs: 'commonjs hamljs',
-        };
-        return config;
-      },
-    },
-
-  },
-
   alias: {
     "@Releases": path.resolve(__dirname, "components/Releases.vue"),
   },
+
   dest: "dist",
 
   head: [

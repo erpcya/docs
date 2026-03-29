@@ -77,12 +77,6 @@ export default hopeTheme({
       imgLazyload: true,
       imgSize: true,
       include: true,
-      katex: true,
-      mark: true,
-      mermaid: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
       stylize: [
         {
           matcher: "Recommended",
@@ -100,8 +94,8 @@ export default hopeTheme({
       sup: true,
       tabs: true,
       vPre: true,
-      vuePlayground: true,
     },
+
 
     pwa: {
       favicon: "/favicon.ico",
