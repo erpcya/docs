@@ -3,11 +3,49 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-04-20T21:05:18.110Z</updated>
+  <updated>2026-04-27T19:35:50.586Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.1.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html"/>
+    <updated>2026-04-27T19:15:35.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-27</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión financiera agrícola y la precisión en la conciliación bancaria para agilizar tu operatividad diaria.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos hemos enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión de nuestras integraciones bancarias, garantizando una experiencia más fluida y sin errores en tus procesos administrativos.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-27</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión financiera agrícola y la precisión en la conciliación bancaria para agilizar tu operatividad diaria.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos hemos enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión de nuestras integraciones bancarias, garantizando una experiencia más fluida y sin errores en tus procesos administrativos.</p>
+<h3> 🌱 Programa de Asistencia al Agricultor</h3>
+<ul>
+<li>Optimizamos los procesos de financiamiento y soporte técnico para brindar una atención más eficiente al campo.</li>
+<li>Reforzamos la precisión en el cálculo de créditos y acuerdos, asegurando que toda tu información financiera sea consistente y confiable.</li>
+</ul>
+<h3> 🧾 Facturación y Cumplimiento Legal</h3>
+<ul>
+<li>Mejoramos las notificaciones de sistema al intentar anular facturas fiscales, ofreciendo mensajes más claros y alineados con tus procesos de negocio.</li>
+</ul>
+<h3> 💳 Gestión de Pagos y Conciliación Bancaria</h3>
+<ul>
+<li>Banco Banplus: Aseguramos la lectura precisa de montos con decimales y optimizamos la carga de movimientos para evitar omisiones o errores por referencias duplicadas.</li>
+<li>Banco Banesco: Ajustamos los formatos de importación para garantizar una compatibilidad total con los estándares bancarios.</li>
+<li>Banesco Panamá: Implementamos flexibilidad en la lectura de archivos, permitiendo manejar diferentes estructuras de columnas sin alterar el funcionamiento habitual de tus operaciones.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-04-27T19:15:33.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-3.4.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.3.html</id>
@@ -3987,39 +4025,6 @@
 <li>Se Agrega referencia a Orden de Producción en Movimiento Generado desde una Orden de Distribucion producto del Proceso Surtir Orden.</li>
 <li>Se Agrega Validador de Modelo para establecer en las lineas de la produccion la instacia de conjuntos de atributos movidos por el proceso de Surtir Orden de Producción.</li>
 </ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-07-18T13:12:10.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.1.2</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.2.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.2.html"/>
-    <updated>2025-07-18T13:12:10.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-06-10</p>
-<h2> Novedades</h2>
-<ul>
-<li>Flujo de Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega proceso para Re-Cargar Producción y Establecer Instancias de Atributos</li>
-</ul>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.1.2-img1.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-06-10</p>
-<h2> Novedades</h2>
-<ul>
-<li>Flujo de Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega proceso para Re-Cargar Producción y Establecer Instancias de Atributos</li>
-</ul>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.1.2-img1.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>

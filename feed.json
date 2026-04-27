@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.1.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html",
+      "summary": "Fecha de Liberación: 2026-04-27 Novedades Optimizamos la gestión financiera agrícola y la precisión en la conciliación bancaria para agilizar tu operatividad diaria. Contexto En esta actualización, nos hemos enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión de nuestras integraciones bancarias, garantizando una experiencia más fluida y sin errores en tus procesos administrativos.",
+      "content_html": "<h1> Fecha de Liberación: 2026-04-27</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la gestión financiera agrícola y la precisión en la conciliación bancaria para agilizar tu operatividad diaria.</p>\n<h2> Contexto</h2>\n<p>En esta actualización, nos hemos enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión de nuestras integraciones bancarias, garantizando una experiencia más fluida y sin errores en tus procesos administrativos.</p>\n<h3> 🌱 Programa de Asistencia al Agricultor</h3>\n<ul>\n<li>Optimizamos los procesos de financiamiento y soporte técnico para brindar una atención más eficiente al campo.</li>\n<li>Reforzamos la precisión en el cálculo de créditos y acuerdos, asegurando que toda tu información financiera sea consistente y confiable.</li>\n</ul>\n<h3> 🧾 Facturación y Cumplimiento Legal</h3>\n<ul>\n<li>Mejoramos las notificaciones de sistema al intentar anular facturas fiscales, ofreciendo mensajes más claros y alineados con tus procesos de negocio.</li>\n</ul>\n<h3> 💳 Gestión de Pagos y Conciliación Bancaria</h3>\n<ul>\n<li>Banco Banplus: Aseguramos la lectura precisa de montos con decimales y optimizamos la carga de movimientos para evitar omisiones o errores por referencias duplicadas.</li>\n<li>Banco Banesco: Ajustamos los formatos de importación para garantizar una compatibilidad total con los estándares bancarios.</li>\n<li>Banesco Panamá: Implementamos flexibilidad en la lectura de archivos, permitiendo manejar diferentes estructuras de columnas sin alterar el funcionamiento habitual de tus operaciones.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-04-27T19:15:33.000Z",
+      "date_modified": "2026-04-27T19:15:35.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-3.4.3",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.3.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.4.x/erpya-3.9.4-001-3.4.3.html",
@@ -1289,20 +1302,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.1.html",
       "summary": "Fecha de Liberación: 2025-06-06 Novedades Adempiere Base y Flujo de Producción. Contexto Se agrega soporte filtrar por ubicacion en Consulta Inteligente Surtir Orden. Se agrega soporte a establecer Instancia de Conjuntos de Atributos en Consulta Inteligente de Surtir Orden. Se Agrega referencia a Orden de Producción en Movimiento Generado desde una Orden de Distribucion producto del Proceso Surtir Orden. Se Agrega Validador de Modelo para establecer en las lineas de la produccion la instacia de conjuntos de atributos movidos por el proceso de Surtir Orden de Producción.",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-06-06</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base y Flujo de Producción.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega soporte filtrar por ubicacion en Consulta Inteligente Surtir Orden.</li>\n<li>Se agrega soporte a establecer Instancia de Conjuntos de Atributos en Consulta Inteligente de Surtir Orden.</li>\n<li>Se Agrega referencia a Orden de Producción en Movimiento Generado desde una Orden de Distribucion producto del Proceso Surtir Orden.</li>\n<li>Se Agrega Validador de Modelo para establecer en las lineas de la produccion la instacia de conjuntos de atributos movidos por el proceso de Surtir Orden de Producción.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-07-18T13:12:10.000Z",
-      "date_modified": "2025-07-18T13:12:10.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.1.2",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.2.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.2.html",
-      "summary": "Fecha de Liberación: 2025-06-10 Novedades Flujo de Producción Contexto Se agrega proceso para Re-Cargar Producción y Establecer Instancias de Atributos Smart Browser",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-06-10</p>\n<h2> Novedades</h2>\n<ul>\n<li>Flujo de Producción</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega proceso para Re-Cargar Producción y Establecer Instancias de Atributos</li>\n</ul>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-3.1.2-img1.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.1.2-img1.png",
       "date_published": "2025-07-18T13:12:10.000Z",
       "date_modified": "2025-07-18T13:12:10.000Z",
       "authors": [],
