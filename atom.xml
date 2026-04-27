@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-04-27T19:39:05.358Z</updated>
+  <updated>2026-04-27T19:40:09.925Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,31 +12,31 @@
     <title type="text">erpya-3.9.4-001-4.1.1</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html"/>
-    <updated>2026-04-27T19:15:33.000Z</updated>
+    <updated>2026-04-27T19:15:42.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-27</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión financiera agrícola, la transparencia en facturación fiscal y la precisión en la conciliación bancaria.</p>
+<p>Optimizamos la gestión financiera, el soporte al campo y la precisión en tus procesos bancarios.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, seguimos evolucionando nuestra plataforma para ofrecerte herramientas más precisas, intuitivas y alineadas con las necesidades operativas de tu empresa.</p>]]></summary>
+<p>En esta actualización, nuestro equipo se ha enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión en la gestión de transacciones financieras y bancarias, garantizando una operación más fluida y sin errores.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-27</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión financiera agrícola, la transparencia en facturación fiscal y la precisión en la conciliación bancaria.</p>
+<p>Optimizamos la gestión financiera, el soporte al campo y la precisión en tus procesos bancarios.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, seguimos evolucionando nuestra plataforma para ofrecerte herramientas más precisas, intuitivas y alineadas con las necesidades operativas de tu empresa.</p>
+<p>En esta actualización, nuestro equipo se ha enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión en la gestión de transacciones financieras y bancarias, garantizando una operación más fluida y sin errores.</p>
 <h3> 🌱 Apoyo al Sector Agrícola</h3>
 <ul>
-<li>Optimizamos los procesos de financiamiento y asistencia técnica para ofrecer un servicio más ágil a los agricultores.</li>
-<li>Reforzamos la exactitud en el registro de acuerdos y créditos, asegurando que toda la información financiera sea consistente y confiable.</li>
+<li>Optimizamos los procesos de financiamiento y asistencia técnica para asegurar que el apoyo llegue de manera más eficiente a los agricultores.</li>
+<li>Reforzamos la precisión en el registro de créditos y acuerdos, garantizando que todos los cálculos financieros sean consistentes y confiables.</li>
 </ul>
-<h3> 🧾 Cumplimiento Fiscal (Venezuela)</h3>
+<h3> 🧾 Facturación y Cumplimiento Legal</h3>
 <ul>
-<li>Hemos clarificado las notificaciones del sistema al intentar anular facturas fiscales ya completadas, facilitando la comprensión de las reglas de negocio y evitando confusiones operativas.</li>
+<li>Hemos simplificado los mensajes de aviso al intentar anular facturas fiscales ya completadas, haciendo que las alertas sean más claras y fáciles de entender para el equipo contable.</li>
 </ul>
-<h3> 💳 Gestión de Pagos y Conciliación Bancaria</h3>
+<h3> 💳 Gestión y Conciliación Bancaria</h3>
 <ul>
-<li>Banplus: Mejoramos la precisión en el manejo de decimales al importar archivos de Excel y optimizamos la carga de movimientos para que ninguna transacción quede fuera, incluso con referencias repetidas.</li>
-<li>Banesco: Restauramos el estándar de importación original para garantizar una compatibilidad total y sin interrupciones en tus procesos habituales.</li>
-<li>Banesco Panamá: Implementamos una estructura flexible que permite procesar diferentes formatos de archivos bancarios de forma simultánea, adaptándonos a la variedad de estructuras de tus extractos.</li>
+<li>Para Banplus: Mejoramos la lectura de archivos de Excel para que los montos se registren con total exactitud, además de optimizar la carga de movimientos para evitar que se pierdan datos o se detenga el proceso por referencias duplicadas.</li>
+<li>Para Banesco: Ajustamos el sistema para mantener la compatibilidad con los formatos estándar, garantizando que la importación de datos sea estable.</li>
+<li>Para Banesco Panamá: Implementamos una estructura flexible que permite procesar diferentes formatos de archivos bancarios sin alterar tu flujo de trabajo habitual.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
