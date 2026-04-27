@@ -12,22 +12,22 @@ article: true
 # Fecha de Liberación: 2026-04-27
 
 ## Novedades
-Optimizamos la gestión financiera agrícola y la precisión en la conciliación bancaria para agilizar tu operatividad diaria.
+Optimizamos la gestión financiera, el soporte al campo y la precisión en tus procesos bancarios.
 
 ## Contexto
-En esta actualización, nos hemos enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión de nuestras integraciones bancarias, garantizando una experiencia más fluida y sin errores en tus procesos administrativos.
+En esta actualización, nuestro equipo se ha enfocado en fortalecer las herramientas de apoyo al sector agrícola y en perfeccionar la precisión en la gestión de transacciones financieras y bancarias, garantizando una operación más fluida y sin errores.
 
-### 🌱 Programa de Asistencia al Agricultor
-- Optimizamos los procesos de financiamiento y soporte técnico para brindar una atención más eficiente al campo.
-- Reforzamos la precisión en el cálculo de créditos y acuerdos, asegurando que toda tu información financiera sea consistente y confiable.
+### 🌱 Apoyo al Sector Agrícola
+- Optimizamos los procesos de financiamiento y asistencia técnica para asegurar que el apoyo llegue de manera más eficiente a los agricultores.
+- Reforzamos la precisión en el registro de créditos y acuerdos, garantizando que todos los cálculos financieros sean consistentes y confiables.
 
 ### 🧾 Facturación y Cumplimiento Legal
-- Mejoramos las notificaciones de sistema al intentar anular facturas fiscales, ofreciendo mensajes más claros y alineados con tus procesos de negocio.
+- Hemos simplificado los mensajes de aviso al intentar anular facturas fiscales ya completadas, haciendo que las alertas sean más claras y fáciles de entender para el equipo contable.
 
-### 💳 Gestión de Pagos y Conciliación Bancaria
-- Banco Banplus: Aseguramos la lectura precisa de montos con decimales y optimizamos la carga de movimientos para evitar omisiones o errores por referencias duplicadas.
-- Banco Banesco: Ajustamos los formatos de importación para garantizar una compatibilidad total con los estándares bancarios.
-- Banesco Panamá: Implementamos flexibilidad en la lectura de archivos, permitiendo manejar diferentes estructuras de columnas sin alterar el funcionamiento habitual de tus operaciones.
+### 💳 Gestión y Conciliación Bancaria
+- Para Banplus: Mejoramos la lectura de archivos de Excel para que los montos se registren con total exactitud, además de optimizar la carga de movimientos para evitar que se pierdan datos o se detenga el proceso por referencias duplicadas.
+- Para Banesco: Ajustamos el sistema para mantener la compatibilidad con los formatos estándar, garantizando que la importación de datos sea estable.
+- Para Banesco Panamá: Implementamos una estructura flexible que permite procesar diferentes formatos de archivos bancarios sin alterar tu flujo de trabajo habitual.
 
 ## Requerimientos
 - Se requieren procesos adicionales por aplicar.
