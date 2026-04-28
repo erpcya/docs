@@ -16,29 +16,27 @@ article: true
 # Fecha de Liberación: 2026-04-28
 
 ## Novedades
-Optimizamos la precisión, seguridad y facilidad de uso en tus procesos de importación de datos y gestión financiera.
+Optimizamos la precisión y seguridad de tu gestión de datos con un importador más inteligente y confiable.
 
 ## Contexto
-En esta actualización, hemos rediseñado nuestras herramientas de carga de información y gestión contable para que tu experiencia sea más fluida, reduciendo errores manuales y garantizando que tus datos estén siempre integrados y protegidos. 
+En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia con ADempiere sea más fluida. Esta actualización se enfoca en hacer que la carga y actualización de información sea un proceso más seguro, inteligente y libre de errores técnicos, permitiéndote concentrarte en lo que realmente importa: tu negocio. 
 
 ![Imagen](/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-1.png)
 
 
 
-### 🚀 Importación Inteligente de Datos
-- Carga de archivos sin esfuerzo: El sistema detecta automáticamente el formato (comas, puntos y comas o tabulaciones) y gestiona correctamente textos con caracteres especiales.
-- Detección de cabeceras: El importador reconoce por sí solo si tu archivo tiene títulos, evitando errores de configuración inicial.
-- Localización precisa de errores: Si algo falla, ahora te indicamos exactamente en qué número de fila está el problema para que lo soluciones al instante.
+### 🔍 Gestión de Datos e Importación
+- Identificación automática de dimensiones contables para que el sistema reconozca correctamente tus categorías de gastos y costos sin errores.
+- Localización precisa de registros relacionados, garantizando que la información se conecte correctamente incluso en estructuras complejas.
+- Validación avanzada que verifica la existencia de datos antes de guardar, evitando interrupciones en tu flujo de trabajo.
+- Optimización en la carga de datos que evita sobrescribir información innecesaria, protegiendo los campos que deben permanecer sin cambios.
 
-### 🛡️ Seguridad y Control de Información
-- Validación proactiva: Antes de procesar cualquier dato, el sistema verifica que clientes, productos y monedas existan realmente en tu catálogo.
-- Actualizaciones inteligentes: El sistema evita reescribir información que ya es correcta, protegiendo campos sensibles y evitando bloqueos innecesarios.
-- Búsquedas optimizadas: Mejoramos la precisión al encontrar registros relacionados, eliminando confusiones por espacios extra o diferencias entre mayúsculas y minúsculas.
+### 🌾 Gestión de Asistencia al Agricultor
+- Mejora en la precisión de los cálculos financieros para las transacciones de crédito, asegurando que tus facturaciones sean exactas y consistentes con la moneda utilizada. 
 
-### 💰 Gestión Financiera y Contable
-- Precisión en dimensiones contables: Automatizamos la vinculación de registros para que tu contabilidad sea siempre exacta y coherente.
-- Soporte para estructuras complejas: Procesamiento mejorado para datos que requieren jerarquías multinivel.
-- Precisión en asistencia al agricultor: Optimizamos el cálculo de monedas en créditos y facturación para asegurar reportes financieros impecables.
+![Imagen](/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-2.png)
+
+
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
