@@ -3,11 +3,40 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-04-28T15:12:15.469Z</updated>
+  <updated>2026-04-28T20:26:09.318Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.1.8</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.8.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.8.html"/>
+    <updated>2026-04-28T20:03:31.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la carga masiva de datos para que sea más rápida, inteligente y libre de errores operativos.</p>
+<h2> Contexto</h2>
+<p>Hemos renovado nuestro motor de importación para que el ingreso de información externa al sistema sea un proceso fluido y sin complicaciones técnicas, permitiendo que el software reconozca automáticamente las relaciones entre sus datos.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la carga masiva de datos para que sea más rápida, inteligente y libre de errores operativos.</p>
+<h2> Contexto</h2>
+<p>Hemos renovado nuestro motor de importación para que el ingreso de información externa al sistema sea un proceso fluido y sin complicaciones técnicas, permitiendo que el software reconozca automáticamente las relaciones entre sus datos.</p>
+<h3> 🚀 Gestión de Datos y Carga Masiva</h3>
+<ul>
+<li>El sistema ahora identifica automáticamente a qué categoría pertenece cada dato, facilitando la carga de dimensiones contables y otros campos complejos sin intervención manual.</li>
+<li>Se ha implementado un mecanismo de seguridad que verifica la coherencia de la información antes de procesarla, evitando errores de configuración y duplicidad de archivos.</li>
+<li>La herramienta ahora es capaz de reconocer el destino correcto de cada registro, asegurando que la información se aloje en el lugar preciso del sistema desde el primer intento.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-04-28T20:03:31.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.1.7</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html</id>
@@ -3987,41 +4016,6 @@
 <h3> Notas</h3>
 <ul>
 <li>Esto tiene la intención de ser utilizado posteriormente en el proyecto LVE para el control de Notas de Entrega</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-07-18T13:12:10.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.1.0</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.0.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.0.html"/>
-    <updated>2025-07-18T13:12:10.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-23</p>
-<h2> Novedades</h2>
-<ul>
-<li>ADempiere Base</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrigió un problema en el proceso <em>Imprimir Facturas</em> para asegurar que el nombre del socio se obtenga correctamente del contexto al generar el asunto del correo.</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-23</p>
-<h2> Novedades</h2>
-<ul>
-<li>ADempiere Base</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrigió un problema en el proceso <em>Imprimir Facturas</em> para asegurar que el nombre del socio se obtenga correctamente del contexto al generar el asunto del correo.</li>
-</ul>
-<h2> Enlaces relacionados</h2>
-<ul>
-<li><a href="https://discord.com/channels/882964599874420796/1355193377049546996" target="_blank" rel="noopener noreferrer">Discord</a></li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
