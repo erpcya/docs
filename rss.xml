@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 28 Apr 2026 20:26:09 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 20:26:09 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 20:31:47 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 20:31:47 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,19 +16,19 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.8.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.8.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.1.8</source>
-      <description>Fecha de Liberación: 2026-04-28 Novedades Optimizamos la carga masiva de datos para que sea más rápida, inteligente y libre de errores operativos. Contexto Hemos renovado nuestro motor de importación para que el ingreso de información externa al sistema sea un proceso fluido y sin complicaciones técnicas, permitiendo que el software reconozca automáticamente las relaciones entre sus datos.</description>
+      <description>Fecha de Liberación: 2026-04-28 Novedades Optimizamos la importación de datos para que sea más rápida, inteligente y libre de errores operativos. Contexto Hemos renovado el motor de carga de información del sistema. Esta actualización permite que el software reconozca automáticamente la procedencia y el destino de tus datos, eliminando la necesidad de configuraciones manuales complejas y reduciendo el tiempo dedicado a la limpieza de archivos.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 28 Apr 2026 20:03:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la carga masiva de datos para que sea más rápida, inteligente y libre de errores operativos.</p>
+<p>Optimizamos la importación de datos para que sea más rápida, inteligente y libre de errores operativos.</p>
 <h2> Contexto</h2>
-<p>Hemos renovado nuestro motor de importación para que el ingreso de información externa al sistema sea un proceso fluido y sin complicaciones técnicas, permitiendo que el software reconozca automáticamente las relaciones entre sus datos.</p>
+<p>Hemos renovado el motor de carga de información del sistema. Esta actualización permite que el software reconozca automáticamente la procedencia y el destino de tus datos, eliminando la necesidad de configuraciones manuales complejas y reduciendo el tiempo dedicado a la limpieza de archivos.</p>
 <h3> 🚀 Gestión de Datos y Carga Masiva</h3>
 <ul>
-<li>El sistema ahora identifica automáticamente a qué categoría pertenece cada dato, facilitando la carga de dimensiones contables y otros campos complejos sin intervención manual.</li>
-<li>Se ha implementado un mecanismo de seguridad que verifica la coherencia de la información antes de procesarla, evitando errores de configuración y duplicidad de archivos.</li>
-<li>La herramienta ahora es capaz de reconocer el destino correcto de cada registro, asegurando que la información se aloje en el lugar preciso del sistema desde el primer intento.</li>
+<li>El sistema ahora identifica automáticamente a qué área de negocio pertenece cada dato, facilitando la carga de dimensiones contables y presupuestarias sin configuraciones adicionales.</li>
+<li>Se implementó un mecanismo de búsqueda avanzada que localiza registros maestros con mayor precisión, asegurando que la información se vincule correctamente desde el primer intento.</li>
+<li>El proceso de importación ahora realiza una verificación previa para confirmar que los destinos de la información existen, evitando interrupciones y errores técnicos durante la carga de archivos.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
