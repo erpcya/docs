@@ -6,11 +6,29 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Mon, 27 Apr 2026 19:42:10 GMT</pubDate>
-    <lastBuildDate>Mon, 27 Apr 2026 19:42:10 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 15:00:38 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 15:00:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.1.7</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.1.7</source>
+      <description>Fecha de Liberación: 2026-04-28 Novedades Actualización de sistema erpya-3.9.4-001-4.1.7 Contexto Requerimientos No se requieren procesos adicionales por aplicar.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 28 Apr 2026 14:38:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
+<h2> Novedades</h2>
+<p>Actualización de sistema erpya-3.9.4-001-4.1.7</p>
+<h2> Contexto</h2>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.1.1</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.1.html</link>
@@ -2975,32 +2993,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.1.1</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.1.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.1.x/erpya-3.9.4-001-3.1.1.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.1.1</source>
-      <description>Fecha de Liberación: 2025-06-06 Novedades Adempiere Base y Flujo de Producción. Contexto Se agrega soporte filtrar por ubicacion en Consulta Inteligente Surtir Orden. Se agrega soporte a establecer Instancia de Conjuntos de Atributos en Consulta Inteligente de Surtir Orden. Se Agrega referencia a Orden de Producción en Movimiento Generado desde una Orden de Distribucion producto del Proceso Surtir Orden. Se Agrega Validador de Modelo para establecer en las lineas de la produccion la instacia de conjuntos de atributos movidos por el proceso de Surtir Orden de Producción.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Fri, 18 Jul 2025 13:12:10 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-06-06</p>
-<h2> Novedades</h2>
-<ul>
-<li>Adempiere Base y Flujo de Producción.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte filtrar por ubicacion en Consulta Inteligente Surtir Orden.</li>
-<li>Se agrega soporte a establecer Instancia de Conjuntos de Atributos en Consulta Inteligente de Surtir Orden.</li>
-<li>Se Agrega referencia a Orden de Producción en Movimiento Generado desde una Orden de Distribucion producto del Proceso Surtir Orden.</li>
-<li>Se Agrega Validador de Modelo para establecer en las lineas de la produccion la instacia de conjuntos de atributos movidos por el proceso de Surtir Orden de Producción.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
     </item>
