@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-04-28T15:05:50.305Z</updated>
+  <updated>2026-04-28T15:08:45.830Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,35 +12,36 @@
     <title type="text">erpya-3.9.4-001-4.1.7</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html"/>
-    <updated>2026-04-28T14:41:37.000Z</updated>
+    <updated>2026-04-28T14:45:43.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
 <h2> Novedades</h2>
-<p>Potenciamos la eficiencia y seguridad en la importación de datos y la precisión financiera en el sector agrícola.</p>
+<p>Optimizamos la precisión, seguridad y facilidad de uso en tus procesos de importación de datos y gestión financiera.</p>
 <h2> Contexto</h2>
-<p>Presentamos las nuevas actualizaciones de nuestro sistema, diseñadas para optimizar la carga masiva de información y fortalecer la integridad de sus registros. Con estas mejoras, el proceso de gestión de datos se vuelve más intuitivo, reduciendo errores manuales y acelerando la toma de decisiones.</p>]]></summary>
+<p>En esta actualización, hemos rediseñado nuestras herramientas de carga de información y gestión contable para que tu experiencia sea más fluida, reduciendo errores manuales y garantizando que tus datos estén siempre integrados y protegidos.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
 <h2> Novedades</h2>
-<p>Potenciamos la eficiencia y seguridad en la importación de datos y la precisión financiera en el sector agrícola.</p>
+<p>Optimizamos la precisión, seguridad y facilidad de uso en tus procesos de importación de datos y gestión financiera.</p>
 <h2> Contexto</h2>
-<p>Presentamos las nuevas actualizaciones de nuestro sistema, diseñadas para optimizar la carga masiva de información y fortalecer la integridad de sus registros. Con estas mejoras, el proceso de gestión de datos se vuelve más intuitivo, reduciendo errores manuales y acelerando la toma de decisiones.</p>
-<h3> 🚀 Importación de Datos Inteligente</h3>
-<ul>
-<li>Carga automática: El sistema detecta por sí solo el formato de su archivo (comas, puntos y comas o tabuladores), eliminando configuraciones técnicas innecesarias.</li>
-<li>Detección de cabeceras: El importador reconoce automáticamente si su archivo incluye títulos, comparándolos con sus plantillas para evitar errores de mapeo.</li>
-<li>Resolución de errores precisa: Ante cualquier inconsistencia, el sistema le indicará exactamente la fila y el detalle del error, permitiendo una corrección rápida y directa.</li>
-<li>Manejo avanzado de archivos: Mayor compatibilidad con caracteres especiales y comillas en sus textos para una importación sin interrupciones.</li>
-</ul>
-<h3> 🛡️ Seguridad e Integridad de Información</h3>
-<ul>
-<li>Validación preventiva: Antes de guardar cualquier dato, el sistema verifica que todos los clientes, productos y monedas existan correctamente, asegurando la calidad de su información.</li>
-<li>Optimización de actualizaciones: El sistema ahora es más inteligente al identificar cambios reales, evitando bloqueos en campos protegidos y optimizando los tiempos de procesamiento.</li>
-<li>Búsquedas precisas: Se ha mejorado la localización de registros relacionados, ignorando variaciones menores como mayúsculas o espacios extra, garantizando que sus datos siempre se vinculen correctamente.</li>
-</ul>
-<h3> 🌾 Gestión Financiera para el Agricultor</h3>
-<ul>
-<li>Precisión en transacciones: Optimizamos el manejo de monedas en los créditos de agricultores, asegurando que todos los cálculos financieros y facturaciones sean exactos y coherentes.</li>
-</ul>
+<p>En esta actualización, hemos rediseñado nuestras herramientas de carga de información y gestión contable para que tu experiencia sea más fluida, reduciendo errores manuales y garantizando que tus datos estén siempre integrados y protegidos.</p>
 <figure><img src="/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-1.png" alt="Imagen" tabindex="0" loading="lazy"><figcaption>Imagen</figcaption></figure>
+<h3> 🚀 Importación Inteligente de Datos</h3>
+<ul>
+<li>Carga de archivos sin esfuerzo: El sistema detecta automáticamente el formato (comas, puntos y comas o tabulaciones) y gestiona correctamente textos con caracteres especiales.</li>
+<li>Detección de cabeceras: El importador reconoce por sí solo si tu archivo tiene títulos, evitando errores de configuración inicial.</li>
+<li>Localización precisa de errores: Si algo falla, ahora te indicamos exactamente en qué número de fila está el problema para que lo soluciones al instante.</li>
+</ul>
+<h3> 🛡️ Seguridad y Control de Información</h3>
+<ul>
+<li>Validación proactiva: Antes de procesar cualquier dato, el sistema verifica que clientes, productos y monedas existan realmente en tu catálogo.</li>
+<li>Actualizaciones inteligentes: El sistema evita reescribir información que ya es correcta, protegiendo campos sensibles y evitando bloqueos innecesarios.</li>
+<li>Búsquedas optimizadas: Mejoramos la precisión al encontrar registros relacionados, eliminando confusiones por espacios extra o diferencias entre mayúsculas y minúsculas.</li>
+</ul>
+<h3> 💰 Gestión Financiera y Contable</h3>
+<ul>
+<li>Precisión en dimensiones contables: Automatizamos la vinculación de registros para que tu contabilidad sea siempre exacta y coherente.</li>
+<li>Soporte para estructuras complejas: Procesamiento mejorado para datos que requieren jerarquías multinivel.</li>
+<li>Precisión en asistencia al agricultor: Optimizamos el cálculo de monedas en créditos y facturación para asegurar reportes financieros impecables.</li>
+</ul>
 <h2> Requerimientos</h2>
 <ul>
 <li>No se requieren procesos adicionales por aplicar.</li>
