@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 28 Apr 2026 15:02:13 GMT</pubDate>
-    <lastBuildDate>Tue, 28 Apr 2026 15:02:13 GMT</lastBuildDate>
+    <pubDate>Tue, 28 Apr 2026 15:05:50 GMT</pubDate>
+    <lastBuildDate>Tue, 28 Apr 2026 15:05:50 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,33 +16,32 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.7.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.1.7</source>
-      <description>Fecha de Liberación: 2026-04-28 Novedades Potenciamos la eficiencia, seguridad y precisión en la carga de datos masivos y la gestión financiera agrícola. Contexto Presentamos nuestra más reciente actualización diseñada para simplificar el trabajo diario. Hemos optimizado las herramientas de importación de información y ajustado procesos críticos para que la gestión de datos sea más intuitiva, reduciendo errores y ahorrando tiempo operativo al equipo.</description>
+      <description>Fecha de Liberación: 2026-04-28 Novedades Potenciamos la eficiencia y seguridad en la importación de datos y la precisión financiera en el sector agrícola. Contexto Presentamos las nuevas actualizaciones de nuestro sistema, diseñadas para optimizar la carga masiva de información y fortalecer la integridad de sus registros. Con estas mejoras, el proceso de gestión de datos se vuelve más intuitivo, reduciendo errores manuales y acelerando la toma de decisiones.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 28 Apr 2026 14:38:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-04-28</h1>
 <h2> Novedades</h2>
-<p>Potenciamos la eficiencia, seguridad y precisión en la carga de datos masivos y la gestión financiera agrícola.</p>
+<p>Potenciamos la eficiencia y seguridad en la importación de datos y la precisión financiera en el sector agrícola.</p>
 <h2> Contexto</h2>
-<p>Presentamos nuestra más reciente actualización diseñada para simplificar el trabajo diario. Hemos optimizado las herramientas de importación de información y ajustado procesos críticos para que la gestión de datos sea más intuitiva, reduciendo errores y ahorrando tiempo operativo al equipo.</p>
-<figure><img src="/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-1.png" alt="Imagen" tabindex="0" loading="lazy"><figcaption>Imagen</figcaption></figure>
-<h3> 🚀 Importación y Carga de Datos</h3>
+<p>Presentamos las nuevas actualizaciones de nuestro sistema, diseñadas para optimizar la carga masiva de información y fortalecer la integridad de sus registros. Con estas mejoras, el proceso de gestión de datos se vuelve más intuitivo, reduciendo errores manuales y acelerando la toma de decisiones.</p>
+<h3> 🚀 Importación de Datos Inteligente</h3>
 <ul>
-<li>Detección inteligente de archivos: El sistema reconoce automáticamente el formato de tus documentos (comas, puntos y comas o tabuladores), eliminando configuraciones manuales.</li>
-<li>Identificación de cabeceras: El importador ahora detecta por sí solo si tu archivo contiene títulos, evitando confusiones y errores de formato.</li>
-<li>Manejo avanzado de texto: Mayor soporte para caracteres especiales y comillas, garantizando que la información se cargue tal cual la necesitas.</li>
-<li>Reportes de error precisos: Si algo falla, el sistema te indica exactamente en qué fila se encuentra el problema para una corrección rápida y sencilla.</li>
+<li>Carga automática: El sistema detecta por sí solo el formato de su archivo (comas, puntos y comas o tabuladores), eliminando configuraciones técnicas innecesarias.</li>
+<li>Detección de cabeceras: El importador reconoce automáticamente si su archivo incluye títulos, comparándolos con sus plantillas para evitar errores de mapeo.</li>
+<li>Resolución de errores precisa: Ante cualquier inconsistencia, el sistema le indicará exactamente la fila y el detalle del error, permitiendo una corrección rápida y directa.</li>
+<li>Manejo avanzado de archivos: Mayor compatibilidad con caracteres especiales y comillas en sus textos para una importación sin interrupciones.</li>
 </ul>
-<h3> 🔍 Seguridad e Integridad de la Información</h3>
+<h3> 🛡️ Seguridad e Integridad de Información</h3>
 <ul>
-<li>Validación proactiva: Antes de procesar cualquier cambio, el sistema verifica que todos los clientes, productos y monedas sean válidos y existan en el sistema.</li>
-<li>Búsquedas más inteligentes: El motor de búsqueda ahora es más preciso, ignorando espacios en blanco o variaciones entre mayúsculas y minúsculas para encontrar siempre el registro correcto.</li>
-<li>Actualización inteligente: El sistema detecta si un dato ya es correcto antes de intentar guardarlo, evitando bloqueos innecesarios en campos protegidos.</li>
+<li>Validación preventiva: Antes de guardar cualquier dato, el sistema verifica que todos los clientes, productos y monedas existan correctamente, asegurando la calidad de su información.</li>
+<li>Optimización de actualizaciones: El sistema ahora es más inteligente al identificar cambios reales, evitando bloqueos en campos protegidos y optimizando los tiempos de procesamiento.</li>
+<li>Búsquedas precisas: Se ha mejorado la localización de registros relacionados, ignorando variaciones menores como mayúsculas o espacios extra, garantizando que sus datos siempre se vinculen correctamente.</li>
 </ul>
-<figure><img src="/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-2.png" alt="Imagen" tabindex="0" loading="lazy"><figcaption>Imagen</figcaption></figure>
 <h3> 🌾 Gestión Financiera para el Agricultor</h3>
 <ul>
-<li>Precisión en transacciones: Optimizamos el manejo de monedas en los créditos agrícolas para asegurar que todos los cálculos financieros y facturaciones sean exactos y coherentes.</li>
+<li>Precisión en transacciones: Optimizamos el manejo de monedas en los créditos de agricultores, asegurando que todos los cálculos financieros y facturaciones sean exactos y coherentes.</li>
 </ul>
+<figure><img src="/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-1.png" alt="Imagen" tabindex="0" loading="lazy"><figcaption>Imagen</figcaption></figure>
 <h2> Requerimientos</h2>
 <ul>
 <li>No se requieren procesos adicionales por aplicar.</li>
