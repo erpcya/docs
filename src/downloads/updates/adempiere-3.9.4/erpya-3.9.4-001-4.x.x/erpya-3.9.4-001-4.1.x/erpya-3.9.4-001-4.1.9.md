@@ -16,20 +16,20 @@ article: true
 # Fecha de Liberación: 2026-04-29
 
 ## Novedades
-Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil y precisa.
+Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil, precisa y libre de errores.
 
 ## Contexto
-Hemos actualizado nuestras herramientas de importación y gestión de inventarios para que el trabajo administrativo sea más fluido, seguro y fácil de entender, eliminando procesos manuales y errores en la carga de información.
+En esta actualización, nos hemos enfocado en simplificar la carga de información externa y fortalecer la precisión en el seguimiento de sus operaciones logísticas, garantizando que cada registro procesado cumpla con los más altos estándares de calidad.
 
-### 🚀 Importación Inteligente de Datos
-- El sistema ahora completa automáticamente la información faltante basándose en tus configuraciones predefinidas, permitiéndote cargar archivos más sencillos y rápidos.
-- Implementamos un sistema de seguridad que garantiza que, si un solo dato es incorrecto, la carga se detiene para evitar registros duplicados o corruptos, manteniendo tu información siempre impecable.
-- Ahora puedes importar y finalizar documentos (como pedidos o facturas) en un solo paso, activando automáticamente los movimientos contables y de inventario correspondientes.
-- Recibirás mensajes de error claros y en tu propio idioma, indicándote exactamente dónde corregir cualquier inconveniente en tus archivos.
+### 🚀 Gestión de Importación Masiva
+- Ahorre tiempo preparando archivos más sencillos: el sistema ahora completa automáticamente los datos faltantes basándose en sus configuraciones predeterminadas.
+- Mayor seguridad operativa: la importación funciona bajo el principio de 'todo o nada', evitando que errores aislados corrompan su información o generen registros duplicados.
+- Automatización total de documentos: ahora puede importar pedidos o facturas y dejarlos listos para contabilidad o inventario en un solo paso, sin intervenciones manuales.
+- Resolución de problemas más rápida: los mensajes de error ahora se muestran en su idioma, indicando exactamente dónde corregir para que su carga sea exitosa.
 
 ### 📦 Control de Inventarios
-- Mejoramos la precisión en el estado de tus documentos: ahora el sistema solo marcará un pedido como finalizado cuando todas sus líneas estén correctamente procesadas.
-- Aseguramos que los niveles de existencia en bodega reflejen siempre la realidad, garantizando que el cálculo de productos entregados sea exacto en todo momento.
+- Mayor control en el flujo de mercancías: los documentos solo se marcarán como finalizados cuando la totalidad de sus líneas hayan sido procesadas correctamente.
+- Precisión en existencias: se ha ajustado el cálculo de cantidades entregadas para asegurar que sus reportes de inventario reflejen siempre la realidad de sus movimientos.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
