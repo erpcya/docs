@@ -3,11 +3,46 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-04-28T20:31:47.977Z</updated>
+  <updated>2026-04-29T13:23:31.717Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.1.9</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.9.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.9.html"/>
+    <updated>2026-04-29T13:02:47.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-29</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil y precisa.</p>
+<h2> Contexto</h2>
+<p>Hemos actualizado nuestras herramientas de importación y gestión de inventarios para que el trabajo administrativo sea más fluido, seguro y fácil de entender, eliminando procesos manuales y errores en la carga de información.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-04-29</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil y precisa.</p>
+<h2> Contexto</h2>
+<p>Hemos actualizado nuestras herramientas de importación y gestión de inventarios para que el trabajo administrativo sea más fluido, seguro y fácil de entender, eliminando procesos manuales y errores en la carga de información.</p>
+<h3> 🚀 Importación Inteligente de Datos</h3>
+<ul>
+<li>El sistema ahora completa automáticamente la información faltante basándose en tus configuraciones predefinidas, permitiéndote cargar archivos más sencillos y rápidos.</li>
+<li>Implementamos un sistema de seguridad que garantiza que, si un solo dato es incorrecto, la carga se detiene para evitar registros duplicados o corruptos, manteniendo tu información siempre impecable.</li>
+<li>Ahora puedes importar y finalizar documentos (como pedidos o facturas) en un solo paso, activando automáticamente los movimientos contables y de inventario correspondientes.</li>
+<li>Recibirás mensajes de error claros y en tu propio idioma, indicándote exactamente dónde corregir cualquier inconveniente en tus archivos.</li>
+</ul>
+<h3> 📦 Control de Inventarios</h3>
+<ul>
+<li>Mejoramos la precisión en el estado de tus documentos: ahora el sistema solo marcará un pedido como finalizado cuando todas sus líneas estén correctamente procesadas.</li>
+<li>Aseguramos que los niveles de existencia en bodega reflejen siempre la realidad, garantizando que el cálculo de productos entregados sea exacto en todo momento.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-04-29T13:02:47.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.1.8</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.8.html</id>
@@ -3977,45 +4012,6 @@
 <h2> Novedades</h2>
 <ul>
 <li>Add support to implementation Vendor and Version</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-07-18T13:12:10.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.0.9</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.9.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.9.html"/>
-    <updated>2025-07-18T13:12:10.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Interfaz Grafica.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Mensaje de Advertencia global en Interfaz grafica segun valor de Contexto #LVE_GlobalAdvertisement.</li>
-</ul>
-<h3> Notas</h3>
-<ul>
-<li>Esto tiene la intención de ser utilizado posteriormente en el proyecto LVE para el control de Notas de Entrega</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Interfaz Grafica.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Mensaje de Advertencia global en Interfaz grafica segun valor de Contexto #LVE_GlobalAdvertisement.</li>
-</ul>
-<h3> Notas</h3>
-<ul>
-<li>Esto tiene la intención de ser utilizado posteriormente en el proyecto LVE para el control de Notas de Entrega</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
