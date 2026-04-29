@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 29 Apr 2026 13:23:31 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 13:23:31 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Apr 2026 13:29:46 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Apr 2026 13:29:46 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,25 +16,25 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.9.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.9.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.1.9</source>
-      <description>Fecha de Liberación: 2026-04-29 Novedades Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil y precisa. Contexto Hemos actualizado nuestras herramientas de importación y gestión de inventarios para que el trabajo administrativo sea más fluido, seguro y fácil de entender, eliminando procesos manuales y errores en la carga de información.</description>
+      <description>Fecha de Liberación: 2026-04-29 Novedades Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil, precisa y libre de errores. Contexto En esta actualización, nos hemos enfocado en simplificar la carga de información externa y fortalecer la precisión en el seguimiento de sus operaciones logísticas, garantizando que cada registro procesado cumpla con los más altos estándares de calidad.</description>
       <category>Actualizaciones</category>
       <pubDate>Wed, 29 Apr 2026 13:02:47 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-04-29</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil y precisa.</p>
+<p>Optimizamos la carga masiva de datos y el control de inventarios para una gestión más ágil, precisa y libre de errores.</p>
 <h2> Contexto</h2>
-<p>Hemos actualizado nuestras herramientas de importación y gestión de inventarios para que el trabajo administrativo sea más fluido, seguro y fácil de entender, eliminando procesos manuales y errores en la carga de información.</p>
-<h3> 🚀 Importación Inteligente de Datos</h3>
+<p>En esta actualización, nos hemos enfocado en simplificar la carga de información externa y fortalecer la precisión en el seguimiento de sus operaciones logísticas, garantizando que cada registro procesado cumpla con los más altos estándares de calidad.</p>
+<h3> 🚀 Gestión de Importación Masiva</h3>
 <ul>
-<li>El sistema ahora completa automáticamente la información faltante basándose en tus configuraciones predefinidas, permitiéndote cargar archivos más sencillos y rápidos.</li>
-<li>Implementamos un sistema de seguridad que garantiza que, si un solo dato es incorrecto, la carga se detiene para evitar registros duplicados o corruptos, manteniendo tu información siempre impecable.</li>
-<li>Ahora puedes importar y finalizar documentos (como pedidos o facturas) en un solo paso, activando automáticamente los movimientos contables y de inventario correspondientes.</li>
-<li>Recibirás mensajes de error claros y en tu propio idioma, indicándote exactamente dónde corregir cualquier inconveniente en tus archivos.</li>
+<li>Ahorre tiempo preparando archivos más sencillos: el sistema ahora completa automáticamente los datos faltantes basándose en sus configuraciones predeterminadas.</li>
+<li>Mayor seguridad operativa: la importación funciona bajo el principio de 'todo o nada', evitando que errores aislados corrompan su información o generen registros duplicados.</li>
+<li>Automatización total de documentos: ahora puede importar pedidos o facturas y dejarlos listos para contabilidad o inventario en un solo paso, sin intervenciones manuales.</li>
+<li>Resolución de problemas más rápida: los mensajes de error ahora se muestran en su idioma, indicando exactamente dónde corregir para que su carga sea exitosa.</li>
 </ul>
 <h3> 📦 Control de Inventarios</h3>
 <ul>
-<li>Mejoramos la precisión en el estado de tus documentos: ahora el sistema solo marcará un pedido como finalizado cuando todas sus líneas estén correctamente procesadas.</li>
-<li>Aseguramos que los niveles de existencia en bodega reflejen siempre la realidad, garantizando que el cálculo de productos entregados sea exacto en todo momento.</li>
+<li>Mayor control en el flujo de mercancías: los documentos solo se marcarán como finalizados cuando la totalidad de sus líneas hayan sido procesadas correctamente.</li>
+<li>Precisión en existencias: se ha ajustado el cálculo de cantidades entregadas para asegurar que sus reportes de inventario reflejen siempre la realidad de sus movimientos.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
