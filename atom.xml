@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-04T21:22:34.383Z</updated>
+  <updated>2026-05-04T21:22:58.265Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,32 +12,26 @@
     <title type="text">erpya-3.9.4-001-4.2.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html"/>
-    <updated>2026-05-04T20:59:51.000Z</updated>
+    <updated>2026-05-04T20:58:45.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-04</h1>
 <h2> Novedades</h2>
-<p>Optimizamos el motor de importación para que sea más inteligente, preciso y autónomo al procesar tus archivos.</p>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de precios y pedidos para potenciar su productividad diaria.</p>
 <h2> Contexto</h2>
-<p>Hemos renovado las capacidades de nuestro Importador Avanzado, enfocándonos en eliminar errores manuales y simplificar la carga de datos masivos. Ahora, el sistema toma decisiones lógicas por ti, reduciendo drásticamente la preparación técnica de tus archivos.</p>]]></summary>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que su experiencia en ADempiere sea más intuitiva y eficiente. Esta actualización se enfoca en simplificar tareas recurrentes y mejorar la claridad en la toma de decisiones comerciales.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-04</h1>
 <h2> Novedades</h2>
-<p>Optimizamos el motor de importación para que sea más inteligente, preciso y autónomo al procesar tus archivos.</p>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de precios y pedidos para potenciar su productividad diaria.</p>
 <h2> Contexto</h2>
-<p>Hemos renovado las capacidades de nuestro Importador Avanzado, enfocándonos en eliminar errores manuales y simplificar la carga de datos masivos. Ahora, el sistema toma decisiones lógicas por ti, reduciendo drásticamente la preparación técnica de tus archivos.</p>
-<h3> 🔍 Búsquedas Inteligentes y Precisas</h3>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que su experiencia en ADempiere sea más intuitiva y eficiente. Esta actualización se enfoca en simplificar tareas recurrentes y mejorar la claridad en la toma de decisiones comerciales.</p>
+<h3> 💰 Gestión Comercial</h3>
 <ul>
-<li>Nueva capacidad de filtrado contextual que asegura que las direcciones y socios de negocio se vinculen correctamente, incluso sin especificar códigos internos.</li>
-<li>Flexibilidad total al procesar encabezados; el sistema localiza automáticamente la información necesaria sin importar el orden de las columnas en tu archivo.</li>
+<li>Nueva funcionalidad para actualizar listas de precios de forma masiva, permitiendo ajustes rápidos ante cambios en el mercado sin procesos manuales prolongados.</li>
+<li>Automatización en la validación de márgenes de ganancia para evitar errores humanos al momento de definir tarifas de venta.</li>
 </ul>
-<h3> ⚙️ Automatización y Lógica de Negocio</h3>
+<h3> 📦 Procesos Logísticos</h3>
 <ul>
-<li>El sistema ahora detecta automáticamente si una operación es de compra o venta basándose en el tipo de documento, eliminando la necesidad de incluir esta columna en tus archivos.</li>
-<li>Gestión inteligente de atributos y organizaciones: el importador asigna valores predeterminados automáticamente, evitando errores de validación innecesarios.</li>
-<li>Soporte para consultas personalizadas directamente en el archivo, permitiendo obtener datos específicos en tiempo real mediante variables de sesión del usuario.</li>
-</ul>
-<h3> ✅ Estabilidad y Facilidad de Uso</h3>
-<ul>
-<li>Mejora en la lectura de archivos complejos que contienen caracteres especiales, garantizando que el sistema interprete correctamente cada columna.</li>
-<li>Depuración de validaciones internas: el importador ahora comprende qué campos son gestionados por el sistema, evitando alertas de error falsas y facilitando un proceso de carga más fluido.</li>
+<li>Optimización en el flujo de creación de pedidos, reduciendo el tiempo de carga y mejorando la visibilidad del estado de cada solicitud.</li>
+<li>Simplificación en la generación de documentos de despacho, facilitando una gestión más fluida desde la orden hasta la entrega final.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
