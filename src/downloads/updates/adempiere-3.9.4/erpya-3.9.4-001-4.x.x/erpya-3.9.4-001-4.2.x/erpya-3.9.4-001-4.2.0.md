@@ -16,18 +16,18 @@ article: true
 # Fecha de Liberación: 2026-05-04
 
 ## Novedades
-Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos clave.
+Optimizamos la agilidad operativa y la precisión en la gestión de precios y pedidos para potenciar su productividad diaria.
 
 ## Contexto
-En esta actualización, nos enfocamos en simplificar el día a día de nuestros usuarios, eliminando fricciones en la navegación y potenciando la velocidad de respuesta de nuestra plataforma para que tu equipo trabaje de forma más intuitiva y eficiente.
+En ERP Consultores y Asociados, trabajamos constantemente para que su experiencia en ADempiere sea más intuitiva y eficiente. Esta actualización se enfoca en simplificar tareas recurrentes y mejorar la claridad en la toma de decisiones comerciales.
 
-### 🚀 Gestión de Ventas y Precios
-- Ahora es mucho más rápido actualizar tus listas de precios, permitiendo ajustes masivos sin complicaciones.
-- Hemos simplificado la visualización de ofertas para que tu equipo comercial pueda aplicar descuentos con mayor seguridad y rapidez.
+### 💰 Gestión Comercial
+- Nueva funcionalidad para actualizar listas de precios de forma masiva, permitiendo ajustes rápidos ante cambios en el mercado sin procesos manuales prolongados.
+- Automatización en la validación de márgenes de ganancia para evitar errores humanos al momento de definir tarifas de venta.
 
-### 📊 Control Financiero y Administrativo
-- Se ha optimizado la generación de reportes contables, reduciendo significativamente el tiempo de espera al consultar saldos.
-- La navegación entre documentos de cobro y pago es ahora más fluida, facilitando la conciliación diaria de tus movimientos.
+### 📦 Procesos Logísticos
+- Optimización en el flujo de creación de pedidos, reduciendo el tiempo de carga y mejorando la visibilidad del estado de cada solicitud.
+- Simplificación en la generación de documentos de despacho, facilitando una gestión más fluida desde la orden hasta la entrega final.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
