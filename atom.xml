@@ -3,11 +3,44 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-04-29T13:29:46.955Z</updated>
+  <updated>2026-05-04T21:17:31.133Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.2.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html"/>
+    <updated>2026-05-04T20:54:55.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-04</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos clave.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos enfocamos en simplificar el día a día de nuestros usuarios, eliminando fricciones en la navegación y potenciando la velocidad de respuesta de nuestra plataforma para que tu equipo trabaje de forma más intuitiva y eficiente.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-04</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos clave.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos enfocamos en simplificar el día a día de nuestros usuarios, eliminando fricciones en la navegación y potenciando la velocidad de respuesta de nuestra plataforma para que tu equipo trabaje de forma más intuitiva y eficiente.</p>
+<h3> 🚀 Gestión de Ventas y Precios</h3>
+<ul>
+<li>Ahora es mucho más rápido actualizar tus listas de precios, permitiendo ajustes masivos sin complicaciones.</li>
+<li>Hemos simplificado la visualización de ofertas para que tu equipo comercial pueda aplicar descuentos con mayor seguridad y rapidez.</li>
+</ul>
+<h3> 📊 Control Financiero y Administrativo</h3>
+<ul>
+<li>Se ha optimizado la generación de reportes contables, reduciendo significativamente el tiempo de espera al consultar saldos.</li>
+<li>La navegación entre documentos de cobro y pago es ahora más fluida, facilitando la conciliación diaria de tus movimientos.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-05-04T20:54:55.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.1.9</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.9.html</id>
@@ -3988,34 +4021,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-07-18T13:12:10.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.0.8</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.8.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.8.html"/>
-    <updated>2025-07-18T13:12:10.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Add support to implementation Vendor and Version</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Add support to implementation Vendor and Version</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>

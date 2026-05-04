@@ -6,11 +6,40 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 29 Apr 2026 13:29:46 GMT</pubDate>
-    <lastBuildDate>Wed, 29 Apr 2026 13:29:46 GMT</lastBuildDate>
+    <pubDate>Mon, 04 May 2026 21:17:31 GMT</pubDate>
+    <lastBuildDate>Mon, 04 May 2026 21:17:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.2.0</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.0</source>
+      <description>Fecha de Liberación: 2026-05-04 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos clave. Contexto En esta actualización, nos enfocamos en simplificar el día a día de nuestros usuarios, eliminando fricciones en la navegación y potenciando la velocidad de respuesta de nuestra plataforma para que tu equipo trabaje de forma más intuitiva y eficiente.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Mon, 04 May 2026 20:54:55 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-04</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos clave.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos enfocamos en simplificar el día a día de nuestros usuarios, eliminando fricciones en la navegación y potenciando la velocidad de respuesta de nuestra plataforma para que tu equipo trabaje de forma más intuitiva y eficiente.</p>
+<h3> 🚀 Gestión de Ventas y Precios</h3>
+<ul>
+<li>Ahora es mucho más rápido actualizar tus listas de precios, permitiendo ajustes masivos sin complicaciones.</li>
+<li>Hemos simplificado la visualización de ofertas para que tu equipo comercial pueda aplicar descuentos con mayor seguridad y rapidez.</li>
+</ul>
+<h3> 📊 Control Financiero y Administrativo</h3>
+<ul>
+<li>Se ha optimizado la generación de reportes contables, reduciendo significativamente el tiempo de espera al consultar saldos.</li>
+<li>La navegación entre documentos de cobro y pago es ahora más fluida, facilitando la conciliación diaria de tus movimientos.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.1.9</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.1.x/erpya-3.9.4-001-4.1.9.html</link>
@@ -2993,25 +3022,6 @@
 </ul>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.7-img1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.0.8</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.8.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.8.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.0.8</source>
-      <description>Fecha de Liberación: 2025-05-18 Novedades Add support to implementation Vendor and Version Requerimientos No se requieren procesos adicionales por aplicar.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Fri, 18 Jul 2025 13:12:10 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Add support to implementation Vendor and Version</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
