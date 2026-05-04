@@ -16,18 +16,23 @@ article: true
 # Fecha de Liberación: 2026-05-04
 
 ## Novedades
-Optimizamos la agilidad operativa y la precisión en la gestión de precios y pedidos para potenciar su productividad diaria.
+Optimizamos el motor de importación para que sea más inteligente, preciso y autónomo al procesar tus archivos.
 
 ## Contexto
-En ERP Consultores y Asociados, trabajamos constantemente para que su experiencia en ADempiere sea más intuitiva y eficiente. Esta actualización se enfoca en simplificar tareas recurrentes y mejorar la claridad en la toma de decisiones comerciales.
+Hemos renovado las capacidades de nuestro Importador Avanzado, enfocándonos en eliminar errores manuales y simplificar la carga de datos masivos. Ahora, el sistema toma decisiones lógicas por ti, reduciendo drásticamente la preparación técnica de tus archivos.
 
-### 💰 Gestión Comercial
-- Nueva funcionalidad para actualizar listas de precios de forma masiva, permitiendo ajustes rápidos ante cambios en el mercado sin procesos manuales prolongados.
-- Automatización en la validación de márgenes de ganancia para evitar errores humanos al momento de definir tarifas de venta.
+### 🔍 Búsquedas Inteligentes y Precisas
+- Nueva capacidad de filtrado contextual que asegura que las direcciones y socios de negocio se vinculen correctamente, incluso sin especificar códigos internos.
+- Flexibilidad total al procesar encabezados; el sistema localiza automáticamente la información necesaria sin importar el orden de las columnas en tu archivo.
 
-### 📦 Procesos Logísticos
-- Optimización en el flujo de creación de pedidos, reduciendo el tiempo de carga y mejorando la visibilidad del estado de cada solicitud.
-- Simplificación en la generación de documentos de despacho, facilitando una gestión más fluida desde la orden hasta la entrega final.
+### ⚙️ Automatización y Lógica de Negocio
+- El sistema ahora detecta automáticamente si una operación es de compra o venta basándose en el tipo de documento, eliminando la necesidad de incluir esta columna en tus archivos.
+- Gestión inteligente de atributos y organizaciones: el importador asigna valores predeterminados automáticamente, evitando errores de validación innecesarios.
+- Soporte para consultas personalizadas directamente en el archivo, permitiendo obtener datos específicos en tiempo real mediante variables de sesión del usuario.
+
+### ✅ Estabilidad y Facilidad de Uso
+- Mejora en la lectura de archivos complejos que contienen caracteres especiales, garantizando que el sistema interprete correctamente cada columna.
+- Depuración de validaciones internas: el importador ahora comprende qué campos son gestionados por el sistema, evitando alertas de error falsas y facilitando un proceso de carga más fluido.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
