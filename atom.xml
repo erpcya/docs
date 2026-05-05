@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-05T01:20:42.591Z</updated>
+  <updated>2026-05-05T01:23:54.937Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,26 +12,31 @@
     <title type="text">erpya-3.9.4-001-4.2.1</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html"/>
-    <updated>2026-05-05T00:55:50.000Z</updated>
+    <updated>2026-05-05T00:59:18.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-05</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado el motor de importación para garantizar mayor precisión financiera y prevenir errores de integridad en sus documentos.</p>
+<p>Hemos optimizado el motor de importación masiva para garantizar mayor precisión en los cálculos financieros y proteger la integridad de sus documentos contables.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de hacer que sus procesos de carga masiva de datos sean más ágiles y confiables, hemos implementado una serie de mejoras en el módulo de importación. Estos ajustes aseguran que la información se procese correctamente desde el primer intento, evitando discrepancias en los cálculos y protegiendo la integridad de sus registros contables.</p>]]></summary>
+<p>Con el objetivo de hacer su gestión diaria más eficiente y libre de errores, hemos renovado las herramientas de importación de datos. Estos ajustes aseguran que la información cargada desde archivos externos sea procesada con la misma exactitud que si fuera ingresada manualmente en el sistema.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-05</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado el motor de importación para garantizar mayor precisión financiera y prevenir errores de integridad en sus documentos.</p>
+<p>Hemos optimizado el motor de importación masiva para garantizar mayor precisión en los cálculos financieros y proteger la integridad de sus documentos contables.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de hacer que sus procesos de carga masiva de datos sean más ágiles y confiables, hemos implementado una serie de mejoras en el módulo de importación. Estos ajustes aseguran que la información se procese correctamente desde el primer intento, evitando discrepancias en los cálculos y protegiendo la integridad de sus registros contables.</p>
-<h3> 📊 Gestión de Archivos y Datos</h3>
+<p>Con el objetivo de hacer su gestión diaria más eficiente y libre de errores, hemos renovado las herramientas de importación de datos. Estos ajustes aseguran que la información cargada desde archivos externos sea procesada con la misma exactitud que si fuera ingresada manualmente en el sistema.</p>
+<h3> 📂 Gestión de Archivos y Formatos</h3>
 <ul>
-<li>Mejoramos la lectura de archivos CSV al eliminar automáticamente caracteres innecesarios en los títulos, lo que permite una carga más fluida sin importar el programa de origen.</li>
-<li>Ajustamos la lógica de precios para que el sistema reconozca correctamente los valores ingresados, evitando errores en los totales de sus facturas.</li>
+<li>Eliminación automática de comillas innecesarias en los títulos de sus archivos, permitiendo que el sistema reconozca correctamente los nombres de las columnas sin importar cómo se exportaron desde Excel.</li>
+<li>Mayor flexibilidad en la lectura de encabezados para evitar errores de formato en la carga masiva de información.</li>
 </ul>
-<h3> 🛡️ Integridad y Seguridad Documental</h3>
+<h3> 🧮 Precisión en Cálculos y Precios</h3>
 <ul>
-<li>Implementamos un control de seguridad que impide modificar documentos que ya han sido cerrados o finalizados, protegiendo así la contabilidad histórica.</li>
-<li>El sistema ahora le notificará de forma clara y en su idioma preferido si intenta realizar una acción no permitida sobre un documento ya procesado.</li>
+<li>Ajuste en el motor de cálculo para asegurar que los precios y cantidades se procesen correctamente, evitando totales en cero y garantizando que las facturas reflejen los montos netos y totales exactos.</li>
+<li>Normalización del manejo de tarifas: ahora el sistema distingue mejor entre el precio de venta y las listas de precios, evitando confusiones en la creación de saldos iniciales o registros especiales.</li>
+</ul>
+<h3> 🛡️ Integridad y Seguridad de Documentos</h3>
+<ul>
+<li>Protección contra modificaciones accidentales: el sistema ahora impide añadir nuevos registros a facturas que ya han sido finalizadas, anuladas o cerradas, protegiendo así la integridad de su contabilidad.</li>
+<li>Mensajes de error claros y adaptados a su idioma, que le informarán inmediatamente si se intenta realizar una operación no permitida sobre un documento ya procesado.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
