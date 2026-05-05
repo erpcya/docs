@@ -6,33 +6,68 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Mon, 04 May 2026 21:22:58 GMT</pubDate>
-    <lastBuildDate>Mon, 04 May 2026 21:22:58 GMT</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 01:18:24 GMT</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 01:18:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.2.1</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.1</source>
+      <description>Fecha de Liberación: 2026-05-05 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio. Contexto En esta actualización, nos enfocamos en simplificar tus tareas diarias dentro de la plataforma, eliminando fricciones técnicas para que tu equipo pueda concentrarse en lo que realmente importa: hacer crecer tu empresa con información clara y procesos más rápidos.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 05 May 2026 00:55:28 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-05</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos enfocamos en simplificar tus tareas diarias dentro de la plataforma, eliminando fricciones técnicas para que tu equipo pueda concentrarse en lo que realmente importa: hacer crecer tu empresa con información clara y procesos más rápidos.</p>
+<h3> 💰 Gestión Comercial y Precios</h3>
+<ul>
+<li>Nueva funcionalidad para la actualización masiva de listas de precios, permitiendo ajustar márgenes de utilidad en segundos.</li>
+<li>Automatización en la validación de descuentos para asegurar que siempre se apliquen las políticas comerciales correctas en cada venta.</li>
+</ul>
+<h3> 📦 Control de Inventarios</h3>
+<ul>
+<li>Optimización en el seguimiento de existencias que reduce el tiempo de procesamiento de entradas y salidas de almacén.</li>
+<li>Implementación de alertas predictivas para evitar el desabastecimiento de productos clave.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.2.0</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.0.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.0</source>
-      <description>Fecha de Liberación: 2026-05-04 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de precios y pedidos para potenciar su productividad diaria. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que su experiencia en ADempiere sea más intuitiva y eficiente. Esta actualización se enfoca en simplificar tareas recurrentes y mejorar la claridad en la toma de decisiones comerciales.</description>
+      <description>Fecha de Liberación: 2026-05-04 Novedades Optimizamos el motor de importación para que sea más inteligente, preciso y autónomo al procesar tus archivos. Contexto Hemos renovado las capacidades de nuestro Importador Avanzado, enfocándonos en eliminar errores manuales y simplificar la carga de datos masivos. Ahora, el sistema toma decisiones lógicas por ti, reduciendo drásticamente la preparación técnica de tus archivos.</description>
       <category>Actualizaciones</category>
       <pubDate>Mon, 04 May 2026 20:54:55 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-04</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión de precios y pedidos para potenciar su productividad diaria.</p>
+<p>Optimizamos el motor de importación para que sea más inteligente, preciso y autónomo al procesar tus archivos.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que su experiencia en ADempiere sea más intuitiva y eficiente. Esta actualización se enfoca en simplificar tareas recurrentes y mejorar la claridad en la toma de decisiones comerciales.</p>
-<h3> 💰 Gestión Comercial</h3>
+<p>Hemos renovado las capacidades de nuestro Importador Avanzado, enfocándonos en eliminar errores manuales y simplificar la carga de datos masivos. Ahora, el sistema toma decisiones lógicas por ti, reduciendo drásticamente la preparación técnica de tus archivos.</p>
+<h3> 🔍 Búsquedas Inteligentes y Precisas</h3>
 <ul>
-<li>Nueva funcionalidad para actualizar listas de precios de forma masiva, permitiendo ajustes rápidos ante cambios en el mercado sin procesos manuales prolongados.</li>
-<li>Automatización en la validación de márgenes de ganancia para evitar errores humanos al momento de definir tarifas de venta.</li>
+<li>Nueva capacidad de filtrado contextual que asegura que las direcciones y socios de negocio se vinculen correctamente, incluso sin especificar códigos internos.</li>
+<li>Flexibilidad total al procesar encabezados; el sistema localiza automáticamente la información necesaria sin importar el orden de las columnas en tu archivo.</li>
 </ul>
-<h3> 📦 Procesos Logísticos</h3>
+<h3> ⚙️ Automatización y Lógica de Negocio</h3>
 <ul>
-<li>Optimización en el flujo de creación de pedidos, reduciendo el tiempo de carga y mejorando la visibilidad del estado de cada solicitud.</li>
-<li>Simplificación en la generación de documentos de despacho, facilitando una gestión más fluida desde la orden hasta la entrega final.</li>
+<li>El sistema ahora detecta automáticamente si una operación es de compra o venta basándose en el tipo de documento, eliminando la necesidad de incluir esta columna en tus archivos.</li>
+<li>Gestión inteligente de atributos y organizaciones: el importador asigna valores predeterminados automáticamente, evitando errores de validación innecesarios.</li>
+<li>Soporte para consultas personalizadas directamente en el archivo, permitiendo obtener datos específicos en tiempo real mediante variables de sesión del usuario.</li>
+</ul>
+<h3> ✅ Estabilidad y Facilidad de Uso</h3>
+<ul>
+<li>Mejora en la lectura de archivos complejos que contienen caracteres especiales, garantizando que el sistema interprete correctamente cada columna.</li>
+<li>Depuración de validaciones internas: el importador ahora comprende qué campos son gestionados por el sistema, evitando alertas de error falsas y facilitando un proceso de carga más fluido.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
@@ -2996,32 +3031,6 @@
 </ul>
 ]]></content:encoded>
       <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img1.png" type="image/png"/>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.0.7</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.7.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.7.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.0.7</source>
-      <description>Fecha de Liberación: 2025-05-18 Novedades Flujo de Producción. Contexto Se agrega proceso para Generar Sub-Orden desde Orden de Produccion Padre.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Fri, 18 Jul 2025 13:12:10 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Flujo de Producción.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega proceso para Generar Sub-Orden desde Orden de Produccion Padre.</li>
-</ul>
-<p><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.7-img1.png" alt="Smart Browser" loading="lazy"><br>
-<img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.7-img1.png" alt="Smart Browser" loading="lazy"></p>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.7-img1.png" type="image/png"/>
     </item>
   </channel>
 </rss>
