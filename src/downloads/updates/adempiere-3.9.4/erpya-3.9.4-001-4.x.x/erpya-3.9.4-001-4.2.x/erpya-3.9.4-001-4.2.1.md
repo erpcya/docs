@@ -16,18 +16,18 @@ article: true
 # Fecha de Liberación: 2026-05-05
 
 ## Novedades
-Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.
+Hemos optimizado el motor de importación para garantizar mayor precisión financiera y prevenir errores de integridad en sus documentos.
 
 ## Contexto
-En esta actualización, nos enfocamos en simplificar tus tareas diarias dentro de la plataforma, eliminando fricciones técnicas para que tu equipo pueda concentrarse en lo que realmente importa: hacer crecer tu empresa con información clara y procesos más rápidos.
+Con el objetivo de hacer que sus procesos de carga masiva de datos sean más ágiles y confiables, hemos implementado una serie de mejoras en el módulo de importación. Estos ajustes aseguran que la información se procese correctamente desde el primer intento, evitando discrepancias en los cálculos y protegiendo la integridad de sus registros contables.
 
-### 💰 Gestión Comercial y Precios
-- Nueva funcionalidad para la actualización masiva de listas de precios, permitiendo ajustar márgenes de utilidad en segundos.
-- Automatización en la validación de descuentos para asegurar que siempre se apliquen las políticas comerciales correctas en cada venta.
+### 📊 Gestión de Archivos y Datos
+- Mejoramos la lectura de archivos CSV al eliminar automáticamente caracteres innecesarios en los títulos, lo que permite una carga más fluida sin importar el programa de origen.
+- Ajustamos la lógica de precios para que el sistema reconozca correctamente los valores ingresados, evitando errores en los totales de sus facturas.
 
-### 📦 Control de Inventarios
-- Optimización en el seguimiento de existencias que reduce el tiempo de procesamiento de entradas y salidas de almacén.
-- Implementación de alertas predictivas para evitar el desabastecimiento de productos clave.
+### 🛡️ Integridad y Seguridad Documental
+- Implementamos un control de seguridad que impide modificar documentos que ya han sido cerrados o finalizados, protegiendo así la contabilidad histórica.
+- El sistema ahora le notificará de forma clara y en su idioma preferido si intenta realizar una acción no permitida sobre un documento ya procesado.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
