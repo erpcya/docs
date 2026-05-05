@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 05 May 2026 01:18:24 GMT</pubDate>
-    <lastBuildDate>Tue, 05 May 2026 01:18:24 GMT</lastBuildDate>
+    <pubDate>Tue, 05 May 2026 01:20:42 GMT</pubDate>
+    <lastBuildDate>Tue, 05 May 2026 01:20:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,23 +16,23 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.1</source>
-      <description>Fecha de Liberación: 2026-05-05 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio. Contexto En esta actualización, nos enfocamos en simplificar tus tareas diarias dentro de la plataforma, eliminando fricciones técnicas para que tu equipo pueda concentrarse en lo que realmente importa: hacer crecer tu empresa con información clara y procesos más rápidos.</description>
+      <description>Fecha de Liberación: 2026-05-05 Novedades Hemos optimizado el motor de importación para garantizar mayor precisión financiera y prevenir errores de integridad en sus documentos. Contexto Con el objetivo de hacer que sus procesos de carga masiva de datos sean más ágiles y confiables, hemos implementado una serie de mejoras en el módulo de importación. Estos ajustes aseguran que la información se procese correctamente desde el primer intento, evitando discrepancias en los cálculos y protegiendo la integridad de sus registros contables.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 05 May 2026 00:55:28 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-05</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.</p>
+<p>Hemos optimizado el motor de importación para garantizar mayor precisión financiera y prevenir errores de integridad en sus documentos.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos enfocamos en simplificar tus tareas diarias dentro de la plataforma, eliminando fricciones técnicas para que tu equipo pueda concentrarse en lo que realmente importa: hacer crecer tu empresa con información clara y procesos más rápidos.</p>
-<h3> 💰 Gestión Comercial y Precios</h3>
+<p>Con el objetivo de hacer que sus procesos de carga masiva de datos sean más ágiles y confiables, hemos implementado una serie de mejoras en el módulo de importación. Estos ajustes aseguran que la información se procese correctamente desde el primer intento, evitando discrepancias en los cálculos y protegiendo la integridad de sus registros contables.</p>
+<h3> 📊 Gestión de Archivos y Datos</h3>
 <ul>
-<li>Nueva funcionalidad para la actualización masiva de listas de precios, permitiendo ajustar márgenes de utilidad en segundos.</li>
-<li>Automatización en la validación de descuentos para asegurar que siempre se apliquen las políticas comerciales correctas en cada venta.</li>
+<li>Mejoramos la lectura de archivos CSV al eliminar automáticamente caracteres innecesarios en los títulos, lo que permite una carga más fluida sin importar el programa de origen.</li>
+<li>Ajustamos la lógica de precios para que el sistema reconozca correctamente los valores ingresados, evitando errores en los totales de sus facturas.</li>
 </ul>
-<h3> 📦 Control de Inventarios</h3>
+<h3> 🛡️ Integridad y Seguridad Documental</h3>
 <ul>
-<li>Optimización en el seguimiento de existencias que reduce el tiempo de procesamiento de entradas y salidas de almacén.</li>
-<li>Implementación de alertas predictivas para evitar el desabastecimiento de productos clave.</li>
+<li>Implementamos un control de seguridad que impide modificar documentos que ya han sido cerrados o finalizados, protegiendo así la contabilidad histórica.</li>
+<li>El sistema ahora le notificará de forma clara y en su idioma preferido si intenta realizar una acción no permitida sobre un documento ya procesado.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
