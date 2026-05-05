@@ -16,18 +16,22 @@ article: true
 # Fecha de Liberación: 2026-05-05
 
 ## Novedades
-Hemos optimizado el motor de importación para garantizar mayor precisión financiera y prevenir errores de integridad en sus documentos.
+Hemos optimizado el motor de importación masiva para garantizar mayor precisión en los cálculos financieros y proteger la integridad de sus documentos contables.
 
 ## Contexto
-Con el objetivo de hacer que sus procesos de carga masiva de datos sean más ágiles y confiables, hemos implementado una serie de mejoras en el módulo de importación. Estos ajustes aseguran que la información se procese correctamente desde el primer intento, evitando discrepancias en los cálculos y protegiendo la integridad de sus registros contables.
+Con el objetivo de hacer su gestión diaria más eficiente y libre de errores, hemos renovado las herramientas de importación de datos. Estos ajustes aseguran que la información cargada desde archivos externos sea procesada con la misma exactitud que si fuera ingresada manualmente en el sistema.
 
-### 📊 Gestión de Archivos y Datos
-- Mejoramos la lectura de archivos CSV al eliminar automáticamente caracteres innecesarios en los títulos, lo que permite una carga más fluida sin importar el programa de origen.
-- Ajustamos la lógica de precios para que el sistema reconozca correctamente los valores ingresados, evitando errores en los totales de sus facturas.
+### 📂 Gestión de Archivos y Formatos
+- Eliminación automática de comillas innecesarias en los títulos de sus archivos, permitiendo que el sistema reconozca correctamente los nombres de las columnas sin importar cómo se exportaron desde Excel.
+- Mayor flexibilidad en la lectura de encabezados para evitar errores de formato en la carga masiva de información.
 
-### 🛡️ Integridad y Seguridad Documental
-- Implementamos un control de seguridad que impide modificar documentos que ya han sido cerrados o finalizados, protegiendo así la contabilidad histórica.
-- El sistema ahora le notificará de forma clara y en su idioma preferido si intenta realizar una acción no permitida sobre un documento ya procesado.
+### 🧮 Precisión en Cálculos y Precios
+- Ajuste en el motor de cálculo para asegurar que los precios y cantidades se procesen correctamente, evitando totales en cero y garantizando que las facturas reflejen los montos netos y totales exactos.
+- Normalización del manejo de tarifas: ahora el sistema distingue mejor entre el precio de venta y las listas de precios, evitando confusiones en la creación de saldos iniciales o registros especiales.
+
+### 🛡️ Integridad y Seguridad de Documentos
+- Protección contra modificaciones accidentales: el sistema ahora impide añadir nuevos registros a facturas que ya han sido finalizadas, anuladas o cerradas, protegiendo así la integridad de su contabilidad.
+- Mensajes de error claros y adaptados a su idioma, que le informarán inmediatamente si se intenta realizar una operación no permitida sobre un documento ya procesado.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
