@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 06 May 2026 16:38:05 GMT</pubDate>
-    <lastBuildDate>Wed, 06 May 2026 16:38:05 GMT</lastBuildDate>
+    <pubDate>Wed, 06 May 2026 16:41:32 GMT</pubDate>
+    <lastBuildDate>Wed, 06 May 2026 16:41:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,23 +16,25 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.2</source>
-      <description>Fecha de Liberación: 2026-05-06 Novedades Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.</description>
+      <description>Fecha de Liberación: 2026-05-06 Novedades Optimizamos la automatización inteligente y la flexibilidad en la carga masiva de datos para agilizar tu gestión operativa. Contexto En nuestra búsqueda constante por hacer que tu experiencia con el sistema sea más fluida y precisa, hemos implementado actualizaciones clave en nuestras herramientas de asistencia inteligente y en los procesos de importación de información.</description>
       <category>Actualizaciones</category>
       <pubDate>Wed, 06 May 2026 16:14:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria.</p>
+<p>Optimizamos la automatización inteligente y la flexibilidad en la carga masiva de datos para agilizar tu gestión operativa.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.</p>
-<h3> 💰 Gestión Comercial y Precios</h3>
+<p>En nuestra búsqueda constante por hacer que tu experiencia con el sistema sea más fluida y precisa, hemos implementado actualizaciones clave en nuestras herramientas de asistencia inteligente y en los procesos de importación de información.</p>
+<h3> 🤖 Asistente de Inteligencia Artificial</h3>
 <ul>
-<li>Nueva funcionalidad para ajustar listas de precios de forma masiva, permitiéndote actualizar tarifas de productos en segundos ante cambios del mercado.</li>
-<li>Automatización en la aplicación de descuentos, asegurando que tus políticas comerciales se apliquen correctamente sin errores manuales.</li>
+<li>Mayor precisión en la generación de documentos mediante la correcta vinculación de números de control.</li>
+<li>Automatización mejorada al asignar cargos específicos directamente desde la fuente de datos.</li>
 </ul>
-<h3> ⚡ Eficiencia Operativa</h3>
+<h3> 📥 Gestión de Importación de Datos</h3>
 <ul>
-<li>Reducción en los tiempos de carga de los reportes de ventas, facilitando un acceso más rápido a la información estratégica de tu negocio.</li>
-<li>Simplificación en la navegación del panel principal para que encuentres las herramientas de facturación y seguimiento con menos clics.</li>
+<li>Control total sobre el estado de tus documentos: elige si deseas que se completen automáticamente o se guarden como borradores.</li>
+<li>Mayor precisión en la carga de información, asegurando que cada dato se ubique siempre en el lugar correcto.</li>
+<li>Automatización de valores predeterminados para agilizar la carga cuando falte información en tus archivos.</li>
+<li>Flexibilidad mejorada en la lectura de fechas y compatibilidad total con formatos de números decimales que utilizan coma.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
