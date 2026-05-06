@@ -3,11 +3,44 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-05T01:23:54.937Z</updated>
+  <updated>2026-05-06T16:38:05.827Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.2.2</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html"/>
+    <updated>2026-05-06T16:14:29.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.</p>
+<h3> 💰 Gestión Comercial y Precios</h3>
+<ul>
+<li>Nueva funcionalidad para ajustar listas de precios de forma masiva, permitiéndote actualizar tarifas de productos en segundos ante cambios del mercado.</li>
+<li>Automatización en la aplicación de descuentos, asegurando que tus políticas comerciales se apliquen correctamente sin errores manuales.</li>
+</ul>
+<h3> ⚡ Eficiencia Operativa</h3>
+<ul>
+<li>Reducción en los tiempos de carga de los reportes de ventas, facilitando un acceso más rápido a la información estratégica de tu negocio.</li>
+<li>Simplificación en la navegación del panel principal para que encuentres las herramientas de facturación y seguimiento con menos clics.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-05-06T16:14:29.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.2.1</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html</id>
@@ -3993,46 +4026,5 @@
 ]]></content>
     <category term="Actualizaciones"/>
     <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.0.6</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.6.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.6.html"/>
-    <updated>2025-07-18T13:12:10.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-12</p>
-<h2> Novedades</h2>
-<ul>
-<li>Expediente de Importación y Exportación.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Codigo Arancelario.</li>
-<li>Se agrega soporte a Base de Expediente basado en Montos de Codigo Arancelario.</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-05-12</p>
-<h2> Novedades</h2>
-<ul>
-<li>Expediente de Importación y Exportación.</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Codigo Arancelario.</li>
-<li>Se agrega soporte a Base de Expediente basado en Montos de Codigo Arancelario.</li>
-</ul>
-<h3> Codigo Arancelario</h3>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img1.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
-<h3> Maestro de Productos</h3>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img2.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
-<h3> Expediente de Importación</h3>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img3.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
-<h3> Ventana de Generacion de Documentos</h3>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img4.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-07-18T13:12:10.000Z</published>
   </entry>
 </feed>

@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.2.2",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html",
+      "summary": "Fecha de Liberación: 2026-05-06 Novedades Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.",
+      "content_html": "<h1> Fecha de Liberación: 2026-05-06</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria.</p>\n<h2> Contexto</h2>\n<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.</p>\n<h3> 💰 Gestión Comercial y Precios</h3>\n<ul>\n<li>Nueva funcionalidad para ajustar listas de precios de forma masiva, permitiéndote actualizar tarifas de productos en segundos ante cambios del mercado.</li>\n<li>Automatización en la aplicación de descuentos, asegurando que tus políticas comerciales se apliquen correctamente sin errores manuales.</li>\n</ul>\n<h3> ⚡ Eficiencia Operativa</h3>\n<ul>\n<li>Reducción en los tiempos de carga de los reportes de ventas, facilitando un acceso más rápido a la información estratégica de tu negocio.</li>\n<li>Simplificación en la navegación del panel principal para que encuentres las herramientas de facturación y seguimiento con menos clics.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-05-06T16:14:29.000Z",
+      "date_modified": "2026-05-06T16:14:29.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.2.1",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.1.html",
@@ -1290,20 +1303,6 @@
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-21</p>\n<h2> Novedades</h2>\n<ul>\n<li>Flujo de Trabajo de Producción</li>\n<li>Customer Addons</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Añadir soporte para configurar el almacén desde la Orden de Salida</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T17:57:59.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.0.6",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.6.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.0.x/erpya-3.9.4-001-3.0.6.html",
-      "summary": "Fecha de Liberación: 2025-05-12 Novedades Expediente de Importación y Exportación. Contexto Se agrega soporte a Codigo Arancelario. Se agrega soporte a Base de Expediente basado en Montos de Codigo Arancelario.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-05-12</p>\n<h2> Novedades</h2>\n<ul>\n<li>Expediente de Importación y Exportación.</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega soporte a Codigo Arancelario.</li>\n<li>Se agrega soporte a Base de Expediente basado en Montos de Codigo Arancelario.</li>\n</ul>\n<h3> Codigo Arancelario</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img1.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h3> Maestro de Productos</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img2.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h3> Expediente de Importación</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img3.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h3> Ventana de Generacion de Documentos</h3>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img4.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.0.6-img1.png",
-      "date_published": "2025-07-18T13:12:10.000Z",
-      "date_modified": "2025-07-18T13:12:10.000Z",
       "authors": [],
       "tags": [
         "Actualizaciones"
