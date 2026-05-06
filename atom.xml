@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-06T16:41:32.879Z</updated>
+  <updated>2026-05-06T16:43:35.462Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,28 +12,28 @@
     <title type="text">erpya-3.9.4-001-4.2.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html"/>
-    <updated>2026-05-06T16:18:22.000Z</updated>
+    <updated>2026-05-06T16:17:35.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la automatización inteligente y la flexibilidad en la carga masiva de datos para agilizar tu gestión operativa.</p>
+<p>Optimizamos la automatización y la carga masiva de datos para una gestión más ágil y precisa.</p>
 <h2> Contexto</h2>
-<p>En nuestra búsqueda constante por hacer que tu experiencia con el sistema sea más fluida y precisa, hemos implementado actualizaciones clave en nuestras herramientas de asistencia inteligente y en los procesos de importación de información.</p>]]></summary>
+<p>En esta actualización, nos enfocamos en perfeccionar la precisión de nuestras herramientas de inteligencia artificial y la flexibilidad al importar información externa, permitiendo que tu equipo ahorre tiempo en tareas administrativas y reduzca errores manuales.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la automatización inteligente y la flexibilidad en la carga masiva de datos para agilizar tu gestión operativa.</p>
+<p>Optimizamos la automatización y la carga masiva de datos para una gestión más ágil y precisa.</p>
 <h2> Contexto</h2>
-<p>En nuestra búsqueda constante por hacer que tu experiencia con el sistema sea más fluida y precisa, hemos implementado actualizaciones clave en nuestras herramientas de asistencia inteligente y en los procesos de importación de información.</p>
+<p>En esta actualización, nos enfocamos en perfeccionar la precisión de nuestras herramientas de inteligencia artificial y la flexibilidad al importar información externa, permitiendo que tu equipo ahorre tiempo en tareas administrativas y reduzca errores manuales.</p>
 <h3> 🤖 Asistente de Inteligencia Artificial</h3>
 <ul>
-<li>Mayor precisión en la generación de documentos mediante la correcta vinculación de números de control.</li>
-<li>Automatización mejorada al asignar cargos específicos directamente desde la fuente de datos.</li>
+<li>Mayor precisión en la generación de documentos, asegurando que cada registro conserve su número de control original.</li>
+<li>Automatización en la asignación de costos, vinculando el cargo directamente desde la fuente para evitar ajustes posteriores.</li>
 </ul>
-<h3> 📥 Gestión de Importación de Datos</h3>
+<h3> 📥 Importador de Datos Inteligente</h3>
 <ul>
-<li>Control total sobre el estado de tus documentos: elige si deseas que se completen automáticamente o se guarden como borradores.</li>
-<li>Mayor precisión en la carga de información, asegurando que cada dato se ubique siempre en el lugar correcto.</li>
-<li>Automatización de valores predeterminados para agilizar la carga cuando falte información en tus archivos.</li>
-<li>Flexibilidad mejorada en la lectura de fechas y compatibilidad total con formatos de números decimales que utilizan coma.</li>
+<li>Flexibilidad total: ahora decides si tus documentos importados se procesan automáticamente o permanecen en borrador para revisión.</li>
+<li>Mayor precisión en la ubicación de la información, garantizando que cada dato llegue al campo correcto sin errores de destino.</li>
+<li>Completado inteligente: el sistema asigna automáticamente los valores predeterminados cuando falta información en tus archivos.</li>
+<li>Versatilidad en formatos: el sistema ahora reconoce diversos estilos de fecha y procesa correctamente montos con decimales usando comas.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
