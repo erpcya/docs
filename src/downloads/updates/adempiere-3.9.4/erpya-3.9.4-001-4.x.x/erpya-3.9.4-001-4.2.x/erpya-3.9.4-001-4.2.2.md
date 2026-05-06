@@ -16,18 +16,20 @@ article: true
 # Fecha de Liberación: 2026-05-06
 
 ## Novedades
-Optimizamos la gestión de precios y la agilidad en la atención al cliente para potenciar tu productividad diaria.
+Optimizamos la automatización y la carga masiva de datos para una gestión más ágil y precisa.
 
 ## Contexto
-En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida y eficiente. Esta actualización se enfoca en simplificar tareas críticas de ventas y administración, permitiéndote tomar decisiones más rápidas y precisas.
+En esta actualización, nos enfocamos en perfeccionar la precisión de nuestras herramientas de inteligencia artificial y la flexibilidad al importar información externa, permitiendo que tu equipo ahorre tiempo en tareas administrativas y reduzca errores manuales.
 
-### 💰 Gestión Comercial y Precios
-- Nueva funcionalidad para ajustar listas de precios de forma masiva, permitiéndote actualizar tarifas de productos en segundos ante cambios del mercado.
-- Automatización en la aplicación de descuentos, asegurando que tus políticas comerciales se apliquen correctamente sin errores manuales.
+### 🤖 Asistente de Inteligencia Artificial
+- Mayor precisión en la generación de documentos, asegurando que cada registro conserve su número de control original.
+- Automatización en la asignación de costos, vinculando el cargo directamente desde la fuente para evitar ajustes posteriores.
 
-### ⚡ Eficiencia Operativa
-- Reducción en los tiempos de carga de los reportes de ventas, facilitando un acceso más rápido a la información estratégica de tu negocio.
-- Simplificación en la navegación del panel principal para que encuentres las herramientas de facturación y seguimiento con menos clics.
+### 📥 Importador de Datos Inteligente
+- Flexibilidad total: ahora decides si tus documentos importados se procesan automáticamente o permanecen en borrador para revisión.
+- Mayor precisión en la ubicación de la información, garantizando que cada dato llegue al campo correcto sin errores de destino.
+- Completado inteligente: el sistema asigna automáticamente los valores predeterminados cuando falta información en tus archivos.
+- Versatilidad en formatos: el sistema ahora reconoce diversos estilos de fecha y procesa correctamente montos con decimales usando comas.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
