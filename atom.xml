@@ -3,37 +3,70 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-06T16:43:35.462Z</updated>
+  <updated>2026-05-12T18:36:40.625Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
   <entry>
+    <title type="text">erpya-3.9.4-001-4.2.3</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html"/>
+    <updated>2026-05-12T18:12:47.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-12</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la automatización documental y la precisión en la gestión de créditos para el sector agrícola.</p>
+<h2> Contexto</h2>
+<p>En esta actualización de nuestro programa de asistencia al productor, nos hemos enfocado en agilizar la carga administrativa y mejorar la flexibilidad operativa. Estas mejoras permiten una gestión más fluida de los acuerdos financieros, eliminando procesos manuales y brindando mayor control sobre la documentación generada.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-12</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la automatización documental y la precisión en la gestión de créditos para el sector agrícola.</p>
+<h2> Contexto</h2>
+<p>En esta actualización de nuestro programa de asistencia al productor, nos hemos enfocado en agilizar la carga administrativa y mejorar la flexibilidad operativa. Estas mejoras permiten una gestión más fluida de los acuerdos financieros, eliminando procesos manuales y brindando mayor control sobre la documentación generada.</p>
+<h3> 📄 Gestión Documental Inteligente</h3>
+<ul>
+<li>Automatización en la creación de documentos PDF profesionales directamente desde plantillas de texto, facilitando la entrega de acuerdos financieros personalizados.</li>
+<li>Integración dinámica de información: el sistema ahora extrae datos clave de forma automática para completar los documentos, eliminando errores de transcripción.</li>
+</ul>
+<h3> 💰 Control de Créditos y Autofinanciamiento</h3>
+<ul>
+<li>Mayor precisión en la generación automática de créditos al vincular tipos de documentos específicos según el origen de la compra.</li>
+<li>Flexibilidad operativa al permitir la configuración personalizada de documentos financieros, asegurando que cada crédito se clasifique correctamente según sus reglas de negocio.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-05-12T18:12:47.000Z</published>
+  </entry>
+  <entry>
     <title type="text">erpya-3.9.4-001-4.2.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.2.html"/>
-    <updated>2026-05-06T16:17:35.000Z</updated>
+    <updated>2026-05-06T16:18:22.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la automatización y la carga masiva de datos para una gestión más ágil y precisa.</p>
+<p>Optimizamos la automatización inteligente y la flexibilidad en la carga masiva de datos para agilizar tu gestión operativa.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos enfocamos en perfeccionar la precisión de nuestras herramientas de inteligencia artificial y la flexibilidad al importar información externa, permitiendo que tu equipo ahorre tiempo en tareas administrativas y reduzca errores manuales.</p>]]></summary>
+<p>En nuestra búsqueda constante por hacer que tu experiencia con el sistema sea más fluida y precisa, hemos implementado actualizaciones clave en nuestras herramientas de asistencia inteligente y en los procesos de importación de información.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-06</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la automatización y la carga masiva de datos para una gestión más ágil y precisa.</p>
+<p>Optimizamos la automatización inteligente y la flexibilidad en la carga masiva de datos para agilizar tu gestión operativa.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos enfocamos en perfeccionar la precisión de nuestras herramientas de inteligencia artificial y la flexibilidad al importar información externa, permitiendo que tu equipo ahorre tiempo en tareas administrativas y reduzca errores manuales.</p>
+<p>En nuestra búsqueda constante por hacer que tu experiencia con el sistema sea más fluida y precisa, hemos implementado actualizaciones clave en nuestras herramientas de asistencia inteligente y en los procesos de importación de información.</p>
 <h3> 🤖 Asistente de Inteligencia Artificial</h3>
 <ul>
-<li>Mayor precisión en la generación de documentos, asegurando que cada registro conserve su número de control original.</li>
-<li>Automatización en la asignación de costos, vinculando el cargo directamente desde la fuente para evitar ajustes posteriores.</li>
+<li>Mayor precisión en la generación de documentos mediante la correcta vinculación de números de control.</li>
+<li>Automatización mejorada al asignar cargos específicos directamente desde la fuente de datos.</li>
 </ul>
-<h3> 📥 Importador de Datos Inteligente</h3>
+<h3> 📥 Gestión de Importación de Datos</h3>
 <ul>
-<li>Flexibilidad total: ahora decides si tus documentos importados se procesan automáticamente o permanecen en borrador para revisión.</li>
-<li>Mayor precisión en la ubicación de la información, garantizando que cada dato llegue al campo correcto sin errores de destino.</li>
-<li>Completado inteligente: el sistema asigna automáticamente los valores predeterminados cuando falta información en tus archivos.</li>
-<li>Versatilidad en formatos: el sistema ahora reconoce diversos estilos de fecha y procesa correctamente montos con decimales usando comas.</li>
+<li>Control total sobre el estado de tus documentos: elige si deseas que se completen automáticamente o se guarden como borradores.</li>
+<li>Mayor precisión en la carga de información, asegurando que cada dato se ubique siempre en el lugar correcto.</li>
+<li>Automatización de valores predeterminados para agilizar la carga cuando falte información en tus archivos.</li>
+<li>Flexibilidad mejorada en la lectura de fechas y compatibilidad total con formatos de números decimales que utilizan coma.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
@@ -3987,43 +4020,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.3.7</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.7.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.7.html"/>
-    <updated>2025-11-04T17:57:59.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-21</p>
-<h2> Novedades</h2>
-<ul>
-<li>Flujo de Trabajo de Producción</li>
-<li>Customer Addons</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Añadir soporte para configurar el almacén desde la Orden de Salida</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-21</p>
-<h2> Novedades</h2>
-<ul>
-<li>Flujo de Trabajo de Producción</li>
-<li>Customer Addons</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Añadir soporte para configurar el almacén desde la Orden de Salida</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
