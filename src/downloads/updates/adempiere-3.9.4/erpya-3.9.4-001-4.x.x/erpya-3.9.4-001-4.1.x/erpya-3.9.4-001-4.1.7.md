@@ -21,10 +21,6 @@ Optimizamos la precisión y seguridad de tu gestión de datos con un importador 
 ## Contexto
 En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia con ADempiere sea más fluida. Esta actualización se enfoca en hacer que la carga y actualización de información sea un proceso más seguro, inteligente y libre de errores técnicos, permitiéndote concentrarte en lo que realmente importa: tu negocio. 
 
-![Imagen](/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-1.png)
-
-
-
 ### 🔍 Gestión de Datos e Importación
 - Identificación automática de dimensiones contables para que el sistema reconozca correctamente tus categorías de gastos y costos sin errores.
 - Localización precisa de registros relacionados, garantizando que la información se conecte correctamente incluso en estructuras complejas.
@@ -33,10 +29,6 @@ En ERP Consultores y Asociados, trabajamos constantemente para que tu experienci
 
 ### 🌾 Gestión de Asistencia al Agricultor
 - Mejora en la precisión de los cálculos financieros para las transacciones de crédito, asegurando que tus facturaciones sean exactas y consistentes con la moneda utilizada. 
-
-![Imagen](/assets/img/downloads/updates/resources/erpya-394-001-4-1-7-img-2.png)
-
-
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
