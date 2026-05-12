@@ -16,18 +16,18 @@ article: true
 # Fecha de Liberación: 2026-05-12
 
 ## Novedades
-Optimizamos la automatización documental y la precisión en la gestión de créditos para el sector agrícola.
+Optimizamos la gestión de acuerdos financieros y la automatización de créditos para una operación más ágil y precisa.
 
 ## Contexto
-En esta actualización de nuestro programa de asistencia al productor, nos hemos enfocado en agilizar la carga administrativa y mejorar la flexibilidad operativa. Estas mejoras permiten una gestión más fluida de los acuerdos financieros, eliminando procesos manuales y brindando mayor control sobre la documentación generada.
+En esta actualización, nos enfocamos en simplificar la administración de los programas de asistencia al productor, permitiendo una mayor flexibilidad documental y un control más estricto sobre los procesos de financiamiento automático.
 
-### 📄 Gestión Documental Inteligente
-- Automatización en la creación de documentos PDF profesionales directamente desde plantillas de texto, facilitando la entrega de acuerdos financieros personalizados.
-- Integración dinámica de información: el sistema ahora extrae datos clave de forma automática para completar los documentos, eliminando errores de transcripción.
+### 📄 Gestión Documental Automatizada
+- Ahora puedes generar contratos y acuerdos financieros en formato PDF de manera automática utilizando tus propias plantillas de Word.
+- El sistema reemplaza automáticamente los datos del productor en tus documentos, ahorrando tiempo en la creación manual de papelería legal y administrativa.
 
-### 💰 Control de Créditos y Autofinanciamiento
-- Mayor precisión en la generación automática de créditos al vincular tipos de documentos específicos según el origen de la compra.
-- Flexibilidad operativa al permitir la configuración personalizada de documentos financieros, asegurando que cada crédito se clasifique correctamente según sus reglas de negocio.
+### 💰 Automatización de Créditos
+- Mayor precisión al procesar compras autofinanciadas, permitiendo asignar tipos de documentos específicos para cada crédito generado.
+- Mejor control administrativo al evitar la búsqueda genérica de documentos, asegurando que cada crédito se clasifique correctamente según su naturaleza desde el momento de su creación.
 
 ## Requerimientos
 - Se requieren procesos adicionales por aplicar.
