@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 12 May 2026 18:36:40 GMT</pubDate>
-    <lastBuildDate>Tue, 12 May 2026 18:36:40 GMT</lastBuildDate>
+    <pubDate>Tue, 12 May 2026 18:42:07 GMT</pubDate>
+    <lastBuildDate>Tue, 12 May 2026 18:42:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,23 +16,23 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.3</source>
-      <description>Fecha de Liberación: 2026-05-12 Novedades Optimizamos la automatización documental y la precisión en la gestión de créditos para el sector agrícola. Contexto En esta actualización de nuestro programa de asistencia al productor, nos hemos enfocado en agilizar la carga administrativa y mejorar la flexibilidad operativa. Estas mejoras permiten una gestión más fluida de los acuerdos financieros, eliminando procesos manuales y brindando mayor control sobre la documentación generada.</description>
+      <description>Fecha de Liberación: 2026-05-12 Novedades Optimizamos la gestión de acuerdos financieros y la automatización de créditos para una operación más ágil y precisa. Contexto En esta actualización, nos enfocamos en simplificar la administración de los programas de asistencia al productor, permitiendo una mayor flexibilidad documental y un control más estricto sobre los procesos de financiamiento automático.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 12 May 2026 18:12:47 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-12</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la automatización documental y la precisión en la gestión de créditos para el sector agrícola.</p>
+<p>Optimizamos la gestión de acuerdos financieros y la automatización de créditos para una operación más ágil y precisa.</p>
 <h2> Contexto</h2>
-<p>En esta actualización de nuestro programa de asistencia al productor, nos hemos enfocado en agilizar la carga administrativa y mejorar la flexibilidad operativa. Estas mejoras permiten una gestión más fluida de los acuerdos financieros, eliminando procesos manuales y brindando mayor control sobre la documentación generada.</p>
-<h3> 📄 Gestión Documental Inteligente</h3>
+<p>En esta actualización, nos enfocamos en simplificar la administración de los programas de asistencia al productor, permitiendo una mayor flexibilidad documental y un control más estricto sobre los procesos de financiamiento automático.</p>
+<h3> 📄 Gestión Documental Automatizada</h3>
 <ul>
-<li>Automatización en la creación de documentos PDF profesionales directamente desde plantillas de texto, facilitando la entrega de acuerdos financieros personalizados.</li>
-<li>Integración dinámica de información: el sistema ahora extrae datos clave de forma automática para completar los documentos, eliminando errores de transcripción.</li>
+<li>Ahora puedes generar contratos y acuerdos financieros en formato PDF de manera automática utilizando tus propias plantillas de Word.</li>
+<li>El sistema reemplaza automáticamente los datos del productor en tus documentos, ahorrando tiempo en la creación manual de papelería legal y administrativa.</li>
 </ul>
-<h3> 💰 Control de Créditos y Autofinanciamiento</h3>
+<h3> 💰 Automatización de Créditos</h3>
 <ul>
-<li>Mayor precisión en la generación automática de créditos al vincular tipos de documentos específicos según el origen de la compra.</li>
-<li>Flexibilidad operativa al permitir la configuración personalizada de documentos financieros, asegurando que cada crédito se clasifique correctamente según sus reglas de negocio.</li>
+<li>Mayor precisión al procesar compras autofinanciadas, permitiendo asignar tipos de documentos específicos para cada crédito generado.</li>
+<li>Mejor control administrativo al evitar la búsqueda genérica de documentos, asegurando que cada crédito se clasifique correctamente según su naturaleza desde el momento de su creación.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
