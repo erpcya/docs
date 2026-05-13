@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-13T19:15:11.419Z</updated>
+  <updated>2026-05-13T19:19:08.542Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,22 +12,22 @@
     <title type="text">erpya-3.9.4-001-4.2.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html"/>
-    <updated>2026-05-13T18:50:55.000Z</updated>
+    <updated>2026-05-13T18:54:22.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.</p>
+<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en el sistema.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</p>]]></summary>
+<p>En ERP Consultores y Asociados, nos enfocamos en que tu herramienta de gestión sea más ágil y confiable. Esta actualización se centra en refinar los procesos internos y asegurar un rendimiento óptimo en las tareas diarias de tu equipo.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.</p>
+<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en el sistema.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</p>
-<h3> 🚀 Rendimiento y Experiencia de Usuario</h3>
+<p>En ERP Consultores y Asociados, nos enfocamos en que tu herramienta de gestión sea más ágil y confiable. Esta actualización se centra en refinar los procesos internos y asegurar un rendimiento óptimo en las tareas diarias de tu equipo.</p>
+<h3> ⚙️ Rendimiento y Estabilidad del Sistema</h3>
 <ul>
-<li>Ajustes internos que garantizan una navegación más estable entre las distintas pantallas de trabajo.</li>
-<li>Optimización en la respuesta del sistema al ejecutar procesos operativos, reduciendo tiempos de espera.</li>
-<li>Refinamiento de la interfaz para asegurar una visualización clara y sin errores al procesar grandes volúmenes de información.</li>
+<li>Se han aplicado ajustes técnicos que garantizan una mayor fluidez en la navegación y ejecución de procesos.</li>
+<li>Mejora en la comunicación interna entre módulos para evitar interrupciones durante la carga de información.</li>
+<li>Refinamiento en la gestión de sesiones para asegurar una experiencia de trabajo ininterrumpida y segura.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
