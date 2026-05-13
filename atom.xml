@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-13T19:28:11.262Z</updated>
+  <updated>2026-05-13T19:29:21.241Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,31 +12,27 @@
     <title type="text">erpya-3.9.4-001-4.2.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html"/>
-    <updated>2026-05-13T19:08:05.000Z</updated>
+    <updated>2026-05-13T19:09:15.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la conciliación bancaria con mayor precisión en Banplus, la integración oficial de Banco Sofitasa y una infraestructura más estable.</p>
+<p>Optimizamos la gestión bancaria con la integración de Banco Sofitasa y mejoras críticas en la precisión de los extractos de Banplus.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos continuamente para agilizar su gestión financiera. Esta actualización mejora la lectura de sus estados de cuenta y fortalece la compatibilidad de nuestra plataforma con los estándares tecnológicos actuales.</p>]]></summary>
+<p>En ERP Consultores y Asociados, trabajamos continuamente para agilizar su conciliación bancaria. Esta actualización refuerza la estabilidad de nuestro sistema, asegurando que sus registros financieros coincidan perfectamente con sus movimientos bancarios y garantizando la compatibilidad con las herramientas más modernas del mercado.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la conciliación bancaria con mayor precisión en Banplus, la integración oficial de Banco Sofitasa y una infraestructura más estable.</p>
+<p>Optimizamos la gestión bancaria con la integración de Banco Sofitasa y mejoras críticas en la precisión de los extractos de Banplus.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos continuamente para agilizar su gestión financiera. Esta actualización mejora la lectura de sus estados de cuenta y fortalece la compatibilidad de nuestra plataforma con los estándares tecnológicos actuales.</p>
-<h3> 🏦 Gestión de Conciliación Bancaria</h3>
+<p>En ERP Consultores y Asociados, trabajamos continuamente para agilizar su conciliación bancaria. Esta actualización refuerza la estabilidad de nuestro sistema, asegurando que sus registros financieros coincidan perfectamente con sus movimientos bancarios y garantizando la compatibilidad con las herramientas más modernas del mercado.</p>
+<h3> 🏦 Gestión Bancaria y Conciliación</h3>
 <ul>
-<li>Hemos perfeccionado el cargador de extractos de Banplus para asegurar que los montos y decimales se procesen siempre con total exactitud, independientemente del formato de archivo que utilice.</li>
-<li>Ahora puede procesar sus archivos con total confianza, manteniendo la compatibilidad con los formatos de siempre o utilizando nuestras nuevas herramientas optimizadas para estructuras de datos recientes.</li>
-</ul>
-<h3> 🚀 Integración con Banco Sofitasa</h3>
-<ul>
-<li>Incorporamos soporte oficial para procesar estados de cuenta de Banco Sofitasa, permitiendo una lectura automática y precisa de sus movimientos bancarios.</li>
-<li>La integración es compatible tanto con archivos estándar como con aquellos provenientes de la plataforma digital, garantizando que fechas, referencias y montos se registren correctamente en su sistema.</li>
+<li>Incorporación oficial del Banco Sofitasa, permitiendo procesar sus estados de cuenta directamente desde sus plataformas web y de banca en línea.</li>
+<li>Optimización en la lectura de archivos de Banplus, asegurando que los montos y decimales se registren correctamente sin importar el formato del archivo.</li>
+<li>Mayor flexibilidad en la carga de documentos bancarios, manteniendo el soporte para formatos tradicionales y añadiendo nuevas estructuras más precisas.</li>
 </ul>
 <h3> ⚙️ Estabilidad y Rendimiento</h3>
 <ul>
-<li>Realizamos una actualización interna en el motor de procesamiento de archivos Excel, lo que garantiza una mayor estabilidad al importar datos financieros.</li>
-<li>Esta mejora asegura que el sistema cumpla con los estándares tecnológicos más actuales, previniendo errores durante la lectura de documentos y garantizando un funcionamiento fluido a largo plazo.</li>
+<li>Actualización de los componentes internos del sistema para garantizar una mayor compatibilidad y seguridad al procesar archivos de Excel.</li>
+<li>Mejora en la detección automática de datos en archivos bancarios, lo que reduce errores manuales y agiliza su cierre contable.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
