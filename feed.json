@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.2.4",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html",
+      "summary": "Fecha de Liberación: 2026-05-13 Novedades Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.",
+      "content_html": "<h1> Fecha de Liberación: 2026-05-13</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.</p>\n<h2> Contexto</h2>\n<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</p>\n<h3> 🚀 Rendimiento y Experiencia de Usuario</h3>\n<ul>\n<li>Ajustes internos que garantizan una navegación más estable entre las distintas pantallas de trabajo.</li>\n<li>Optimización en la respuesta del sistema al ejecutar procesos operativos, reduciendo tiempos de espera.</li>\n<li>Refinamiento de la interfaz para asegurar una visualización clara y sin errores al procesar grandes volúmenes de información.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-05-13T18:50:55.000Z",
+      "date_modified": "2026-05-13T18:50:55.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.2.3",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html",
@@ -1287,19 +1300,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.5.html",
       "summary": "Fecha de Liberación: 2025-10-03 Novedades Mejora en Órdenes de Venta Contexto Se corrige lógica para copiar precios. Requerimientos No se requieren procesos adicionales por aplicar.",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Mejora en Órdenes de Venta</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige lógica para copiar precios.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.3.6",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.6.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.6.html",
-      "summary": "Fecha de Liberación: 2025-10-06 Novedades Mejora en Órdenes de Venta Contexto Se corrige lógica para copiar precios. Requerimientos No se requieren procesos adicionales por aplicar.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-06</p>\n<h2> Novedades</h2>\n<ul>\n<li>Mejora en Órdenes de Venta</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige lógica para copiar precios.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],

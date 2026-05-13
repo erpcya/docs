@@ -3,11 +3,40 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-12T18:52:27.062Z</updated>
+  <updated>2026-05-13T19:15:11.419Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.2.4</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html"/>
+    <updated>2026-05-13T18:50:55.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</p>
+<h3> 🚀 Rendimiento y Experiencia de Usuario</h3>
+<ul>
+<li>Ajustes internos que garantizan una navegación más estable entre las distintas pantallas de trabajo.</li>
+<li>Optimización en la respuesta del sistema al ejecutar procesos operativos, reduciendo tiempos de espera.</li>
+<li>Refinamiento de la interfaz para asegurar una visualización clara y sin errores al procesar grandes volúmenes de información.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-05-13T18:50:55.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.2.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html</id>
@@ -3971,42 +4000,6 @@
 </ul>
 ]]></summary>
     <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-03</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejora en Órdenes de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrige lógica para copiar precios.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.3.6</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.6.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.6.html"/>
-    <updated>2025-11-04T15:26:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-06</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejora en Órdenes de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrige lógica para copiar precios.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-06</p>
 <h2> Novedades</h2>
 <ul>
 <li>Mejora en Órdenes de Venta</li>

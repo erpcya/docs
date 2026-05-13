@@ -6,11 +6,36 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 12 May 2026 18:52:27 GMT</pubDate>
-    <lastBuildDate>Tue, 12 May 2026 18:52:27 GMT</lastBuildDate>
+    <pubDate>Wed, 13 May 2026 19:15:11 GMT</pubDate>
+    <lastBuildDate>Wed, 13 May 2026 19:15:11 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.2.4</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.4</source>
+      <description>Fecha de Liberación: 2026-05-13 Novedades Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Wed, 13 May 2026 18:50:55 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.</p>
+<h3> 🚀 Rendimiento y Experiencia de Usuario</h3>
+<ul>
+<li>Ajustes internos que garantizan una navegación más estable entre las distintas pantallas de trabajo.</li>
+<li>Optimización en la respuesta del sistema al ejecutar procesos operativos, reduciendo tiempos de espera.</li>
+<li>Refinamiento de la interfaz para asegurar una visualización clara y sin errores al procesar grandes volúmenes de información.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.2.3</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.3.html</link>
@@ -3000,29 +3025,6 @@
       <category>Actualizaciones</category>
       <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
       <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-03</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejora en Órdenes de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrige lógica para copiar precios.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.3.6</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.6.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.6.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.3.6</source>
-      <description>Fecha de Liberación: 2025-10-06 Novedades Mejora en Órdenes de Venta Contexto Se corrige lógica para copiar precios. Requerimientos No se requieren procesos adicionales por aplicar.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-06</p>
 <h2> Novedades</h2>
 <ul>
 <li>Mejora en Órdenes de Venta</li>
