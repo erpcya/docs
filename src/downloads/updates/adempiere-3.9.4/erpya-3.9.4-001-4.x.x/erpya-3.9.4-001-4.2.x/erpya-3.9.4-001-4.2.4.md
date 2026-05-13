@@ -16,15 +16,15 @@ article: true
 # Fecha de Liberación: 2026-05-13
 
 ## Novedades
-Optimizamos la estabilidad y fluidez de tu experiencia operativa en ADempiere.
+Optimizamos la estabilidad y fluidez de tu experiencia operativa en el sistema.
 
 ## Contexto
-En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más ágil y confiable. Esta actualización se enfoca en perfeccionar la interacción con la plataforma, eliminando fricciones técnicas para que tu equipo pueda enfocarse en lo que realmente importa: el crecimiento de tu negocio.
+En ERP Consultores y Asociados, nos enfocamos en que tu herramienta de gestión sea más ágil y confiable. Esta actualización se centra en refinar los procesos internos y asegurar un rendimiento óptimo en las tareas diarias de tu equipo.
 
-### 🚀 Rendimiento y Experiencia de Usuario
-- Ajustes internos que garantizan una navegación más estable entre las distintas pantallas de trabajo.
-- Optimización en la respuesta del sistema al ejecutar procesos operativos, reduciendo tiempos de espera.
-- Refinamiento de la interfaz para asegurar una visualización clara y sin errores al procesar grandes volúmenes de información.
+### ⚙️ Rendimiento y Estabilidad del Sistema
+- Se han aplicado ajustes técnicos que garantizan una mayor fluidez en la navegación y ejecución de procesos.
+- Mejora en la comunicación interna entre módulos para evitar interrupciones durante la carga de información.
+- Refinamiento en la gestión de sesiones para asegurar una experiencia de trabajo ininterrumpida y segura.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
