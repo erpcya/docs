@@ -8,33 +8,24 @@ tag:
   - "Actualizaciones"
   - "Versiones"
   - "erpya-3.9.4-001-3.8.0"
-  - "2026-01-23"
+  - "2026-05-18"
+  - "Noticias"
 article: true
 ---
 
-**Fecha de Liberación:** 2026-01-23
+# Fecha de Liberación: 2026-05-18
 
 ## Novedades
-
-- **Ampliación de cobertura bancaria con loaders para Bancamiga, Tesoro y Provincial CSV**
+Hemos optimizado la conciliación bancaria ampliando la compatibilidad y estabilidad en la carga de extractos de los principales bancos nacionales.
 
 ## Contexto
+Con el objetivo de agilizar su gestión financiera, hemos actualizado nuestras herramientas de importación bancaria. Estas mejoras permiten procesar de manera automática y precisa los movimientos de diversas entidades, reduciendo significativamente la carga administrativa y el error humano en sus procesos de conciliación mensual.
 
-Actualización del ecosistema de conciliación bancaria para bancos nacionales venezolanos.
-
-### Bancos Incorporados / Actualizados:
-
-| Banco                      | Clase Loader              |
-| -------------------------- | ------------------------- |
-| **Bancamiga**              | Bancamiga_XLS_Loader      |
-| **Banco del Tesoro**       | BancoDelTesoro_XLS_Loader |
-| **Banco Provincial (CSV)** | Provincial_CSV_Loader     |
-
-### Mejoras Técnicas:
-
-- **Infraestructura**: Alineación con Apache POI 5.x para un manejo de celdas más moderno y eficiente.
-- **Normalización**: Estandarización centralizada de fechas y referencias numéricas para asegurar importaciones predecibles y reducir la intervención manual en conciliaciones.
+### 🏦 Gestión de Extractos Bancarios
+- Ampliación de soporte para importar archivos directamente desde Bancamiga, Banco del Tesoro y Banco Provincial, utilizando formatos estándar como hojas de cálculo y archivos de texto.
+- Automatización en la lectura de fechas, referencias y montos, garantizando que el sistema interprete correctamente la información financiera sin necesidad de ajustes manuales.
+- Mayor tolerancia y robustez ante variaciones en los formatos de archivo, asegurando que el proceso de carga sea fluido y libre de interrupciones por filas inconsistentes.
+- Optimización interna del motor de procesamiento para garantizar una importación más estable, rápida y preparada para futuras actualizaciones bancarias.
 
 ## Requerimientos
-
 - No se requieren procesos adicionales por aplicar.
