@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-18T01:13:13.487Z</updated>
+  <updated>2026-05-18T01:17:12.406Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -2071,23 +2071,28 @@
     <title type="text">erpya-3.9.4-001-3.8.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.8.x/erpya-3.9.4-001-3.8.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.8.x/erpya-3.9.4-001-3.8.0.html"/>
-    <updated>2026-05-18T00:48:07.000Z</updated>
+    <updated>2026-05-18T00:52:03.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-18</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad y estabilidad en la carga de extractos de los principales bancos nacionales.</p>
+<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad con los principales bancos nacionales para agilizar tu gestión financiera.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de agilizar su gestión financiera, hemos actualizado nuestras herramientas de importación bancaria. Estas mejoras permiten procesar de manera automática y precisa los movimientos de diversas entidades, reduciendo significativamente la carga administrativa y el error humano en sus procesos de conciliación mensual.</p>]]></summary>
+<p>Con el objetivo de simplificar el cierre contable de tu organización, hemos actualizado nuestras herramientas de importación de movimientos bancarios. Ahora, el sistema procesa de forma más inteligente y estable los archivos que descargas directamente de tu banca en línea, eliminando la carga operativa de la captura manual.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-18</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad y estabilidad en la carga de extractos de los principales bancos nacionales.</p>
+<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad con los principales bancos nacionales para agilizar tu gestión financiera.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de agilizar su gestión financiera, hemos actualizado nuestras herramientas de importación bancaria. Estas mejoras permiten procesar de manera automática y precisa los movimientos de diversas entidades, reduciendo significativamente la carga administrativa y el error humano en sus procesos de conciliación mensual.</p>
+<p>Con el objetivo de simplificar el cierre contable de tu organización, hemos actualizado nuestras herramientas de importación de movimientos bancarios. Ahora, el sistema procesa de forma más inteligente y estable los archivos que descargas directamente de tu banca en línea, eliminando la carga operativa de la captura manual.</p>
 <h3> 🏦 Gestión de Extractos Bancarios</h3>
 <ul>
-<li>Ampliación de soporte para importar archivos directamente desde Bancamiga, Banco del Tesoro y Banco Provincial, utilizando formatos estándar como hojas de cálculo y archivos de texto.</li>
-<li>Automatización en la lectura de fechas, referencias y montos, garantizando que el sistema interprete correctamente la información financiera sin necesidad de ajustes manuales.</li>
-<li>Mayor tolerancia y robustez ante variaciones en los formatos de archivo, asegurando que el proceso de carga sea fluido y libre de interrupciones por filas inconsistentes.</li>
-<li>Optimización interna del motor de procesamiento para garantizar una importación más estable, rápida y preparada para futuras actualizaciones bancarias.</li>
+<li>Nueva compatibilidad para Bancamiga y Banco del Tesoro mediante archivos de hoja de cálculo, permitiendo una lectura precisa de fechas, montos y referencias.</li>
+<li>Integración optimizada para Banco Provincial, facilitando la importación directa desde archivos de texto estructurado.</li>
+<li>Mayor estabilidad en el procesamiento de datos, asegurando que los encabezados y filas innecesarias sean ignorados automáticamente.</li>
+<li>Estandarización en la interpretación de montos y fechas, lo que garantiza que la información financiera se refleje correctamente sin errores de formato.</li>
+</ul>
+<h3> 🚀 Impacto en tu Operación</h3>
+<ul>
+<li>Reducción significativa del tiempo dedicado a la conciliación manual gracias a la automatización de la lectura de movimientos.</li>
+<li>Procesos de importación más robustos y predecibles, minimizando la intervención humana y evitando inconsistencias en la información bancaria.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
