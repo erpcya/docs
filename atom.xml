@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-13T19:33:16.709Z</updated>
+  <updated>2026-05-18T01:13:13.487Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,33 +12,27 @@
     <title type="text">erpya-3.9.4-001-4.2.4</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html"/>
-    <updated>2026-05-13T19:08:46.000Z</updated>
+    <updated>2026-05-13T19:09:15.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión bancaria con nuevas integraciones y mayor precisión en la carga de datos financieros.</p>
+<p>Optimizamos la gestión bancaria con la integración de Banco Sofitasa y mejoras críticas en la precisión de los extractos de Banplus.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de facilitar su conciliación bancaria y asegurar la estabilidad de su sistema, hemos actualizado las herramientas de importación de extractos. Estas mejoras garantizan una lectura más precisa de sus movimientos financieros y amplían el soporte a nuevas instituciones bancarias.</p>]]></summary>
+<p>En ERP Consultores y Asociados, trabajamos continuamente para agilizar su conciliación bancaria. Esta actualización refuerza la estabilidad de nuestro sistema, asegurando que sus registros financieros coincidan perfectamente con sus movimientos bancarios y garantizando la compatibilidad con las herramientas más modernas del mercado.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-13</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión bancaria con nuevas integraciones y mayor precisión en la carga de datos financieros.</p>
+<p>Optimizamos la gestión bancaria con la integración de Banco Sofitasa y mejoras críticas en la precisión de los extractos de Banplus.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de facilitar su conciliación bancaria y asegurar la estabilidad de su sistema, hemos actualizado las herramientas de importación de extractos. Estas mejoras garantizan una lectura más precisa de sus movimientos financieros y amplían el soporte a nuevas instituciones bancarias.</p>
-<h3> 🏦 Gestión de Extractos Banplus</h3>
+<p>En ERP Consultores y Asociados, trabajamos continuamente para agilizar su conciliación bancaria. Esta actualización refuerza la estabilidad de nuestro sistema, asegurando que sus registros financieros coincidan perfectamente con sus movimientos bancarios y garantizando la compatibilidad con las herramientas más modernas del mercado.</p>
+<h3> 🏦 Gestión Bancaria y Conciliación</h3>
 <ul>
-<li>Resolución de problemas en la lectura de montos y decimales para asegurar que sus saldos siempre coincidan.</li>
-<li>Implementación de un sistema dual que permite elegir entre los formatos tradicionales o los nuevos diseños actualizados por el banco.</li>
-<li>Mayor flexibilidad en la carga de archivos, permitiendo procesar formatos CSV, TXT y Excel de manera más eficiente.</li>
-</ul>
-<h3> 💳 Integración con Banco Sofitasa</h3>
-<ul>
-<li>Incorporación oficial del Banco Sofitasa, permitiendo procesar sus estados de cuenta directamente en el sistema.</li>
-<li>Soporte especializado para los archivos provenientes de la plataforma digital del banco, asegurando una lectura correcta de débitos y créditos.</li>
-<li>Validación automática de información para evitar errores en las fechas y referencias de sus transacciones.</li>
+<li>Incorporación oficial del Banco Sofitasa, permitiendo procesar sus estados de cuenta directamente desde sus plataformas web y de banca en línea.</li>
+<li>Optimización en la lectura de archivos de Banplus, asegurando que los montos y decimales se registren correctamente sin importar el formato del archivo.</li>
+<li>Mayor flexibilidad en la carga de documentos bancarios, manteniendo el soporte para formatos tradicionales y añadiendo nuevas estructuras más precisas.</li>
 </ul>
 <h3> ⚙️ Estabilidad y Rendimiento</h3>
 <ul>
-<li>Actualización de los componentes de procesamiento de archivos Excel para garantizar una mayor velocidad y fiabilidad.</li>
-<li>Ajustes de compatibilidad interna que aseguran que su sistema se mantenga al día con los estándares tecnológicos actuales, evitando interrupciones en el trabajo diario.</li>
+<li>Actualización de los componentes internos del sistema para garantizar una mayor compatibilidad y seguridad al procesar archivos de Excel.</li>
+<li>Mejora en la detección automática de datos en archivos bancarios, lo que reduce errores manuales y agiliza su cierre contable.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
@@ -2077,48 +2071,23 @@
     <title type="text">erpya-3.9.4-001-3.8.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.8.x/erpya-3.9.4-001-3.8.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.8.x/erpya-3.9.4-001-3.8.0.html"/>
-    <updated>2026-04-17T20:22:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2026-01-23</p>
+    <updated>2026-05-18T00:48:07.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-18</h1>
 <h2> Novedades</h2>
-<ul>
-<li><strong>Ampliación de cobertura bancaria con loaders para Bancamiga, Tesoro y Provincial CSV</strong></li>
-</ul>
+<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad y estabilidad en la carga de extractos de los principales bancos nacionales.</p>
 <h2> Contexto</h2>
-<p>Actualización del ecosistema de conciliación bancaria para bancos nacionales venezolanos.</p>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2026-01-23</p>
+<p>Con el objetivo de agilizar su gestión financiera, hemos actualizado nuestras herramientas de importación bancaria. Estas mejoras permiten procesar de manera automática y precisa los movimientos de diversas entidades, reduciendo significativamente la carga administrativa y el error humano en sus procesos de conciliación mensual.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-18</h1>
 <h2> Novedades</h2>
-<ul>
-<li><strong>Ampliación de cobertura bancaria con loaders para Bancamiga, Tesoro y Provincial CSV</strong></li>
-</ul>
+<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad y estabilidad en la carga de extractos de los principales bancos nacionales.</p>
 <h2> Contexto</h2>
-<p>Actualización del ecosistema de conciliación bancaria para bancos nacionales venezolanos.</p>
-<h3> Bancos Incorporados / Actualizados:</h3>
-<table>
-<thead>
-<tr>
-<th>Banco</th>
-<th>Clase Loader</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>Bancamiga</strong></td>
-<td>Bancamiga_XLS_Loader</td>
-</tr>
-<tr>
-<td><strong>Banco del Tesoro</strong></td>
-<td>BancoDelTesoro_XLS_Loader</td>
-</tr>
-<tr>
-<td><strong>Banco Provincial (CSV)</strong></td>
-<td>Provincial_CSV_Loader</td>
-</tr>
-</tbody>
-</table>
-<h3> Mejoras Técnicas:</h3>
+<p>Con el objetivo de agilizar su gestión financiera, hemos actualizado nuestras herramientas de importación bancaria. Estas mejoras permiten procesar de manera automática y precisa los movimientos de diversas entidades, reduciendo significativamente la carga administrativa y el error humano en sus procesos de conciliación mensual.</p>
+<h3> 🏦 Gestión de Extractos Bancarios</h3>
 <ul>
-<li><strong>Infraestructura</strong>: Alineación con Apache POI 5.x para un manejo de celdas más moderno y eficiente.</li>
-<li><strong>Normalización</strong>: Estandarización centralizada de fechas y referencias numéricas para asegurar importaciones predecibles y reducir la intervención manual en conciliaciones.</li>
+<li>Ampliación de soporte para importar archivos directamente desde Bancamiga, Banco del Tesoro y Banco Provincial, utilizando formatos estándar como hojas de cálculo y archivos de texto.</li>
+<li>Automatización en la lectura de fechas, referencias y montos, garantizando que el sistema interprete correctamente la información financiera sin necesidad de ajustes manuales.</li>
+<li>Mayor tolerancia y robustez ante variaciones en los formatos de archivo, asegurando que el proceso de carga sea fluido y libre de interrupciones por filas inconsistentes.</li>
+<li>Optimización interna del motor de procesamiento para garantizar una importación más estable, rápida y preparada para futuras actualizaciones bancarias.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
