@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 19 May 2026 01:56:14 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 01:56:14 GMT</lastBuildDate>
+    <pubDate>Tue, 19 May 2026 01:56:53 GMT</pubDate>
+    <lastBuildDate>Tue, 19 May 2026 01:56:53 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,24 +16,26 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.5.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.5.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.5</source>
-      <description>Fecha de Liberación: 2026-05-19 Novedades Optimizamos la gestión de créditos agrícolas y la estabilidad operativa del sistema para una experiencia más fluida. Contexto En esta actualización, nos enfocamos en fortalecer la precisión de los procesos financieros para nuestros agricultores y mejorar la estabilidad técnica de nuestra plataforma. Estas mejoras garantizan un registro más confiable, evitan errores operativos y facilitan la descarga de información clave en el entorno web.</description>
+      <description>Fecha de Liberación: 2026-05-19 Novedades Optimizamos la gestión de créditos agrícolas, automatizamos procesos financieros y mejoramos la estabilidad del sistema. Contexto En esta actualización, nos enfocamos en fortalecer la precisión operativa de los procesos de asistencia al agricultor y asegurar una experiencia más fluida y confiable al trabajar con herramientas de exportación y gestión de divisas.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 19 May 2026 01:28:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-19</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión de créditos agrícolas y la estabilidad operativa del sistema para una experiencia más fluida.</p>
+<p>Optimizamos la gestión de créditos agrícolas, automatizamos procesos financieros y mejoramos la estabilidad del sistema.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos enfocamos en fortalecer la precisión de los procesos financieros para nuestros agricultores y mejorar la estabilidad técnica de nuestra plataforma. Estas mejoras garantizan un registro más confiable, evitan errores operativos y facilitan la descarga de información clave en el entorno web.</p>
+<p>En esta actualización, nos enfocamos en fortalecer la precisión operativa de los procesos de asistencia al agricultor y asegurar una experiencia más fluida y confiable al trabajar con herramientas de exportación y gestión de divisas.</p>
 <h3> 🌾 Gestión de Asistencia al Agricultor</h3>
 <ul>
-<li>Implementamos validaciones inteligentes para compras autofinanciadas, asegurando que cada crédito esté correctamente asociado a un único rubro para evitar errores de duplicidad.</li>
-<li>Automatizamos la exigencia de datos obligatorios en la cabecera del documento, garantizando que el sistema no permita avanzar sin la información financiera necesaria.</li>
-<li>Mejoramos la visibilidad del rubro en los acuerdos financieros y reportes de cuenta, permitiendo a los usuarios identificar cultivos y categorías de forma rápida y sencilla.</li>
+<li>Nueva validación inteligente que impide errores en pedidos autofinanciados, asegurando que cada crédito esté correctamente vinculado a un solo rubro o categoría.</li>
+<li>Automatización en la creación de créditos: el sistema ahora verifica automáticamente la existencia de acuerdos previos para evitar duplicados y facilitar la gestión del productor.</li>
+<li>Mejora visual en la interfaz: ahora es mucho más sencillo identificar acuerdos y créditos gracias a la nueva integración de categorías en la selección de documentos.</li>
+<li>Reportes más precisos: corregimos la visualización del rubro en el estado de cuenta del productor para garantizar que la información financiera sea siempre clara y completa.</li>
 </ul>
-<h3> ⚙️ Estabilidad y Operaciones del Sistema</h3>
+<h3> ⚙️ Estabilidad y Herramientas del Sistema</h3>
 <ul>
-<li>Corregimos la generación de tasas de cambio automáticas, asegurando que el sistema complete correctamente los días festivos o fines de semana sin omitir el registro del día actual.</li>
-<li>Optimizamos la exportación de archivos y paquetes de configuración en la interfaz web, permitiendo ahora la descarga directa a través del navegador para mayor comodidad.</li>
+<li>Resolución de conflictos técnicos internos que garantizan una carga más estable y eficiente de las funciones del sistema.</li>
+<li>Optimización en la exportación de archivos: ahora es posible descargar paquetes de configuración y archivos de migración directamente desde el navegador de forma rápida y sin errores.</li>
+<li>Ajuste en la gestión de tasas de cambio: el sistema ahora asegura la continuidad de los registros diarios, evitando vacíos de información cuando hay días no hábiles de por medio.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
