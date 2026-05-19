@@ -16,19 +16,20 @@ article: true
 # Fecha de Liberación: 2026-05-19
 
 ## Novedades
-Optimizamos la gestión de créditos agrícolas y la estabilidad operativa del sistema para una experiencia más fluida.
+Optimizamos la gestión agrícola y la estabilidad del sistema para una operación más fluida y sin errores.
 
 ## Contexto
-En esta actualización, nos enfocamos en fortalecer la precisión de los procesos financieros para nuestros agricultores y mejorar la estabilidad técnica de nuestra plataforma. Estas mejoras garantizan un registro más confiable, evitan errores operativos y facilitan la descarga de información clave en el entorno web.
+En esta actualización, nos enfocamos en fortalecer los procesos de asistencia al agricultor y mejorar la estabilidad técnica del sistema. Estos cambios aseguran que la información financiera sea precisa y que las herramientas de gestión operen sin interrupciones, tanto en el entorno web como en el escritorio.
 
-### 🌾 Gestión de Asistencia al Agricultor
-- Implementamos validaciones inteligentes para compras autofinanciadas, asegurando que cada crédito esté correctamente asociado a un único rubro para evitar errores de duplicidad.
-- Automatizamos la exigencia de datos obligatorios en la cabecera del documento, garantizando que el sistema no permita avanzar sin la información financiera necesaria.
-- Mejoramos la visibilidad del rubro en los acuerdos financieros y reportes de cuenta, permitiendo a los usuarios identificar cultivos y categorías de forma rápida y sencilla.
+### 🚜 Gestión de Asistencia al Agricultor
+- Implementamos controles automáticos que aseguran la consistencia en pedidos de compra autofinanciados, evitando errores en la asignación de categorías y créditos.
+- Introdujimos validaciones inteligentes para prevenir la creación de créditos duplicados, garantizando la integridad de los registros por productor.
+- Mejoramos la visualización y reporte de los estados de cuenta, facilitando la identificación rápida de los rubros asociados a cada operación.
+- Optimizamos los procesos internos para garantizar una carga más estable y eficiente de todas las funcionalidades del módulo.
 
-### ⚙️ Estabilidad y Operaciones del Sistema
-- Corregimos la generación de tasas de cambio automáticas, asegurando que el sistema complete correctamente los días festivos o fines de semana sin omitir el registro del día actual.
-- Optimizamos la exportación de archivos y paquetes de configuración en la interfaz web, permitiendo ahora la descarga directa a través del navegador para mayor comodidad.
+### 🌐 Estabilidad y Herramientas Administrativas
+- Corregimos errores en la exportación de configuraciones y paquetes, asegurando que las descargas de archivos se realicen correctamente directamente desde su navegador.
+- Optimizamos el cálculo automático de tasas de cambio para evitar brechas en el registro de fechas, garantizando que el sistema siempre cuente con la información actualizada al día.
 
 ## Requerimientos
 - Se requieren procesos adicionales por aplicar.
