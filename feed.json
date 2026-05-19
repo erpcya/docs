@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.2.5",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.5.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.5.html",
+      "summary": "Fecha de Liberación: 2026-05-19 Novedades Optimizamos la gestión de créditos agrícolas, la estabilidad del sistema y la precisión en el cálculo de tasas de cambio. Contexto Con el objetivo de robustecer nuestra plataforma y facilitar las operaciones diarias, hemos implementado mejoras clave enfocadas en la automatización de procesos agrícolas y la mejora en la experiencia de descarga de archivos, garantizando mayor confiabilidad en los datos financieros.",
+      "content_html": "<h1> Fecha de Liberación: 2026-05-19</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la gestión de créditos agrícolas, la estabilidad del sistema y la precisión en el cálculo de tasas de cambio.</p>\n<h2> Contexto</h2>\n<p>Con el objetivo de robustecer nuestra plataforma y facilitar las operaciones diarias, hemos implementado mejoras clave enfocadas en la automatización de procesos agrícolas y la mejora en la experiencia de descarga de archivos, garantizando mayor confiabilidad en los datos financieros.</p>\n<h3> 🌾 Gestión de Asistencia al Agricultor</h3>\n<ul>\n<li>Implementamos reglas automáticas para asegurar que los pedidos de compra autofinanciados mantengan una estructura correcta, evitando errores en la asignación de rubros y créditos.</li>\n<li>Introdujimos validaciones inteligentes que previenen la creación de créditos duplicados, facilitando el control y la trazabilidad de cada productor.</li>\n<li>Mejoramos la visualización de datos en el Estado de Cuenta del Productor, asegurando que la información de los rubros sea clara y precisa en todo momento.</li>\n</ul>\n<h3> ⚙️ Estabilidad y Operatividad del Sistema</h3>\n<ul>\n<li>Optimizamos la carga interna de componentes para garantizar un funcionamiento más fluido y estable de la plataforma.</li>\n<li>Corregimos la descarga de archivos y paquetes de configuración en la interfaz web, permitiendo que el navegador gestione la descarga de forma nativa y eficiente.</li>\n<li>Refinamos el proceso de generación automática de tasas de cambio para asegurar que no existan brechas en los registros históricos, garantizando que el sistema siempre cuente con la información financiera actualizada.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-05-19T01:28:00.000Z",
+      "date_modified": "2026-05-19T01:28:00.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.2.4",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.4.html",
@@ -1287,19 +1300,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.4.html",
       "summary": "Fecha de Liberación: 2025-10-03 Novedades Mejoras de Órdenes de Venta Contexto Se corrige la copia de líneas de pedido para que el campo Pricelist y Discount se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización (Referencias)",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Mejoras de Órdenes de Venta</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige la copia de líneas de pedido para que el campo Pricelist y Discount se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización (Referencias)</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.3.5",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.5.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.5.html",
-      "summary": "Fecha de Liberación: 2025-10-03 Novedades Mejora en Órdenes de Venta Contexto Se corrige lógica para copiar precios. Requerimientos No se requieren procesos adicionales por aplicar.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-03</p>\n<h2> Novedades</h2>\n<ul>\n<li>Mejora en Órdenes de Venta</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige lógica para copiar precios.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],
