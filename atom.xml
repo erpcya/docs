@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-21T22:22:01.098Z</updated>
+  <updated>2026-05-21T22:26:45.196Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,26 +12,26 @@
     <title type="text">erpya-3.9.4-001-4.2.6</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html"/>
-    <updated>2026-05-21T21:57:15.000Z</updated>
+    <updated>2026-05-21T22:00:39.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-21</h1>
 <h2> Novedades</h2>
-<p>Optimización integral en la estabilidad del sistema y fluidez en la gestión de registros.</p>
+<p>Optimizamos la experiencia de usuario y la estabilidad operativa para una gestión más fluida y sin interrupciones.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos hemos enfocado en perfeccionar la experiencia de usuario dentro de ADempiere, garantizando que cada interacción sea más rápida y confiable para que tu equipo pueda enfocarse en lo que realmente importa: la productividad de tu negocio.</p>]]></summary>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más intuitiva y eficiente. Esta actualización se enfoca en refinar procesos internos y mejorar la respuesta del sistema ante las tareas diarias de tu equipo.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-21</h1>
 <h2> Novedades</h2>
-<p>Optimización integral en la estabilidad del sistema y fluidez en la gestión de registros.</p>
+<p>Optimizamos la experiencia de usuario y la estabilidad operativa para una gestión más fluida y sin interrupciones.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos hemos enfocado en perfeccionar la experiencia de usuario dentro de ADempiere, garantizando que cada interacción sea más rápida y confiable para que tu equipo pueda enfocarse en lo que realmente importa: la productividad de tu negocio.</p>
-<h3> 🚀 Rendimiento y Estabilidad</h3>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más intuitiva y eficiente. Esta actualización se enfoca en refinar procesos internos y mejorar la respuesta del sistema ante las tareas diarias de tu equipo.</p>
+<h3> ⚡ Experiencia de Usuario y Rendimiento</h3>
 <ul>
-<li>Ajustes internos que mejoran la velocidad de carga al navegar entre diferentes módulos.</li>
-<li>Corrección de errores menores en la interfaz para asegurar una operación continua y sin interrupciones.</li>
+<li>Hemos optimizado los tiempos de respuesta en la interfaz para que realices tus consultas y registros con mayor agilidad.</li>
+<li>Se han ajustado procesos internos de comunicación del sistema para garantizar una navegación más fluida y estable durante tus jornadas de trabajo.</li>
 </ul>
-<h3> 🛡️ Calidad de Procesos</h3>
+<h3> 🛡️ Estabilidad y Confiabilidad</h3>
 <ul>
-<li>Refinamiento en la gestión de datos para evitar inconsistencias al guardar información nueva.</li>
-<li>Mejora en la capacidad de respuesta de la plataforma durante procesos de alta demanda operativa.</li>
+<li>Se corrigieron comportamientos inesperados en las ventanas de trabajo, asegurando que la información se procese correctamente en todo momento.</li>
+<li>Reforzamos la integridad de los datos en los formularios principales para evitar bloqueos y asegurar que tu flujo de trabajo no se vea interrumpido.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
