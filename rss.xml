@@ -6,36 +6,64 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 19 May 2026 01:56:53 GMT</pubDate>
-    <lastBuildDate>Tue, 19 May 2026 01:56:53 GMT</lastBuildDate>
+    <pubDate>Thu, 21 May 2026 22:22:01 GMT</pubDate>
+    <lastBuildDate>Thu, 21 May 2026 22:22:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.2.6</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.6</source>
+      <description>Fecha de Liberación: 2026-05-21 Novedades Optimización integral en la estabilidad del sistema y fluidez en la gestión de registros. Contexto En esta actualización, nos hemos enfocado en perfeccionar la experiencia de usuario dentro de ADempiere, garantizando que cada interacción sea más rápida y confiable para que tu equipo pueda enfocarse en lo que realmente importa: la productividad de tu negocio.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Thu, 21 May 2026 21:57:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-21</h1>
+<h2> Novedades</h2>
+<p>Optimización integral en la estabilidad del sistema y fluidez en la gestión de registros.</p>
+<h2> Contexto</h2>
+<p>En esta actualización, nos hemos enfocado en perfeccionar la experiencia de usuario dentro de ADempiere, garantizando que cada interacción sea más rápida y confiable para que tu equipo pueda enfocarse en lo que realmente importa: la productividad de tu negocio.</p>
+<h3> 🚀 Rendimiento y Estabilidad</h3>
+<ul>
+<li>Ajustes internos que mejoran la velocidad de carga al navegar entre diferentes módulos.</li>
+<li>Corrección de errores menores en la interfaz para asegurar una operación continua y sin interrupciones.</li>
+</ul>
+<h3> 🛡️ Calidad de Procesos</h3>
+<ul>
+<li>Refinamiento en la gestión de datos para evitar inconsistencias al guardar información nueva.</li>
+<li>Mejora en la capacidad de respuesta de la plataforma durante procesos de alta demanda operativa.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.2.5</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.5.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.5.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.5</source>
-      <description>Fecha de Liberación: 2026-05-19 Novedades Optimizamos la gestión de créditos agrícolas, automatizamos procesos financieros y mejoramos la estabilidad del sistema. Contexto En esta actualización, nos enfocamos en fortalecer la precisión operativa de los procesos de asistencia al agricultor y asegurar una experiencia más fluida y confiable al trabajar con herramientas de exportación y gestión de divisas.</description>
+      <description>Fecha de Liberación: 2026-05-19 Novedades Optimizamos la gestión agrícola y la estabilidad del sistema para una operación más fluida y sin errores. Contexto En esta actualización, nos enfocamos en fortalecer los procesos de asistencia al agricultor y mejorar la estabilidad técnica del sistema. Estos cambios aseguran que la información financiera sea precisa y que las herramientas de gestión operen sin interrupciones, tanto en el entorno web como en el escritorio.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 19 May 2026 01:28:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-19</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión de créditos agrícolas, automatizamos procesos financieros y mejoramos la estabilidad del sistema.</p>
+<p>Optimizamos la gestión agrícola y la estabilidad del sistema para una operación más fluida y sin errores.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos enfocamos en fortalecer la precisión operativa de los procesos de asistencia al agricultor y asegurar una experiencia más fluida y confiable al trabajar con herramientas de exportación y gestión de divisas.</p>
-<h3> 🌾 Gestión de Asistencia al Agricultor</h3>
+<p>En esta actualización, nos enfocamos en fortalecer los procesos de asistencia al agricultor y mejorar la estabilidad técnica del sistema. Estos cambios aseguran que la información financiera sea precisa y que las herramientas de gestión operen sin interrupciones, tanto en el entorno web como en el escritorio.</p>
+<h3> 🚜 Gestión de Asistencia al Agricultor</h3>
 <ul>
-<li>Nueva validación inteligente que impide errores en pedidos autofinanciados, asegurando que cada crédito esté correctamente vinculado a un solo rubro o categoría.</li>
-<li>Automatización en la creación de créditos: el sistema ahora verifica automáticamente la existencia de acuerdos previos para evitar duplicados y facilitar la gestión del productor.</li>
-<li>Mejora visual en la interfaz: ahora es mucho más sencillo identificar acuerdos y créditos gracias a la nueva integración de categorías en la selección de documentos.</li>
-<li>Reportes más precisos: corregimos la visualización del rubro en el estado de cuenta del productor para garantizar que la información financiera sea siempre clara y completa.</li>
+<li>Implementamos controles automáticos que aseguran la consistencia en pedidos de compra autofinanciados, evitando errores en la asignación de categorías y créditos.</li>
+<li>Introdujimos validaciones inteligentes para prevenir la creación de créditos duplicados, garantizando la integridad de los registros por productor.</li>
+<li>Mejoramos la visualización y reporte de los estados de cuenta, facilitando la identificación rápida de los rubros asociados a cada operación.</li>
+<li>Optimizamos los procesos internos para garantizar una carga más estable y eficiente de todas las funcionalidades del módulo.</li>
 </ul>
-<h3> ⚙️ Estabilidad y Herramientas del Sistema</h3>
+<h3> 🌐 Estabilidad y Herramientas Administrativas</h3>
 <ul>
-<li>Resolución de conflictos técnicos internos que garantizan una carga más estable y eficiente de las funciones del sistema.</li>
-<li>Optimización en la exportación de archivos: ahora es posible descargar paquetes de configuración y archivos de migración directamente desde el navegador de forma rápida y sin errores.</li>
-<li>Ajuste en la gestión de tasas de cambio: el sistema ahora asegura la continuidad de los registros diarios, evitando vacíos de información cuando hay días no hábiles de por medio.</li>
+<li>Corregimos errores en la exportación de configuraciones y paquetes, asegurando que las descargas de archivos se realicen correctamente directamente desde su navegador.</li>
+<li>Optimizamos el cálculo automático de tasas de cambio para evitar brechas en el registro de fechas, garantizando que el sistema siempre cuente con la información actualizada al día.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
@@ -3005,29 +3033,6 @@
 <ul>
 <li>Se corrige funcionalidad para que al Reversar una Entrega (Cliente) considere la compra y no la venta.</li>
 <li>Se corrige la copia de líneas de pedido para que el campo PriceList se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.3.4</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.4.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.4.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.3.4</source>
-      <description>Fecha de Liberación: 2025-10-03 Novedades Mejoras de Órdenes de Venta Contexto Se corrige la copia de líneas de pedido para que el campo Pricelist y Discount se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización (Referencias)</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-03</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejoras de Órdenes de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrige la copia de líneas de pedido para que el campo Pricelist y Discount se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización (Referencias)</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
