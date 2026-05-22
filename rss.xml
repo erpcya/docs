@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 21 May 2026 22:26:45 GMT</pubDate>
-    <lastBuildDate>Thu, 21 May 2026 22:26:45 GMT</lastBuildDate>
+    <pubDate>Fri, 22 May 2026 16:22:10 GMT</pubDate>
+    <lastBuildDate>Fri, 22 May 2026 16:22:10 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,23 +16,21 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.2.6</source>
-      <description>Fecha de Liberación: 2026-05-21 Novedades Optimizamos la experiencia de usuario y la estabilidad operativa para una gestión más fluida y sin interrupciones. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más intuitiva y eficiente. Esta actualización se enfoca en refinar procesos internos y mejorar la respuesta del sistema ante las tareas diarias de tu equipo.</description>
+      <description>Fecha de Liberación: 2026-05-21 Novedades Optimizamos tu gestión financiera con la integración directa de pagos masivos para Banco Mercantil. Contexto Con el objetivo de agilizar tus operaciones contables y reducir errores manuales, hemos incorporado una nueva funcionalidad que permite la comunicación directa entre tu sistema y la plataforma del Banco Mercantil, facilitando el procesamiento de pagos a proveedores y la verificación de cheques.</description>
       <category>Actualizaciones</category>
       <pubDate>Thu, 21 May 2026 21:57:15 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-21</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la experiencia de usuario y la estabilidad operativa para una gestión más fluida y sin interrupciones.</p>
+<p>Optimizamos tu gestión financiera con la integración directa de pagos masivos para Banco Mercantil.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más intuitiva y eficiente. Esta actualización se enfoca en refinar procesos internos y mejorar la respuesta del sistema ante las tareas diarias de tu equipo.</p>
-<h3> ⚡ Experiencia de Usuario y Rendimiento</h3>
+<p>Con el objetivo de agilizar tus operaciones contables y reducir errores manuales, hemos incorporado una nueva funcionalidad que permite la comunicación directa entre tu sistema y la plataforma del Banco Mercantil, facilitando el procesamiento de pagos a proveedores y la verificación de cheques.</p>
+<h3> 🏦 Gestión Bancaria y Pagos</h3>
 <ul>
-<li>Hemos optimizado los tiempos de respuesta en la interfaz para que realices tus consultas y registros con mayor agilidad.</li>
-<li>Se han ajustado procesos internos de comunicación del sistema para garantizar una navegación más fluida y estable durante tus jornadas de trabajo.</li>
-</ul>
-<h3> 🛡️ Estabilidad y Confiabilidad</h3>
-<ul>
-<li>Se corrigieron comportamientos inesperados en las ventanas de trabajo, asegurando que la información se procese correctamente en todo momento.</li>
-<li>Reforzamos la integridad de los datos en los formularios principales para evitar bloqueos y asegurar que tu flujo de trabajo no se vea interrumpido.</li>
+<li>Generación automática de archivos estructurados para pagos masivos, cumpliendo con los estándares requeridos por el Banco Mercantil para transferencias y cheques.</li>
+<li>Automatización de la clasificación de transferencias, detectando si el pago es al mismo banco o a otras entidades financieras sin intervención manual.</li>
+<li>Validación inteligente que anula automáticamente montos de pagos que no estén debidamente completados, garantizando la integridad de la información enviada al banco.</li>
+<li>Sistema de control de errores que notifica al usuario si falta información crítica o si existen datos incorrectos antes de generar el archivo, evitando rechazos bancarios.</li>
+<li>Formateo automático de datos, incluyendo la limpieza de identificadores fiscales, ajuste de montos y estandarización de números de cuenta para cumplir con las exigencias de seguridad bancaria.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
