@@ -16,18 +16,17 @@ article: true
 # Fecha de Liberación: 2026-05-21
 
 ## Novedades
-Optimizamos la experiencia de usuario y la estabilidad operativa para una gestión más fluida y sin interrupciones.
+Optimizamos tu gestión financiera con la integración directa de pagos masivos para Banco Mercantil.
 
 ## Contexto
-En ERP Consultores y Asociados, trabajamos constantemente para que tu herramienta de gestión sea más intuitiva y eficiente. Esta actualización se enfoca en refinar procesos internos y mejorar la respuesta del sistema ante las tareas diarias de tu equipo.
+Con el objetivo de agilizar tus operaciones contables y reducir errores manuales, hemos incorporado una nueva funcionalidad que permite la comunicación directa entre tu sistema y la plataforma del Banco Mercantil, facilitando el procesamiento de pagos a proveedores y la verificación de cheques.
 
-### ⚡ Experiencia de Usuario y Rendimiento
-- Hemos optimizado los tiempos de respuesta en la interfaz para que realices tus consultas y registros con mayor agilidad.
-- Se han ajustado procesos internos de comunicación del sistema para garantizar una navegación más fluida y estable durante tus jornadas de trabajo.
-
-### 🛡️ Estabilidad y Confiabilidad
-- Se corrigieron comportamientos inesperados en las ventanas de trabajo, asegurando que la información se procese correctamente en todo momento.
-- Reforzamos la integridad de los datos en los formularios principales para evitar bloqueos y asegurar que tu flujo de trabajo no se vea interrumpido.
+### 🏦 Gestión Bancaria y Pagos
+- Generación automática de archivos estructurados para pagos masivos, cumpliendo con los estándares requeridos por el Banco Mercantil para transferencias y cheques.
+- Automatización de la clasificación de transferencias, detectando si el pago es al mismo banco o a otras entidades financieras sin intervención manual.
+- Validación inteligente que anula automáticamente montos de pagos que no estén debidamente completados, garantizando la integridad de la información enviada al banco.
+- Sistema de control de errores que notifica al usuario si falta información crítica o si existen datos incorrectos antes de generar el archivo, evitando rechazos bancarios.
+- Formateo automático de datos, incluyendo la limpieza de identificadores fiscales, ajuste de montos y estandarización de números de cuenta para cumplir con las exigencias de seguridad bancaria.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
