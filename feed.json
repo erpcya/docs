@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.3.0",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html",
+      "summary": "Fecha de Liberación: 2026-05-29 Novedades Optimizamos la agilidad operativa y la precisión en la gestión comercial de tu sistema. Contexto En ERP Consultores y Asociados, continuamos evolucionando nuestra plataforma para que tu gestión diaria sea más sencilla, rápida y eficiente, permitiéndote tomar decisiones estratégicas con mayor claridad.",
+      "content_html": "<h1> Fecha de Liberación: 2026-05-29</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la agilidad operativa y la precisión en la gestión comercial de tu sistema.</p>\n<h2> Contexto</h2>\n<p>En ERP Consultores y Asociados, continuamos evolucionando nuestra plataforma para que tu gestión diaria sea más sencilla, rápida y eficiente, permitiéndote tomar decisiones estratégicas con mayor claridad.</p>\n<h3> 💰 Gestión Comercial y Precios</h3>\n<ul>\n<li>Simplificación en la actualización de listas de precios para reflejar cambios en el mercado de forma instantánea.</li>\n<li>Mayor control en la aplicación de descuentos automáticos, evitando errores manuales en tus facturas.</li>\n</ul>\n<h3> 📦 Control de Inventarios y Logística</h3>\n<ul>\n<li>Optimización en los tiempos de respuesta al consultar la disponibilidad de productos en tus almacenes.</li>\n<li>Mejora en el proceso de seguimiento de mercancía, facilitando la trazabilidad desde la recepción hasta la entrega.</li>\n</ul>\n<h3> 📊 Reportes y Análisis</h3>\n<ul>\n<li>Generación de informes financieros con mayor velocidad, permitiendo una visión clara de la rentabilidad de tu negocio.</li>\n<li>Interfaz simplificada para que la extracción de datos sea intuitiva y sin necesidad de conocimientos técnicos.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-05-29T10:31:31.000Z",
+      "date_modified": "2026-05-29T10:31:31.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.2.6",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html",
@@ -1287,19 +1300,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.2.html",
       "summary": "Fecha de Liberación: 2025-09-25 Novedades Adempiere Base Requerimientos No se requieren procesos adicionales por aplicar.",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-09-25</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.3.3",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.3.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.3.html",
-      "summary": "Fecha de Liberación: 2025-10-02 Novedades Programa de Asistencia a Agricultores Mejoras de Órdenes de Venta Contexto Se corrige funcionalidad para que al Reversar una Entrega (Cliente) considere la compra y no la venta. Se corrige la copia de líneas de pedido para que el campo PriceList se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-10-02</p>\n<h2> Novedades</h2>\n<ul>\n<li>Programa de Asistencia a Agricultores</li>\n<li>Mejoras de Órdenes de Venta</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se corrige funcionalidad para que al Reversar una Entrega (Cliente) considere la compra y no la venta.</li>\n<li>Se corrige la copia de líneas de pedido para que el campo PriceList se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],

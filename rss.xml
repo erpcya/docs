@@ -6,11 +6,45 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 22 May 2026 16:22:10 GMT</pubDate>
-    <lastBuildDate>Fri, 22 May 2026 16:22:10 GMT</lastBuildDate>
+    <pubDate>Fri, 29 May 2026 10:56:57 GMT</pubDate>
+    <lastBuildDate>Fri, 29 May 2026 10:56:57 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.3.0</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.0</source>
+      <description>Fecha de Liberación: 2026-05-29 Novedades Optimizamos la agilidad operativa y la precisión en la gestión comercial de tu sistema. Contexto En ERP Consultores y Asociados, continuamos evolucionando nuestra plataforma para que tu gestión diaria sea más sencilla, rápida y eficiente, permitiéndote tomar decisiones estratégicas con mayor claridad.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 29 May 2026 10:31:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-29</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión comercial de tu sistema.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, continuamos evolucionando nuestra plataforma para que tu gestión diaria sea más sencilla, rápida y eficiente, permitiéndote tomar decisiones estratégicas con mayor claridad.</p>
+<h3> 💰 Gestión Comercial y Precios</h3>
+<ul>
+<li>Simplificación en la actualización de listas de precios para reflejar cambios en el mercado de forma instantánea.</li>
+<li>Mayor control en la aplicación de descuentos automáticos, evitando errores manuales en tus facturas.</li>
+</ul>
+<h3> 📦 Control de Inventarios y Logística</h3>
+<ul>
+<li>Optimización en los tiempos de respuesta al consultar la disponibilidad de productos en tus almacenes.</li>
+<li>Mejora en el proceso de seguimiento de mercancía, facilitando la trazabilidad desde la recepción hasta la entrega.</li>
+</ul>
+<h3> 📊 Reportes y Análisis</h3>
+<ul>
+<li>Generación de informes financieros con mayor velocidad, permitiendo una visión clara de la rentabilidad de tu negocio.</li>
+<li>Interfaz simplificada para que la extracción de datos sea intuitiva y sin necesidad de conocimientos técnicos.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.2.6</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.2.x/erpya-3.9.4-001-4.2.6.html</link>
@@ -3006,31 +3040,6 @@
 <h2> Novedades</h2>
 <ul>
 <li>Adempiere Base</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.3.3</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.3.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.3.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.3.3</source>
-      <description>Fecha de Liberación: 2025-10-02 Novedades Programa de Asistencia a Agricultores Mejoras de Órdenes de Venta Contexto Se corrige funcionalidad para que al Reversar una Entrega (Cliente) considere la compra y no la venta. Se corrige la copia de líneas de pedido para que el campo PriceList se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-10-02</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-<li>Mejoras de Órdenes de Venta</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se corrige funcionalidad para que al Reversar una Entrega (Cliente) considere la compra y no la venta.</li>
-<li>Se corrige la copia de líneas de pedido para que el campo PriceList se copie correctamente al tildar el check Copiar precios en el proceso Convertir Cotización.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
