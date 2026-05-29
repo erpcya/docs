@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-29T10:56:57.011Z</updated>
+  <updated>2026-05-29T10:59:44.521Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,31 +12,26 @@
     <title type="text">erpya-3.9.4-001-4.3.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html"/>
-    <updated>2026-05-29T10:31:31.000Z</updated>
+    <updated>2026-05-29T10:35:26.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-29</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión comercial de tu sistema.</p>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de precios y despachos para potenciar tu productividad diaria.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, continuamos evolucionando nuestra plataforma para que tu gestión diaria sea más sencilla, rápida y eficiente, permitiéndote tomar decisiones estratégicas con mayor claridad.</p>]]></summary>
+<p>En esta actualización, nos enfocamos en simplificar procesos críticos de tu gestión comercial. Hemos refinado las herramientas de asignación de precios y el flujo de salida de mercancía para que tu equipo pueda tomar decisiones más rápidas y con mayor exactitud, eliminando fricciones en el trabajo cotidiano.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-05-29</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión comercial de tu sistema.</p>
+<p>Optimizamos la agilidad operativa y la precisión en la gestión de precios y despachos para potenciar tu productividad diaria.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, continuamos evolucionando nuestra plataforma para que tu gestión diaria sea más sencilla, rápida y eficiente, permitiéndote tomar decisiones estratégicas con mayor claridad.</p>
+<p>En esta actualización, nos enfocamos en simplificar procesos críticos de tu gestión comercial. Hemos refinado las herramientas de asignación de precios y el flujo de salida de mercancía para que tu equipo pueda tomar decisiones más rápidas y con mayor exactitud, eliminando fricciones en el trabajo cotidiano.</p>
 <h3> 💰 Gestión Comercial y Precios</h3>
 <ul>
-<li>Simplificación en la actualización de listas de precios para reflejar cambios en el mercado de forma instantánea.</li>
-<li>Mayor control en la aplicación de descuentos automáticos, evitando errores manuales en tus facturas.</li>
+<li>Nueva capacidad para actualizar listas de precios de forma masiva, permitiendo ajustar tus márgenes con mayor rapidez ante cambios en el mercado.</li>
+<li>Mejor visualización de los precios vigentes, facilitando la validación inmediata al momento de generar una cotización para tus clientes.</li>
 </ul>
-<h3> 📦 Control de Inventarios y Logística</h3>
+<h3> 📦 Logística y Despachos</h3>
 <ul>
-<li>Optimización en los tiempos de respuesta al consultar la disponibilidad de productos en tus almacenes.</li>
-<li>Mejora en el proceso de seguimiento de mercancía, facilitando la trazabilidad desde la recepción hasta la entrega.</li>
-</ul>
-<h3> 📊 Reportes y Análisis</h3>
-<ul>
-<li>Generación de informes financieros con mayor velocidad, permitiendo una visión clara de la rentabilidad de tu negocio.</li>
-<li>Interfaz simplificada para que la extracción de datos sea intuitiva y sin necesidad de conocimientos técnicos.</li>
+<li>Optimización en el proceso de salida de productos, reduciendo los tiempos de espera en la confirmación de pedidos.</li>
+<li>Mayor control en la trazabilidad de los envíos, permitiendo identificar el estado exacto de cada despacho sin complicaciones técnicas.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
