@@ -16,14 +16,14 @@ article: true
 # Fecha de Liberación: 2026-06-02
 
 ## Novedades
-Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata.
+Optimización en la velocidad de navegación y búsqueda dentro del sistema.
 
 ## Contexto
-En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.
+Con el objetivo de agilizar tus actividades diarias, hemos refinado los procesos internos de búsqueda de información, eliminando pasos redundantes que ralentizaban la visualización de resultados.
 
-### 🚀 Búsqueda y Navegación Inteligente
-- Aceleración en el tiempo de respuesta al realizar búsquedas, gracias a la eliminación de verificaciones internas innecesarias.
-- Mayor fluidez al consultar listados de información, logrando que el sistema se enfoque directamente en mostrar tus datos sin esperas extras.
+### ⚡ Navegación y Búsqueda
+- Aceleramos los tiempos de respuesta al consultar listados, permitiendo que la información aparezca instantáneamente.
+- Optimizamos el motor de búsqueda para eliminar procesos de verificación innecesarios, garantizando una experiencia de usuario más fluida y eficiente.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
