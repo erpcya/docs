@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 02 Jun 2026 14:24:54 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2026 14:24:54 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 14:27:03 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 14:27:03 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,18 +16,18 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.1</source>
-      <description>Fecha de Liberación: 2026-06-02 Novedades Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata. Contexto En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.</description>
+      <description>Fecha de Liberación: 2026-06-02 Novedades Optimización en la velocidad de navegación y búsqueda dentro del sistema. Contexto Con el objetivo de agilizar tus actividades diarias, hemos refinado los procesos internos de búsqueda de información, eliminando pasos redundantes que ralentizaban la visualización de resultados.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 02 Jun 2026 13:58:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata.</p>
+<p>Optimización en la velocidad de navegación y búsqueda dentro del sistema.</p>
 <h2> Contexto</h2>
-<p>En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.</p>
-<h3> 🚀 Búsqueda y Navegación Inteligente</h3>
+<p>Con el objetivo de agilizar tus actividades diarias, hemos refinado los procesos internos de búsqueda de información, eliminando pasos redundantes que ralentizaban la visualización de resultados.</p>
+<h3> ⚡ Navegación y Búsqueda</h3>
 <ul>
-<li>Aceleración en el tiempo de respuesta al realizar búsquedas, gracias a la eliminación de verificaciones internas innecesarias.</li>
-<li>Mayor fluidez al consultar listados de información, logrando que el sistema se enfoque directamente en mostrar tus datos sin esperas extras.</li>
+<li>Aceleramos los tiempos de respuesta al consultar listados, permitiendo que la información aparezca instantáneamente.</li>
+<li>Optimizamos el motor de búsqueda para eliminar procesos de verificación innecesarios, garantizando una experiencia de usuario más fluida y eficiente.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
