@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 02 Jun 2026 14:29:36 GMT</pubDate>
-    <lastBuildDate>Tue, 02 Jun 2026 14:29:36 GMT</lastBuildDate>
+    <pubDate>Tue, 02 Jun 2026 17:01:22 GMT</pubDate>
+    <lastBuildDate>Tue, 02 Jun 2026 17:01:22 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,22 +16,22 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.1</source>
-      <description>Fecha de Liberación: 2026-06-02 Novedades Optimización en la velocidad de búsqueda y agilidad en procesos de pago. Contexto En esta actualización, nos hemos enfocado en mejorar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias y asegurando que la información que necesitas aparezca de forma más rápida y precisa.</description>
+      <description>Fecha de Liberación: 2026-06-02 Novedades Optimizamos la velocidad de búsqueda y mejoramos la precisión en la gestión de pagos. Contexto En esta actualización, nos hemos enfocado en agilizar la experiencia de usuario dentro de la plataforma, eliminando procesos internos redundantes para que tu trabajo diario sea más fluido y eficiente.</description>
       <category>Actualizaciones</category>
       <pubDate>Tue, 02 Jun 2026 13:58:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
 <h2> Novedades</h2>
-<p>Optimización en la velocidad de búsqueda y agilidad en procesos de pago.</p>
+<p>Optimizamos la velocidad de búsqueda y mejoramos la precisión en la gestión de pagos.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos hemos enfocado en mejorar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias y asegurando que la información que necesitas aparezca de forma más rápida y precisa.</p>
-<h3> ⚡ Agilidad en Búsquedas</h3>
+<p>En esta actualización, nos hemos enfocado en agilizar la experiencia de usuario dentro de la plataforma, eliminando procesos internos redundantes para que tu trabajo diario sea más fluido y eficiente.</p>
+<h3> ⚡ Experiencia de Búsqueda</h3>
 <ul>
-<li>Hemos optimizado la velocidad de respuesta al realizar consultas en el sistema, eliminando procesos de validación redundantes que ralentizaban la carga de resultados.</li>
-<li>La navegación ahora es más fluida, permitiéndote acceder a tu información sin tiempos de espera innecesarios.</li>
+<li>Aceleramos el tiempo de respuesta al realizar búsquedas inteligentes, eliminando verificaciones de datos innecesarias que ralentizaban el sistema.</li>
+<li>Ahora el sistema muestra los resultados de manera directa, mejorando significativamente la agilidad operativa en la navegación.</li>
 </ul>
 <h3> 💳 Gestión de Pagos</h3>
 <ul>
-<li>Se ha corregido la visualización de datos al momento de seleccionar pagos, asegurando que la información sea precisa y esté disponible de inmediato al crear nuevos registros.</li>
+<li>Implementamos mejoras en la interfaz de selección de pagos para garantizar que la información mostrada sea siempre precisa y confiable durante la creación de documentos.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
