@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-02T14:27:03.839Z</updated>
+  <updated>2026-06-02T14:29:36.316Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,25 +12,29 @@
     <title type="text">erpya-3.9.4-001-4.3.1</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html"/>
-    <updated>2026-06-02T14:03:04.000Z</updated>
+    <updated>2026-06-02T14:03:43.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
 <h2> Novedades</h2>
-<p>Optimización en la velocidad de navegación y búsqueda dentro del sistema.</p>
+<p>Optimización en la velocidad de búsqueda y agilidad en procesos de pago.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de agilizar tus actividades diarias, hemos refinado los procesos internos de búsqueda de información, eliminando pasos redundantes que ralentizaban la visualización de resultados.</p>]]></summary>
+<p>En esta actualización, nos hemos enfocado en mejorar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias y asegurando que la información que necesitas aparezca de forma más rápida y precisa.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
 <h2> Novedades</h2>
-<p>Optimización en la velocidad de navegación y búsqueda dentro del sistema.</p>
+<p>Optimización en la velocidad de búsqueda y agilidad en procesos de pago.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de agilizar tus actividades diarias, hemos refinado los procesos internos de búsqueda de información, eliminando pasos redundantes que ralentizaban la visualización de resultados.</p>
-<h3> ⚡ Navegación y Búsqueda</h3>
+<p>En esta actualización, nos hemos enfocado en mejorar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias y asegurando que la información que necesitas aparezca de forma más rápida y precisa.</p>
+<h3> ⚡ Agilidad en Búsquedas</h3>
 <ul>
-<li>Aceleramos los tiempos de respuesta al consultar listados, permitiendo que la información aparezca instantáneamente.</li>
-<li>Optimizamos el motor de búsqueda para eliminar procesos de verificación innecesarios, garantizando una experiencia de usuario más fluida y eficiente.</li>
+<li>Hemos optimizado la velocidad de respuesta al realizar consultas en el sistema, eliminando procesos de validación redundantes que ralentizaban la carga de resultados.</li>
+<li>La navegación ahora es más fluida, permitiéndote acceder a tu información sin tiempos de espera innecesarios.</li>
+</ul>
+<h3> 💳 Gestión de Pagos</h3>
+<ul>
+<li>Se ha corregido la visualización de datos al momento de seleccionar pagos, asegurando que la información sea precisa y esté disponible de inmediato al crear nuevos registros.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
