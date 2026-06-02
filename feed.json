@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.3.1",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html",
+      "summary": "Fecha de Liberación: 2026-06-02 Novedades Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata. Contexto En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.",
+      "content_html": "<h1> Fecha de Liberación: 2026-06-02</h1>\n<h2> Novedades</h2>\n<p>Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata.</p>\n<h2> Contexto</h2>\n<p>En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.</p>\n<h3> 🚀 Búsqueda y Navegación Inteligente</h3>\n<ul>\n<li>Aceleración en el tiempo de respuesta al realizar búsquedas, gracias a la eliminación de verificaciones internas innecesarias.</li>\n<li>Mayor fluidez al consultar listados de información, logrando que el sistema se enfoque directamente en mostrar tus datos sin esperas extras.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-06-02T13:58:13.000Z",
+      "date_modified": "2026-06-02T13:58:13.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.3.0",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html",
@@ -1287,19 +1300,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.1.html",
       "summary": "Fecha de Liberación: 2025-09-18 Novedades Programa de Asistencia a Agricultores Contexto Se incorpora un check en el Tipo de Documento denominado Completar Recibo Express. Este check determina si, al completar un Registro de Peso, el sistema debe automáticamente: Identificar los Recibos Express vinculados a dicho registro. Procesarlos con la acción Completar, asegurando que su flujo de negocio quede sincronizado con el Registro de Peso.",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-09-18</p>\n<h2> Novedades</h2>\n<ul>\n<li>Programa de Asistencia a Agricultores</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>\n<p>Se incorpora un check en el Tipo de Documento denominado Completar Recibo Express.</p>\n</li>\n<li>\n<p>Este check determina si, al completar un Registro de Peso, el sistema debe automáticamente:</p>\n</li>\n<li>\n<p>Identificar los Recibos Express vinculados a dicho registro.</p>\n<ul>\n<li>Procesarlos con la acción Completar, asegurando que su flujo de negocio quede sincronizado con el Registro de Peso.</li>\n</ul>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.3.2",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.2.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.2.html",
-      "summary": "Fecha de Liberación: 2025-09-25 Novedades Adempiere Base Requerimientos No se requieren procesos adicionales por aplicar.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-09-25</p>\n<h2> Novedades</h2>\n<ul>\n<li>Adempiere Base</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],

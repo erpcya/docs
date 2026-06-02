@@ -3,11 +3,39 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-05-29T10:59:44.521Z</updated>
+  <updated>2026-06-02T14:24:54.359Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.3.1</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html"/>
+    <updated>2026-06-02T13:58:13.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
+<h2> Novedades</h2>
+<p>Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata.</p>
+<h2> Contexto</h2>
+<p>En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
+<h2> Novedades</h2>
+<p>Hemos optimizado la velocidad de respuesta en tus búsquedas para que obtengas resultados de forma inmediata.</p>
+<h2> Contexto</h2>
+<p>En nuestra búsqueda constante por hacer tu experiencia más ágil y eficiente, hemos realizado ajustes técnicos en el motor de consultas de la plataforma. El objetivo es eliminar procesos internos redundantes que ralentizaban la visualización de tu información.</p>
+<h3> 🚀 Búsqueda y Navegación Inteligente</h3>
+<ul>
+<li>Aceleración en el tiempo de respuesta al realizar búsquedas, gracias a la eliminación de verificaciones internas innecesarias.</li>
+<li>Mayor fluidez al consultar listados de información, logrando que el sistema se enfoque directamente en mostrar tus datos sin esperas extras.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-06-02T13:58:13.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.3.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html</id>
@@ -3965,34 +3993,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.3.2</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.2.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.2.html"/>
-    <updated>2025-11-04T15:26:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-09-25</p>
-<h2> Novedades</h2>
-<ul>
-<li>Adempiere Base</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-09-25</p>
-<h2> Novedades</h2>
-<ul>
-<li>Adempiere Base</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
