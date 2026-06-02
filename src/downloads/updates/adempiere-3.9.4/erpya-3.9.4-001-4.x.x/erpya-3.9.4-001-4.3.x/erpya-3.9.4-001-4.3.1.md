@@ -16,14 +16,17 @@ article: true
 # Fecha de Liberación: 2026-06-02
 
 ## Novedades
-Optimización en la velocidad de navegación y búsqueda dentro del sistema.
+Optimización en la velocidad de búsqueda y agilidad en procesos de pago.
 
 ## Contexto
-Con el objetivo de agilizar tus actividades diarias, hemos refinado los procesos internos de búsqueda de información, eliminando pasos redundantes que ralentizaban la visualización de resultados.
+En esta actualización, nos hemos enfocado en mejorar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias y asegurando que la información que necesitas aparezca de forma más rápida y precisa.
 
-### ⚡ Navegación y Búsqueda
-- Aceleramos los tiempos de respuesta al consultar listados, permitiendo que la información aparezca instantáneamente.
-- Optimizamos el motor de búsqueda para eliminar procesos de verificación innecesarios, garantizando una experiencia de usuario más fluida y eficiente.
+### ⚡ Agilidad en Búsquedas
+- Hemos optimizado la velocidad de respuesta al realizar consultas en el sistema, eliminando procesos de validación redundantes que ralentizaban la carga de resultados.
+- La navegación ahora es más fluida, permitiéndote acceder a tu información sin tiempos de espera innecesarios.
+
+### 💳 Gestión de Pagos
+- Se ha corregido la visualización de datos al momento de seleccionar pagos, asegurando que la información sea precisa y esté disponible de inmediato al crear nuevos registros.
 
 ## Requerimientos
-- No se requieren procesos adicionales por aplicar.
+- Se requieren procesos adicionales por aplicar.
