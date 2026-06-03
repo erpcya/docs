@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-02T17:07:02.593Z</updated>
+  <updated>2026-06-03T13:36:34.906Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,25 +12,25 @@
     <title type="text">erpya-3.9.4-001-4.3.1</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html"/>
-    <updated>2026-06-02T16:41:09.000Z</updated>
+    <updated>2026-06-03T13:12:59.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
 <h2> Novedades</h2>
-<p>Optimización del rendimiento en la búsqueda de información para una gestión más ágil.</p>
+<p>Optimizamos la velocidad de búsqueda y mejoramos la gestión de pagos para un flujo de trabajo más ágil.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos hemos enfocado en mejorar la velocidad de respuesta de nuestra plataforma, eliminando procesos internos redundantes para que tu experiencia de navegación sea mucho más fluida al consultar datos.</p>]]></summary>
+<p>En esta actualización, nos enfocamos en perfeccionar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias al buscar información y facilitando la administración de sus cuentas por cobrar y pagar.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-02</h1>
 <h2> Novedades</h2>
-<p>Optimización del rendimiento en la búsqueda de información para una gestión más ágil.</p>
+<p>Optimizamos la velocidad de búsqueda y mejoramos la gestión de pagos para un flujo de trabajo más ágil.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos hemos enfocado en mejorar la velocidad de respuesta de nuestra plataforma, eliminando procesos internos redundantes para que tu experiencia de navegación sea mucho más fluida al consultar datos.</p>
-<h3> 🚀 Navegación y Consultas</h3>
+<p>En esta actualización, nos enfocamos en perfeccionar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias al buscar información y facilitando la administración de sus cuentas por cobrar y pagar.</p>
+<h3> 🚀 Navegación y Búsqueda</h3>
 <ul>
-<li>Aceleración de las búsquedas inteligentes: eliminamos pasos innecesarios al realizar consultas, lo que permite que los resultados aparezcan de forma inmediata.</li>
-<li>Mejora en la eficiencia del sistema: al reducir la carga de trabajo en las consultas, el ERP responde con mayor agilidad durante las tareas diarias.</li>
+<li>Aceleramos el tiempo de respuesta al realizar búsquedas en el sistema, eliminando validaciones técnicas redundantes que ralentizaban la visualización de resultados.</li>
 </ul>
 <h3> 💳 Gestión de Pagos</h3>
 <ul>
-<li>Optimización en la selección de pagos: se corrigieron errores en la visualización de información al momento de crear o registrar pagos, garantizando que los datos sean precisos y fáciles de encontrar.</li>
+<li>Mejoramos la precisión en la búsqueda de información al momento de registrar pagos, garantizando que los datos sean más exactos.</li>
+<li>Implementamos un nuevo filtro para visualizar únicamente los pagos con saldos pendientes, permitiéndole gestionar sus finanzas con mayor claridad y rapidez.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
