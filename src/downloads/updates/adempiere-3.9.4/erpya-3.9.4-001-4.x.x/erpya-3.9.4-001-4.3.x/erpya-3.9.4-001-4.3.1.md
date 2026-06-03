@@ -16,17 +16,17 @@ article: true
 # Fecha de Liberación: 2026-06-02
 
 ## Novedades
-Optimización del rendimiento en la búsqueda de información para una gestión más ágil.
+Optimizamos la velocidad de búsqueda y mejoramos la gestión de pagos para un flujo de trabajo más ágil.
 
 ## Contexto
-En esta actualización, nos hemos enfocado en mejorar la velocidad de respuesta de nuestra plataforma, eliminando procesos internos redundantes para que tu experiencia de navegación sea mucho más fluida al consultar datos.
+En esta actualización, nos enfocamos en perfeccionar la experiencia de usuario dentro de nuestra plataforma, eliminando esperas innecesarias al buscar información y facilitando la administración de sus cuentas por cobrar y pagar.
 
-### 🚀 Navegación y Consultas
-- Aceleración de las búsquedas inteligentes: eliminamos pasos innecesarios al realizar consultas, lo que permite que los resultados aparezcan de forma inmediata.
-- Mejora en la eficiencia del sistema: al reducir la carga de trabajo en las consultas, el ERP responde con mayor agilidad durante las tareas diarias.
+### 🚀 Navegación y Búsqueda
+- Aceleramos el tiempo de respuesta al realizar búsquedas en el sistema, eliminando validaciones técnicas redundantes que ralentizaban la visualización de resultados.
 
 ### 💳 Gestión de Pagos
-- Optimización en la selección de pagos: se corrigieron errores en la visualización de información al momento de crear o registrar pagos, garantizando que los datos sean precisos y fáciles de encontrar.
+- Mejoramos la precisión en la búsqueda de información al momento de registrar pagos, garantizando que los datos sean más exactos.
+- Implementamos un nuevo filtro para visualizar únicamente los pagos con saldos pendientes, permitiéndole gestionar sus finanzas con mayor claridad y rapidez.
 
 ## Requerimientos
 - Se requieren procesos adicionales por aplicar.
