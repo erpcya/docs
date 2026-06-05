@@ -16,18 +16,18 @@ article: true
 # Fecha de Liberación: 2026-06-05
 
 ## Novedades
-Optimizamos la gestión de ventas con procesos de actualización de precios más ágiles y una mayor estabilidad operativa.
+Optimizamos la gestión de ventas con una herramienta exclusiva para la actualización automática de precios.
 
 ## Contexto
-En ERP Consultores y Asociados seguimos trabajando para que su experiencia con ADempiere sea más fluida. Hemos implementado ajustes técnicos que garantizan la correcta llegada de nuevas funcionalidades y hemos introducido una herramienta diseñada para ahorrar tiempo administrativo en el manejo de sus precios de venta.
+En esta actualización, hemos fortalecido la estabilidad de nuestro sistema de ventas y añadido una nueva funcionalidad diseñada para ahorrar tiempo operativo, permitiendo que el equipo comercial gestione sus precios con mayor precisión y agilidad.
 
-### 🚀 Estabilidad y Actualizaciones
-- Se ha resuelto un inconveniente técnico que impedía la correcta instalación de nuevas herramientas, asegurando que su sistema reciba siempre las mejoras más recientes de forma automática.
-- Mejoramos la comunicación interna entre los módulos de ventas para que el despliegue de nuevas funciones sea más rápido y eficiente.
+### 🚀 Gestión de Ventas
+- Hemos resuelto los inconvenientes técnicos que impedían la correcta sincronización de las actualizaciones del sistema, garantizando que siempre cuentes con las últimas herramientas disponibles para tu gestión comercial.
+- Implementamos una nueva función para recalcular automáticamente los precios en tus órdenes de venta, eliminando la necesidad de realizar ajustes manuales línea por línea.
 
-### 💰 Gestión Comercial y Precios
-- Lanzamos una nueva función para el recálculo automático de precios en sus órdenes de venta, eliminando la necesidad de realizar ajustes manuales línea por línea.
-- Usted ahora cuenta con filtros avanzados para ejecutar actualizaciones masivas, permitiéndole seleccionar órdenes específicas, tipos de documentos, rangos de fechas o estados de orden, logrando un control total sobre sus procesos comerciales.
+### ⚙️ Control y Personalización
+- Ahora puedes ejecutar el recálculo de precios con total precisión, aplicando filtros específicos como el número de orden, el tipo de documento, el rango de fechas de emisión o el estado actual de cada pedido.
+- Esta flexibilidad permite tanto el ajuste puntual de una orden específica como la actualización masiva de documentos, adaptándose perfectamente a tus necesidades operativas diarias.
 
 ## Requerimientos
-- No se requieren procesos adicionales por aplicar.
+- Se requieren procesos adicionales por aplicar.
