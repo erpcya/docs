@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 05 Jun 2026 14:55:05 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Jun 2026 14:55:05 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 16:38:58 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 16:38:58 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -107,29 +107,28 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.0.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.0</source>
-      <description>Fecha de Liberación: 2026-05-29 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de precios y despachos para potenciar tu productividad diaria. Contexto En esta actualización, nos enfocamos en simplificar procesos críticos de tu gestión comercial. Hemos refinado las herramientas de asignación de precios y el flujo de salida de mercancía para que tu equipo pueda tomar decisiones más rápidas y con mayor exactitud, eliminando fricciones en el trabajo cotidiano.</description>
+      <description>Fecha de Liberación: 2026-05-29 Novedades Transformamos tu gestión financiera con la automatización inteligente de conciliaciones bancarias mediante IA. Contexto En ERP Consultores y Asociados, seguimos evolucionando para hacer tu trabajo más eficiente. A partir de esta versión, integramos Inteligencia Artificial avanzada para eliminar la carga operativa de procesar manualmente tus movimientos bancarios, permitiendo que el sistema entienda cualquier formato de archivo sin configuraciones complejas.</description>
       <category>Actualizaciones</category>
       <pubDate>Fri, 29 May 2026 10:31:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-05-29</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión de precios y despachos para potenciar tu productividad diaria.</p>
+<p>Transformamos tu gestión financiera con la automatización inteligente de conciliaciones bancarias mediante IA.</p>
 <h2> Contexto</h2>
-<p>En esta actualización, nos enfocamos en simplificar procesos críticos de tu gestión comercial. Hemos refinado las herramientas de asignación de precios y el flujo de salida de mercancía para que tu equipo pueda tomar decisiones más rápidas y con mayor exactitud, eliminando fricciones en el trabajo cotidiano.</p>
-<h3> 💰 Gestión Comercial y Precios</h3>
+<p>En ERP Consultores y Asociados, seguimos evolucionando para hacer tu trabajo más eficiente. A partir de esta versión, integramos Inteligencia Artificial avanzada para eliminar la carga operativa de procesar manualmente tus movimientos bancarios, permitiendo que el sistema entienda cualquier formato de archivo sin configuraciones complejas.</p>
+<figure><img src="/assets/img/downloads/updates/resources/erpya-394-001-4-3-0-img-1.png" alt="Imagen" tabindex="0" loading="lazy"><figcaption>Imagen</figcaption></figure>
+<h3> 🏦 Automatización Financiera Inteligente</h3>
 <ul>
-<li>Nueva capacidad para actualizar listas de precios de forma masiva, permitiendo ajustar tus márgenes con mayor rapidez ante cambios en el mercado.</li>
-<li>Mejor visualización de los precios vigentes, facilitando la validación inmediata al momento de generar una cotización para tus clientes.</li>
-</ul>
-<h3> 📦 Logística y Despachos</h3>
-<ul>
-<li>Optimización en el proceso de salida de productos, reduciendo los tiempos de espera en la confirmación de pedidos.</li>
-<li>Mayor control en la trazabilidad de los envíos, permitiendo identificar el estado exacto de cada despacho sin complicaciones técnicas.</li>
+<li>Eliminación de configuraciones manuales: el sistema interpreta automáticamente archivos en cualquier formato (PDF, TXT o CSV) sin importar su estructura.</li>
+<li>Procesamiento inteligente de datos: extracción precisa de fechas, referencias, conceptos y montos, ignorando información irrelevante como saldos iniciales o finales.</li>
+<li>Integración fluida con tus procesos contables actuales, permitiendo una carga directa y rápida de estados de cuenta.</li>
+<li>Configuración simplificada mediante un asistente automatizado que prepara el entorno para comenzar a trabajar con IA de inmediato.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
+      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/erpya-394-001-4-3-0-img-1.png" type="image/png"/>
     </item>
     <item>
       <title>erpya-3.9.4-001-4.2.6</title>
