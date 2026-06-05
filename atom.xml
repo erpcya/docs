@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-05T14:37:22.192Z</updated>
+  <updated>2026-06-05T14:48:50.453Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,30 +12,30 @@
     <title type="text">erpya-3.9.4-001-4.3.2</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.2.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.2.html"/>
-    <updated>2026-06-05T14:11:24.000Z</updated>
+    <updated>2026-06-05T14:22:27.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-05</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión de ventas con procesos de actualización de precios más ágiles y una mayor estabilidad operativa.</p>
+<p>Optimizamos la gestión de ventas con una herramienta exclusiva para la actualización automática de precios.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados seguimos trabajando para que su experiencia con ADempiere sea más fluida. Hemos implementado ajustes técnicos que garantizan la correcta llegada de nuevas funcionalidades y hemos introducido una herramienta diseñada para ahorrar tiempo administrativo en el manejo de sus precios de venta.</p>]]></summary>
+<p>En esta actualización, hemos fortalecido la estabilidad de nuestro sistema de ventas y añadido una nueva funcionalidad diseñada para ahorrar tiempo operativo, permitiendo que el equipo comercial gestione sus precios con mayor precisión y agilidad.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-05</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la gestión de ventas con procesos de actualización de precios más ágiles y una mayor estabilidad operativa.</p>
+<p>Optimizamos la gestión de ventas con una herramienta exclusiva para la actualización automática de precios.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados seguimos trabajando para que su experiencia con ADempiere sea más fluida. Hemos implementado ajustes técnicos que garantizan la correcta llegada de nuevas funcionalidades y hemos introducido una herramienta diseñada para ahorrar tiempo administrativo en el manejo de sus precios de venta.</p>
-<h3> 🚀 Estabilidad y Actualizaciones</h3>
+<p>En esta actualización, hemos fortalecido la estabilidad de nuestro sistema de ventas y añadido una nueva funcionalidad diseñada para ahorrar tiempo operativo, permitiendo que el equipo comercial gestione sus precios con mayor precisión y agilidad.</p>
+<h3> 🚀 Gestión de Ventas</h3>
 <ul>
-<li>Se ha resuelto un inconveniente técnico que impedía la correcta instalación de nuevas herramientas, asegurando que su sistema reciba siempre las mejoras más recientes de forma automática.</li>
-<li>Mejoramos la comunicación interna entre los módulos de ventas para que el despliegue de nuevas funciones sea más rápido y eficiente.</li>
+<li>Hemos resuelto los inconvenientes técnicos que impedían la correcta sincronización de las actualizaciones del sistema, garantizando que siempre cuentes con las últimas herramientas disponibles para tu gestión comercial.</li>
+<li>Implementamos una nueva función para recalcular automáticamente los precios en tus órdenes de venta, eliminando la necesidad de realizar ajustes manuales línea por línea.</li>
 </ul>
-<h3> 💰 Gestión Comercial y Precios</h3>
+<h3> ⚙️ Control y Personalización</h3>
 <ul>
-<li>Lanzamos una nueva función para el recálculo automático de precios en sus órdenes de venta, eliminando la necesidad de realizar ajustes manuales línea por línea.</li>
-<li>Usted ahora cuenta con filtros avanzados para ejecutar actualizaciones masivas, permitiéndole seleccionar órdenes específicas, tipos de documentos, rangos de fechas o estados de orden, logrando un control total sobre sus procesos comerciales.</li>
+<li>Ahora puedes ejecutar el recálculo de precios con total precisión, aplicando filtros específicos como el número de orden, el tipo de documento, el rango de fechas de emisión o el estado actual de cada pedido.</li>
+<li>Esta flexibilidad permite tanto el ajuste puntual de una orden específica como la actualización masiva de documentos, adaptándose perfectamente a tus necesidades operativas diarias.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
