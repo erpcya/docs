@@ -16,18 +16,20 @@ article: true
 # Fecha de Liberación: 2026-05-29
 
 ## Novedades
-Optimizamos la agilidad operativa y la precisión en la gestión de precios y despachos para potenciar tu productividad diaria.
+Transformamos tu gestión financiera con la automatización inteligente de conciliaciones bancarias mediante IA.
 
 ## Contexto
-En esta actualización, nos enfocamos en simplificar procesos críticos de tu gestión comercial. Hemos refinado las herramientas de asignación de precios y el flujo de salida de mercancía para que tu equipo pueda tomar decisiones más rápidas y con mayor exactitud, eliminando fricciones en el trabajo cotidiano.
+En ERP Consultores y Asociados, seguimos evolucionando para hacer tu trabajo más eficiente. A partir de esta versión, integramos Inteligencia Artificial avanzada para eliminar la carga operativa de procesar manualmente tus movimientos bancarios, permitiendo que el sistema entienda cualquier formato de archivo sin configuraciones complejas. 
 
-### 💰 Gestión Comercial y Precios
-- Nueva capacidad para actualizar listas de precios de forma masiva, permitiendo ajustar tus márgenes con mayor rapidez ante cambios en el mercado.
-- Mejor visualización de los precios vigentes, facilitando la validación inmediata al momento de generar una cotización para tus clientes.
+![Imagen](/assets/img/downloads/updates/resources/erpya-394-001-4-3-0-img-1.png)
 
-### 📦 Logística y Despachos
-- Optimización en el proceso de salida de productos, reduciendo los tiempos de espera en la confirmación de pedidos.
-- Mayor control en la trazabilidad de los envíos, permitiendo identificar el estado exacto de cada despacho sin complicaciones técnicas.
+
+
+### 🏦 Automatización Financiera Inteligente
+- Eliminación de configuraciones manuales: el sistema interpreta automáticamente archivos en cualquier formato (PDF, TXT o CSV) sin importar su estructura.
+- Procesamiento inteligente de datos: extracción precisa de fechas, referencias, conceptos y montos, ignorando información irrelevante como saldos iniciales o finales.
+- Integración fluida con tus procesos contables actuales, permitiendo una carga directa y rápida de estados de cuenta.
+- Configuración simplificada mediante un asistente automatizado que prepara el entorno para comenzar a trabajar con IA de inmediato.
 
 ## Requerimientos
-- No se requieren procesos adicionales por aplicar.
+- Se requieren procesos adicionales por aplicar.
