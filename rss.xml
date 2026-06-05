@@ -6,11 +6,40 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 03 Jun 2026 13:36:34 GMT</pubDate>
-    <lastBuildDate>Wed, 03 Jun 2026 13:36:34 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Jun 2026 14:34:54 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Jun 2026 14:34:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.3.2</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.2.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.2.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.2</source>
+      <description>Fecha de Liberación: 2026-06-05 Novedades Optimizamos la gestión de ventas con procesos más ágiles y una sincronización impecable de tus herramientas comerciales. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida. Esta actualización asegura que tu plataforma esté siempre al día con las últimas mejoras y te brinda nuevas capacidades para automatizar la gestión de precios en tus órdenes de venta, ahorrándote tiempo operativo.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 05 Jun 2026 14:07:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-05</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión de ventas con procesos más ágiles y una sincronización impecable de tus herramientas comerciales.</p>
+<h2> Contexto</h2>
+<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más fluida. Esta actualización asegura que tu plataforma esté siempre al día con las últimas mejoras y te brinda nuevas capacidades para automatizar la gestión de precios en tus órdenes de venta, ahorrándote tiempo operativo.</p>
+<h3> 🚀 Estabilidad y Sincronización del Sistema</h3>
+<ul>
+<li>Hemos resuelto los inconvenientes que impedían la correcta instalación de actualizaciones, garantizando que tu sistema reciba siempre las últimas mejoras disponibles de forma automática.</li>
+<li>La conexión entre los componentes del sistema ha sido optimizada para asegurar una operación estable y sin interrupciones en el módulo de ventas.</li>
+</ul>
+<h3> 💰 Automatización de Precios en Ventas</h3>
+<ul>
+<li>Introducimos una nueva herramienta para actualizar precios en tus órdenes de venta de manera automática, eliminando la necesidad de realizar cálculos manuales.</li>
+<li>Dispones de filtros avanzados para gestionar esta actualización según tus necesidades: puedes ejecutar el proceso sobre una orden específica, filtrar por tipo de documento, seleccionar rangos de fechas o enfocarte en estados de documento particulares para un control total.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.3.1</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.1.html</link>
@@ -3010,40 +3039,6 @@
 <h2> Contexto</h2>
 <ul>
 <li>Se agrega Setup para Validador de Modelo: FarmerAssistanceProgramValidations</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.3.1</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.1.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.3.x/erpya-3.9.4-001-3.3.1.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.3.1</source>
-      <description>Fecha de Liberación: 2025-09-18 Novedades Programa de Asistencia a Agricultores Contexto Se incorpora un check en el Tipo de Documento denominado Completar Recibo Express. Este check determina si, al completar un Registro de Peso, el sistema debe automáticamente: Identificar los Recibos Express vinculados a dicho registro. Procesarlos con la acción Completar, asegurando que su flujo de negocio quede sincronizado con el Registro de Peso.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-09-18</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>
-<p>Se incorpora un check en el Tipo de Documento denominado Completar Recibo Express.</p>
-</li>
-<li>
-<p>Este check determina si, al completar un Registro de Peso, el sistema debe automáticamente:</p>
-</li>
-<li>
-<p>Identificar los Recibos Express vinculados a dicho registro.</p>
-<ul>
-<li>Procesarlos con la acción Completar, asegurando que su flujo de negocio quede sincronizado con el Registro de Peso.</li>
-</ul>
-</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
