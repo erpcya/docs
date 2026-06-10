@@ -16,18 +16,18 @@ article: true
 # Fecha de Liberación: 2026-06-10
 
 ## Novedades
-Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.
+Optimizamos la gestión financiera y el control de ventas para agilizar tus operaciones diarias.
 
 ## Contexto
-En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.
+En esta actualización, nuestro equipo ha trabajado en fortalecer la automatización de tus procesos contables y en proporcionar herramientas de precisión para la administración de pedidos, permitiéndote mayor control y visibilidad sobre cada transacción.
 
-### 💰 Gestión Comercial y Precios
-- Simplificamos la actualización de tarifas, permitiendo ajustes masivos más rápidos para mantener tu competitividad en el mercado.
-- Mejoramos la visualización de los niveles de precios, facilitando la toma de decisiones al momento de realizar cotizaciones.
+### 🏦 Gestión Bancaria y Pagos
+- Nueva capacidad para procesar pagos masivos de forma automática, reduciendo el tiempo operativo y errores manuales.
+- Implementación de nuevos criterios inteligentes para la conciliación bancaria, permitiendo emparejar pagos con mayor precisión y agilidad.
 
-### 📦 Control de Inventarios y Logística
-- Aceleramos el proceso de recepción de mercancía para reducir tiempos de espera en almacén.
-- Implementamos alertas inteligentes para la gestión de existencias, evitando quiebres de stock y optimizando el flujo de materiales.
+### 📈 Gestión de Ventas y Precios
+- Nuevo filtro por cliente al actualizar precios, lo que permite realizar ajustes específicos sin afectar a toda la cartera.
+- Sistema mejorado de alertas de errores que identifica exactamente qué documento presenta un problema, evitando interrupciones inesperadas y facilitando la resolución de incidencias.
 
 ## Requerimientos
-- No se requieren procesos adicionales por aplicar.
+- Se requieren procesos adicionales por aplicar.
