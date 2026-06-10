@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-10T14:41:36.829Z</updated>
+  <updated>2026-06-10T14:43:58.972Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,30 +12,30 @@
     <title type="text">erpya-3.9.4-001-4.3.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html"/>
-    <updated>2026-06-10T14:14:50.000Z</updated>
+    <updated>2026-06-10T14:19:00.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-10</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.</p>
+<p>Optimizamos la gestión financiera y el control de ventas para agilizar tus operaciones diarias.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.</p>]]></summary>
+<p>En esta actualización, nuestro equipo ha trabajado en fortalecer la automatización de tus procesos contables y en proporcionar herramientas de precisión para la administración de pedidos, permitiéndote mayor control y visibilidad sobre cada transacción.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-10</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.</p>
+<p>Optimizamos la gestión financiera y el control de ventas para agilizar tus operaciones diarias.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.</p>
-<h3> 💰 Gestión Comercial y Precios</h3>
+<p>En esta actualización, nuestro equipo ha trabajado en fortalecer la automatización de tus procesos contables y en proporcionar herramientas de precisión para la administración de pedidos, permitiéndote mayor control y visibilidad sobre cada transacción.</p>
+<h3> 🏦 Gestión Bancaria y Pagos</h3>
 <ul>
-<li>Simplificamos la actualización de tarifas, permitiendo ajustes masivos más rápidos para mantener tu competitividad en el mercado.</li>
-<li>Mejoramos la visualización de los niveles de precios, facilitando la toma de decisiones al momento de realizar cotizaciones.</li>
+<li>Nueva capacidad para procesar pagos masivos de forma automática, reduciendo el tiempo operativo y errores manuales.</li>
+<li>Implementación de nuevos criterios inteligentes para la conciliación bancaria, permitiendo emparejar pagos con mayor precisión y agilidad.</li>
 </ul>
-<h3> 📦 Control de Inventarios y Logística</h3>
+<h3> 📈 Gestión de Ventas y Precios</h3>
 <ul>
-<li>Aceleramos el proceso de recepción de mercancía para reducir tiempos de espera en almacén.</li>
-<li>Implementamos alertas inteligentes para la gestión de existencias, evitando quiebres de stock y optimizando el flujo de materiales.</li>
+<li>Nuevo filtro por cliente al actualizar precios, lo que permite realizar ajustes específicos sin afectar a toda la cartera.</li>
+<li>Sistema mejorado de alertas de errores que identifica exactamente qué documento presenta un problema, evitando interrupciones inesperadas y facilitando la resolución de incidencias.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>

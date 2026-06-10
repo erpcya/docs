@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Wed, 10 Jun 2026 14:41:36 GMT</pubDate>
-    <lastBuildDate>Wed, 10 Jun 2026 14:41:36 GMT</lastBuildDate>
+    <pubDate>Wed, 10 Jun 2026 14:43:58 GMT</pubDate>
+    <lastBuildDate>Wed, 10 Jun 2026 14:43:58 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,27 +16,27 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.3</source>
-      <description>Fecha de Liberación: 2026-06-10 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio. Contexto En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.</description>
+      <description>Fecha de Liberación: 2026-06-10 Novedades Optimizamos la gestión financiera y el control de ventas para agilizar tus operaciones diarias. Contexto En esta actualización, nuestro equipo ha trabajado en fortalecer la automatización de tus procesos contables y en proporcionar herramientas de precisión para la administración de pedidos, permitiéndote mayor control y visibilidad sobre cada transacción.</description>
       <category>Actualizaciones</category>
       <pubDate>Wed, 10 Jun 2026 14:14:50 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-10</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.</p>
+<p>Optimizamos la gestión financiera y el control de ventas para agilizar tus operaciones diarias.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.</p>
-<h3> 💰 Gestión Comercial y Precios</h3>
+<p>En esta actualización, nuestro equipo ha trabajado en fortalecer la automatización de tus procesos contables y en proporcionar herramientas de precisión para la administración de pedidos, permitiéndote mayor control y visibilidad sobre cada transacción.</p>
+<h3> 🏦 Gestión Bancaria y Pagos</h3>
 <ul>
-<li>Simplificamos la actualización de tarifas, permitiendo ajustes masivos más rápidos para mantener tu competitividad en el mercado.</li>
-<li>Mejoramos la visualización de los niveles de precios, facilitando la toma de decisiones al momento de realizar cotizaciones.</li>
+<li>Nueva capacidad para procesar pagos masivos de forma automática, reduciendo el tiempo operativo y errores manuales.</li>
+<li>Implementación de nuevos criterios inteligentes para la conciliación bancaria, permitiendo emparejar pagos con mayor precisión y agilidad.</li>
 </ul>
-<h3> 📦 Control de Inventarios y Logística</h3>
+<h3> 📈 Gestión de Ventas y Precios</h3>
 <ul>
-<li>Aceleramos el proceso de recepción de mercancía para reducir tiempos de espera en almacén.</li>
-<li>Implementamos alertas inteligentes para la gestión de existencias, evitando quiebres de stock y optimizando el flujo de materiales.</li>
+<li>Nuevo filtro por cliente al actualizar precios, lo que permite realizar ajustes específicos sin afectar a toda la cartera.</li>
+<li>Sistema mejorado de alertas de errores que identifica exactamente qué documento presenta un problema, evitando interrupciones inesperadas y facilitando la resolución de incidencias.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
     </item>
