@@ -16,18 +16,20 @@ article: true
 # Fecha de Liberación: 2026-06-10
 
 ## Novedades
-Optimizamos la gestión financiera y el control de ventas para agilizar tus operaciones diarias.
+Optimizamos la gestión financiera y comercial con nuevas herramientas para conciliación bancaria y control preciso en órdenes de venta.
 
 ## Contexto
-En esta actualización, nuestro equipo ha trabajado en fortalecer la automatización de tus procesos contables y en proporcionar herramientas de precisión para la administración de pedidos, permitiéndote mayor control y visibilidad sobre cada transacción.
+En esta actualización, nos enfocamos en simplificar la operatividad diaria de su equipo. Hemos introducido mejoras estratégicas que permiten automatizar la conciliación de pagos masivos y otorgar mayor visibilidad y control sobre el flujo de sus ventas.
 
-### 🏦 Gestión Bancaria y Pagos
-- Nueva capacidad para procesar pagos masivos de forma automática, reduciendo el tiempo operativo y errores manuales.
-- Implementación de nuevos criterios inteligentes para la conciliación bancaria, permitiendo emparejar pagos con mayor precisión y agilidad.
+### 💳 Gestión Financiera y Conciliación
+- Nueva capacidad para automatizar la conciliación de pagos masivos identificados, ahorrando tiempo en la gestión contable.
+- Implementación de seis nuevos métodos inteligentes de conciliación que permiten clasificar pagos de forma más precisa basándose en fechas, montos y tipos de transacciones.
+- Reducción de errores manuales gracias a una estructura de procesamiento más robusta para los pagos recibidos.
 
-### 📈 Gestión de Ventas y Precios
-- Nuevo filtro por cliente al actualizar precios, lo que permite realizar ajustes específicos sin afectar a toda la cartera.
-- Sistema mejorado de alertas de errores que identifica exactamente qué documento presenta un problema, evitando interrupciones inesperadas y facilitando la resolución de incidencias.
+### 📈 Gestión de Ventas y Órdenes
+- Mayor flexibilidad en la actualización masiva de precios al permitir filtrar las órdenes directamente por cliente o socio de negocio.
+- Sistema de alertas mejorado que identifica y reporta exactamente qué documento presenta errores durante el procesamiento, evitando interrupciones inesperadas.
+- Mayor claridad en el seguimiento de excepciones, permitiendo una resolución rápida cuando una orden no cumple con las reglas de negocio, como límites de crédito.
 
 ## Requerimientos
 - Se requieren procesos adicionales por aplicar.
