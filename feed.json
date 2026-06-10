@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.3.3",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html",
+      "summary": "Fecha de Liberación: 2026-06-10 Novedades Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio. Contexto En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.",
+      "content_html": "<h1> Fecha de Liberación: 2026-06-10</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la agilidad operativa y la precisión en la gestión de tus procesos de negocio.</p>\n<h2> Contexto</h2>\n<p>En ERP Consultores y Asociados, nos enfocamos en que cada actualización de ADempiere se traduzca en una experiencia más fluida y eficiente para tu equipo, permitiéndoles dedicar menos tiempo a la administración y más a la estrategia.</p>\n<h3> 💰 Gestión Comercial y Precios</h3>\n<ul>\n<li>Simplificamos la actualización de tarifas, permitiendo ajustes masivos más rápidos para mantener tu competitividad en el mercado.</li>\n<li>Mejoramos la visualización de los niveles de precios, facilitando la toma de decisiones al momento de realizar cotizaciones.</li>\n</ul>\n<h3> 📦 Control de Inventarios y Logística</h3>\n<ul>\n<li>Aceleramos el proceso de recepción de mercancía para reducir tiempos de espera en almacén.</li>\n<li>Implementamos alertas inteligentes para la gestión de existencias, evitando quiebres de stock y optimizando el flujo de materiales.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-06-10T14:14:50.000Z",
+      "date_modified": "2026-06-10T14:14:50.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-T.E.S-001-4.3.2",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-T.E.S/erpya-T.E.S-001-4.x.x/erpya-T.E.S-001-4.3.x/erpya-T.E.S-001-4.3.2.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-T.E.S/erpya-T.E.S-001-4.x.x/erpya-T.E.S-001-4.3.x/erpya-T.E.S-001-4.3.2.html",
@@ -1288,19 +1301,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.8.html",
       "summary": "Fecha de Liberación: 2025-08-31 Novedades Transaccion abierta sin uso al Contabilizar Forzado Ajustes Dinamicos en Configuracion de HIKARI CP Correccion en Metodo before save en linea de orden Contexto Referencia adempiere/adempiere#4351 Para la configuración de conexiones del ZK debemos vamos a probar reemplazar el archivo de conexiones al levantar el servicio para ajustar todos los valores, incluso los que no estan definidos en el archivo properties de ADempiere Se agrega condicion en linea de la orden para que solo contemple re-calcular el precio al guardar si es una orden de venta",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-08-31</p>\n<h2> Novedades</h2>\n<ul>\n<li>Transaccion abierta sin uso al Contabilizar Forzado</li>\n<li>Ajustes Dinamicos en Configuracion de HIKARI CP</li>\n<li>Correccion en Metodo before save en linea de orden</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>\n<p>Referencia <a href=\"https://github.com/adempiere/adempiere/pull/4351\" target=\"_blank\" rel=\"noopener noreferrer\">adempiere/adempiere#4351</a></p>\n</li>\n<li>\n<p>Para la configuración de conexiones del ZK debemos vamos a probar reemplazar el archivo de conexiones al levantar el servicio para ajustar todos los valores, incluso los que no estan definidos en el archivo properties de ADempiere</p>\n</li>\n<li>\n<p>Se agrega condicion en linea de la orden para que solo contemple re-calcular el precio al guardar si es una orden de venta</p>\n</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.1.9",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.9.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.9.html",
-      "summary": "Fecha de Liberación: 2025-07-07 Novedades Programa de Asistencia a Agricultores Contexto Validaciones en Documentos Relacionados Se agrega validador de modelo Se refuerza la validación al intentar Anular o Reactivar documentos de registro de peso. Al Completar un registro de peso, se actualizan automáticamente los documentos asociados para mantener la coherencia del proceso. Se asegura que cada Registro de Peso tenga su recepción de materiales vinculada; en caso contrario, se notifica al usuario. Se mejora el manejo de las líneas de Recibo Express para que incluyan automáticamente la organización y la referencia a la Entrega correspondiente.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-07-07</p>\n<h2> Novedades</h2>\n<ul>\n<li>Programa de Asistencia a Agricultores</li>\n</ul>\n<h2> Contexto</h2>\n<h3> Validaciones en Documentos Relacionados</h3>\n<ul>\n<li>Se agrega validador de modelo\n<ul>\n<li>Se refuerza la validación al intentar Anular o Reactivar documentos de registro de peso.</li>\n<li>Al Completar un registro de peso, se actualizan automáticamente los documentos asociados para mantener la coherencia del proceso.</li>\n</ul>\n</li>\n<li>Se asegura que cada Registro de Peso tenga su recepción de materiales vinculada; en caso contrario, se notifica al usuario.</li>\n<li>Se mejora el manejo de las líneas de Recibo Express para que incluyan automáticamente la organización y la referencia a la Entrega correspondiente.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],
