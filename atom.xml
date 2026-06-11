@@ -3,11 +3,43 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-10T14:47:57.544Z</updated>
+  <updated>2026-06-11T04:24:59.513Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.3.4</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.4.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.4.html"/>
+    <updated>2026-06-11T03:59:17.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-11</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión documental y la estabilidad del sistema para una operación más fluida.</p>
+<h2> Contexto</h2>
+<p>En esta actualización del Programa de Asistencia Técnica, nos hemos centrado en mejorar la eficiencia operativa y la experiencia de usuario al interactuar con documentos críticos de crédito, además de fortalecer la robustez técnica de nuestra plataforma.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-11</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la gestión documental y la estabilidad del sistema para una operación más fluida.</p>
+<h2> Contexto</h2>
+<p>En esta actualización del Programa de Asistencia Técnica, nos hemos centrado en mejorar la eficiencia operativa y la experiencia de usuario al interactuar con documentos críticos de crédito, además de fortalecer la robustez técnica de nuestra plataforma.</p>
+<h3> 📄 Gestión Documental</h3>
+<ul>
+<li>Hemos renovado el proceso de impresión de los Acuerdos de Crédito Agrícola, permitiendo una generación más ágil y directa desde documentos de texto.</li>
+</ul>
+<h3> 🚀 Rendimiento y Estabilidad</h3>
+<ul>
+<li>Se ha realizado una limpieza profunda en la arquitectura interna, eliminando dependencias obsoletas para garantizar una navegación más estable.</li>
+<li>Hemos simplificado los procesos de construcción del sistema, lo que permite actualizaciones más rápidas y una mayor eficiencia en el mantenimiento técnico.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-06-11T03:59:17.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.3.3</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.3.html</id>
@@ -3911,57 +3943,6 @@
 <li>Se ajusta la lógica de validación en la Hoja Técnica al intentar Anular o Reactivar un documento.</li>
 <li>Ahora, antes de ejecutar la acción, se verifica si existe una Orden de Venta asociada desde la cabecera de la Hoja Técnica.</li>
 <li>La validación contempla los siguientes estados de la Orden de Venta: Borrador, En Proceso y Completo.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.2.8</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.8.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.8.html"/>
-    <updated>2025-11-04T15:26:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-31</p>
-<h2> Novedades</h2>
-<ul>
-<li>Transaccion abierta sin uso al Contabilizar Forzado</li>
-<li>Ajustes Dinamicos en Configuracion de HIKARI CP</li>
-<li>Correccion en Metodo before save en linea de orden</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>
-<p>Referencia <a href="https://github.com/adempiere/adempiere/pull/4351" target="_blank" rel="noopener noreferrer">adempiere/adempiere#4351</a></p>
-</li>
-<li>
-<p>Para la configuración de conexiones del ZK debemos vamos a probar reemplazar el archivo de conexiones al levantar el servicio para ajustar todos los valores, incluso los que no estan definidos en el archivo properties de ADempiere</p>
-</li>
-<li>
-<p>Se agrega condicion en linea de la orden para que solo contemple re-calcular el precio al guardar si es una orden de venta</p>
-</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-31</p>
-<h2> Novedades</h2>
-<ul>
-<li>Transaccion abierta sin uso al Contabilizar Forzado</li>
-<li>Ajustes Dinamicos en Configuracion de HIKARI CP</li>
-<li>Correccion en Metodo before save en linea de orden</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>
-<p>Referencia <a href="https://github.com/adempiere/adempiere/pull/4351" target="_blank" rel="noopener noreferrer">adempiere/adempiere#4351</a></p>
-</li>
-<li>
-<p>Para la configuración de conexiones del ZK debemos vamos a probar reemplazar el archivo de conexiones al levantar el servicio para ajustar todos los valores, incluso los que no estan definidos en el archivo properties de ADempiere</p>
-</li>
-<li>
-<p>Se agrega condicion en linea de la orden para que solo contemple re-calcular el precio al guardar si es una orden de venta</p>
-</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
