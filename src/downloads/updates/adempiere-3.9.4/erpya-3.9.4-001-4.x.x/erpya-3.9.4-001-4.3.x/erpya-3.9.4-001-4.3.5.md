@@ -16,15 +16,14 @@ article: true
 # Fecha de Liberación: 2026-06-12
 
 ## Novedades
-Hemos reforzado el control de inventarios para garantizar que tus registros siempre reflejen la realidad física de tus almacenes.
+Optimizamos el control de inventarios para garantizar registros precisos y evitar faltantes inesperados.
 
 ## Contexto
-Con el objetivo de optimizar la precisión operativa, hemos implementado un nuevo sistema de seguridad que impide que las salidas de mercancía generen saldos negativos. Esta mejora asegura que tus auditorías sean más confiables y que la gestión de tus existencias sea impecable.
+Con el objetivo de fortalecer la integridad de tu información y facilitar la gestión operativa, hemos implementado un nuevo sistema de validación inteligente que protege tus niveles de existencias durante el proceso de despacho.
 
-### 📦 Gestión de Inventarios y Almacenes
-- Bloqueo preventivo en tiempo real que impide completar despachos o consumos si no cuentas con la cantidad suficiente de producto.
-- Flexibilidad operativa mediante niveles de control configurables: puedes elegir si la restricción aplica a una ubicación específica, a todo el almacén o a nivel de toda tu compañía.
-- Procesamiento de alta velocidad que garantiza que la validación de tus existencias ocurra de forma instantánea sin afectar el rendimiento de tus operaciones diarias.
+### 📦 Gestión de Inventarios
+- Nueva validación automática que bloquea salidas de mercancía sin stock suficiente, asegurando que tus registros físicos y digitales coincidan siempre.
+- Flexibilidad operativa mediante tres niveles de control: por ubicación específica, por almacén general o por visión global de la empresa, permitiendo ajustar la rigurosidad según tus necesidades logísticas.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
