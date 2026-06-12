@@ -16,14 +16,14 @@ article: true
 # Fecha de Liberación: 2026-06-12
 
 ## Novedades
-Optimizamos el control de inventarios para garantizar registros precisos y evitar faltantes inesperados.
+Optimizamos el control de inventarios para garantizar la exactitud de tus existencias y evitar errores en el despacho de mercancía.
 
 ## Contexto
-Con el objetivo de fortalecer la integridad de tu información y facilitar la gestión operativa, hemos implementado un nuevo sistema de validación inteligente que protege tus niveles de existencias durante el proceso de despacho.
+En nuestra constante búsqueda por hacer tu gestión operativa más confiable, hemos introducido un nuevo mecanismo de seguridad que protege la integridad de tus registros de inventario frente a salidas no autorizadas por falta de stock.
 
-### 📦 Gestión de Inventarios
-- Nueva validación automática que bloquea salidas de mercancía sin stock suficiente, asegurando que tus registros físicos y digitales coincidan siempre.
-- Flexibilidad operativa mediante tres niveles de control: por ubicación específica, por almacén general o por visión global de la empresa, permitiendo ajustar la rigurosidad según tus necesidades logísticas.
+### 📦 Gestión Inteligente de Inventarios
+- Nueva validación automática que impide que tus existencias queden en números negativos, asegurando que cada salida de material esté respaldada por stock real.
+- Flexibilidad total para definir el nivel de control: puedes configurar la restricción a nivel de ubicación específica, almacén general o consolidado de toda la compañía, ajustándose a la dinámica de tu negocio.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
