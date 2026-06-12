@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-12T14:12:53.591Z</updated>
+  <updated>2026-06-12T15:22:08.564Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,25 +12,25 @@
     <title type="text">erpya-3.9.4-001-4.3.5</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html"/>
-    <updated>2026-06-12T13:46:45.000Z</updated>
+    <updated>2026-06-12T14:54:56.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-12</h1>
 <h2> Novedades</h2>
-<p>Optimizamos el control de inventarios para garantizar registros precisos y evitar faltantes inesperados.</p>
+<p>Mayor control y precisión en la gestión de tu inventario para evitar errores de stock.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de fortalecer la integridad de tu información y facilitar la gestión operativa, hemos implementado un nuevo sistema de validación inteligente que protege tus niveles de existencias durante el proceso de despacho.</p>]]></summary>
+<p>Con el objetivo de optimizar la fiabilidad de tus existencias, hemos implementado un nuevo sistema de validación inteligente que garantiza que tus registros físicos coincidan siempre con la realidad operativa de tu negocio.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-12</h1>
 <h2> Novedades</h2>
-<p>Optimizamos el control de inventarios para garantizar registros precisos y evitar faltantes inesperados.</p>
+<p>Mayor control y precisión en la gestión de tu inventario para evitar errores de stock.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de fortalecer la integridad de tu información y facilitar la gestión operativa, hemos implementado un nuevo sistema de validación inteligente que protege tus niveles de existencias durante el proceso de despacho.</p>
-<h3> 📦 Gestión de Inventarios</h3>
+<p>Con el objetivo de optimizar la fiabilidad de tus existencias, hemos implementado un nuevo sistema de validación inteligente que garantiza que tus registros físicos coincidan siempre con la realidad operativa de tu negocio.</p>
+<h3> 📦 Control Inteligente de Inventario</h3>
 <ul>
-<li>Nueva validación automática que bloquea salidas de mercancía sin stock suficiente, asegurando que tus registros físicos y digitales coincidan siempre.</li>
-<li>Flexibilidad operativa mediante tres niveles de control: por ubicación específica, por almacén general o por visión global de la empresa, permitiendo ajustar la rigurosidad según tus necesidades logísticas.</li>
+<li>Nueva validación automática que impide salidas de mercancía sin stock disponible, garantizando la exactitud de tus inventarios y facilitando tus procesos de auditoría.</li>
+<li>Flexibilidad operativa mediante tres niveles de control: por ubicación específica, por almacén completo o a nivel global de la empresa, permitiéndote elegir el grado de rigor que mejor se adapte a tu flujo de trabajo.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
