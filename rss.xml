@@ -6,8 +6,8 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 12 Jun 2026 14:00:24 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 14:00:24 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 14:09:07 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:09:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
@@ -16,18 +16,19 @@
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html</link>
       <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html</guid>
       <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.5</source>
-      <description>Fecha de Liberación: 2026-06-12 Novedades Optimizamos el control de inventarios para garantizar la exactitud de tus existencias y evitar errores en el despacho de mercancía. Contexto En nuestra constante búsqueda por hacer tu gestión operativa más confiable, hemos introducido un nuevo mecanismo de seguridad que protege la integridad de tus registros de inventario frente a salidas no autorizadas por falta de stock.</description>
+      <description>Fecha de Liberación: 2026-06-12 Novedades Hemos reforzado el control de inventarios para garantizar que tus registros siempre reflejen la realidad física de tus almacenes. Contexto Con el objetivo de optimizar la precisión operativa, hemos implementado un nuevo sistema de seguridad que impide que las salidas de mercancía generen saldos negativos. Esta mejora asegura que tus auditorías sean más confiables y que la gestión de tus existencias sea impecable.</description>
       <category>Actualizaciones</category>
       <pubDate>Fri, 12 Jun 2026 13:42:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-12</h1>
 <h2> Novedades</h2>
-<p>Optimizamos el control de inventarios para garantizar la exactitud de tus existencias y evitar errores en el despacho de mercancía.</p>
+<p>Hemos reforzado el control de inventarios para garantizar que tus registros siempre reflejen la realidad física de tus almacenes.</p>
 <h2> Contexto</h2>
-<p>En nuestra constante búsqueda por hacer tu gestión operativa más confiable, hemos introducido un nuevo mecanismo de seguridad que protege la integridad de tus registros de inventario frente a salidas no autorizadas por falta de stock.</p>
-<h3> 📦 Gestión Inteligente de Inventarios</h3>
+<p>Con el objetivo de optimizar la precisión operativa, hemos implementado un nuevo sistema de seguridad que impide que las salidas de mercancía generen saldos negativos. Esta mejora asegura que tus auditorías sean más confiables y que la gestión de tus existencias sea impecable.</p>
+<h3> 📦 Gestión de Inventarios y Almacenes</h3>
 <ul>
-<li>Nueva validación automática que impide que tus existencias queden en números negativos, asegurando que cada salida de material esté respaldada por stock real.</li>
-<li>Flexibilidad total para definir el nivel de control: puedes configurar la restricción a nivel de ubicación específica, almacén general o consolidado de toda la compañía, ajustándose a la dinámica de tu negocio.</li>
+<li>Bloqueo preventivo en tiempo real que impide completar despachos o consumos si no cuentas con la cantidad suficiente de producto.</li>
+<li>Flexibilidad operativa mediante niveles de control configurables: puedes elegir si la restricción aplica a una ubicación específica, a todo el almacén o a nivel de toda tu compañía.</li>
+<li>Procesamiento de alta velocidad que garantiza que la validación de tus existencias ocurra de forma instantánea sin afectar el rendimiento de tus operaciones diarias.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
