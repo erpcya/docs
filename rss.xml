@@ -6,11 +6,35 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Thu, 11 Jun 2026 04:27:06 GMT</pubDate>
-    <lastBuildDate>Thu, 11 Jun 2026 04:27:06 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Jun 2026 14:00:24 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Jun 2026 14:00:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.3.5</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.5</source>
+      <description>Fecha de Liberación: 2026-06-12 Novedades Optimizamos el control de inventarios para garantizar la exactitud de tus existencias y evitar errores en el despacho de mercancía. Contexto En nuestra constante búsqueda por hacer tu gestión operativa más confiable, hemos introducido un nuevo mecanismo de seguridad que protege la integridad de tus registros de inventario frente a salidas no autorizadas por falta de stock.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Fri, 12 Jun 2026 13:42:03 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-12</h1>
+<h2> Novedades</h2>
+<p>Optimizamos el control de inventarios para garantizar la exactitud de tus existencias y evitar errores en el despacho de mercancía.</p>
+<h2> Contexto</h2>
+<p>En nuestra constante búsqueda por hacer tu gestión operativa más confiable, hemos introducido un nuevo mecanismo de seguridad que protege la integridad de tus registros de inventario frente a salidas no autorizadas por falta de stock.</p>
+<h3> 📦 Gestión Inteligente de Inventarios</h3>
+<ul>
+<li>Nueva validación automática que impide que tus existencias queden en números negativos, asegurando que cada salida de material esté respaldada por stock real.</li>
+<li>Flexibilidad total para definir el nivel de control: puedes configurar la restricción a nivel de ubicación específica, almacén general o consolidado de toda la compañía, ajustándose a la dinámica de tu negocio.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.3.4</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.4.html</link>
@@ -3017,31 +3041,6 @@
 <ul>
 <li>Ahora, al intentar Anular o Reactivar una Hoja Técnica, se valida si existe una Orden de Venta asociada a sus líneas.</li>
 <li>Si la Orden de Venta está en estado En Proceso se bloquea la acción y se muestra un mensaje de error.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.2.7</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.7.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.7.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.2.7</source>
-      <description>Fecha de Liberación: 2025-08-22 Novedades Programa de Asistencia a Agricultores Contexto Se ajusta la lógica de validación en la Hoja Técnica al intentar Anular o Reactivar un documento. Ahora, antes de ejecutar la acción, se verifica si existe una Orden de Venta asociada desde la cabecera de la Hoja Técnica. La validación contempla los siguientes estados de la Orden de Venta: Borrador, En Proceso y Completo.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-22</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se ajusta la lógica de validación en la Hoja Técnica al intentar Anular o Reactivar un documento.</li>
-<li>Ahora, antes de ejecutar la acción, se verifica si existe una Orden de Venta asociada desde la cabecera de la Hoja Técnica.</li>
-<li>La validación contempla los siguientes estados de la Orden de Venta: Borrador, En Proceso y Completo.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
