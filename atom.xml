@@ -3,11 +3,39 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-16T13:39:43.242Z</updated>
+  <updated>2026-06-16T18:21:52.219Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.3.7</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.7.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.7.html"/>
+    <updated>2026-06-16T17:55:59.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-16</h1>
+<h2> Novedades</h2>
+<p>Hemos optimizado el control de inventarios para garantizar una mayor precisión en el stock disponible de toda tu empresa.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de fortalecer la integridad de tus registros y evitar inconsistencias, hemos actualizado la forma en que el sistema verifica la disponibilidad de materiales antes de completar cualquier movimiento.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-16</h1>
+<h2> Novedades</h2>
+<p>Hemos optimizado el control de inventarios para garantizar una mayor precisión en el stock disponible de toda tu empresa.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de fortalecer la integridad de tus registros y evitar inconsistencias, hemos actualizado la forma en que el sistema verifica la disponibilidad de materiales antes de completar cualquier movimiento.</p>
+<h3> 📦 Gestión de Inventarios y Producción</h3>
+<ul>
+<li>Mayor control sobre las salidas de material: ahora el sistema valida el saldo total disponible en toda la compañía antes de procesar una orden de producción o despacho.</li>
+<li>Prevención de saldos negativos: se eliminaron restricciones innecesarias por ubicación, permitiendo una visión consolidada y precisa del inventario real para evitar registros en negativo.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-06-16T17:55:59.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.3.6</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.6.html</id>
@@ -3882,54 +3910,6 @@
 <figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.2.4-img1.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
 <h3> Unidad de Medida automática en líneas de Hoja Técnica</h3>
 <p>Se agrega lógica para que, al guardar una Línea de Hoja Técnica, se asigne automáticamente la Unidad de Medida en función del producto seleccionado.</p>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.2.5</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.5.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.5.html"/>
-    <updated>2025-11-04T15:26:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-20</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-<li>Producción y Ordenes de Producción Planeadas</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega lógica de solo lectura en pestañas Línea de Producción después de que estén procesadas para evitar agregar registros.</li>
-</ul>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-20</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-<li>Producción y Ordenes de Producción Planeadas</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega lógica de solo lectura en pestañas Línea de Producción después de que estén procesadas para evitar agregar registros.</li>
-</ul>
-<h3> Hoja Técnica</h3>
-<ul>
-<li>
-<p>Campo Producto: Se cambia la referencia de Producto a Búsqueda en la pestaña Productos a Aplicar.</p>
-</li>
-<li>
-<p>Unidad de Medida: Se agrega un callout en la columna Producto para que, al seleccionarlo, se establezca automáticamente la unidad de medida correspondiente en la pestaña Productos a Aplicar.</p>
-</li>
-<li>
-<p>Navegación: Se agrega un zoom (acercador) desde la Hoja Técnica (cabecera) hacia la Orden de Venta.</p>
-</li>
-<li>
-<p>Orden de Venta: Se agrega el campo Hoja Técnica en la cabecera de la Orden de Venta.</p>
-</li>
-</ul>
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
