@@ -6,11 +6,35 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 12 Jun 2026 15:22:08 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 15:22:08 GMT</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 13:39:43 GMT</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 13:39:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.3.6</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.6.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.6.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.6</source>
+      <description>Fecha de Liberación: 2026-06-16 Novedades Mayor precisión y ahorro de tiempo al automatizar tareas programadas con nuevos valores predeterminados. Contexto Con el objetivo de optimizar la gestión de tus procesos automáticos, hemos introducido una mejora que permite configurar con mayor detalle cómo se ejecutan las tareas programadas en el sistema.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Tue, 16 Jun 2026 13:12:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-16</h1>
+<h2> Novedades</h2>
+<p>Mayor precisión y ahorro de tiempo al automatizar tareas programadas con nuevos valores predeterminados.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de optimizar la gestión de tus procesos automáticos, hemos introducido una mejora que permite configurar con mayor detalle cómo se ejecutan las tareas programadas en el sistema.</p>
+<h3> ⚙️ Automatización y Planificación</h3>
+<ul>
+<li>Ahora puedes definir valores iniciales de rango para los parámetros de tus procesos automáticos, evitando configuraciones manuales repetitivas.</li>
+<li>Mayor flexibilidad al programar tareas, permitiendo que el sistema tome automáticamente los límites de rango preestablecidos al momento de la ejecución.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.3.5</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.5.html</link>
@@ -3021,30 +3045,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.2.6</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.6.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.6.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.2.6</source>
-      <description>Fecha de Liberación: 2025-08-20 Novedades Programa de Asistencia a Agricultores Contexto Ahora, al intentar Anular o Reactivar una Hoja Técnica, se valida si existe una Orden de Venta asociada a sus líneas. Si la Orden de Venta está en estado En Proceso se bloquea la acción y se muestra un mensaje de error.</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-20</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Ahora, al intentar Anular o Reactivar una Hoja Técnica, se valida si existe una Orden de Venta asociada a sus líneas.</li>
-<li>Si la Orden de Venta está en estado En Proceso se bloquea la acción y se muestra un mensaje de error.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
     </item>
