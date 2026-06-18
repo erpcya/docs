@@ -6,11 +6,35 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Tue, 16 Jun 2026 18:21:52 GMT</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 18:21:52 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 18:09:51 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 18:09:51 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.3.8</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.8.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.8.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.3.8</source>
+      <description>Fecha de Liberación: 2026-06-18 Novedades Hemos optimizado el proceso de importación de archivos para garantizar una carga de información más fluida y sin interrupciones. Contexto Con el objetivo de mejorar la estabilidad de nuestro sistema, hemos realizado ajustes técnicos en la gestión de archivos externos. Esta actualización soluciona un error que interrumpía la carga de datos, permitiendo que tus procesos de configuración y migración se ejecuten correctamente a la primera.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Thu, 18 Jun 2026 17:44:44 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-18</h1>
+<h2> Novedades</h2>
+<p>Hemos optimizado el proceso de importación de archivos para garantizar una carga de información más fluida y sin interrupciones.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de mejorar la estabilidad de nuestro sistema, hemos realizado ajustes técnicos en la gestión de archivos externos. Esta actualización soluciona un error que interrumpía la carga de datos, permitiendo que tus procesos de configuración y migración se ejecuten correctamente a la primera.</p>
+<h3> ⚙️ Gestión de Importaciones</h3>
+<ul>
+<li>Eliminación de errores inesperados al cargar paquetes de información en formato XML.</li>
+<li>Mayor compatibilidad con herramientas externas de procesamiento, evitando bloqueos durante la importación de datos.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>Se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.3.7</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.7.html</link>
@@ -2995,43 +3019,6 @@
 <li>Luego de Aplicar los XMLS se debe aplicar el setup Login Validations Setup como System Administrator</li>
 </ul>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.2.4</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.4.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.4.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.2.4</source>
-      <description>Fecha de Liberación: 2025-08-19 Novedades Programa de Asistencia a Agricultores Contexto Lógica de solo lectura en pestañas de Hoja Técnica Se agrega lógica de solo lectura en las siguientes pestañas: Línea de Hoja Técnica Productos a Aplicar</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-19</p>
-<h2> Novedades</h2>
-<ul>
-<li>Programa de Asistencia a Agricultores</li>
-</ul>
-<h2> Contexto</h2>
-<h3> Lógica de solo lectura en pestañas de Hoja Técnica</h3>
-<p>Se agrega lógica de solo lectura en las siguientes pestañas:</p>
-<ul>
-<li>Línea de Hoja Técnica</li>
-<li>Productos a Aplicar</li>
-</ul>
-<h3> Validación en Hoja Técnica</h3>
-<p>Ahora, al intentar Anular o Reactivar una Hoja Técnica, se valida si existe una Orden de Venta asociada a sus líneas:</p>
-<ul>
-<li>Si la Orden de Venta está en estado Borrador o Completada, se bloquea la acción y se muestra un mensaje de error.</li>
-<li>Si la Orden de Venta está en estado Anulada o Cerrada, se permite continuar con la acción.</li>
-</ul>
-<p>Ejemplo del mensaje al intentar anular o reactivar una Hoja Técnica vinculada a una Orden de Venta en estado Completo:</p>
-<figure><img src="/assets/img/downloads/updates/resources/adempiere-patch-zk-3.2.4-img1.png" alt="Smart Browser" tabindex="0" loading="lazy"><figcaption>Smart Browser</figcaption></figure>
-<h3> Unidad de Medida automática en líneas de Hoja Técnica</h3>
-<p>Se agrega lógica para que, al guardar una Línea de Hoja Técnica, se asigne automáticamente la Unidad de Medida en función del producto seleccionado.</p>
-<h2> Requerimientos</h2>
-<ul>
-<li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.2.4-img1.png" type="image/png"/>
     </item>
   </channel>
 </rss>

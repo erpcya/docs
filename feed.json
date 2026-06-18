@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.3.8",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.8.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.8.html",
+      "summary": "Fecha de Liberación: 2026-06-18 Novedades Hemos optimizado el proceso de importación de archivos para garantizar una carga de información más fluida y sin interrupciones. Contexto Con el objetivo de mejorar la estabilidad de nuestro sistema, hemos realizado ajustes técnicos en la gestión de archivos externos. Esta actualización soluciona un error que interrumpía la carga de datos, permitiendo que tus procesos de configuración y migración se ejecuten correctamente a la primera.",
+      "content_html": "<h1> Fecha de Liberación: 2026-06-18</h1>\n<h2> Novedades</h2>\n<p>Hemos optimizado el proceso de importación de archivos para garantizar una carga de información más fluida y sin interrupciones.</p>\n<h2> Contexto</h2>\n<p>Con el objetivo de mejorar la estabilidad de nuestro sistema, hemos realizado ajustes técnicos en la gestión de archivos externos. Esta actualización soluciona un error que interrumpía la carga de datos, permitiendo que tus procesos de configuración y migración se ejecuten correctamente a la primera.</p>\n<h3> ⚙️ Gestión de Importaciones</h3>\n<ul>\n<li>Eliminación de errores inesperados al cargar paquetes de información en formato XML.</li>\n<li>Mayor compatibilidad con herramientas externas de procesamiento, evitando bloqueos durante la importación de datos.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-06-18T17:44:44.000Z",
+      "date_modified": "2026-06-18T17:44:44.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.3.7",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.7.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.7.html",
@@ -1287,20 +1300,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.3.html",
       "summary": "Fecha de Liberación: 2025-08-12 Novedades Validacion de Entrada al ERP Contexto Se agrega validacion de Acceso al ERP para que los usuarios que accedan a un System Administrator pasen por la autenticacion de Open ID Connect.",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-08-12</p>\n<h2> Novedades</h2>\n<ul>\n<li>Validacion de Entrada al ERP</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega validacion de Acceso al ERP para que los usuarios que accedan a un System Administrator pasen por la autenticacion de Open ID Connect.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n<h3> Importante</h3>\n<ul>\n<li>Luego de Aplicar los XMLS se debe aplicar el setup Login Validations Setup como System Administrator</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.2.4",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.4.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.4.html",
-      "summary": "Fecha de Liberación: 2025-08-19 Novedades Programa de Asistencia a Agricultores Contexto Lógica de solo lectura en pestañas de Hoja Técnica Se agrega lógica de solo lectura en las siguientes pestañas: Línea de Hoja Técnica Productos a Aplicar",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-08-19</p>\n<h2> Novedades</h2>\n<ul>\n<li>Programa de Asistencia a Agricultores</li>\n</ul>\n<h2> Contexto</h2>\n<h3> Lógica de solo lectura en pestañas de Hoja Técnica</h3>\n<p>Se agrega lógica de solo lectura en las siguientes pestañas:</p>\n<ul>\n<li>Línea de Hoja Técnica</li>\n<li>Productos a Aplicar</li>\n</ul>\n<h3> Validación en Hoja Técnica</h3>\n<p>Ahora, al intentar Anular o Reactivar una Hoja Técnica, se valida si existe una Orden de Venta asociada a sus líneas:</p>\n<ul>\n<li>Si la Orden de Venta está en estado Borrador o Completada, se bloquea la acción y se muestra un mensaje de error.</li>\n<li>Si la Orden de Venta está en estado Anulada o Cerrada, se permite continuar con la acción.</li>\n</ul>\n<p>Ejemplo del mensaje al intentar anular o reactivar una Hoja Técnica vinculada a una Orden de Venta en estado Completo:</p>\n<figure><img src=\"/assets/img/downloads/updates/resources/adempiere-patch-zk-3.2.4-img1.png\" alt=\"Smart Browser\" tabindex=\"0\" loading=\"lazy\"><figcaption>Smart Browser</figcaption></figure>\n<h3> Unidad de Medida automática en líneas de Hoja Técnica</h3>\n<p>Se agrega lógica para que, al guardar una Línea de Hoja Técnica, se asigne automáticamente la Unidad de Medida en función del producto seleccionado.</p>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "image": "https://docs-md.erpya.com/assets/img/downloads/updates/resources/adempiere-patch-zk-3.2.4-img1.png",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],
