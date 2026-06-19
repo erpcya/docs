@@ -8,28 +8,24 @@ tag:
   - "Actualizaciones"
   - "Versiones"
   - "erpya-3.9.4-001-3.8.0"
-  - "2026-05-18"
+  - "2026-06-19"
   - "Noticias"
 article: true
 ---
 
-# Fecha de Liberación: 2026-05-18
+# Fecha de Liberación: 2026-06-19
 
 ## Novedades
-Hemos optimizado la conciliación bancaria ampliando la compatibilidad con los principales bancos nacionales para agilizar tu gestión financiera.
+Hemos optimizado la importación de extractos bancarios para agilizar tu gestión financiera y reducir el trabajo manual.
 
 ## Contexto
-Con el objetivo de simplificar el cierre contable de tu organización, hemos actualizado nuestras herramientas de importación de movimientos bancarios. Ahora, el sistema procesa de forma más inteligente y estable los archivos que descargas directamente de tu banca en línea, eliminando la carga operativa de la captura manual.
+Con el objetivo de simplificar tu flujo de trabajo administrativo, hemos actualizado nuestras herramientas de conciliación. Ahora, procesar tus movimientos bancarios es más rápido y eficiente, permitiendo una integración directa con los formatos más utilizados por las principales entidades financieras del país.
 
-### 🏦 Gestión de Extractos Bancarios
-- Nueva compatibilidad para Bancamiga y Banco del Tesoro mediante archivos de hoja de cálculo, permitiendo una lectura precisa de fechas, montos y referencias.
-- Integración optimizada para Banco Provincial, facilitando la importación directa desde archivos de texto estructurado.
-- Mayor estabilidad en el procesamiento de datos, asegurando que los encabezados y filas innecesarias sean ignorados automáticamente.
-- Estandarización en la interpretación de montos y fechas, lo que garantiza que la información financiera se refleje correctamente sin errores de formato.
-
-### 🚀 Impacto en tu Operación
-- Reducción significativa del tiempo dedicado a la conciliación manual gracias a la automatización de la lectura de movimientos.
-- Procesos de importación más robustos y predecibles, minimizando la intervención humana y evitando inconsistencias en la información bancaria.
+### 🏦 Gestión de Pagos y Conciliación Bancaria
+- Ampliamos la compatibilidad para importar extractos de Bancamiga, Banco del Tesoro y Banco Provincial de manera directa.
+- Soporte mejorado para archivos en formatos Excel y texto, garantizando que la información de fechas, referencias y montos se registre siempre con precisión.
+- Implementación de filtros inteligentes que ignoran automáticamente encabezados innecesarios y filas sin valor contable.
+- Mayor estabilidad en el proceso de carga, lo que disminuye drásticamente la necesidad de correcciones manuales en tus registros bancarios.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
