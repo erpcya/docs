@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-19T13:46:37.846Z</updated>
+  <updated>2026-06-19T13:50:55.415Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -2448,23 +2448,23 @@
     <title type="text">erpya-3.9.4-001-3.8.0</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.8.x/erpya-3.9.4-001-3.8.0.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.8.x/erpya-3.9.4-001-3.8.0.html"/>
-    <updated>2026-06-19T13:19:59.000Z</updated>
+    <updated>2026-06-19T13:23:45.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-19</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado la importación de extractos bancarios para agilizar tu gestión financiera y reducir el trabajo manual.</p>
+<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad con los principales bancos nacionales para agilizar tus procesos contables.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de simplificar tu flujo de trabajo administrativo, hemos actualizado nuestras herramientas de conciliación. Ahora, procesar tus movimientos bancarios es más rápido y eficiente, permitiendo una integración directa con los formatos más utilizados por las principales entidades financieras del país.</p>]]></summary>
+<p>Con el objetivo de facilitar la gestión financiera de tu empresa, hemos actualizado nuestro sistema de importación de extractos bancarios. Ahora, procesar tus movimientos mensuales es más sencillo, rápido y libre de errores manuales al reconocer automáticamente nuevos formatos de archivos.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-19</h1>
 <h2> Novedades</h2>
-<p>Hemos optimizado la importación de extractos bancarios para agilizar tu gestión financiera y reducir el trabajo manual.</p>
+<p>Hemos optimizado la conciliación bancaria ampliando la compatibilidad con los principales bancos nacionales para agilizar tus procesos contables.</p>
 <h2> Contexto</h2>
-<p>Con el objetivo de simplificar tu flujo de trabajo administrativo, hemos actualizado nuestras herramientas de conciliación. Ahora, procesar tus movimientos bancarios es más rápido y eficiente, permitiendo una integración directa con los formatos más utilizados por las principales entidades financieras del país.</p>
-<h3> 🏦 Gestión de Pagos y Conciliación Bancaria</h3>
+<p>Con el objetivo de facilitar la gestión financiera de tu empresa, hemos actualizado nuestro sistema de importación de extractos bancarios. Ahora, procesar tus movimientos mensuales es más sencillo, rápido y libre de errores manuales al reconocer automáticamente nuevos formatos de archivos.</p>
+<h3> 🏦 Gestión de Extractos Bancarios</h3>
 <ul>
-<li>Ampliamos la compatibilidad para importar extractos de Bancamiga, Banco del Tesoro y Banco Provincial de manera directa.</li>
-<li>Soporte mejorado para archivos en formatos Excel y texto, garantizando que la información de fechas, referencias y montos se registre siempre con precisión.</li>
-<li>Implementación de filtros inteligentes que ignoran automáticamente encabezados innecesarios y filas sin valor contable.</li>
-<li>Mayor estabilidad en el proceso de carga, lo que disminuye drásticamente la necesidad de correcciones manuales en tus registros bancarios.</li>
+<li>Incorporación de compatibilidad para formatos Excel (XLS) y archivos de texto (CSV) de Bancamiga, Banco del Tesoro y Banco Provincial.</li>
+<li>Automatización en la lectura de datos críticos como fechas, referencias, descripciones y montos, asegurando la precisión de la información financiera.</li>
+<li>Implementación de filtros inteligentes que ignoran filas informativas o encabezados, permitiendo una carga de datos limpia y directa.</li>
+<li>Mayor estabilidad operativa al estandarizar la forma en que el sistema reconoce los movimientos, reduciendo drásticamente la necesidad de ajustes manuales al conciliar.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
