@@ -16,16 +16,16 @@ article: true
 # Fecha de Liberación: 2026-06-19
 
 ## Novedades
-Hemos optimizado la importación de extractos bancarios para agilizar tu gestión financiera y reducir el trabajo manual.
+Hemos optimizado la conciliación bancaria ampliando la compatibilidad con los principales bancos nacionales para agilizar tus procesos contables.
 
 ## Contexto
-Con el objetivo de simplificar tu flujo de trabajo administrativo, hemos actualizado nuestras herramientas de conciliación. Ahora, procesar tus movimientos bancarios es más rápido y eficiente, permitiendo una integración directa con los formatos más utilizados por las principales entidades financieras del país.
+Con el objetivo de facilitar la gestión financiera de tu empresa, hemos actualizado nuestro sistema de importación de extractos bancarios. Ahora, procesar tus movimientos mensuales es más sencillo, rápido y libre de errores manuales al reconocer automáticamente nuevos formatos de archivos.
 
-### 🏦 Gestión de Pagos y Conciliación Bancaria
-- Ampliamos la compatibilidad para importar extractos de Bancamiga, Banco del Tesoro y Banco Provincial de manera directa.
-- Soporte mejorado para archivos en formatos Excel y texto, garantizando que la información de fechas, referencias y montos se registre siempre con precisión.
-- Implementación de filtros inteligentes que ignoran automáticamente encabezados innecesarios y filas sin valor contable.
-- Mayor estabilidad en el proceso de carga, lo que disminuye drásticamente la necesidad de correcciones manuales en tus registros bancarios.
+### 🏦 Gestión de Extractos Bancarios
+- Incorporación de compatibilidad para formatos Excel (XLS) y archivos de texto (CSV) de Bancamiga, Banco del Tesoro y Banco Provincial.
+- Automatización en la lectura de datos críticos como fechas, referencias, descripciones y montos, asegurando la precisión de la información financiera.
+- Implementación de filtros inteligentes que ignoran filas informativas o encabezados, permitiendo una carga de datos limpia y directa.
+- Mayor estabilidad operativa al estandarizar la forma en que el sistema reconoce los movimientos, reduciendo drásticamente la necesidad de ajustes manuales al conciliar.
 
 ## Requerimientos
 - No se requieren procesos adicionales por aplicar.
