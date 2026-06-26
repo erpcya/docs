@@ -6,6 +6,19 @@
   "description": "Página oficial de documentación ERP Consultores y Asociados, C.A.",
   "items": [
     {
+      "title": "erpya-3.9.4-001-4.3.9",
+      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.9.html",
+      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.9.html",
+      "summary": "Fecha de Liberación: 2026-06-26 Novedades Optimizamos la agilidad operativa y la precisión financiera para que tu gestión sea más sencilla y efectiva. Contexto En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más intuitiva. Esta actualización se enfoca en eliminar fricciones en tus procesos diarios, permitiendo que tu equipo se concentre en lo que realmente importa: el crecimiento de tu negocio.",
+      "content_html": "<h1> Fecha de Liberación: 2026-06-26</h1>\n<h2> Novedades</h2>\n<p>Optimizamos la agilidad operativa y la precisión financiera para que tu gestión sea más sencilla y efectiva.</p>\n<h2> Contexto</h2>\n<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más intuitiva. Esta actualización se enfoca en eliminar fricciones en tus procesos diarios, permitiendo que tu equipo se concentre en lo que realmente importa: el crecimiento de tu negocio.</p>\n<h3> 💰 Gestión de Precios y Ventas</h3>\n<ul>\n<li>Simplificamos la actualización de tarifas, permitiéndote ajustar tus listas de precios con mayor rapidez ante cambios en el mercado.</li>\n<li>Mejoramos la precisión en la selección de esquemas de precios para asegurar que tus márgenes de utilidad se mantengan siempre bajo control.</li>\n</ul>\n<h3> 📊 Control Financiero y Contable</h3>\n<ul>\n<li>Hemos refinado los procesos de cierre para que la generación de reportes financieros sea más fluida y libre de errores manuales.</li>\n<li>Automatizamos la validación de asientos contables para garantizar que tus libros siempre reflejen la realidad operativa de la empresa.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
+      "date_published": "2026-06-26T05:56:26.000Z",
+      "date_modified": "2026-06-26T05:56:26.000Z",
+      "authors": [],
+      "tags": [
+        "Actualizaciones"
+      ]
+    },
+    {
       "title": "erpya-3.9.4-001-4.3.8",
       "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.8.html",
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.8.html",
@@ -1287,19 +1300,6 @@
       "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.2.html",
       "summary": "Fecha de Liberación: 2025-08-08 Novedades Mejoras en Producción Contexto Se agrega soporte a Establecer la instancia de Atributos en una linea de orden de produccion si en la cabecera esta establecida. Requerimientos",
       "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-08-08</p>\n<h2> Novedades</h2>\n<ul>\n<li>Mejoras en Producción</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega soporte a Establecer la instancia de Atributos en una linea de orden de produccion si en la cabecera esta establecida.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>No se requieren procesos adicionales por aplicar.</li>\n</ul>\n",
-      "date_published": "2025-11-04T15:26:27.000Z",
-      "date_modified": "2025-11-04T15:26:27.000Z",
-      "authors": [],
-      "tags": [
-        "Actualizaciones"
-      ]
-    },
-    {
-      "title": "erpya-3.9.4-001-3.2.3",
-      "url": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.3.html",
-      "id": "https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.3.html",
-      "summary": "Fecha de Liberación: 2025-08-12 Novedades Validacion de Entrada al ERP Contexto Se agrega validacion de Acceso al ERP para que los usuarios que accedan a un System Administrator pasen por la autenticacion de Open ID Connect.",
-      "content_html": "<p><strong>Fecha de Liberación:</strong> 2025-08-12</p>\n<h2> Novedades</h2>\n<ul>\n<li>Validacion de Entrada al ERP</li>\n</ul>\n<h2> Contexto</h2>\n<ul>\n<li>Se agrega validacion de Acceso al ERP para que los usuarios que accedan a un System Administrator pasen por la autenticacion de Open ID Connect.</li>\n</ul>\n<h2> Requerimientos</h2>\n<ul>\n<li>Se requieren procesos adicionales por aplicar.</li>\n</ul>\n<h3> Importante</h3>\n<ul>\n<li>Luego de Aplicar los XMLS se debe aplicar el setup Login Validations Setup como System Administrator</li>\n</ul>\n",
       "date_published": "2025-11-04T15:26:27.000Z",
       "date_modified": "2025-11-04T15:26:27.000Z",
       "authors": [],
