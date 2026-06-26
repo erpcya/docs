@@ -16,18 +16,26 @@ article: true
 # Fecha de Liberación: 2026-06-26
 
 ## Novedades
-Optimizamos la agilidad operativa y la precisión financiera para que tu gestión sea más sencilla y efectiva.
+Optimizamos el proceso de conciliación bancaria para mayor flexibilidad y mejoramos la precisión en el cálculo de costos de producción.
 
 ## Contexto
-En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más intuitiva. Esta actualización se enfoca en eliminar fricciones en tus procesos diarios, permitiendo que tu equipo se concentre en lo que realmente importa: el crecimiento de tu negocio.
+En esta actualización, nos enfocamos en simplificar la gestión financiera y perfeccionar la lógica de costos, asegurando que su equipo trabaje de forma más ágil y precisa. 
 
-### 💰 Gestión de Precios y Ventas
-- Simplificamos la actualización de tarifas, permitiéndote ajustar tus listas de precios con mayor rapidez ante cambios en el mercado.
-- Mejoramos la precisión en la selección de esquemas de precios para asegurar que tus márgenes de utilidad se mantengan siempre bajo control.
+![Imagen](/assets/img/downloads/updates/resources/erpya-394-001-4-3-9-img-1.png)
 
-### 📊 Control Financiero y Contable
-- Hemos refinado los procesos de cierre para que la generación de reportes financieros sea más fluida y libre de errores manuales.
-- Automatizamos la validación de asientos contables para garantizar que tus libros siempre reflejen la realidad operativa de la empresa.
+
+
+### 🏦 Conciliación Bancaria Inteligente
+- Nueva modalidad manual: ahora puede asociar un pago con múltiples líneas del banco, incluso si los montos no coinciden exactamente.
+- Gestión de diferencias: el sistema calcula automáticamente cualquier discrepancia y le permite registrar cargos contables para cerrar la conciliación de inmediato.
+- Interfaz optimizada: diseño horizontal más amplio y paneles colapsables que facilitan la visualización de registros pendientes y conciliados.
+- Validación inteligente: se impide por error la mezcla de ingresos y egresos, garantizando la integridad de sus registros financieros.
+- Mayor fluidez: las filas conciliadas se eliminan automáticamente de la vista sin necesidad de recargar la página, manteniendo su orden de trabajo.
+
+### 🏭 Gestión y Análisis de Costos
+- Recosteo jerárquico: el sistema ahora organiza automáticamente la actualización de costos respetando el flujo de producción (materias primas, semielaborados y productos terminados).
+- Precisión en facturación: esta mejora en el orden de prioridad se ha extendido también a las facturas procesadas fuera de rango, asegurando que sus costos siempre reflejen la realidad de su inventario.
+- Estabilidad reforzada: se han corregido errores técnicos para asegurar un flujo de trabajo ininterrumpido durante la ejecución de los algoritmos de conciliación.
 
 ## Requerimientos
-- No se requieren procesos adicionales por aplicar.
+- Se requieren procesos adicionales por aplicar.
