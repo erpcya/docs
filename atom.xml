@@ -3,7 +3,7 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-26T06:23:45.224Z</updated>
+  <updated>2026-06-26T06:38:46.118Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
@@ -12,30 +12,35 @@
     <title type="text">erpya-3.9.4-001-4.3.9</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.9.html</id>
     <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.9.html"/>
-    <updated>2026-06-26T05:56:26.000Z</updated>
+    <updated>2026-06-26T06:10:49.000Z</updated>
     <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-26</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión financiera para que tu gestión sea más sencilla y efectiva.</p>
+<p>Optimizamos el proceso de conciliación bancaria para mayor flexibilidad y mejoramos la precisión en el cálculo de costos de producción.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más intuitiva. Esta actualización se enfoca en eliminar fricciones en tus procesos diarios, permitiendo que tu equipo se concentre en lo que realmente importa: el crecimiento de tu negocio.</p>]]></summary>
+<p>En esta actualización, nos enfocamos en simplificar la gestión financiera y perfeccionar la lógica de costos, asegurando que su equipo trabaje de forma más ágil y precisa.</p>]]></summary>
     <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-26</h1>
 <h2> Novedades</h2>
-<p>Optimizamos la agilidad operativa y la precisión financiera para que tu gestión sea más sencilla y efectiva.</p>
+<p>Optimizamos el proceso de conciliación bancaria para mayor flexibilidad y mejoramos la precisión en el cálculo de costos de producción.</p>
 <h2> Contexto</h2>
-<p>En ERP Consultores y Asociados, trabajamos constantemente para que tu experiencia en ADempiere sea más intuitiva. Esta actualización se enfoca en eliminar fricciones en tus procesos diarios, permitiendo que tu equipo se concentre en lo que realmente importa: el crecimiento de tu negocio.</p>
-<h3> 💰 Gestión de Precios y Ventas</h3>
+<p>En esta actualización, nos enfocamos en simplificar la gestión financiera y perfeccionar la lógica de costos, asegurando que su equipo trabaje de forma más ágil y precisa.</p>
+<figure><img src="/assets/img/downloads/updates/resources/erpya-394-001-4-3-9-img-1.png" alt="Imagen" tabindex="0" loading="lazy"><figcaption>Imagen</figcaption></figure>
+<h3> 🏦 Conciliación Bancaria Inteligente</h3>
 <ul>
-<li>Simplificamos la actualización de tarifas, permitiéndote ajustar tus listas de precios con mayor rapidez ante cambios en el mercado.</li>
-<li>Mejoramos la precisión en la selección de esquemas de precios para asegurar que tus márgenes de utilidad se mantengan siempre bajo control.</li>
+<li>Nueva modalidad manual: ahora puede asociar un pago con múltiples líneas del banco, incluso si los montos no coinciden exactamente.</li>
+<li>Gestión de diferencias: el sistema calcula automáticamente cualquier discrepancia y le permite registrar cargos contables para cerrar la conciliación de inmediato.</li>
+<li>Interfaz optimizada: diseño horizontal más amplio y paneles colapsables que facilitan la visualización de registros pendientes y conciliados.</li>
+<li>Validación inteligente: se impide por error la mezcla de ingresos y egresos, garantizando la integridad de sus registros financieros.</li>
+<li>Mayor fluidez: las filas conciliadas se eliminan automáticamente de la vista sin necesidad de recargar la página, manteniendo su orden de trabajo.</li>
 </ul>
-<h3> 📊 Control Financiero y Contable</h3>
+<h3> 🏭 Gestión y Análisis de Costos</h3>
 <ul>
-<li>Hemos refinado los procesos de cierre para que la generación de reportes financieros sea más fluida y libre de errores manuales.</li>
-<li>Automatizamos la validación de asientos contables para garantizar que tus libros siempre reflejen la realidad operativa de la empresa.</li>
+<li>Recosteo jerárquico: el sistema ahora organiza automáticamente la actualización de costos respetando el flujo de producción (materias primas, semielaborados y productos terminados).</li>
+<li>Precisión en facturación: esta mejora en el orden de prioridad se ha extendido también a las facturas procesadas fuera de rango, asegurando que sus costos siempre reflejen la realidad de su inventario.</li>
+<li>Estabilidad reforzada: se han corregido errores técnicos para asegurar un flujo de trabajo ininterrumpido durante la ejecución de los algoritmos de conciliación.</li>
 </ul>
 <h2> Requerimientos</h2>
 <ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
+<li>Se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
