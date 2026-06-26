@@ -12,6 +12,7 @@ article: false
 
 ## Versiones Oficiales...
 
+- [erpya-3.9.4-001-4.3.9](erpya-3.9.4-001-4.3.9.md)
 - [erpya-3.9.4-001-4.3.8](erpya-3.9.4-001-4.3.8.md)
 - [erpya-3.9.4-001-4.3.7](erpya-3.9.4-001-4.3.7.md)
 - [erpya-3.9.4-001-4.3.6](erpya-3.9.4-001-4.3.6.md)
