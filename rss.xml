@@ -6,11 +6,35 @@
     <link>https://docs-md.erpya.com/</link>
     <description>Página oficial de documentación ERP Consultores y Asociados, C.A.</description>
     <language>es-ES</language>
-    <pubDate>Fri, 26 Jun 2026 06:38:46 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Jun 2026 06:38:46 GMT</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 17:01:35 GMT</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:01:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Actualizaciones</category>
+    <item>
+      <title>erpya-3.9.4-001-4.4.0</title>
+      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.4.x/erpya-3.9.4-001-4.4.0.html</link>
+      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.4.x/erpya-3.9.4-001-4.4.0.html</guid>
+      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-4.4.0</source>
+      <description>Fecha de Liberación: 2026-06-29 Novedades Optimizamos la precisión financiera en la carga masiva de pedidos internacionales. Contexto Con el objetivo de agilizar la gestión operativa y reducir errores manuales, hemos actualizado nuestro sistema para garantizar que las transacciones en moneda extranjera mantengan siempre la consistencia contable necesaria desde el momento en que se importan los pedidos.</description>
+      <category>Actualizaciones</category>
+      <pubDate>Mon, 29 Jun 2026 16:34:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Fecha de Liberación: 2026-06-29</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la precisión financiera en la carga masiva de pedidos internacionales.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de agilizar la gestión operativa y reducir errores manuales, hemos actualizado nuestro sistema para garantizar que las transacciones en moneda extranjera mantengan siempre la consistencia contable necesaria desde el momento en que se importan los pedidos.</p>
+<h3> 🌎 Gestión de Ventas y Compras</h3>
+<ul>
+<li>Automatización del tipo de cambio predeterminado al importar órdenes, asegurando que cada movimiento financiero utilice la tasa correcta sin intervención manual.</li>
+<li>Mayor precisión en los registros de moneda extranjera, evitando discrepancias en la contabilidad y facilitando una conciliación más rápida.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>erpya-3.9.4-001-4.3.9</title>
       <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.9.html</link>
@@ -2997,29 +3021,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>erpya-3.9.4-001-3.2.2</title>
-      <link>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.2.html</link>
-      <guid>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.2.html</guid>
-      <source url="https://docs-md.erpya.com/rss.xml">erpya-3.9.4-001-3.2.2</source>
-      <description>Fecha de Liberación: 2025-08-08 Novedades Mejoras en Producción Contexto Se agrega soporte a Establecer la instancia de Atributos en una linea de orden de produccion si en la cabecera esta establecida. Requerimientos</description>
-      <category>Actualizaciones</category>
-      <pubDate>Tue, 04 Nov 2025 15:26:27 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-08</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejoras en Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Establecer la instancia de Atributos en una linea de orden de produccion si en la cabecera esta establecida.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content:encoded>
     </item>

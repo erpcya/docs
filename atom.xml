@@ -3,11 +3,39 @@
   <id>https://docs-md.erpya.com/</id>
   <title/>
   <subtitle>Página oficial de documentación ERP Consultores y Asociados, C.A.</subtitle>
-  <updated>2026-06-26T06:38:46.118Z</updated>
+  <updated>2026-06-29T17:01:35.140Z</updated>
   <generator>vuepress-plugin-feed2</generator>
   <link rel="self" href="https://docs-md.erpya.com/atom.xml"/>
   <link rel="alternate" href="https://docs-md.erpya.com/"/>
   <category term="Actualizaciones"/>
+  <entry>
+    <title type="text">erpya-3.9.4-001-4.4.0</title>
+    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.4.x/erpya-3.9.4-001-4.4.0.html</id>
+    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.4.x/erpya-3.9.4-001-4.4.0.html"/>
+    <updated>2026-06-29T16:34:17.000Z</updated>
+    <summary type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-29</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la precisión financiera en la carga masiva de pedidos internacionales.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de agilizar la gestión operativa y reducir errores manuales, hemos actualizado nuestro sistema para garantizar que las transacciones en moneda extranjera mantengan siempre la consistencia contable necesaria desde el momento en que se importan los pedidos.</p>]]></summary>
+    <content type="html"><![CDATA[<h1> Fecha de Liberación: 2026-06-29</h1>
+<h2> Novedades</h2>
+<p>Optimizamos la precisión financiera en la carga masiva de pedidos internacionales.</p>
+<h2> Contexto</h2>
+<p>Con el objetivo de agilizar la gestión operativa y reducir errores manuales, hemos actualizado nuestro sistema para garantizar que las transacciones en moneda extranjera mantengan siempre la consistencia contable necesaria desde el momento en que se importan los pedidos.</p>
+<h3> 🌎 Gestión de Ventas y Compras</h3>
+<ul>
+<li>Automatización del tipo de cambio predeterminado al importar órdenes, asegurando que cada movimiento financiero utilice la tasa correcta sin intervención manual.</li>
+<li>Mayor precisión en los registros de moneda extranjera, evitando discrepancias en la contabilidad y facilitando una conciliación más rápida.</li>
+</ul>
+<h2> Requerimientos</h2>
+<ul>
+<li>No se requieren procesos adicionales por aplicar.</li>
+</ul>
+]]></content>
+    <category term="Actualizaciones"/>
+    <published>2026-06-29T16:34:17.000Z</published>
+  </entry>
   <entry>
     <title type="text">erpya-3.9.4-001-4.3.9</title>
     <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-4.x.x/erpya-3.9.4-001-4.3.x/erpya-3.9.4-001-4.3.9.html</id>
@@ -3860,38 +3888,6 @@
 <h2> Requerimientos</h2>
 <ul>
 <li>Se requieren procesos adicionales por aplicar.</li>
-</ul>
-]]></content>
-    <category term="Actualizaciones"/>
-    <published>2025-11-04T15:26:27.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">erpya-3.9.4-001-3.2.2</title>
-    <id>https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.2.html</id>
-    <link href="https://docs-md.erpya.com/downloads/updates/adempiere-3.9.4/erpya-3.9.4-001-3.x.x/erpya-3.9.4-001-3.2.x/erpya-3.9.4-001-3.2.2.html"/>
-    <updated>2025-11-04T15:26:27.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-08</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejoras en Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Establecer la instancia de Atributos en una linea de orden de produccion si en la cabecera esta establecida.</li>
-</ul>
-<h2> Requerimientos</h2>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Fecha de Liberación:</strong> 2025-08-08</p>
-<h2> Novedades</h2>
-<ul>
-<li>Mejoras en Producción</li>
-</ul>
-<h2> Contexto</h2>
-<ul>
-<li>Se agrega soporte a Establecer la instancia de Atributos en una linea de orden de produccion si en la cabecera esta establecida.</li>
-</ul>
-<h2> Requerimientos</h2>
-<ul>
-<li>No se requieren procesos adicionales por aplicar.</li>
 </ul>
 ]]></content>
     <category term="Actualizaciones"/>
